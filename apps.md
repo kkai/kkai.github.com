@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "apps"
+title: "zapps"
 description: "zapps"
 group: navigation
 ---
