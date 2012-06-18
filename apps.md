@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "apps"
-description: "apps"
+description: "zapps"
 group: navigation
 ---
 {% include JB/setup %}
