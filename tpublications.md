@@ -2,6 +2,6 @@
 layout: page
 title: publications 
 description: "blog"
-group:navigation
+group: navigation
 ---
 {% include JB/setup %}
