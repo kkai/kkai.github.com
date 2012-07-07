@@ -5,6 +5,8 @@ tagline:
 ---
 {% include JB/setup %}
 
+Welcome to my little webspace ;)
+
 ## Recent Blog Posts 
 
 <ul class="posts">
