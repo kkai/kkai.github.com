@@ -1,7 +1,7 @@
 ---
 layout: post
-tagline: "Draft version of AAAI workshop paper online"
-title: "Towards Dynamically Configurable Context Recognition Systems"
+title: "Draft version of AAAI workshop paper online"
+tagline: "Towards Dynamically Configurable Context Recognition Systems"
 description: ""
 category: 
 tags: [publication]
