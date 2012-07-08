@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "PhD. thesis sources on github"
-tagline:"Compensating for Onbody Placement Effects in Activity Recognition"
 description: ""
 category: 
-tags: []
+tags: [publication]
 ---
 {% include JB/setup %}
 
@@ -16,12 +15,10 @@ Finally got around to push the [latex sources
 of my dissertation](http://github.com/kkai/phdthesis) up to github.
 
 ***
-
 Please feel free to use it as a thesis template,
 attribution would be apprecitated ;)
 
 ***
-
 Please share if you make improvements, there 
 are a lot of hacks and quick fixes in the sources.
 
