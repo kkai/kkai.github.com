@@ -14,8 +14,12 @@ visualization. As soon as a mobile browser connects to the server a new red
 cube is shown on the screen (placed between randomly generated cubes). 
 The transparent area around the cube changes depending on how strong
 one shakes the phone.
-![visualization](/imgs/viz.png)
 
+<iframe src="http://player.vimeo.com/video/45626605" 
+width="500" height="281" frameborder="0"
+>
+</iframe> 
+<p><a href="http://vimeo.com/45626605">Visualization based on mobile phone data</a> from <a href="http://vimeo.com/user8093378">Kai Kunze</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 You can get the code from my [github page](https://github.com/kkai/devicemotion-demo)
 
 It's based on these tutorials and sample code:
