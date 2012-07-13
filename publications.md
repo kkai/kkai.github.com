@@ -49,5 +49,26 @@ presented at the ISWC 09: Proceedings of the 2009 International
 Symposium on Wearable Computers, Linz, Austria, 2009.
 
 ***
+[_Does Context Matter ? - A Quantitative Evaluation 
+in a Real World Maintenance Scenario_](papers/2009Kunze.pdf), 
+K. Kunze, F. Wagner, E. Kartal, E. M. Kluge, and 
+P. Lukowicz,  presented at the Pervasive 
+'09: Proceedings of the 7th International 
+Conference on Pervasive Computing, 2009.
 
+***
+[_Dealing with sensor displacement in motion-based onbody 
+activity recognition systems_](papers/2008Kunze.pdf) K. Kunze 
+and P. Lukowicz,  presented at the UbiComp '08: 
+Proceedings of the 10th international conference 
+on Ubiquitous computing, Seoul, South Korea, 2008, pp. 20–29.
 
+***
+[_Adapting magnetic resonant coupling based relative 
+positioning technology for wearable activitiy 
+recogniton_](papers/2008Pirkl.pdf), G. Pirkl, K. Stockinger, 
+K. Kunze, and P. Lukowicz, presented at the ISWC '08: 
+Proceedings of the 2008 12th IEEE International \
+Symposium on Wearable Computers, 2008.
+
+***
