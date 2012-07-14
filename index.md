@@ -4,12 +4,9 @@ title:
 tagline: 
 ---
 {% include JB/setup %}
-
-![me](/imgs/kai.png)
-Welcome to my little webspace ;)
-
-I'm currenlty an assistant professor in computer science and intelligent systems
-at Osaka Prefecture University.
+|                     |                                                               |
+|---------------------|---------------------------------------------------------------|
+|![me](/imgs/kai.png) | Welcome. I'm Kai. I work as an Assistant Professor in Computer Science and Intelligent Systemsat Osaka Prefecture University|
 
 ## Recent Blog Posts 
 <ul class="posts">

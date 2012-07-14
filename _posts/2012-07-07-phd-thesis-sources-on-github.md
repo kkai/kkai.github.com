@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Compensating for On-body Placement Effects in Activity Recognition"
-description: "phD. thesis sources on github"
+tagline: "phD. thesis sources on github"
+description: 
 category: 
 tags: [publication]
 ---
