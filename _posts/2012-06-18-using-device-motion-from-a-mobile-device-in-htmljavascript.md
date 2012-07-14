@@ -4,7 +4,11 @@ title: "using device motion in html/javascript"
 description: ""
 tagline: A simple demonstration
 category: 
-tags: [visualization,javascript,accelerometer,html]
+tags: 
+  - visualization
+  - javascript 
+  - accelerometer 
+  - html
 ---
 {% include JB/setup %}
 A while ago, I built a simple demonstration on how to stream accelerometer 
