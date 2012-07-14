@@ -7,9 +7,8 @@ tags: []
 ---
 {% include JB/setup %}
 
-Please find some of my [publications](http://kgarten.de/publications.html) in the corresponding
-section of this website. I added the pdf links
-for them.
+I'm slowly uploading a couple of references and the pdf draft versions of them. 
+Please find some of my [publications](http://kaikunze.de/publications.html) in the corresponding
+section of this website.
 
-Stay tuned for the bibtex description and some
-more papers.
+Stay tuned for the bibtex description and some more papers.
