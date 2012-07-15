@@ -4,9 +4,18 @@ title:
 tagline: 
 ---
 {% include JB/setup %}
-|                     |                                                               |
-|---------------------|---------------------------------------------------------------|
-|![me](/imgs/kai.png) | Welcome. I'm Kai. I work as an Assistant Professor in Computer Science and Intelligent Systemsat Osaka Prefecture University|
+
+<table width="100%" border="0">
+<tr>
+<td rowspan="2"><img src="/imgs/kai.png" alt="that's me ;)" /></td>
+<td>Welcome to my little webspace. I'm Kai.</td>
+</tr>
+<tr>
+<td>I work as an Assistant Professor in Computer 
+Science and Intelligent Systems at Osaka Prefecture University 
+</td>
+ </tr>
+</table>
 
 ## Recent Blog Posts 
 <ul class="posts">
