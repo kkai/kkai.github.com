@@ -5,7 +5,7 @@ description: "blog"
 group: navigation
 ---
 {% include JB/setup %}
-Here's a small selection of my publications.
+Here's a selection of final draft versions of my publications.
 
 [_Towards Dynamically Configurable Context 
 Recognition Systems_](/papers/2012Kunze.pdf) K. Kunze and D. Bannach. presented at the 
