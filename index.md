@@ -26,7 +26,7 @@ Science and Intelligent Systems at Osaka Prefecture University
 
 ## News
 <ul class="news">
- <span>12 Jul 2012</span> will attend the AAAI Symposium in Toronto. <br/>
+ <span>12 Jul 2012</span> will attend the <a href="http://activitycontext.org/">Activity Context Representation Workshop</a> at the AAAI Symposium in Toronto. <br/>
  <span>04 Jul 2012</span> started working as Assistant Professor in Osaka.<br/>
  <span>01 Aug 2011</span> began to work for the FuturICT project proposal.<br/>
 
