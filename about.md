@@ -24,4 +24,6 @@ social computing
 distributed systems
 
 
- Kai holds a phD. in Computer Science.
+Kai holds a phD. in Computer Science from the University Passau,
+
+Thesis advisors: [Prof. Paul Lukowicz](http://www.dfki.de/web/contact/staff?uid=palu01) and [Prof. Dr. Hans Gellersen](http://ubicomp.lancs.ac.uk/~hwg/).

@@ -12,7 +12,9 @@ tagline:
 </tr>
 <tr>
 <td>I work as an Assistant Professor in Computer 
-Science and Intelligent Systems at Osaka Prefecture University 
+Science and Intelligent Systems at Osaka Prefecture University</br>
+and hold a phD. in Computer Science from the University Passau, Germany.</br>
+contact: firstname.lastname@gmail.com
 </td>
  </tr>
 </table>
