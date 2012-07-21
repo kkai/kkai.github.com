@@ -1,19 +1,22 @@
 ---
 layout: page
-title: 
+title: trying to make sense ...
 tagline: 
 ---
 {% include JB/setup %}
 
-<table width="80%"  border='0'>
+Welcome to my little webspace. 
+<table width="75%"  border='0'>
 <tr>
 <td rowspan="2"><img src="/imgs/kai.png" alt="that's me ;)" /></td>
-<td>Welcome to my little webspace.</td>
+<td></td>
 </tr>
 <tr>
-<td>I work as an Assistant Professor in Computer 
+<td>
+I strive to make technology more accessible and our lives more predictable. </br>
+-General love for science, hacking and playing with tech- </br> 
+I work as an Assistant Professor in Computer 
 Science and Intelligent Systems at Osaka Prefecture University</br>
-and hold a phD. in Computer Science from the University Passau, Germany.</br>
 contact: firstname.lastname@gmail.com
 </td>
  </tr>

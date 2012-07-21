@@ -7,10 +7,14 @@ group: navigation
 {% include JB/setup %}
 Here's a selection of final draft versions of my publications.
 
+***
 [_Towards Dynamically Configurable Context 
 Recognition Systems_](/papers/2012Kunze.pdf) K. Kunze and D. Bannach. presented at the 
 AAAI-12 Activity Context Workshop, Toronto, Canada, 2012.
 (invited talk, peer-reviewed paper)
+
+***
+[_Compensating for On-Body Placement Effects in Activity Recognition_](http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf) (19 MB), Kai Kunze, Dissertation, 2011.
 
 ***
 [_On the use of magnetic field disturbances as 
@@ -72,3 +76,39 @@ Proceedings of the 2008 12th IEEE International \
 Symposium on Wearable Computers, 2008.
 
 ***
+[_Symbolic object localization through 
+active sampling of acceleration and 
+sound signatures_](papers/2007Kunze1.pdf) 
+K. Kunze and P. Lukowicz, presented at the UbiComp '07: Proceedings of the 9th international conference on Ubiquitous computing, Innsbruck, 2007.
+  **nominated for best paper**
+
+***
+[_Using acceleration signatures from everyday activities 
+for on-body device location_](papers/2007Kunze.pdf) 
+  K. Kunze and P. Lukowicz, presented at the 
+  ISWC '07: Proceedings of the 2007 11th IEEE 
+  International Symposium on Wearable Computers, 
+  2007.
+
+***
+Towards Recognizing Tai Chi - An Initial Experiment Using Wearable Sensors,K. Kunze, M. Barry, E. A. Heinz, P. Lukowicz, D. Majoe, and J. Gutknecht,Applied Wearable Computing (IFAWC), 
+2006, pp. 1–6, Jan. 2006.
+
+***
+[_Using Wearable Sensors for Real-Time Recognition Tasks in Games of Martial Arts - An Initial Experiment_]
+E. Heinz, K. Kunze, M. Gruber, D. Bannach, and 
+P. Lukowicz, presented at the IEEE Symposium on Computational Intelligence and Games, 2006, pp. 98–102.
+
+***
+D. Bannach, O. Amft, K. S. Kunze, E. A. Heinz, 
+G. Troster, and P. Lukowicz, “Waving Real Hand Gestures Recorded by Wearable Motion Sensors to a Virtual Car and Driver in a Mixed-Reality Parking Game,” presented at the IEEE Symposium on Computational Intelligence and Games, 2006, pp. 32–39.
+
+***
+M. Kleek, K. Kunze, K. Partridge, and J. B. Begole, OPF: A Distributed Context-Sensing Framework for Ubiquitous Computing Environments, vol. 4239, no. 7. Berlin, Heidelberg: Springer Berlin Heidelberg, 2006, pp. 82–97.
+
+***
+K. Kunze, P. Lukowicz, and H. Junker, “Where am i: Recognizing on-body positions of wearable sensors,” Location-and Context- …, 2005.
+
+***
+R. Westrelin, N. Fugier, E. Nordmark, K. Kunze, and E. Lemoine, “Studying Network Protocol Offload With Emulation: Approach And Preliminary Results,” presented at the 12th Annual IEEE Symposium on High Performance Interconnects, 2004. Proceedings., Palo Alto, 2004, pp. 84–90.
+
