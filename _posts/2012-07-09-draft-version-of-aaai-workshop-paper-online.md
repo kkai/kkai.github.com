@@ -14,7 +14,7 @@ tags:
 Here's a [draft version of my publication](http://kaikunze.de/papers/2012Kunze.pdf) for the [Activity Context Workshop](http://activitycontext.org/)
 in Toronto. Bellow the abstract.
 
-Also download [the slides](papers/2012aaai-slides.pdf) of my talk.
+Also download [the slides](http://kaikunze.de/slides/2012aaai-slides.pdf) of my talk.
 
 ***
 Abstract
