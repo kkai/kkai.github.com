@@ -16,6 +16,8 @@ in Toronto. Bellow the abstract.
 
 Also download [the slides](http://kaikunze.de/slides/2012aaai-slides.pdf) of my talk.
 
+Here's the link to the [source code for snsrlog for iPhone](https://github.com/kkai/snsrlog) (which I mentioned during my talk).
+
 ***
 Abstract
 
