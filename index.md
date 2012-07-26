@@ -16,7 +16,7 @@ Welcome to my little webspace.
 I strive to make technology more accessible and our lives more predictable. </br>
 -General love for science, hacking and playing with tech- </br> 
 I work as an Assistant Professor in Computer 
-Science and Intelligent Systems at Osaka Prefecture University</br>
+Science and Intelligent Systems at Osaka Prefecture University, Japan.</br>
 contact: firstname.lastname@gmail.com
 </td>
  </tr>
