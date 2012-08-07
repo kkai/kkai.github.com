@@ -114,7 +114,7 @@ Towards Recognizing Tai Chi - An Initial Experiment Using Wearable Sensors,K. Ku
 2006, pp. 1–6, Jan. 2006.
 
 ***
-[_Using Wearable Sensors for Real-Time Recognition Tasks in Games of Martial Arts - An Initial Experiment_]
+[_Using Wearable Sensors for Real-Time Recognition Tasks in Games of Martial Arts - An Initial Experiment_](papers/2006Kunze.pdf)
 E. Heinz, K. Kunze, M. Gruber, D. Bannach, and 
 P. Lukowicz, presented at the IEEE Symposium on Computational Intelligence and Games, 2006, pp. 98–102.
 

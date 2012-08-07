@@ -29,12 +29,13 @@ contact: firstname.lastname@gmail.com
   {% endfor %}
 </ul>
 
-## News
+## News 
 <ul class="news">
- <span>12 Jul 2012</span> will attend the <a href="http://activitycontext.org/">Activity Context Representation Workshop</a> at the AAAI Symposium in Toronto. <br/>
- <span>04 Jul 2012</span> started working as Assistant Professor in Osaka.<br/>
- <span>01 Aug 2011</span> began to work for the <a href="http://futurict.eu/">FuturICT</a> project proposal.<br/>
-
+ <span>01 Aug 2012</span>  finalizing coordination of the <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=12492">Dagstuhl Seminar about Human Activity Recognition</a>.<br/>
+ <span>23 Jul 2012</span>  attending the <a href="http://activitycontext.org/">Activity Context Representation Workshop</a>.  <br/>
+ <span>12 Jul 2012</span>  will attend the <a href="http://activitycontext.org/">Activity Context Representation Workshop</a> at the AAAI Symposium in Toronto. <br/>
+ <span>04 Jul 2012</span>  started working as Assistant Professor in Osaka.<br/>
+ <span>01 Aug 2011</span>  began to work for the <a href="http://futurict.eu/">FuturICT</a> project proposal.<br/>
  </ul>
 
 
