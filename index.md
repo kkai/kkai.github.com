@@ -26,7 +26,7 @@ contact: firstname.lastname@gmail.com
 </td>
  </tr>
 </table>
-<p><a href="https://twitter.com/k_garten" class="twitter-follow-button btn btn-mini" data-show-count="false">Follow @k_garten</a> &nbsp; <a href="https://twitter.com/share" class="twitter-share-button" data-via="kaikunze">Tweet</a>
+<p><a href="https://twitter.com/k_garten" class="twitter-follow-button btn btn-mini" data-show-count="false">Follow @k_garten</a> &nbsp; <a href="https://twitter.com/share" class="twitter-share-button" data-via="k_garten">Tweet</a>
 </p>
 
 <h3>News</h3>
