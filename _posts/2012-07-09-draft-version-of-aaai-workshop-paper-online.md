@@ -4,10 +4,7 @@ tagline: "Draft version of AAAI workshop paper online"
 title: "Towards Dynamically Configurable Context Recognition Systems"
 description: ""
 category: 
-tags: 
-  - publication
-  - context recognition
-  - datasets
+summary: Here's a draft version of my publication for the AAI workshop ...
 ---
 {% include JB/setup %}
 

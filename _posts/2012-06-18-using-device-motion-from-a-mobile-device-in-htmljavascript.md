@@ -1,14 +1,10 @@
 ---
 layout: post
-title: "using device motion in html/javascript"
+title: "Using device motion in html/javascript"
 description: ""
 tagline: A simple demonstration
-category: 
-tags: 
-  - visualization
-  - javascript 
-  - accelerometer 
-  - html
+category: hacking 
+summary: A while ago, I built a simple demonstration on how to stream accelerometer ...
 ---
 {% include JB/setup %}
 A while ago, I built a simple demonstration on how to stream accelerometer 

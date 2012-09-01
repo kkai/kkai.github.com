@@ -4,6 +4,7 @@ title: "Laughing Faces App in the AppStore"
 description: ""
 category: 
 tags: []
+summary: Over the last couple of weeks, I was getting settled in my new job.
 ---
 {% include JB/setup %}
 Over the last couple of weeks, I was getting settled in my new job.

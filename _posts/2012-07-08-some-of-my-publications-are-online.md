@@ -4,6 +4,7 @@ title: "Some of my publications are online"
 description: ""
 category: 
 tags: []
+summary: I'm slowly uploading a couple of references and the pdf draft versions of them. 
 ---
 {% include JB/setup %}
 

@@ -4,6 +4,7 @@ title: "AAAI activity context workshop notes"
 description: ""
 category: 
 tags: []
+summary:I enjoyed the AAAI context activity workshop a lot...
 ---
 {% include JB/setup %}
 

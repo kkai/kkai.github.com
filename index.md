@@ -46,7 +46,7 @@ contact: firstname.lastname@gmail.com
       <td>
 		  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
           <i>{{ post.summary }}</i>
-		  <p><small>{{ post.date | date: "%B %e, %Y" }} . {{ post.category }} . {% for tag in post.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>  {% if forloop.last != true %} {% endif %} {% endfor %} . <a href="http://erjjones.github.com{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.url }}"></a></small></p>
+    <p><small>{{ post.date | date: "%B %e, %Y" }} {{ post.category }} </small></p>
 	  </td>
     </tr>
 	{% endfor %}			
