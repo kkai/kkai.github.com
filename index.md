@@ -5,38 +5,60 @@ tagline:
 ---
 {% include JB/setup %}
 
-Welcome to my little webspace. 
-<table width="75%"  border='0'>
-<tr>
-<td rowspan="2"><img src="/imgs/kai.png" alt="that's me ;)" /></td>
-<td></td>
-</tr>
+<div class="container">
+	<div class="marketing">
+		<div class="content">	  
+			<div class="row">			
+      
+      <div class="span4 columns well">
+				 <h2>Hi. I'm Kai</h2>
+<table border='0' width='100%'>
+<td><img src='/imgs/kai.png' alt='that&apos;s me ;)' /></td>
+
 <tr>
 <td>
-I strive to make technology more accessible and our lives more predictable. </br>
--General love for science, hacking and playing with tech- </br> 
+I strive to make technology more accessible and our lives more predictable. <br />
+-General love for science, hacking and playing with tech- <br /> 
 I work as an Assistant Professor in Computer 
-Science and Intelligent Systems at Osaka Prefecture University, Japan.</br>
+Science and Intelligent Systems at Osaka Prefecture University, Japan.<br />
 contact: firstname.lastname@gmail.com
+
 </td>
  </tr>
 </table>
+<p><a href="https://twitter.com/k_garten" class="twitter-follow-button btn btn-mini" data-show-count="false">Follow @k_garten</a> &nbsp; <a href="https://twitter.com/share" class="twitter-share-button" data-via="kaikunze">Tweet</a>
+</p>
 
-## Recent Blog Posts 
-<ul class="posts">
-  {% for post in site.posts %}
-    <span>{{ post.date | date_to_string }}</span>   &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> <br />
-  {% endfor %}
-</ul>
+<h3>News</h3>
+<span>01 Aug 2012</span>  finalizing coordination of a <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=12492">Dagstuhl Seminar</a>.<br/>
+<span>23 Jul 2012</span>  attending the <a href="http://activitycontext.org/">Activity Context Workshop</a>.  <br/>
+<span>12 Jul 2012</span>  invited talk at <a href="http://activitycontext.org/"> AAAI Workshop</a> in Toronto. <br/>
+<span>04 Jul 2012</span>  started working as Assistant Professor in Osaka.<br/>
+<span>01 Aug 2011</span>  began to work for the <a href="http://futurict.eu/">FuturICT</a> project proposal.<br/>
 
-## News 
-<ul class="news">
- <span>01 Aug 2012</span>  finalizing coordination of the <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=12492">Dagstuhl Seminar about Human Activity Recognition</a>.<br/>
- <span>23 Jul 2012</span>  attending the <a href="http://activitycontext.org/">Activity Context Representation Workshop</a>.  <br/>
- <span>12 Jul 2012</span>  will attend the <a href="http://activitycontext.org/">Activity Context Representation Workshop</a> at the AAAI Symposium in Toronto. <br/>
- <span>04 Jul 2012</span>  started working as Assistant Professor in Osaka.<br/>
- <span>01 Aug 2011</span>  began to work for the <a href="http://futurict.eu/">FuturICT</a> project proposal.<br/>
- </ul>
-
-
-
+</div>
+				<div class="span6 columns">
+        <h3>Recent Blog Posts</h3>
+<table class="table table-striped">
+  <tbody>
+	{% for post in site.posts %}	
+    <tr>
+      <td>
+		  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+          <i>{{ post.summary }}</i>
+		  <p><small>{{ post.date | date: "%B %e, %Y" }} . {{ post.category }} . {% for tag in post.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>  {% if forloop.last != true %} {% endif %} {% endfor %} . <a href="http://erjjones.github.com{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.url }}"></a></small></p>
+	  </td>
+    </tr>
+	{% endfor %}			
+  </tbody>
+</table> 
+				</div>	
+				<!-- <div class="span4 columns">								
+					{% include tag_sidebar.html %}
+					{% include archive.html %} 
+				</div>	-->
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</div>
+		</div>
+	</div>
+ </div>
