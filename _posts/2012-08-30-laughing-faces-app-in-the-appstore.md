@@ -2,9 +2,9 @@
 layout: post
 title: "Laughing Faces App in the AppStore"
 description: ""
-category: 
+category: hacking 
 tags: []
-summary: Over the last couple of weeks, I was getting settled in my new job.
+summary: "Over the last couple of weeks, I was getting settled in my new job."
 ---
 {% include JB/setup %}
 Over the last couple of weeks, I was getting settled in my new job.

@@ -3,8 +3,8 @@ layout: post
 title: "Compensating for On-body Placement Effects in Activity Recognition"
 tagline: "phD. thesis sources on github"
 description: 
-category: 
-summary:Finished my phD. last year in Passau. The thesis is already published over Opus Bayern ...
+category: publication
+summary: "Finished my phD. last year in Passau. The thesis is already published over Opus Bayern ..."
 ---
 {% include JB/setup %}
 

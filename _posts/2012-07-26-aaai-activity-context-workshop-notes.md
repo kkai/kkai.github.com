@@ -2,10 +2,11 @@
 layout: post
 title: "AAAI activity context workshop notes"
 description: ""
-category: 
+category: scratchpad 
 tags: []
-summary:I enjoyed the AAAI context activity workshop a lot...
+summary: "The keynote How to make Face Recognition work (pdf) by Ashis Kapoor ..."
 ---
+
 {% include JB/setup %}
 
 I enjoyed the AAAI context activity workshop a lot.

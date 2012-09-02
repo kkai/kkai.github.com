@@ -6,8 +6,17 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<table class="table table-striped">
+  <tbody>
+	{% for post in site.posts %}	
+    <tr>
+      <td>
+		  <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+          <i>{{ post.summary }}</i>
+    <p><small>{{ post.date | date: "%B %e, %Y" }} {{ post.category }} </small></p>
+	  </td>
+    </tr>
+	{% endfor %}			
+  </tbody>
+</table> 
+

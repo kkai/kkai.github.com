@@ -2,9 +2,9 @@
 layout: post
 title: "Some of my publications are online"
 description: ""
-category: 
+category: publication 
 tags: []
-summary: I'm slowly uploading a couple of references and the pdf draft versions of them. 
+summary: "I'm slowly uploading a couple of references and the pdf draft versions of them." 
 ---
 {% include JB/setup %}
 

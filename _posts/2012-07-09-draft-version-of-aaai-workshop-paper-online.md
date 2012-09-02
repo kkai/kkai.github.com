@@ -3,8 +3,8 @@ layout: post
 tagline: "Draft version of AAAI workshop paper online"
 title: "Towards Dynamically Configurable Context Recognition Systems"
 description: ""
-category: 
-summary: Here's a draft version of my publication for the AAI workshop ...
+category: publication 
+summary: "Here's a draft version of my publication for the AAI workshop ..."
 ---
 {% include JB/setup %}
 

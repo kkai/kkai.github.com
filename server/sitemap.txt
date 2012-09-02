@@ -13,8 +13,5 @@ http://kkai.github.com/site/publications.html
 http://kkai.github.com/site/research.html
 http://kkai.github.com/site/sitemap.txt
 
-http://kkai.github.com/site/2012/07/26/aaai-activity-context-workshop-notes
-http://kkai.github.com/site/2012/07/09/draft-version-of-aaai-workshop-paper-online
-http://kkai.github.com/site/2012/07/08/some-of-my-publications-are-online
-http://kkai.github.com/site/2012/07/07/phd-thesis-sources-on-github
-http://kkai.github.com/site/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript
+http://kkai.github.com/site/publication/2012/07/07/phd-thesis-sources-on-github
+http://kkai.github.com/site/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript
