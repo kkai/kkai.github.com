@@ -34,7 +34,7 @@ contact: firstname.lastname@gmail.com <br />
 <h2>News</h2>
 <table border='0' width='100%'>
 <td>
-<span>29 Oct 2012</span>  attending <a href="http://www.acmmm12.org/">ACM Multimedia 2012</a> in Nara.
+<span>29 Oct 2012</span>  attending <a href="http://www.acmmm12.org/">ACM Multimedia 2012</a> in Nara. <br/>
 <span>01 Aug 2012</span>  finalizing coordination of a <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=12492">Dagstuhl Seminar</a>.<br/>
 <span>23 Jul 2012</span>  attending the <a href="http://activitycontext.org/">Activity Context Workshop</a>.  <br/>
 <span>12 Jul 2012</span>  invited talk at <a href="http://activitycontext.org/"> AAAI Workshop</a> in Toronto. <br/>
