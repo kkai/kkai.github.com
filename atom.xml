@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Kai Kunze</title>
- <link href="http://kkai.github.com/site/atom.xml" rel="self"/>
- <link href="http://kkai.github.com/site"/>
- <updated>2013-02-06T16:24:14+09:00</updated>
- <id>http://kkai.github.com/site</id>
+ <link href="http://kaikunze.de//atom.xml" rel="self"/>
+ <link href="http://kaikunze.de/"/>
+ <updated>2013-02-06T16:59:35+09:00</updated>
+ <id>http://kaikunze.de/</id>
  <author>
    <name>Kai Kunze</name>
    <email>kai.kunze@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Some of my favorites from the 29c3 recordings</title>
-   <link href="http://kkai.github.com/site/2013/02/06/some-of-my-favorites-from-the-29c3-recordings"/>
+   <link href="http://kaikunze.de//2013/02/06/some-of-my-favorites-from-the-29c3-recordings"/>
    <updated>2013-02-06T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/2013/02/06/some-of-my-favorites-from-the-29c3-recordings</id>
+   <id>http://kaikunze.de//2013/02/06/some-of-my-favorites-from-the-29c3-recordings</id>
    <content type="html">&lt;p&gt;Over the last weeks, I finally got around to watch some of the &lt;a href='https://events.ccc.de/congress/2012/wiki/Main_Page'&gt;29c3&lt;/a&gt; recordings. Here are some of my favorites. I will update the list accordingly.&lt;/p&gt;
 
 &lt;p&gt;I link to the official recording available from the CCC domain. The talks however are also on youtube. Just search for the talk title.&lt;/p&gt;
@@ -44,9 +44,9 @@
  
  <entry>
    <title>ACM Multimedia 2012 Main Conference Notes</title>
-   <link href="http://kkai.github.com/site/conferences/2012/10/31/acm-multimedia-2012-day-2-notes"/>
+   <link href="http://kaikunze.de//conferences/2012/10/31/acm-multimedia-2012-day-2-notes"/>
    <updated>2012-10-31T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/conferences/2012/10/31/acm-multimedia-2012-day-2-notes</id>
+   <id>http://kaikunze.de//conferences/2012/10/31/acm-multimedia-2012-day-2-notes</id>
    <content type="html">&lt;p&gt;This is a scratchpad &amp;#8230; will fill the rest when I have time.&lt;/p&gt;
 
 &lt;h2 id='papers'&gt;Papers&lt;/h2&gt;
@@ -78,9 +78,9 @@
  
  <entry>
    <title>ACM Multimedia 2012 Tutorials and Workshops</title>
-   <link href="http://kkai.github.com/site/conferences/2012/10/29/acm-multimedia-2012-day-1-notes"/>
+   <link href="http://kaikunze.de//conferences/2012/10/29/acm-multimedia-2012-day-1-notes"/>
    <updated>2012-10-29T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/conferences/2012/10/29/acm-multimedia-2012-day-1-notes</id>
+   <id>http://kaikunze.de//conferences/2012/10/29/acm-multimedia-2012-day-1-notes</id>
    <content type="html">&lt;p&gt;I attended the Tutorials &amp;#8220;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&amp;#8221; and &amp;#8220;Continuous Analysis of Emotions for Multimedia Applications&amp;#8221; on the first day.&lt;/p&gt;
 
 &lt;p&gt;The last day I went to &amp;#8220;Workshop on Audio and Multimedia Methods for Large Scale Video Analysis&amp;#8221; and to the &amp;#8220;Workshop on Interactive Multimedia on Mobile and Portable Devices&amp;#8221;.&lt;/p&gt;
@@ -122,9 +122,9 @@
  
  <entry>
    <title>Laughing Faces App in the AppStore</title>
-   <link href="http://kkai.github.com/site/hacking/2012/08/30/laughing-faces-app-in-the-appstore"/>
+   <link href="http://kaikunze.de//hacking/2012/08/30/laughing-faces-app-in-the-appstore"/>
    <updated>2012-08-30T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/hacking/2012/08/30/laughing-faces-app-in-the-appstore</id>
+   <id>http://kaikunze.de//hacking/2012/08/30/laughing-faces-app-in-the-appstore</id>
    <content type="html">&lt;p&gt;Over the last couple of weeks, I was getting settled in my new job. As I&amp;#8217;m working with &lt;a href='http://imlab.jp'&gt;computer vision researchers&lt;/a&gt; now, I started playing with the camera api for the iPhone.&lt;/p&gt;
 
 &lt;p&gt;Again, I&amp;#8217;m very surprised by the accessibility and quality of Apples apis and their sample code.&lt;/p&gt;
@@ -142,9 +142,9 @@
  
  <entry>
    <title>AAAI activity context workshop notes</title>
-   <link href="http://kkai.github.com/site/scratchpad/2012/07/26/aaai-activity-context-workshop-notes"/>
+   <link href="http://kaikunze.de//scratchpad/2012/07/26/aaai-activity-context-workshop-notes"/>
    <updated>2012-07-26T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/scratchpad/2012/07/26/aaai-activity-context-workshop-notes</id>
+   <id>http://kaikunze.de//scratchpad/2012/07/26/aaai-activity-context-workshop-notes</id>
    <content type="html">&lt;p&gt;I enjoyed the AAAI context activity workshop a lot.&lt;/p&gt;
 
 &lt;p&gt;The keynote &lt;a href='http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5292/5556'&gt;How to make Face Recognition work (pdf)&lt;/a&gt; by &lt;a href='http://research.microsoft.com/en-us/um/people/akapoor/'&gt;Ashis Kapoor&lt;/a&gt; showed how to increase face recognition introducing very simple &amp;#8220;context&amp;#8221; constrains (two people in the same image cannot be the same person etc.). Very interesting work, I wonder how much better you can get introducing some more dynamic context recognition to the face recognition task.&lt;/p&gt;
@@ -162,9 +162,9 @@
  
  <entry>
    <title>Towards Dynamically Configurable Context Recognition Systems</title>
-   <link href="http://kkai.github.com/site/publication/2012/07/09/draft-version-of-aaai-workshop-paper-online"/>
+   <link href="http://kaikunze.de//publication/2012/07/09/draft-version-of-aaai-workshop-paper-online"/>
    <updated>2012-07-09T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/publication/2012/07/09/draft-version-of-aaai-workshop-paper-online</id>
+   <id>http://kaikunze.de//publication/2012/07/09/draft-version-of-aaai-workshop-paper-online</id>
    <content type="html">&lt;p&gt;Here&amp;#8217;s a &lt;a href='http://kaikunze.de/papers/2012Kunze.pdf'&gt;draft version of my publication&lt;/a&gt; for the &lt;a href='http://activitycontext.org/'&gt;Activity Context Workshop&lt;/a&gt; in Toronto. Bellow the abstract.&lt;/p&gt;
 
 &lt;p&gt;Also download &lt;a href='http://kaikunze.de/slides/2012aaai-slides.pdf'&gt;the slides&lt;/a&gt; of my talk.&lt;/p&gt;
@@ -178,9 +178,9 @@
  
  <entry>
    <title>Some of my publications are online</title>
-   <link href="http://kkai.github.com/site/publication/2012/07/08/some-of-my-publications-are-online"/>
+   <link href="http://kaikunze.de//publication/2012/07/08/some-of-my-publications-are-online"/>
    <updated>2012-07-08T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/publication/2012/07/08/some-of-my-publications-are-online</id>
+   <id>http://kaikunze.de//publication/2012/07/08/some-of-my-publications-are-online</id>
    <content type="html">&lt;p&gt;I&amp;#8217;m slowly uploading a couple of references and the pdf draft versions of them. Please find some of my &lt;a href='http://kaikunze.de/publications.html'&gt;publications&lt;/a&gt; in the corresponding section of this website.&lt;/p&gt;
 
 &lt;p&gt;Stay tuned for the bibtex description and some more papers.&lt;/p&gt;</content>
@@ -188,9 +188,9 @@
  
  <entry>
    <title>Compensating for On-body Placement Effects in Activity Recognition</title>
-   <link href="http://kkai.github.com/site/publication/2012/07/07/phd-thesis-sources-on-github"/>
+   <link href="http://kaikunze.de//publication/2012/07/07/phd-thesis-sources-on-github"/>
    <updated>2012-07-07T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/publication/2012/07/07/phd-thesis-sources-on-github</id>
+   <id>http://kaikunze.de//publication/2012/07/07/phd-thesis-sources-on-github</id>
    <content type="html">&lt;p&gt;Finished my phD. last year in Passau. The thesis is already published over &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/'&gt;Opus Bayern&lt;/a&gt;. The pdf is open access, so feel free to read it (careful 19 MB pdf): &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf'&gt;Compensating for On-Body Placement Effects in Activity Recognition as pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;However, the sources were not available. Finally, I got around to push the &lt;a href='http://github.com/kkai/phdthesis'&gt;latex sources of my dissertation&lt;/a&gt; up to github.&lt;/p&gt;
@@ -208,9 +208,9 @@
  
  <entry>
    <title>Using device motion in html/javascript</title>
-   <link href="http://kkai.github.com/site/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript"/>
+   <link href="http://kaikunze.de//hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript"/>
    <updated>2012-06-18T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript</id>
+   <id>http://kaikunze.de//hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript</id>
    <content type="html">&lt;p&gt;A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red cube is shown on the screen (placed between randomly generated cubes). The transparent area around the cube changes depending on how strong one shakes the phone.&lt;/p&gt;
 &lt;iframe frameborder='0' height='281' src='http://player.vimeo.com/video/45626605' width='500'&gt;
 &lt;/iframe&gt;&lt;p&gt;&lt;a href='http://vimeo.com/45626605'&gt;Visualization based on mobile phone data&lt;/a&gt; from &lt;a href='http://vimeo.com/user8093378'&gt;Kai Kunze&lt;/a&gt; on &lt;a href='http://vimeo.com'&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;

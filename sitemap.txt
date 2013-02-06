@@ -145,30 +145,30 @@
 <div class="row">
   <div class="span12">
     
-http://kkai.github.com/site/about.html
-http://kkai.github.com/site/archive.html
-http://kkai.github.com/site/atom.xml
-http://kkai.github.com/site/blanks.html
-http://kkai.github.com/site/blog.html
-http://kkai.github.com/site/index.html
-http://kkai.github.com/site/mapps.html
-http://kkai.github.com/site/math.html
-http://kkai.github.com/site/oddone.html
-http://kkai.github.com/site/projects.html
-http://kkai.github.com/site/publications.html
-http://kkai.github.com/site/research.html
-http://kkai.github.com/site/rss.xml
-http://kkai.github.com/site/sitemap.txt
+http://kaikunze.de//about.html
+http://kaikunze.de//archive.html
+http://kaikunze.de//atom.xml
+http://kaikunze.de//blanks.html
+http://kaikunze.de//blog.html
+http://kaikunze.de//index.html
+http://kaikunze.de//mapps.html
+http://kaikunze.de//math.html
+http://kaikunze.de//oddone.html
+http://kaikunze.de//projects.html
+http://kaikunze.de//publications.html
+http://kaikunze.de//research.html
+http://kaikunze.de//rss.xml
+http://kaikunze.de//sitemap.txt
 
-http://kkai.github.com/site/2013/02/06/some-of-my-favorites-from-the-29c3-recordings
-http://kkai.github.com/site/conferences/2012/10/31/acm-multimedia-2012-day-2-notes
-http://kkai.github.com/site/conferences/2012/10/29/acm-multimedia-2012-day-1-notes
-http://kkai.github.com/site/hacking/2012/08/30/laughing-faces-app-in-the-appstore
-http://kkai.github.com/site/scratchpad/2012/07/26/aaai-activity-context-workshop-notes
-http://kkai.github.com/site/publication/2012/07/09/draft-version-of-aaai-workshop-paper-online
-http://kkai.github.com/site/publication/2012/07/08/some-of-my-publications-are-online
-http://kkai.github.com/site/publication/2012/07/07/phd-thesis-sources-on-github
-http://kkai.github.com/site/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript
+http://kaikunze.de//2013/02/06/some-of-my-favorites-from-the-29c3-recordings
+http://kaikunze.de//conferences/2012/10/31/acm-multimedia-2012-day-2-notes
+http://kaikunze.de//conferences/2012/10/29/acm-multimedia-2012-day-1-notes
+http://kaikunze.de//hacking/2012/08/30/laughing-faces-app-in-the-appstore
+http://kaikunze.de//scratchpad/2012/07/26/aaai-activity-context-workshop-notes
+http://kaikunze.de//publication/2012/07/09/draft-version-of-aaai-workshop-paper-online
+http://kaikunze.de//publication/2012/07/08/some-of-my-publications-are-online
+http://kaikunze.de//publication/2012/07/07/phd-thesis-sources-on-github
+http://kaikunze.de//hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript
   </div>
 </div>
 
