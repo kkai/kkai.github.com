@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
- 
- <title>Kai Kunze</title>
- <link href="http://kkai.github.com/site/atom.xml" rel="self"/>
- <link href="http://kkai.github.com/site"/>
- <updated>2013-02-06T16:24:14+09:00</updated>
- <id>http://kkai.github.com/site</id>
- <author>
-   <name>Kai Kunze</name>
-   <email>kai.kunze@gmail.com</email>
- </author>
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>example.com</title>
+    <link>http://example.com/</link>
+    <atom:link href="http://example.com/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Your Website</description>
+    <language>en-us</language>
+    <pubDate>Wed, 06 Feb 2013 16:24:14 +0900</pubDate>
+    <lastBuildDate>Wed, 06 Feb 2013 16:24:14 +0900</lastBuildDate>
 
- 
- <entry>
-   <title>Some of my favorites from the 29c3 recordings</title>
-   <link href="http://kkai.github.com/site/2013/02/06/some-of-my-favorites-from-the-29c3-recordings"/>
-   <updated>2013-02-06T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/2013/02/06/some-of-my-favorites-from-the-29c3-recordings</id>
-   <content type="html">&lt;p&gt;Over the last weeks, I finally got around to watch some of the &lt;a href='https://events.ccc.de/congress/2012/wiki/Main_Page'&gt;29c3&lt;/a&gt; recordings. Here are some of my favorites. I will update the list accordingly.&lt;/p&gt;
+    
+    <item>
+      <title>Some of my favorites from the 29c3 recordings</title>
+      <link>http://example.com/2013/02/06/some-of-my-favorites-from-the-29c3-recordings</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0900</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com/2013/02/06/some-of-my-favorites-from-the-29c3-recordings</guid>
+      <description>&lt;p&gt;Over the last weeks, I finally got around to watch some of the &lt;a href='https://events.ccc.de/congress/2012/wiki/Main_Page'&gt;29c3&lt;/a&gt; recordings. Here are some of my favorites. I will update the list accordingly.&lt;/p&gt;
 
 &lt;p&gt;I link to the official recording available from the CCC domain. The talks however are also on youtube. Just search for the talk title.&lt;/p&gt;
 
@@ -39,15 +38,16 @@
 
 &lt;p&gt;I&amp;#8217;m also always looking forward to the yearly Martin Haase Talk. Unfortunately, the official release is not online yet. Interesting especially for language geeks.&lt;/p&gt;
 
-&lt;p&gt;The talk &lt;a href='http://media.ccc.de/browse/congress/2012/29c3-5121-de-en-sind_faire_computer_moeglich_h264.html'&gt;Are fair computers possible?&lt;/a&gt; explores what needs to change in manufacturing standards etc. to produce computers without child labor and fair employment conditions for all workers involved.&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>ACM Multimedia 2012 Main Conference Notes</title>
-   <link href="http://kkai.github.com/site/conferences/2012/10/31/acm-multimedia-2012-day-2-notes"/>
-   <updated>2012-10-31T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/conferences/2012/10/31/acm-multimedia-2012-day-2-notes</id>
-   <content type="html">&lt;p&gt;This is a scratchpad &amp;#8230; will fill the rest when I have time.&lt;/p&gt;
+&lt;p&gt;The talk &lt;a href='http://media.ccc.de/browse/congress/2012/29c3-5121-de-en-sind_faire_computer_moeglich_h264.html'&gt;Are fair computers possible?&lt;/a&gt; explores what needs to change in manufacturing standards etc. to produce computers without child labor and fair employment conditions for all workers involved.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ACM Multimedia 2012 Main Conference Notes</title>
+      <link>http://example.com/conferences/2012/10/31/acm-multimedia-2012-day-2-notes</link>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0900</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com/conferences/2012/10/31/acm-multimedia-2012-day-2-notes</guid>
+      <description>&lt;p&gt;This is a scratchpad &amp;#8230; will fill the rest when I have time.&lt;/p&gt;
 
 &lt;h2 id='papers'&gt;Papers&lt;/h2&gt;
 
@@ -73,15 +73,16 @@
 
 &lt;p&gt;As expected from any conference in Japan :), the organisation was flawless. In case any if the organisers is reading this. Thanks again. Nara is a perfect place for a venue like this (deer, world heritage sites, good food &amp;#8230;).&lt;/p&gt;
 
-&lt;p&gt;More curiously, although there was a lot of talk about social media and some lively discussions on twitter, I seemed to be the only participant on &lt;a href='https://alpha.app.net/'&gt;ADN&lt;/a&gt; at least posting with hashtag.&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>ACM Multimedia 2012 Tutorials and Workshops</title>
-   <link href="http://kkai.github.com/site/conferences/2012/10/29/acm-multimedia-2012-day-1-notes"/>
-   <updated>2012-10-29T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/conferences/2012/10/29/acm-multimedia-2012-day-1-notes</id>
-   <content type="html">&lt;p&gt;I attended the Tutorials &amp;#8220;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&amp;#8221; and &amp;#8220;Continuous Analysis of Emotions for Multimedia Applications&amp;#8221; on the first day.&lt;/p&gt;
+&lt;p&gt;More curiously, although there was a lot of talk about social media and some lively discussions on twitter, I seemed to be the only participant on &lt;a href='https://alpha.app.net/'&gt;ADN&lt;/a&gt; at least posting with hashtag.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ACM Multimedia 2012 Tutorials and Workshops</title>
+      <link>http://example.com/conferences/2012/10/29/acm-multimedia-2012-day-1-notes</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0900</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com/conferences/2012/10/29/acm-multimedia-2012-day-1-notes</guid>
+      <description>&lt;p&gt;I attended the Tutorials &amp;#8220;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&amp;#8221; and &amp;#8220;Continuous Analysis of Emotions for Multimedia Applications&amp;#8221; on the first day.&lt;/p&gt;
 
 &lt;p&gt;The last day I went to &amp;#8220;Workshop on Audio and Multimedia Methods for Large Scale Video Analysis&amp;#8221; and to the &amp;#8220;Workshop on Interactive Multimedia on Mobile and Portable Devices&amp;#8221;.&lt;/p&gt;
 
@@ -117,15 +118,16 @@
 
 &lt;h3 id='workshop_on_audio_and_multimedia_methods_for_large_scale_video_analysis'&gt;Workshop on Audio and Multimedia Methods for Large Scale Video Analysis&lt;/h3&gt;
 
-&lt;h3 id='workshop_on_interactive_multimedia_on_mobile_and_portable_devices'&gt;Workshop on Interactive Multimedia on Mobile and Portable Devices&lt;/h3&gt;</content>
- </entry>
- 
- <entry>
-   <title>Laughing Faces App in the AppStore</title>
-   <link href="http://kkai.github.com/site/hacking/2012/08/30/laughing-faces-app-in-the-appstore"/>
-   <updated>2012-08-30T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/hacking/2012/08/30/laughing-faces-app-in-the-appstore</id>
-   <content type="html">&lt;p&gt;Over the last couple of weeks, I was getting settled in my new job. As I&amp;#8217;m working with &lt;a href='http://imlab.jp'&gt;computer vision researchers&lt;/a&gt; now, I started playing with the camera api for the iPhone.&lt;/p&gt;
+&lt;h3 id='workshop_on_interactive_multimedia_on_mobile_and_portable_devices'&gt;Workshop on Interactive Multimedia on Mobile and Portable Devices&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
+      <title>Laughing Faces App in the AppStore</title>
+      <link>http://example.com/hacking/2012/08/30/laughing-faces-app-in-the-appstore</link>
+      <pubDate>Thu, 30 Aug 2012 00:00:00 +0900</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com/hacking/2012/08/30/laughing-faces-app-in-the-appstore</guid>
+      <description>&lt;p&gt;Over the last couple of weeks, I was getting settled in my new job. As I&amp;#8217;m working with &lt;a href='http://imlab.jp'&gt;computer vision researchers&lt;/a&gt; now, I started playing with the camera api for the iPhone.&lt;/p&gt;
 
 &lt;p&gt;Again, I&amp;#8217;m very surprised by the accessibility and quality of Apples apis and their sample code.&lt;/p&gt;
 
@@ -137,15 +139,16 @@
 
 &lt;p&gt;By the way, I had over 250 downloads the first day :) Oh if you wonder, the inspiration came from &lt;a href='http://en.wikipedia.org/wiki/Laughing_Man_(Ghost_in_the_Shell'&gt;Ghost in the Shell Standalone Complex&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;If people bug me enough, I will make the png exchangable. Cannot tell you too much, yet expect an update when iOS6 hits.&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>AAAI activity context workshop notes</title>
-   <link href="http://kkai.github.com/site/scratchpad/2012/07/26/aaai-activity-context-workshop-notes"/>
-   <updated>2012-07-26T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/scratchpad/2012/07/26/aaai-activity-context-workshop-notes</id>
-   <content type="html">&lt;p&gt;I enjoyed the AAAI context activity workshop a lot.&lt;/p&gt;
+&lt;p&gt;If people bug me enough, I will make the png exchangable. Cannot tell you too much, yet expect an update when iOS6 hits.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AAAI activity context workshop notes</title>
+      <link>http://example.com/scratchpad/2012/07/26/aaai-activity-context-workshop-notes</link>
+      <pubDate>Thu, 26 Jul 2012 00:00:00 +0900</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com/scratchpad/2012/07/26/aaai-activity-context-workshop-notes</guid>
+      <description>&lt;p&gt;I enjoyed the AAAI context activity workshop a lot.&lt;/p&gt;
 
 &lt;p&gt;The keynote &lt;a href='http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5292/5556'&gt;How to make Face Recognition work (pdf)&lt;/a&gt; by &lt;a href='http://research.microsoft.com/en-us/um/people/akapoor/'&gt;Ashis Kapoor&lt;/a&gt; showed how to increase face recognition introducing very simple &amp;#8220;context&amp;#8221; constrains (two people in the same image cannot be the same person etc.). Very interesting work, I wonder how much better you can get introducing some more dynamic context recognition to the face recognition task.&lt;/p&gt;
 
@@ -157,15 +160,16 @@
 
 &lt;p&gt;Bostjan Kaluza shared the call for more standardized datasets in context recognition in his talk about &lt;a href='http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5305/5555'&gt;The Activity Recognition Repository (pdf)&lt;/a&gt;. A very important endeavor, I already also discussed several times. I think a broad effort in the field is necessary.&lt;/p&gt;
 
-&lt;p&gt;All the final papers are up on the &lt;a href='http://activitycontext.org/final-papers/'&gt;workshop website&lt;/a&gt;.&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Towards Dynamically Configurable Context Recognition Systems</title>
-   <link href="http://kkai.github.com/site/publication/2012/07/09/draft-version-of-aaai-workshop-paper-online"/>
-   <updated>2012-07-09T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/publication/2012/07/09/draft-version-of-aaai-workshop-paper-online</id>
-   <content type="html">&lt;p&gt;Here&amp;#8217;s a &lt;a href='http://kaikunze.de/papers/2012Kunze.pdf'&gt;draft version of my publication&lt;/a&gt; for the &lt;a href='http://activitycontext.org/'&gt;Activity Context Workshop&lt;/a&gt; in Toronto. Bellow the abstract.&lt;/p&gt;
+&lt;p&gt;All the final papers are up on the &lt;a href='http://activitycontext.org/final-papers/'&gt;workshop website&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Towards Dynamically Configurable Context Recognition Systems</title>
+      <link>http://example.com/publication/2012/07/09/draft-version-of-aaai-workshop-paper-online</link>
+      <pubDate>Mon, 09 Jul 2012 00:00:00 +0900</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com/publication/2012/07/09/draft-version-of-aaai-workshop-paper-online</guid>
+      <description>&lt;p&gt;Here&amp;#8217;s a &lt;a href='http://kaikunze.de/papers/2012Kunze.pdf'&gt;draft version of my publication&lt;/a&gt; for the &lt;a href='http://activitycontext.org/'&gt;Activity Context Workshop&lt;/a&gt; in Toronto. Bellow the abstract.&lt;/p&gt;
 
 &lt;p&gt;Also download &lt;a href='http://kaikunze.de/slides/2012aaai-slides.pdf'&gt;the slides&lt;/a&gt; of my talk.&lt;/p&gt;
 
@@ -173,25 +177,27 @@
 &lt;hr /&gt;
 &lt;p&gt;Abstract&lt;/p&gt;
 
-&lt;p&gt;General representation, abstraction and exchange definitions are crucial for dynamically configurable context recognition. However, to evaluate potential definitions, suitable standard datasets are needed. This paper presents our effort to create and maintain large scale, multimodal standard datasets for context recognition research. We ourselves used these datasets in previous research to deal with placement effects and presented low-level sensor abstractions in motion based on-body sensing. Researchers, conducting novel data collections, can rely on the toolchain and the the low-level sensor abstractions summarized in this paper. Additionally, they can draw from our experiences developing and conducting context recognition experiments. Our toolchain is already a valuable rapid prototyping tool. Still, we plan to extend it to crowd-based sensing, enabling the general public to gather context data, learn more about their lives and contribute to context recognition research. Applying higher level context reasoning on the gathered context data is a obvious extension to our work.&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Some of my publications are online</title>
-   <link href="http://kkai.github.com/site/publication/2012/07/08/some-of-my-publications-are-online"/>
-   <updated>2012-07-08T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/publication/2012/07/08/some-of-my-publications-are-online</id>
-   <content type="html">&lt;p&gt;I&amp;#8217;m slowly uploading a couple of references and the pdf draft versions of them. Please find some of my &lt;a href='http://kaikunze.de/publications.html'&gt;publications&lt;/a&gt; in the corresponding section of this website.&lt;/p&gt;
+&lt;p&gt;General representation, abstraction and exchange definitions are crucial for dynamically configurable context recognition. However, to evaluate potential definitions, suitable standard datasets are needed. This paper presents our effort to create and maintain large scale, multimodal standard datasets for context recognition research. We ourselves used these datasets in previous research to deal with placement effects and presented low-level sensor abstractions in motion based on-body sensing. Researchers, conducting novel data collections, can rely on the toolchain and the the low-level sensor abstractions summarized in this paper. Additionally, they can draw from our experiences developing and conducting context recognition experiments. Our toolchain is already a valuable rapid prototyping tool. Still, we plan to extend it to crowd-based sensing, enabling the general public to gather context data, learn more about their lives and contribute to context recognition research. Applying higher level context reasoning on the gathered context data is a obvious extension to our work.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Some of my publications are online</title>
+      <link>http://example.com/publication/2012/07/08/some-of-my-publications-are-online</link>
+      <pubDate>Sun, 08 Jul 2012 00:00:00 +0900</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com/publication/2012/07/08/some-of-my-publications-are-online</guid>
+      <description>&lt;p&gt;I&amp;#8217;m slowly uploading a couple of references and the pdf draft versions of them. Please find some of my &lt;a href='http://kaikunze.de/publications.html'&gt;publications&lt;/a&gt; in the corresponding section of this website.&lt;/p&gt;
 
-&lt;p&gt;Stay tuned for the bibtex description and some more papers.&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Compensating for On-body Placement Effects in Activity Recognition</title>
-   <link href="http://kkai.github.com/site/publication/2012/07/07/phd-thesis-sources-on-github"/>
-   <updated>2012-07-07T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/publication/2012/07/07/phd-thesis-sources-on-github</id>
-   <content type="html">&lt;p&gt;Finished my phD. last year in Passau. The thesis is already published over &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/'&gt;Opus Bayern&lt;/a&gt;. The pdf is open access, so feel free to read it (careful 19 MB pdf): &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf'&gt;Compensating for On-Body Placement Effects in Activity Recognition as pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Stay tuned for the bibtex description and some more papers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Compensating for On-body Placement Effects in Activity Recognition</title>
+      <link>http://example.com/publication/2012/07/07/phd-thesis-sources-on-github</link>
+      <pubDate>Sat, 07 Jul 2012 00:00:00 +0900</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com/publication/2012/07/07/phd-thesis-sources-on-github</guid>
+      <description>&lt;p&gt;Finished my phD. last year in Passau. The thesis is already published over &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/'&gt;Opus Bayern&lt;/a&gt;. The pdf is open access, so feel free to read it (careful 19 MB pdf): &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf'&gt;Compensating for On-Body Placement Effects in Activity Recognition as pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;However, the sources were not available. Finally, I got around to push the &lt;a href='http://github.com/kkai/phdthesis'&gt;latex sources of my dissertation&lt;/a&gt; up to github.&lt;/p&gt;
 &lt;hr /&gt;
@@ -203,15 +209,16 @@
 &lt;hr /&gt;
 &lt;p&gt;Here&amp;#8217;s a quick summary about the content:&lt;/p&gt;
 
-&lt;p&gt;This thesis investigates, how placement variations of electronic devices influence the possibility of using sensors integrated in those devices for context recognition. The vast majority of context recognition research assumes well defined, fixed sen- sor locations. Although this might be acceptable for some application domains (e.g. in an industrial setting), users, in general, will have a hard time coping with these limitations. If one needs to remember to carry dedicated sensors and to adjust their orientation from time to time, the activity recognition system is more distracting than helpful. How can we deal with device location and orientation changes to make context sensing mainstream? This thesis presents a systematic evaluation of device placement effects in context recognition.&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Using device motion in html/javascript</title>
-   <link href="http://kkai.github.com/site/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript"/>
-   <updated>2012-06-18T00:00:00+09:00</updated>
-   <id>http://kkai.github.com/site/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript</id>
-   <content type="html">&lt;p&gt;A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red cube is shown on the screen (placed between randomly generated cubes). The transparent area around the cube changes depending on how strong one shakes the phone.&lt;/p&gt;
+&lt;p&gt;This thesis investigates, how placement variations of electronic devices influence the possibility of using sensors integrated in those devices for context recognition. The vast majority of context recognition research assumes well defined, fixed sen- sor locations. Although this might be acceptable for some application domains (e.g. in an industrial setting), users, in general, will have a hard time coping with these limitations. If one needs to remember to carry dedicated sensors and to adjust their orientation from time to time, the activity recognition system is more distracting than helpful. How can we deal with device location and orientation changes to make context sensing mainstream? This thesis presents a systematic evaluation of device placement effects in context recognition.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Using device motion in html/javascript</title>
+      <link>http://example.com/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0900</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript</guid>
+      <description>&lt;p&gt;A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red cube is shown on the screen (placed between randomly generated cubes). The transparent area around the cube changes depending on how strong one shakes the phone.&lt;/p&gt;
 &lt;iframe frameborder='0' height='281' src='http://player.vimeo.com/video/45626605' width='500'&gt;
 &lt;/iframe&gt;&lt;p&gt;&lt;a href='http://vimeo.com/45626605'&gt;Visualization based on mobile phone data&lt;/a&gt; from &lt;a href='http://vimeo.com/user8093378'&gt;Kai Kunze&lt;/a&gt; on &lt;a href='http://vimeo.com'&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can get the code from my &lt;a href='https://github.com/kkai/devicemotion-demo'&gt;github page&lt;/a&gt;&lt;/p&gt;
@@ -222,8 +229,9 @@
 
 &lt;p&gt;&lt;a href='http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/'&gt;3d css cube&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href='http://openprocessing.org/sketch/19216'&gt;3d cube world&lt;/a&gt;&lt;/p&gt;</content>
- </entry>
- 
- 
-</feed>
+&lt;p&gt;&lt;a href='http://openprocessing.org/sketch/19216'&gt;3d cube world&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+
+  </channel> 
+</rss>
