@@ -6,14 +6,29 @@
     <atom:link href="http://example.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Your Website</description>
     <language>en-us</language>
-    <pubDate>Wed, 24 Apr 2013 15:36:35 +0900</pubDate>
-    <lastBuildDate>Wed, 24 Apr 2013 15:36:35 +0900</lastBuildDate>
+    <pubDate>Mon, 29 Apr 2013 11:27:25 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2013 11:27:25 +0200</lastBuildDate>
 
+    
+    <item>
+      <title>Activity Recognition Dagstuhl Report Online</title>
+      <link>http://example.com/research/2013/04/24/ar-dagstuhl-report-online</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0200</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com/research/2013/04/24/ar-dagstuhl-report-online</guid>
+      <description>&lt;p&gt;If you wonder how we spent German tax money, the summary of the Activity Recognition Dagstuhl seminar is now online.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://drops.dagstuhl.de/opus/volltexte/2013/3987/'&gt;Human Activity Recognition in Smart Environments (Dagstuhl Seminar 12492)&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Here&amp;#8217;s the abstract:&lt;/p&gt;
+
+&lt;p&gt;This report documents the program and the outcomes of Dagstuhl Seminar 12492 &amp;#8220;Human Activity Recognition in Smart Environments&amp;#8221;. We established the basis for a scientific community surrounding &amp;#8220;activity recognition&amp;#8221; by involving researchers from a broad range of related research fields. 30 academic and industry researchers from US, Europe and Asia participated from diverse fields including pervasive computing, over network analysis and computer vision to human computer interaction. The major results of this Seminar are the creation of a activity recognition repository to share information, code, publications and the start of an activity recognition book aimed to serve as a scientific introduction to the field. In the following, we go into more detail about the structure of the seminar, discuss the major outcomes and give an overview about discussions and talks given during the seminar.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Some of my favorites from the 29c3 recordings</title>
       <link>http://example.com/2013/02/06/some-of-my-favorites-from-the-29c3-recordings</link>
-      <pubDate>Wed, 06 Feb 2013 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0100</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/2013/02/06/some-of-my-favorites-from-the-29c3-recordings</guid>
       <description>&lt;p&gt;Over the last weeks, I finally got around to watch some of the &lt;a href='https://events.ccc.de/congress/2012/wiki/Main_Page'&gt;29c3&lt;/a&gt; recordings. Here are some of my favorites. I will update the list accordingly.&lt;/p&gt;
@@ -44,7 +59,7 @@
     <item>
       <title>ACM Multimedia 2012 Main Conference Notes</title>
       <link>http://example.com/conferences/2012/10/31/acm-multimedia-2012-day-2-notes</link>
-      <pubDate>Wed, 31 Oct 2012 00:00:00 +0900</pubDate>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0100</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/conferences/2012/10/31/acm-multimedia-2012-day-2-notes</guid>
       <description>&lt;p&gt;This is a scratchpad &amp;#8230; will fill the rest when I have time.&lt;/p&gt;
@@ -79,7 +94,7 @@
     <item>
       <title>ACM Multimedia 2012 Tutorials and Workshops</title>
       <link>http://example.com/conferences/2012/10/29/acm-multimedia-2012-day-1-notes</link>
-      <pubDate>Mon, 29 Oct 2012 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0100</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/conferences/2012/10/29/acm-multimedia-2012-day-1-notes</guid>
       <description>&lt;p&gt;I attended the Tutorials &amp;#8220;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&amp;#8221; and &amp;#8220;Continuous Analysis of Emotions for Multimedia Applications&amp;#8221; on the first day.&lt;/p&gt;
@@ -124,7 +139,7 @@
     <item>
       <title>Laughing Faces App in the AppStore</title>
       <link>http://example.com/hacking/2012/08/30/laughing-faces-app-in-the-appstore</link>
-      <pubDate>Thu, 30 Aug 2012 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 30 Aug 2012 00:00:00 +0200</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/hacking/2012/08/30/laughing-faces-app-in-the-appstore</guid>
       <description>&lt;p&gt;Over the last couple of weeks, I was getting settled in my new job. As I&amp;#8217;m working with &lt;a href='http://imlab.jp'&gt;computer vision researchers&lt;/a&gt; now, I started playing with the camera api for the iPhone.&lt;/p&gt;
@@ -145,7 +160,7 @@
     <item>
       <title>AAAI activity context workshop notes</title>
       <link>http://example.com/scratchpad/2012/07/26/aaai-activity-context-workshop-notes</link>
-      <pubDate>Thu, 26 Jul 2012 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 26 Jul 2012 00:00:00 +0200</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/scratchpad/2012/07/26/aaai-activity-context-workshop-notes</guid>
       <description>&lt;p&gt;I enjoyed the AAAI context activity workshop a lot.&lt;/p&gt;
@@ -166,7 +181,7 @@
     <item>
       <title>Towards Dynamically Configurable Context Recognition Systems</title>
       <link>http://example.com/publication/2012/07/09/draft-version-of-aaai-workshop-paper-online</link>
-      <pubDate>Mon, 09 Jul 2012 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 09 Jul 2012 00:00:00 +0200</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/publication/2012/07/09/draft-version-of-aaai-workshop-paper-online</guid>
       <description>&lt;p&gt;Here&amp;#8217;s a &lt;a href='http://kaikunze.de/papers/2012Kunze.pdf'&gt;draft version of my publication&lt;/a&gt; for the &lt;a href='http://activitycontext.org/'&gt;Activity Context Workshop&lt;/a&gt; in Toronto. Bellow the abstract.&lt;/p&gt;
@@ -183,7 +198,7 @@
     <item>
       <title>Some of my publications are online</title>
       <link>http://example.com/publication/2012/07/08/some-of-my-publications-are-online</link>
-      <pubDate>Sun, 08 Jul 2012 00:00:00 +0900</pubDate>
+      <pubDate>Sun, 08 Jul 2012 00:00:00 +0200</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/publication/2012/07/08/some-of-my-publications-are-online</guid>
       <description>&lt;p&gt;I&amp;#8217;m slowly uploading a couple of references and the pdf draft versions of them. Please find some of my &lt;a href='http://kaikunze.de/publications.html'&gt;publications&lt;/a&gt; in the corresponding section of this website.&lt;/p&gt;
@@ -194,7 +209,7 @@
     <item>
       <title>Compensating for On-body Placement Effects in Activity Recognition</title>
       <link>http://example.com/publication/2012/07/07/phd-thesis-sources-on-github</link>
-      <pubDate>Sat, 07 Jul 2012 00:00:00 +0900</pubDate>
+      <pubDate>Sat, 07 Jul 2012 00:00:00 +0200</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/publication/2012/07/07/phd-thesis-sources-on-github</guid>
       <description>&lt;p&gt;Finished my phD. last year in Passau. The thesis is already published over &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/'&gt;Opus Bayern&lt;/a&gt;. The pdf is open access, so feel free to read it (careful 19 MB pdf): &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf'&gt;Compensating for On-Body Placement Effects in Activity Recognition as pdf&lt;/a&gt;&lt;/p&gt;
@@ -215,7 +230,7 @@
     <item>
       <title>Using device motion in html/javascript</title>
       <link>http://example.com/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript</link>
-      <pubDate>Mon, 18 Jun 2012 00:00:00 +0900</pubDate>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0200</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript</guid>
       <description>&lt;p&gt;A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red cube is shown on the screen (placed between randomly generated cubes). The transparent area around the cube changes depending on how strong one shakes the phone.&lt;/p&gt;
