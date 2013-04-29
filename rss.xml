@@ -6,23 +6,23 @@
     <atom:link href="http://example.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Your Website</description>
     <language>en-us</language>
-    <pubDate>Mon, 29 Apr 2013 11:55:27 +0200</pubDate>
-    <lastBuildDate>Mon, 29 Apr 2013 11:55:27 +0200</lastBuildDate>
+    <pubDate>Mon, 29 Apr 2013 12:25:17 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2013 12:25:17 +0200</lastBuildDate>
 
     
     <item>
-      <title>Kai @ CHI</title>
-      <link>http://example.com/conference/2013/04/29/kai--chi</link>
+      <title>Kai  Chi</title>
+      <link>http://example.com/2013/04/29/kai--chi</link>
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0200</pubDate>
       <author>you@example.com (Your Name)</author>
-      <guid>http://example.com/conference/2013/04/29/kai--chi</guid>
+      <guid>http://example.com/2013/04/29/kai--chi</guid>
       <description>&lt;p&gt;So it&amp;#8217;s my first time at &lt;a href='http://chi2013.acm.org'&gt;CHI&lt;/a&gt;. Pretty amazing so far &amp;#8230; Will blog about more later.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href='/posters/chiposter2013.pdf'&gt;&lt;img alt='Chi Poster' src='/posters/tb-chiposter2013.jpg' /&gt;&lt;/a&gt;&lt;img alt='Kai@CHI' src='/imgs/kai@chi.jpg' /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='http://kaikunze.de/posters/chiposter2013.pdf'&gt;&lt;img alt='Chi Poster' src='/posters/tb-chiposter2013.jpg' /&gt;&lt;/a&gt;&lt;img alt='Kai@CHI' src='/imgs/kai@chi.jpg' /&gt;&lt;/p&gt;
 
-&lt;p&gt;I&amp;#8217;m in the first poster rotation, starting this afternoon. Drop by my poster paper if you&amp;#8217;re around (or try to spot me, I&amp;#8217;m wearing the white &amp;#8220;Kai@CHI&amp;#8221; Shirt today :)).&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m in the first poster rotation, starting this afternoon: &amp;#8220;Towards inferring language expertise using eye tracking&amp;#8221; Drop by my poster if you&amp;#8217;re around (or try to spot me, I&amp;#8217;m wearing the white &amp;#8220;Kai@CHI&amp;#8221; Shirt today :)).&lt;/p&gt;
 
-&lt;p&gt;Here&amp;#8217;s the abstract of the work I&amp;#8217;m presenting, as well as the &lt;a href='http://kaikunze.de/papers/2013kunze.pdf'&gt;link to the paper&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here&amp;#8217;s the abstract of our work, as well as the &lt;a href='http://kaikunze.de/papers/2013kunze.pdf'&gt;link to the paper&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&amp;#8220;We present initial work towards recognizing reading activities. This paper describes our efforts detect the English skill level of a user and infer which words are difficult for them to understand. We present an initial study of 5 students and show our findings regarding the skill level assessment. We explain a method to spot difficult words. Eye tracking is a promising technology to examine and assess a user’s skill level.&amp;#8221;&lt;/p&gt;</description>
     </item>
