@@ -4,7 +4,7 @@
  <title>Kai Kunze</title>
  <link href="http://kaikunze.de//atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2013-04-29T12:25:17+02:00</updated>
+ <updated>2013-06-26T12:25:14+09:00</updated>
  <id>http://kaikunze.de/</id>
  <author>
    <name>Kai Kunze</name>
@@ -15,7 +15,7 @@
  <entry>
    <title>Kai  Chi</title>
    <link href="http://kaikunze.de//2013/04/29/kai--chi"/>
-   <updated>2013-04-29T00:00:00+02:00</updated>
+   <updated>2013-04-29T00:00:00+09:00</updated>
    <id>http://kaikunze.de//2013/04/29/kai--chi</id>
    <content type="html">&lt;p&gt;So it&amp;#8217;s my first time at &lt;a href='http://chi2013.acm.org'&gt;CHI&lt;/a&gt;. Pretty amazing so far &amp;#8230; Will blog about more later.&lt;/p&gt;
 
@@ -31,7 +31,7 @@
  <entry>
    <title>Activity Recognition Dagstuhl Report Online</title>
    <link href="http://kaikunze.de//research/2013/04/24/ar-dagstuhl-report-online"/>
-   <updated>2013-04-24T00:00:00+02:00</updated>
+   <updated>2013-04-24T00:00:00+09:00</updated>
    <id>http://kaikunze.de//research/2013/04/24/ar-dagstuhl-report-online</id>
    <content type="html">&lt;p&gt;If you wonder how we spent German tax money, the summary of the Activity Recognition Dagstuhl seminar is now online.&lt;/p&gt;
 
@@ -45,7 +45,7 @@
  <entry>
    <title>Some of my favorites from the 29c3 recordings</title>
    <link href="http://kaikunze.de//2013/02/06/some-of-my-favorites-from-the-29c3-recordings"/>
-   <updated>2013-02-06T00:00:00+01:00</updated>
+   <updated>2013-02-06T00:00:00+09:00</updated>
    <id>http://kaikunze.de//2013/02/06/some-of-my-favorites-from-the-29c3-recordings</id>
    <content type="html">&lt;p&gt;Over the last weeks, I finally got around to watch some of the &lt;a href='https://events.ccc.de/congress/2012/wiki/Main_Page'&gt;29c3&lt;/a&gt; recordings. Here are some of my favorites. I will update the list accordingly.&lt;/p&gt;
 
@@ -75,7 +75,7 @@
  <entry>
    <title>ACM Multimedia 2012 Main Conference Notes</title>
    <link href="http://kaikunze.de//conferences/2012/10/31/acm-multimedia-2012-day-2-notes"/>
-   <updated>2012-10-31T00:00:00+01:00</updated>
+   <updated>2012-10-31T00:00:00+09:00</updated>
    <id>http://kaikunze.de//conferences/2012/10/31/acm-multimedia-2012-day-2-notes</id>
    <content type="html">&lt;p&gt;This is a scratchpad &amp;#8230; will fill the rest when I have time.&lt;/p&gt;
 
@@ -109,7 +109,7 @@
  <entry>
    <title>ACM Multimedia 2012 Tutorials and Workshops</title>
    <link href="http://kaikunze.de//conferences/2012/10/29/acm-multimedia-2012-day-1-notes"/>
-   <updated>2012-10-29T00:00:00+01:00</updated>
+   <updated>2012-10-29T00:00:00+09:00</updated>
    <id>http://kaikunze.de//conferences/2012/10/29/acm-multimedia-2012-day-1-notes</id>
    <content type="html">&lt;p&gt;I attended the Tutorials &amp;#8220;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&amp;#8221; and &amp;#8220;Continuous Analysis of Emotions for Multimedia Applications&amp;#8221; on the first day.&lt;/p&gt;
 
@@ -153,7 +153,7 @@
  <entry>
    <title>Laughing Faces App in the AppStore</title>
    <link href="http://kaikunze.de//hacking/2012/08/30/laughing-faces-app-in-the-appstore"/>
-   <updated>2012-08-30T00:00:00+02:00</updated>
+   <updated>2012-08-30T00:00:00+09:00</updated>
    <id>http://kaikunze.de//hacking/2012/08/30/laughing-faces-app-in-the-appstore</id>
    <content type="html">&lt;p&gt;Over the last couple of weeks, I was getting settled in my new job. As I&amp;#8217;m working with &lt;a href='http://imlab.jp'&gt;computer vision researchers&lt;/a&gt; now, I started playing with the camera api for the iPhone.&lt;/p&gt;
 
@@ -173,7 +173,7 @@
  <entry>
    <title>AAAI activity context workshop notes</title>
    <link href="http://kaikunze.de//scratchpad/2012/07/26/aaai-activity-context-workshop-notes"/>
-   <updated>2012-07-26T00:00:00+02:00</updated>
+   <updated>2012-07-26T00:00:00+09:00</updated>
    <id>http://kaikunze.de//scratchpad/2012/07/26/aaai-activity-context-workshop-notes</id>
    <content type="html">&lt;p&gt;I enjoyed the AAAI context activity workshop a lot.&lt;/p&gt;
 
@@ -193,7 +193,7 @@
  <entry>
    <title>Towards Dynamically Configurable Context Recognition Systems</title>
    <link href="http://kaikunze.de//publication/2012/07/09/draft-version-of-aaai-workshop-paper-online"/>
-   <updated>2012-07-09T00:00:00+02:00</updated>
+   <updated>2012-07-09T00:00:00+09:00</updated>
    <id>http://kaikunze.de//publication/2012/07/09/draft-version-of-aaai-workshop-paper-online</id>
    <content type="html">&lt;p&gt;Here&amp;#8217;s a &lt;a href='http://kaikunze.de/papers/2012Kunze.pdf'&gt;draft version of my publication&lt;/a&gt; for the &lt;a href='http://activitycontext.org/'&gt;Activity Context Workshop&lt;/a&gt; in Toronto. Bellow the abstract.&lt;/p&gt;
 
@@ -209,7 +209,7 @@
  <entry>
    <title>Some of my publications are online</title>
    <link href="http://kaikunze.de//publication/2012/07/08/some-of-my-publications-are-online"/>
-   <updated>2012-07-08T00:00:00+02:00</updated>
+   <updated>2012-07-08T00:00:00+09:00</updated>
    <id>http://kaikunze.de//publication/2012/07/08/some-of-my-publications-are-online</id>
    <content type="html">&lt;p&gt;I&amp;#8217;m slowly uploading a couple of references and the pdf draft versions of them. Please find some of my &lt;a href='http://kaikunze.de/publications.html'&gt;publications&lt;/a&gt; in the corresponding section of this website.&lt;/p&gt;
 
@@ -219,7 +219,7 @@
  <entry>
    <title>Compensating for On-body Placement Effects in Activity Recognition</title>
    <link href="http://kaikunze.de//publication/2012/07/07/phd-thesis-sources-on-github"/>
-   <updated>2012-07-07T00:00:00+02:00</updated>
+   <updated>2012-07-07T00:00:00+09:00</updated>
    <id>http://kaikunze.de//publication/2012/07/07/phd-thesis-sources-on-github</id>
    <content type="html">&lt;p&gt;Finished my phD. last year in Passau. The thesis is already published over &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/'&gt;Opus Bayern&lt;/a&gt;. The pdf is open access, so feel free to read it (careful 19 MB pdf): &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf'&gt;Compensating for On-Body Placement Effects in Activity Recognition as pdf&lt;/a&gt;&lt;/p&gt;
 
@@ -239,7 +239,7 @@
  <entry>
    <title>Using device motion in html/javascript</title>
    <link href="http://kaikunze.de//hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript"/>
-   <updated>2012-06-18T00:00:00+02:00</updated>
+   <updated>2012-06-18T00:00:00+09:00</updated>
    <id>http://kaikunze.de//hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript</id>
    <content type="html">&lt;p&gt;A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red cube is shown on the screen (placed between randomly generated cubes). The transparent area around the cube changes depending on how strong one shakes the phone.&lt;/p&gt;
 &lt;iframe frameborder='0' height='281' src='http://player.vimeo.com/video/45626605' width='500'&gt;
