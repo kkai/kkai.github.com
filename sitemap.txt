@@ -160,7 +160,7 @@ http://kaikunze.de//research.html
 http://kaikunze.de//rss.xml
 http://kaikunze.de//sitemap.txt
 
-http://kaikunze.de//2013/04/29/kai--chi
+http://kaikunze.de//2013/04/29/kai-%40-chi
 http://kaikunze.de//research/2013/04/24/ar-dagstuhl-report-online
 http://kaikunze.de//2013/02/06/some-of-my-favorites-from-the-29c3-recordings
 http://kaikunze.de//conferences/2012/10/31/acm-multimedia-2012-day-2-notes
