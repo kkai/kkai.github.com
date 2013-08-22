@@ -6,16 +6,55 @@
     <atom:link href="http://example.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Your Website</description>
     <language>en-us</language>
-    <pubDate>Mon, 19 Aug 2013 20:04:59 +0900</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2013 20:04:59 +0900</lastBuildDate>
+    <pubDate>Thu, 22 Aug 2013 10:13:29 +0900</pubDate>
+    <lastBuildDate>Thu, 22 Aug 2013 10:13:29 +0900</lastBuildDate>
 
     
     <item>
-      <title>Kai @ Chi</title>
-      <link>http://example.com/2013/04/29/kai-%40-chi</link>
+      <title>Wordometer and Document Analysis using Pervasive Sensing</title>
+      <link>http://example.com/research/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing</link>
+      <pubDate>Tue, 20 Aug 2013 00:00:00 +0900</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com/research/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing</guid>
+      <description>&lt;p&gt;&lt;img alt='wordometer' src='/imgs/wordometer.png' /&gt; In the last couple of months, I got more and more interested in learning, especially reading. Loving tech and sports, I got easily hooked on the Quantified Self movement (I own a Zeo Sleeping Coach and several step counters). Seeing how measuring myself transformed me. I lost around 4 kg and feel healthier/fitter, since I started tracking. I wonder why we don&amp;#8217;t have similar tools for our learning behavior.&lt;/p&gt;
+
+&lt;p&gt;So we created a simple Wordometer in our Lab, using the SMI mobile eyetracker and document image retrieval (LLAH). We simply detect reading (very distinct horizontal or vertical movements) and afterwards count line breaks. Assuming a fixed number of words per line, voilà here is your Wordometer. The document image retreival is used to keep the accuracy at around 5-7 % (comparable to the pedometers measuring your steps each day).&lt;/p&gt;
+
+&lt;p&gt;Of course, there are a couple of limitations:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Mobile Eyetrackers are DAMN expensive. Yet, the main reason being that there is no demand and they are manufactured in relatively low numbers. A glass frame, 2 cameras and 2 infra-red sources that&amp;#8217;s it (together with a bit of image processing magic).&lt;/li&gt;
+
+&lt;li&gt;Document Image Retrieval means you need to register all documents with a server before reading them. I won&amp;#8217;t go into details as this limitation is the easiest to get rid of. We are currently working on a method without it. At the beginning it was easier to include (and improve the accuracy rate).&lt;/li&gt;
+
+&lt;li&gt;Not everybody likes to wear glasses. With the recent mixed reception of Google Glass, it seems that wearing glasses is way more a fashion statement than wearing a big &amp;#8220;smart&amp;#8221; phone or similar. So this tech might not be for everybody.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Overall, I&amp;#8217;m still very exited on what a cheap, public avaiable Wordometer will do to the reading habits of people and their &amp;#8220;knowledge life&amp;#8221;. We&amp;#8217;ll continue working on it ;)&lt;/p&gt;
+
+&lt;p&gt;We are also using eyetracking, EEG and other sensors to get more information about what/how a user is reading. Interestingly, it seems using the Emotiv EEG we can detect reading versus not reading and even some document types (manga versus textbook).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Disclaimer: This work would not be possible without two very talented students: Hitoshi Kawaichi and Kazuyo Yoshimura. Thanks for the hard work :D&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For more details, check out the papers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='/papers/2013Kunze-1.pdf'&gt;The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='/papers/2013Kunze-2.pdf'&gt;Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They are both published at &lt;a href='http://icdar2013.org'&gt;ICDAR 2013&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kai @ CHI</title>
+      <link>http://example.com/conference/2013/04/29/kai-%40-chi</link>
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
-      <guid>http://example.com/2013/04/29/kai-@-chi</guid>
+      <guid>http://example.com/conference/2013/04/29/kai-@-chi</guid>
       <description>&lt;p&gt;So it&amp;#8217;s my first time at &lt;a href='http://chi2013.acm.org'&gt;CHI&lt;/a&gt;. Pretty amazing so far &amp;#8230; Will blog about more later.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href='http://kaikunze.de/posters/chiposter2013.pdf'&gt;&lt;img alt='Chi Poster' src='/posters/tb-chiposter2013.jpg' /&gt;&lt;/a&gt;&lt;img alt='Kai@CHI' src='/imgs/kai@chi.jpg' /&gt;&lt;/p&gt;
@@ -239,9 +278,12 @@
 &lt;hr /&gt;
 &lt;p&gt;I&amp;#8217;ll try to share most of the algorithms discussed in my dissertation.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;Here&amp;#8217;s a quick summary about the content:&lt;/p&gt;
+&lt;p&gt;Here&amp;#8217;s a quick summary about the content together with the slides of my defense:&lt;/p&gt;
 
-&lt;p&gt;This thesis investigates, how placement variations of electronic devices influence the possibility of using sensors integrated in those devices for context recognition. The vast majority of context recognition research assumes well defined, fixed sen- sor locations. Although this might be acceptable for some application domains (e.g. in an industrial setting), users, in general, will have a hard time coping with these limitations. If one needs to remember to carry dedicated sensors and to adjust their orientation from time to time, the activity recognition system is more distracting than helpful. How can we deal with device location and orientation changes to make context sensing mainstream? This thesis presents a systematic evaluation of device placement effects in context recognition.&lt;/p&gt;</description>
+&lt;blockquote&gt;
+&lt;p&gt;This thesis investigates, how placement variations of electronic devices influence the possibility of using sensors integrated in those devices for context recognition. The vast majority of context recognition research assumes well defined, fixed sen- sor locations. Although this might be acceptable for some application domains (e.g. in an industrial setting), users, in general, will have a hard time coping with these limitations. If one needs to remember to carry dedicated sensors and to adjust their orientation from time to time, the activity recognition system is more distracting than helpful. How can we deal with device location and orientation changes to make context sensing mainstream? This thesis presents a systematic evaluation of device placement effects in context recognition.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script class='speakerdeck-embed' data-id='eece7090eb64013086517aec58278375' data-ratio='1.33333333333333' src='//speakerdeck.com/assets/embed.js'&gt; &lt;/script&gt;</description>
     </item>
     
     <item>
