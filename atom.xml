@@ -4,13 +4,35 @@
  <title>Kai Kunze</title>
  <link href="http://kaikunze.de//atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2013-08-23T13:21:41-04:00</updated>
+ <updated>2013-08-26T14:33:55-04:00</updated>
  <id>http://kaikunze.de/</id>
  <author>
    <name>Kai Kunze</name>
    <email>kai.kunze@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>ICDAR 2013 Talk Slides Online</title>
+   <link href="http://kaikunze.de//research/2013/08/26/icdar-2013-talk-slides-online"/>
+   <updated>2013-08-26T00:00:00-04:00</updated>
+   <id>http://kaikunze.de//research/2013/08/26/icdar-2013-talk-slides-online</id>
+   <content type="html">&lt;p&gt;The slides for my two talks today are online now.&lt;/p&gt;
+
+&lt;h2 id='the_wordometer'&gt;The Wordometer&lt;/h2&gt;
+&lt;script class='speakerdeck-embed' data-id='05bef8c0f0aa01300a6d065f623bb37c' data-ratio='1.33333333333333' src='//speakerdeck.com/assets/embed.js'&gt;  &lt;/script&gt;
+&lt;h2 id='reading_activity_recognition_using_an_offtheshelf_eeg'&gt;Reading activity recognition using an off-the-shelf EEG&lt;/h2&gt;
+&lt;script class='speakerdeck-embed' data-id='8a535520f0a901304b9d56bebfa6c61b' data-ratio='1.33333333333333' src='//speakerdeck.com/assets/embed.js'&gt; &lt;/script&gt;
+&lt;p&gt;For more details, check out the papers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='/papers/2013Kunze-1.pdf'&gt;The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href='/papers/2013Kunze-2.pdf'&gt;Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They are both published at &lt;a href='http://icdar2013.org'&gt;ICDAR 2013&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Recognizing Reading Activities</title>
