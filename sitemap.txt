@@ -160,6 +160,7 @@ http://kaikunze.de//research.html
 http://kaikunze.de//rss.xml
 http://kaikunze.de//sitemap.txt
 
+http://kaikunze.de//conference/2013/09/06/excited-about-ubicomp-and-iswc
 http://kaikunze.de//research/2013/08/26/icdar-2013-talk-slides-online
 http://kaikunze.de//research/2013/08/23/recognizing-reading-activities
 http://kaikunze.de//research/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing
