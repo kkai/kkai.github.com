@@ -6,16 +6,16 @@
     <atom:link href="http://example.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Your Website</description>
     <language>en-us</language>
-    <pubDate>Fri, 27 Sep 2013 18:59:22 +0900</pubDate>
-    <lastBuildDate>Fri, 27 Sep 2013 18:59:22 +0900</lastBuildDate>
+    <pubDate>Fri, 27 Sep 2013 19:10:45 +0900</pubDate>
+    <lastBuildDate>Fri, 27 Sep 2013 19:10:45 +0900</lastBuildDate>
 
     
     <item>
       <title>A Week with Glass</title>
-      <link>http://example.com/living%20lab/2013/09/20/a-week-with-glass</link>
+      <link>http://example.com/research/2013/09/20/a-week-with-glass</link>
       <pubDate>Fri, 20 Sep 2013 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
-      <guid>http://example.com/living%20lab/2013/09/20/a-week-with-glass</guid>
+      <guid>http://example.com/research/2013/09/20/a-week-with-glass</guid>
       <description>&lt;p&gt;As there were a lot of researchers visiting for the Ubicomp /ISWC conferences, I could grab a Google Glass from one of the participants for a week. Thanks to the anonymous donor (to avoid speculations it was none of the people mentioned below). In the following some unsorted thoughts &amp;#8230; Sorry for typos etc. It&amp;#8217;s more a scratch pad so I don&amp;#8217;t forget the impressions I had.&lt;/p&gt;
 
 &lt;h2 id='first_impressions'&gt;First Impressions&lt;/h2&gt;

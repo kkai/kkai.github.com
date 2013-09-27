@@ -160,7 +160,7 @@ http://kaikunze.de//research.html
 http://kaikunze.de//rss.xml
 http://kaikunze.de//sitemap.txt
 
-http://kaikunze.de//living%20lab/2013/09/20/a-week-with-glass
+http://kaikunze.de//research/2013/09/20/a-week-with-glass
 http://kaikunze.de//conference/2013/09/15/ubicom-iswc-impressions
 http://kaikunze.de//conference/2013/09/06/excited-about-ubicomp-and-iswc
 http://kaikunze.de//research/2013/08/26/icdar-2013-talk-slides-online
