@@ -6,14 +6,126 @@
     <atom:link href="http://example.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Your Website</description>
     <language>en-us</language>
-    <pubDate>Sat, 07 Sep 2013 14:20:53 +0200</pubDate>
-    <lastBuildDate>Sat, 07 Sep 2013 14:20:53 +0200</lastBuildDate>
+    <pubDate>Fri, 27 Sep 2013 18:59:22 +0900</pubDate>
+    <lastBuildDate>Fri, 27 Sep 2013 18:59:22 +0900</lastBuildDate>
 
+    
+    <item>
+      <title>A Week with Glass</title>
+      <link>http://example.com/living%20lab/2013/09/20/a-week-with-glass</link>
+      <pubDate>Fri, 20 Sep 2013 00:00:00 +0900</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com/living%20lab/2013/09/20/a-week-with-glass</guid>
+      <description>&lt;p&gt;As there were a lot of researchers visiting for the Ubicomp /ISWC conferences, I could grab a Google Glass from one of the participants for a week. Thanks to the anonymous donor (to avoid speculations it was none of the people mentioned below). In the following some unsorted thoughts &amp;#8230; Sorry for typos etc. It&amp;#8217;s more a scratch pad so I don&amp;#8217;t forget the impressions I had.&lt;/p&gt;
+
+&lt;h2 id='first_impressions'&gt;First Impressions&lt;/h2&gt;
+
+&lt;p&gt;The Glass device feels expensive and a little bit futuristic. I&amp;#8217;m impressed by the build quality and design. It has also a &amp;#8220;google&amp;#8221; feel to it, e.g. &amp;#8220;funny&amp;#8221; jokes in the manual (&amp;#8220;don&amp;#8217;t use glass for scuba diving &amp;#8230;&amp;#8221;). The display works extremely well and although glass is made for micro-interactions (quickly checking an email/sms, google now updates, making pictures), I could watch videos and read longer emails/documents on it without trouble and any sight problems (NO headaches !). It would be perfect for boring meetings if other people could not see what you are doing &amp;#8230; I assume the Glass design team made the conscious decision, to let other people know if you interact with glass. People can see if the screen is on and even recognize what&amp;#8217;s on the screen if they get close enough.&lt;/p&gt;
+
+&lt;h2 id='grandparents_and_mother_with_google_glass'&gt;Grandparents and Mother with Google Glass&lt;/h2&gt;
+
+&lt;p&gt;I have a basic test for technology or research topics in general. I try to explain it to my grandparents and mother to see if they understand it and find it interesting. Various head-mounted displays, tablets and activity recognition algorithms were tested this way &amp;#8230; E.g. they were not so big fans of tablets/slates or smart phones until they played with an iPhone and iPad .. ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt='oma' src='/imgs/oma.jpg' /&gt; &lt;img alt='opa' src='/imgs/opa_sh.jpg' /&gt;&lt;/p&gt;
+
+&lt;p&gt;Surprisingly, my grandparents did not have the reservation they have towards other computing devices. Usually, they have the feeling that they could destroy something and are extra careful /hesitant. Yet, Google Glass looks like glasses, so it was easy for them to setup and use. The system worked quite well (although so far only English is supported), speech recognition and touch interface were simple to learn after a quick 5 min. introduction. I was surprised myself &amp;#8230;&lt;/p&gt;
+
+&lt;p&gt;Sadly, the speech interface does a poor job with German names, e.g. googleing for &amp;#8220;Apfelkuchen Rezept&amp;#8221; (Apple cake recipe) did not work as intended.&lt;/p&gt;
+
+&lt;p&gt;Yet, both of them saw potential in Glass and could imagine wearing it during the day. I was most astound by the application cases they came up with.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt='opa pills' src='/imgs/opa_pills.jpg' /&gt; &lt;img alt='opa pills glass' src='/imgs/opa_pills2.jpg' /&gt;&lt;/p&gt;
+
+&lt;p&gt;My grandfather took a picture of his pills he needs to take after each meal. He told me, he always wonders if he has taken them or not and sometimes checks 2-3 times after a meal to be certain. Taking a picture and using the touch panel to browse recent pictures (with timestamp), he can easily figure out when he took them the last time.&lt;/p&gt;
+
+&lt;p&gt;My grandmother would love to use Glass for gardening. It happens sometimes, that she gets a phone call during garden work and then she has to change shoes, take of gloves etc. and hurry to the portable phone. Additionally, she likes to get the advice of my mum or friends about where to put which flower seeds etc. so she asked me if it&amp;#8217;s possible to show the video stream from Glass to other people over the Internet :)&lt;/p&gt;
+
+&lt;p&gt;We also did a practise test, My grandmother and mother wore Glass during shopping in Karlsruhe. Both of them wear glasses, so not too many people noticed or looked at them. I think they assumed it&amp;#8217;s some kind of medical device or sight improvement etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt='oma ka' src='/imgs/oma2.jpg' /&gt; &lt;img alt='mum ka' src='/imgs/mum.jpg' /&gt;&lt;/p&gt;
+
+&lt;p&gt;My mother used the time line in glass to track when she made the pictures and traced back when she saw something nice to figure out at which store the item was. She tried taking pictures of price tags. Unfortunately, the resolution on the screen is not high enough to read the price, yet this could be easily fixed with a zoom function for pictures. Interestingly, she also carries a smart phone, yet she never got the idea to use it for shopping like Glass.&lt;/p&gt;
+
+&lt;h2 id='public_reactions'&gt;Public Reactions&lt;/h2&gt;
+
+&lt;p&gt;As mentioned my mum and grandmother wore Glass nearly unnoticed. This is quite different to my experience &amp;#8230; If I wear it in public, most people in Karlsruhe and Mannheim (the two cities I tried) eyed at me with wary faces (you can see the questions in their eyes : &amp;#8220;What is he wearing ?? Some medical device ?? NERD!! &amp;#8220;). This was particularly bad when I spoke with a clerk or a person directly, as they kept staring at Glass instead of looking into my eyes ;) Social reception was better when I was with my family. Strangely, people asked mostly my grandmother what I was wearing. Very few approached me directly. Reactions fell into 3 broad categories:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&amp;#8220;WOW Cool &amp;#8230; Glass! How is it? Can I try??&amp;#8221; &amp;#8211; &lt;em&gt;Note&lt;/em&gt; : Before it&amp;#8217;s released in public, I strongly recommend not wearing it on any campus with a larger IT faculty. I did not account for that and it was quite difficult to get over Karlsruhe University Campus :)&lt;/li&gt;
+
+&lt;li&gt;&amp;#8220;Stop violating my privacy!&amp;#8221; &amp;#8211; During the week I had only one person directly approach me about privacy concerns. The person was quite angry at first. I believe it&amp;#8217;s mostly due to misinformation (something Google needs to take serious), as he believed Glass would stream automatically everything to Google and listen to all the conversations etc.. After I showed him the functionality of the device, how to use it and how to see if somebody is using it, he was calmer and actually liked it (could see the potential of a wearable display).&lt;/li&gt;
+
+&lt;li&gt;&amp;#8220;What&amp;#8217;s wrong with this guy?&amp;#8221; &amp;#8211; Especially if I was traveling alone people stared at me. I asked 1 or 2 of the most obnoxious persons starring at me about it and they answered they thought I was wearing a medical device and they wondered &amp;#8220;what&amp;#8217;s wrong with me&amp;#8221; as I looked otherwise &amp;#8220;normal&amp;#8221;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id='some_issues'&gt;Some Issues&lt;/h2&gt;
+
+&lt;p&gt;The 3 biggest issues I had with it:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Weight and placement - You need to get used to its weight. As I&amp;#8217;m not wearing prescription glasses, it feels strange to me wearing something on my nose. It&amp;#8217;s definitely heavier than glasses. After a couple of hours it is ok. Also it&amp;#8217;s always in your peripheral view, you need to get used to it.&lt;/li&gt;
+
+&lt;li&gt;Battery life - Ok, I played a lot with it, given I could use Glass only for a week. At the end (when me playing with it got fewer) I could get barely a day of usage. I expect that&amp;#8217;s something they can easily fix. Pst&amp;#8230; you can also plug-in a portable USB battery to charge during usage :)&lt;/li&gt;
+
+&lt;li&gt;Social acceptance - This is the hardest one to crack. Having used Glass, I don&amp;#8217;t understand most of the privacy fears people raise. It&amp;#8217;s very obvious if a person is using the device/taking a picture etc. If I want to take covert pictures/videos of people, I believe it&amp;#8217;s easier to do with today&amp;#8217;s smart phones or spy cameras (available on Amazon for example) &amp;#8230;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id='some_more_context'&gt;Some more Context&lt;/h2&gt;
+
+&lt;p&gt;When I unboxed Glass, I remembered how Paul, my phD. advisor, and Thad (Glass project manager) chatted about how in future everybody would wear some kind of head-mounted display and a computing device always connected to the Internet, helping us with everyday tasks - augmentations to our brain.&lt;/p&gt;
+
+&lt;p&gt;In the past, Paul was not a huge enthusiast about wearable displays and I agreed with him. I attempted to use the &lt;a href='https://en.wikipedia.org/wiki/Optical_head-mounted_display#MicroOptical_.2F_MyVu'&gt;MicroOptical&lt;/a&gt; (the display used by Thad) several times and had always terrible headaches afterwards &amp;#8230; Just not for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt='Me' src='/imgs/me.jpg' /&gt;&lt;/p&gt;
+
+&lt;p&gt;Around 2004 - 2010, I played with various wearable setups to use during everyday life during my phD. each only for a week or couple of days. If you work on wearable computing you have to try at least :) As seen in the picture above, the only setup working for me was a Prototype HMD from Zeiss with the &lt;a href='http://www.qbic.ethz.ch'&gt;Qbic&lt;/a&gt;, an awesome belt-integrated linux pc by ETH (black belt buckle in the picture), and &lt;a href='http://www.handykey.com'&gt;Twiddler 2&lt;/a&gt;. Yet, I stopped using it as the glasses were quite heavy, maintaining/adjusting the software was a hassle (compared to the advantages) and -I have to admit- due to social pressure, imagine living as a cyborg in a small Bavarian town, mostly occupied by law and business students &amp;#8230; I found my small, black, analog notebook more handy and less intimidating to other people. Today, I&amp;#8217;m an avid iPhone user (Things, Clear, Habit List, Textastic, Prompt and Lendromat &amp;#8230;).&lt;/p&gt;
+
+&lt;h2 id='to_sum_up'&gt;To sum up&lt;/h2&gt;
+
+&lt;p&gt;In total I was quite sceptical at first, the design reminded me too much on the Microoptical and the headaches I got using it. Completely unfounded! Even given the social acceptance issue, I cannot wait to get Glass for a longer test. However, I really need a good note taking app, running vim on glass would already be a selling point for me, replacing my black notebook (and maybe smart phone?). I undusted my Twiddler2 (took a long time to find it in the cellar) with hacked bluetooth connection, started practicing again and hope I can try it soon with Vim for Glass :D This is definitely not an application case for the mass market &amp;#8230; My grandparents told me that they believe there is a broader demand for such a device also by &amp;#8220;normal&amp;#8221; people (they actually want to use it!). So let&amp;#8217;s see :)&lt;/p&gt;
+
+&lt;p&gt;Plus the researcher in my cannot wait to get easy accessible motion sensors onto the heads of a lot of people. Combined with the sensors in your pocket it&amp;#8217;s activity recognition heaven!&lt;/p&gt;
+
+&lt;p&gt;Let&amp;#8217;s discuss on Hacker News if you want.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ubicomp ISWC Impressions</title>
+      <link>http://example.com/conference/2013/09/15/ubicom-iswc-impressions</link>
+      <pubDate>Sun, 15 Sep 2013 00:00:00 +0900</pubDate>
+      <author>you@example.com (Your Name)</author>
+      <guid>http://example.com/conference/2013/09/15/ubicom-iswc-impressions</guid>
+      <description>&lt;p&gt;Usually, I&amp;#8217;m not such a big fan of conference openings, yet Friedemann Mattern provided a great intro giving an overview about the origins of Pervasive and Ubicom mentioning all important people and showing nice vintage pictures from Hans Gellersen, Alois Ferscha, Marc Langheinrich, Albrecht Schmidt, Kristof Van Laerhoven etc.&lt;/p&gt;
+
+&lt;p&gt;Deeply impressed by the organization, social and general talk quality, I was a bit sceptical before the merger of Pervasive / Ubicom and collocating ISWC, yet it was completely unfounded.&lt;/p&gt;
+
+&lt;p&gt;We got some great feedback for Kazuma&amp;#8217;s and Shoya&amp;#8217;s demos. They both did a great job introducing their work about:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href='/papers/2013Kunze-4.pdf'&gt;Eyetracking on common Tablets/Phones&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;a href='/papers/2013Kunze-3.pdf'&gt;Real-Time Document Image Retrieval On Mobile Devices&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We got also a lof of interest and feedback to Andreas Bulling&amp;#8217;s and my work about recognizing document types using only eye gaze. By the way, below are the talk slides and the abstract of the paper.&lt;/p&gt;
+
+&lt;h2 id='iswc_talk_slides'&gt;ISWC Talk Slides&lt;/h2&gt;
+&lt;script class='speakerdeck-embed' data-id='a0f70c60fdc20130468e062acf92b5fe' data-ratio='1.33333333333333' src='//speakerdeck.com/assets/embed.js'&gt;  &lt;/script&gt;
+&lt;h2 id='abstract'&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Reading is a ubiquitous activity that many people even per- form in transit, such as while on the bus or while walking. Tracking reading enables us to gain more insights about ex- pertise level and potential knowledge of users – towards a reading log tracking and improve knowledge acquisition. As a first step towards this vision, in this work we investigate whether different document types can be automatically de- tected from visual behaviour recorded using a mobile eye tracker. We present an initial recognition approach that com- bines special purpose eye movement features as well as ma- chine learning for document type detection. We evaluate our approach in a user study with eight participants and five Japanese document types and achieve a recognition perfor- mance of 74% using user-independent training.&lt;/p&gt;
+
+&lt;p&gt;Full paper link: &lt;a href='/papers/2013Kunze-5.pdf'&gt;I know what you are reading – Recognition of Document Types Using Mobile Eye Tracking&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Excited about Ubicomp and ISWC</title>
       <link>http://example.com/conference/2013/09/06/excited-about-ubicomp-and-iswc</link>
-      <pubDate>Fri, 06 Sep 2013 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 06 Sep 2013 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/conference/2013/09/06/excited-about-ubicomp-and-iswc</guid>
       <description>&lt;p&gt;This year I&amp;#8217;m really looking forward to &lt;a href='http://ubicomp.org'&gt;Ubicomp&lt;/a&gt; and &lt;a href='http://iswc.net'&gt;ISWC&lt;/a&gt;, it&amp;#8217;s the first time that Ubicomp and Pervasive merged into one conference and it&amp;#8217;s the first time the venue sold out with 700 participants.&lt;/p&gt;
@@ -48,7 +160,7 @@
     <item>
       <title>ICDAR 2013 Talk Slides Online</title>
       <link>http://example.com/research/2013/08/26/icdar-2013-talk-slides-online</link>
-      <pubDate>Mon, 26 Aug 2013 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 26 Aug 2013 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/research/2013/08/26/icdar-2013-talk-slides-online</guid>
       <description>&lt;p&gt;The slides for my two talks today are online now.&lt;/p&gt;
@@ -71,7 +183,7 @@
     <item>
       <title>Recognizing Reading Activities</title>
       <link>http://example.com/research/2013/08/23/recognizing-reading-activities</link>
-      <pubDate>Fri, 23 Aug 2013 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 23 Aug 2013 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/research/2013/08/23/recognizing-reading-activities</guid>
       <description>&lt;script class='speakerdeck-embed' data-id='e9181bd0ee3501308d2a1ad4cad5346c' data-ratio='1.2994923857868' src='//speakerdeck.com/assets/embed.js'&gt; &lt;/script&gt;
@@ -95,7 +207,7 @@
     <item>
       <title>Wordometer and Document Analysis using Pervasive Sensing</title>
       <link>http://example.com/research/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing</link>
-      <pubDate>Tue, 20 Aug 2013 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 20 Aug 2013 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/research/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing</guid>
       <description>&lt;p&gt;&lt;img alt='wordometer' src='/imgs/wordometer.png' /&gt; In the last couple of months, I got more and more interested in learning, especially reading. Loving tech and sports, I got easily hooked on the Quantified Self movement (I own a Zeo Sleeping Coach and several step counters). Seeing how measuring myself transformed me. I lost around 4 kg and feel healthier/fitter, since I started tracking. I wonder why we don&amp;#8217;t have similar tools for our learning behavior.&lt;/p&gt;
@@ -134,7 +246,7 @@
     <item>
       <title>Kai @ CHI</title>
       <link>http://example.com/conference/2013/04/29/kai-%40-chi</link>
-      <pubDate>Mon, 29 Apr 2013 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/conference/2013/04/29/kai-@-chi</guid>
       <description>&lt;p&gt;So it&amp;#8217;s my first time at &lt;a href='http://chi2013.acm.org'&gt;CHI&lt;/a&gt;. Pretty amazing so far &amp;#8230; Will blog about more later.&lt;/p&gt;
@@ -151,7 +263,7 @@
     <item>
       <title>Activity Recognition Dagstuhl Report Online</title>
       <link>http://example.com/research/2013/04/24/ar-dagstuhl-report-online</link>
-      <pubDate>Wed, 24 Apr 2013 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/research/2013/04/24/ar-dagstuhl-report-online</guid>
       <description>&lt;p&gt;If you wonder how we spent German tax money, the summary of the Activity Recognition Dagstuhl seminar is now online.&lt;/p&gt;
@@ -166,7 +278,7 @@
     <item>
       <title>Some of my favorites from the 29c3 recordings</title>
       <link>http://example.com/2013/02/06/some-of-my-favorites-from-the-29c3-recordings</link>
-      <pubDate>Wed, 06 Feb 2013 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/2013/02/06/some-of-my-favorites-from-the-29c3-recordings</guid>
       <description>&lt;p&gt;Over the last weeks, I finally got around to watch some of the &lt;a href='https://events.ccc.de/congress/2012/wiki/Main_Page'&gt;29c3&lt;/a&gt; recordings. Here are some of my favorites. I will update the list accordingly.&lt;/p&gt;
@@ -197,7 +309,7 @@
     <item>
       <title>ACM Multimedia 2012 Main Conference Notes</title>
       <link>http://example.com/conferences/2012/10/31/acm-multimedia-2012-day-2-notes</link>
-      <pubDate>Wed, 31 Oct 2012 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/conferences/2012/10/31/acm-multimedia-2012-day-2-notes</guid>
       <description>&lt;p&gt;This is a scratchpad &amp;#8230; will fill the rest when I have time.&lt;/p&gt;
@@ -232,7 +344,7 @@
     <item>
       <title>ACM Multimedia 2012 Tutorials and Workshops</title>
       <link>http://example.com/conferences/2012/10/29/acm-multimedia-2012-day-1-notes</link>
-      <pubDate>Mon, 29 Oct 2012 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/conferences/2012/10/29/acm-multimedia-2012-day-1-notes</guid>
       <description>&lt;p&gt;I attended the Tutorials &amp;#8220;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&amp;#8221; and &amp;#8220;Continuous Analysis of Emotions for Multimedia Applications&amp;#8221; on the first day.&lt;/p&gt;
@@ -277,7 +389,7 @@
     <item>
       <title>Laughing Faces App in the AppStore</title>
       <link>http://example.com/hacking/2012/08/30/laughing-faces-app-in-the-appstore</link>
-      <pubDate>Thu, 30 Aug 2012 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 30 Aug 2012 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/hacking/2012/08/30/laughing-faces-app-in-the-appstore</guid>
       <description>&lt;p&gt;Over the last couple of weeks, I was getting settled in my new job. As I&amp;#8217;m working with &lt;a href='http://imlab.jp'&gt;computer vision researchers&lt;/a&gt; now, I started playing with the camera api for the iPhone.&lt;/p&gt;
@@ -298,7 +410,7 @@
     <item>
       <title>AAAI activity context workshop notes</title>
       <link>http://example.com/scratchpad/2012/07/26/aaai-activity-context-workshop-notes</link>
-      <pubDate>Thu, 26 Jul 2012 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 26 Jul 2012 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/scratchpad/2012/07/26/aaai-activity-context-workshop-notes</guid>
       <description>&lt;p&gt;I enjoyed the AAAI context activity workshop a lot.&lt;/p&gt;
@@ -319,7 +431,7 @@
     <item>
       <title>Towards Dynamically Configurable Context Recognition Systems</title>
       <link>http://example.com/publication/2012/07/09/draft-version-of-aaai-workshop-paper-online</link>
-      <pubDate>Mon, 09 Jul 2012 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 09 Jul 2012 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/publication/2012/07/09/draft-version-of-aaai-workshop-paper-online</guid>
       <description>&lt;p&gt;Here&amp;#8217;s a &lt;a href='http://kaikunze.de/papers/2012Kunze.pdf'&gt;draft version of my publication&lt;/a&gt; for the &lt;a href='http://activitycontext.org/'&gt;Activity Context Workshop&lt;/a&gt; in Toronto. Bellow the abstract.&lt;/p&gt;
@@ -336,7 +448,7 @@
     <item>
       <title>Some of my publications are online</title>
       <link>http://example.com/publication/2012/07/08/some-of-my-publications-are-online</link>
-      <pubDate>Sun, 08 Jul 2012 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 08 Jul 2012 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/publication/2012/07/08/some-of-my-publications-are-online</guid>
       <description>&lt;p&gt;I&amp;#8217;m slowly uploading a couple of references and the pdf draft versions of them. Please find some of my &lt;a href='http://kaikunze.de/publications.html'&gt;publications&lt;/a&gt; in the corresponding section of this website.&lt;/p&gt;
@@ -347,7 +459,7 @@
     <item>
       <title>Compensating for On-body Placement Effects in Activity Recognition</title>
       <link>http://example.com/publication/2012/07/07/phd-thesis-sources-on-github</link>
-      <pubDate>Sat, 07 Jul 2012 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 07 Jul 2012 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/publication/2012/07/07/phd-thesis-sources-on-github</guid>
       <description>&lt;p&gt;Finished my phD. last year in Passau. The thesis is already published over &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/'&gt;Opus Bayern&lt;/a&gt;. The pdf is open access, so feel free to read it (careful 19 MB pdf): &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf'&gt;Compensating for On-Body Placement Effects in Activity Recognition as pdf&lt;/a&gt;&lt;/p&gt;
@@ -371,7 +483,7 @@
     <item>
       <title>Using device motion in html/javascript</title>
       <link>http://example.com/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript</link>
-      <pubDate>Mon, 18 Jun 2012 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0900</pubDate>
       <author>you@example.com (Your Name)</author>
       <guid>http://example.com/hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript</guid>
       <description>&lt;p&gt;A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red cube is shown on the screen (placed between randomly generated cubes). The transparent area around the cube changes depending on how strong one shakes the phone.&lt;/p&gt;
