@@ -1,196 +1,257 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
+
  <title>Kai Kunze</title>
- <link href="http://kaikunze.de//atom.xml" rel="self"/>
+ <link href="http://kaikunze.de/atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2013-09-28T12:24:29+09:00</updated>
- <id>http://kaikunze.de/</id>
+ <updated>2013-11-02T23:16:13+09:00</updated>
+ <id>http://kaikunze.de</id>
  <author>
    <name>Kai Kunze</name>
-   <email>kai.kunze@gmail.com</email>
  </author>
 
  
  <entry>
    <title>A Week with Glass</title>
-   <link href="http://kaikunze.de//research/2013/09/20/a-week-with-glass"/>
+   <link href="http://kaikunze.de/posts/a-week-with-glass"/>
    <updated>2013-09-20T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//research/2013/09/20/a-week-with-glass</id>
-   <content type="html">&lt;p&gt;As there were a lot of researchers visiting for the Ubicomp /ISWC conferences, I could grab a Google Glass from one of the participants for a week. Thanks to the anonymous donor (to avoid speculations it was none of the people mentioned below). In the following some unsorted thoughts &amp;#8230; Sorry for typos etc. It&amp;#8217;s more a scratch pad so I don&amp;#8217;t forget the impressions I had.&lt;/p&gt;
+   <id>http://kaikunze.de/posts/a-week-with-glass</id>
+   <content type="html">&lt;p class=&quot;lead&quot;&gt; How my grandparents interact with GLASS, showed me that Google seems to be onto something. &lt;/p&gt;
 
-&lt;h2 id='first_impressions'&gt;First Impressions&lt;/h2&gt;
 
-&lt;p&gt;The Glass device feels expensive and a little bit futuristic. I&amp;#8217;m impressed by the build quality and design. It has also a &amp;#8220;google&amp;#8221; feel to it, e.g. &amp;#8220;funny&amp;#8221; jokes in the manual (&amp;#8220;don&amp;#8217;t use glass for scuba diving &amp;#8230;&amp;#8221;). The display works extremely well and although glass is made for micro-interactions (quickly checking an email/sms, google now updates, making pictures), I could watch videos and read longer emails/documents on it without trouble and any sight problems (I experienced no headaches as happend with other setups, see below). It would be perfect for boring meetings if other people could not see what you are doing &amp;#8230; I assume the Glass design team made the conscious decision, to let other people know if you interact with glass. People can see if the screen is on and even recognize what&amp;#8217;s on the screen if they get close enough.&lt;/p&gt;
+&lt;p&gt;As there were a lot of researchers visiting for the Ubicomp /ISWC conferences, I could grab a Google Glass from one of the participants for a week. Thanks to the anonymous
+donor (to avoid speculations it was none of the people mentioned below).
+In the following some unsorted thoughts &amp;hellip; Sorry for typos etc. It&amp;rsquo;s more a scratch pad so I don&amp;rsquo;t forget the impressions I had.&lt;/p&gt;
 
-&lt;h2 id='grandparents_and_mother_with_google_glass'&gt;Grandparents and Mother with Google Glass&lt;/h2&gt;
+&lt;h2&gt;First Impressions&lt;/h2&gt;
 
-&lt;p&gt;I have a basic test for technology or research topics in general. I try to explain it to my grandparents and mother to see if they understand it and find it interesting. Various head-mounted displays, tablets and activity recognition algorithms were tested this way &amp;#8230; E.g. they were not so big fans of tablets/slates or smart phones until they played with an iPhone and iPad.&lt;/p&gt;
+&lt;p&gt;The Glass device feels expensive and a little bit futuristic.
+I&amp;rsquo;m impressed by the build quality and design. It has also a &amp;ldquo;google&amp;rdquo; feel to it, e.g. &amp;ldquo;funny&amp;rdquo; jokes in the manual (&amp;ldquo;don&amp;rsquo;t use glass for scuba diving &amp;hellip;&amp;rdquo;).
+The display works extremely well and although glass is made for micro-interactions (quickly checking an email/sms, google now updates, making pictures), I could watch videos and read longer emails/documents on it without trouble and any sight problems (I experienced no headaches as happend with other setups, see below). It would be perfect for boring meetings if other people could not see what you are doing &amp;hellip;
+I assume the Glass design team made the conscious decision, to let other people know if you interact with glass. People can see if the screen is on and even recognize what&amp;rsquo;s on the screen if they get close enough.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt='oma' src='/imgs/oma.jpg' /&gt; &lt;img alt='opa' src='/imgs/opa_sh.jpg' /&gt;&lt;/p&gt;
+&lt;h2&gt;Grandparents and Mother with Google Glass&lt;/h2&gt;
 
-&lt;p&gt;Surprisingly, my grandparents did not have the reservation they have towards other computing devices. Usually, they have the feeling that they could destroy something and are extra careful/hesitant. Yet, Google Glass looks like glasses, so it was easy for them to setup and use. The system worked quite well (although so far only English is supported), speech recognition and touch interface were simple to learn after a quick 5 min. introduction. I was surprised myself &amp;#8230;&lt;/p&gt;
+&lt;p&gt;I have a basic test for technology or research topics in general.
+I try to explain it to my grandparents and mother to see if they understand it and find it interesting.
+Various head-mounted displays, tablets and activity recognition algorithms were tested this way &amp;hellip;
+E.g. they were not so big fans of tablets/slates or smart phones until they played with an iPhone and iPad.&lt;/p&gt;
 
-&lt;p&gt;Sadly, the speech interface does a poor job with German names, e.g. googleing for &amp;#8220;Apfelkuchen Rezept&amp;#8221; (Apple cake recipe) did not work as intended.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/imgs/oma.jpg&quot; alt=&quot;oma&quot; /&gt;
+&lt;img src=&quot;/imgs/opa_sh.jpg&quot; alt=&quot;opa&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Yet, both of them saw potential in Glass and could imagine wearing it during the day. I was most astound by the application cases they came up with.&lt;/p&gt;
+&lt;p&gt;Surprisingly, my grandparents did not have the reservation they have towards other computing devices.
+Usually, they have the feeling that they could destroy something and are extra careful/hesitant.
+Yet, Google Glass looks like glasses, so it was easy for them to setup and use.
+The system worked quite well (although so far only English is supported), speech recognition
+and touch interface were simple to learn after a quick 5 min. introduction. I was surprised myself &amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt='opa pills' src='/imgs/opa_pills.jpg' /&gt;&lt;/p&gt;
+&lt;p&gt;Sadly, the speech interface does a poor job with German names, e.g. googleing for &amp;ldquo;Apfelkuchen Rezept&amp;rdquo; (Apple cake recipe) did not work as intended.&lt;/p&gt;
 
-&lt;p&gt;My grandfather took a picture of his pills he needs to take after each meal. He told me, he always wonders if he has taken them or not and sometimes checks 2-3 times after a meal to be certain. Taking a picture and using the touch panel to browse recent pictures (with timestamp), he can easily figure out when he took them the last time.&lt;/p&gt;
+&lt;p&gt;Yet, both of them saw potential in Glass and could imagine wearing it during the day.
+I was most astound by the application cases they came up with.&lt;/p&gt;
 
-&lt;p&gt;My grandmother would love to use Glass for gardening. It happens sometimes, that she gets a phone call during garden work and then she has to change shoes, take of gloves etc. and hurry to the portable phone. Additionally, she likes to get the advice of my mum or friends about where to put which flower seeds etc. so she asked me if it&amp;#8217;s possible to show the video stream from Glass to other people over the Internet :)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/imgs/opa_pills.jpg&quot; alt=&quot;opa pills&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We also did a practise test, My grandmother and mother wore Glass during shopping in Karlsruhe. Both of them wear glasses, so not too many people noticed or looked at them. I think they assumed it&amp;#8217;s some kind of medical device or sight improvement etc.&lt;/p&gt;
+&lt;p&gt;My grandfather took a picture of his pills he needs to take after each meal.
+He told me, he always wonders if he has taken them or not and sometimes checks 2-3 times after
+a meal to be certain. Taking a picture and using the touch panel to browse recent pictures (with timestamp), he can easily figure out when he took them the last time.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt='oma ka' src='/imgs/oma2.jpg' /&gt; &lt;img alt='mum ka' src='/imgs/mum.jpg' /&gt;&lt;/p&gt;
+&lt;p&gt;My grandmother would love to use Glass for gardening. It happens sometimes, that she gets a
+phone call during garden work and then she has to change shoes, take of gloves etc. and hurry
+to the portable phone. Additionally, she likes to get the advice of my mum or friends about
+where to put which flower seeds etc. so she asked me if it&amp;rsquo;s possible to show the video stream from
+Glass to other people over the Internet :)&lt;/p&gt;
 
-&lt;p&gt;My mother used the time line in glass to track when she made the pictures and traced back when she saw something nice to figure out at which store the item was. She tried taking pictures of price tags. Unfortunately, the resolution on the screen is not high enough to read the price, yet this could be easily fixed with a zoom function for pictures. Interestingly, she also carries a smart phone, yet she never got the idea to use it for shopping like Glass.&lt;/p&gt;
+&lt;p&gt;We also did a practise test, My grandmother and mother wore Glass during shopping in Karlsruhe.
+Both of them wear glasses, so not too many people noticed or looked at them. I think they assumed it&amp;rsquo;s some kind of medical device or sight improvement etc.&lt;/p&gt;
 
-&lt;h2 id='public_reactions'&gt;Public Reactions&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/imgs/oma2.jpg&quot; alt=&quot;oma ka&quot; /&gt;
+&lt;img src=&quot;/imgs/mum.jpg&quot; alt=&quot;mum ka&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;As mentioned my mum and grandmother wore Glass nearly unnoticed. This is quite different to my experience &amp;#8230; If I wear it in public, most people in Karlsruhe and Mannheim (the two cities I tried) eyed at me with wary faces (you can see the questions in their eyes : &amp;#8220;What is he wearing ?? Some medical device ?? NERD!! &amp;#8220;). This was particularly bad when I spoke with a clerk or a person directly, as they kept staring at Glass instead of looking into my eyes ;) Social reception was better when I was with my family. Strangely, people asked mostly my grandmother what I was wearing. Very few approached me directly. Reactions fell into 3 broad categories:&lt;/p&gt;
+&lt;p&gt;My mother used the time line in glass to track when she made the pictures and traced back when she saw something nice to figure out at which store the item was. She tried taking pictures of price tags. Unfortunately, the resolution on the screen is not high enough
+to read the price, yet this could be easily fixed with a zoom function for pictures.
+Interestingly, she also carries a smart phone, yet she never got the idea to use it for shopping like Glass.&lt;/p&gt;
+
+&lt;h2&gt;Public Reactions&lt;/h2&gt;
+
+&lt;p&gt;As mentioned my mum and grandmother wore Glass nearly unnoticed.
+This is quite different to my experience &amp;hellip; If I wear it in public, most people in Karlsruhe
+and Mannheim (the two cities I tried) eyed at me with wary faces (you can see the questions in their eyes : &amp;ldquo;What is he wearing ?? Some medical device ?? NERD!! &amp;rdquo;). This was particularly bad
+when I spoke with a clerk or a person directly, as they kept staring at Glass instead of looking into my eyes ;)
+Social reception was better when I was with my family. Strangely, people asked mostly my grandmother
+what I was wearing. Very few approached me directly.
+Reactions fell into 3 broad categories:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&amp;#8220;WOW Cool &amp;#8230; Glass! How is it? Can I try??&amp;#8221; &amp;#8211; &lt;em&gt;Note&lt;/em&gt; : Before it&amp;#8217;s released in public, I strongly recommend not wearing it on any campus with a larger IT faculty. I did not account for that and it was quite difficult to get over Karlsruhe University Campus :)&lt;/li&gt;
-
-&lt;li&gt;&amp;#8220;Stop violating my privacy!&amp;#8221; &amp;#8211; During the week I had only one person directly approach me about privacy concerns. The person was quite angry at first. I believe it&amp;#8217;s mostly due to misinformation (something Google needs to take serious), as he believed Glass would stream automatically everything to Google and listen to all the conversations etc.. After I showed him the functionality of the device, how to use it and how to see if somebody is using it, he was calmer and actually liked it (could see the potential of a wearable display).&lt;/li&gt;
-
-&lt;li&gt;&amp;#8220;What&amp;#8217;s wrong with this guy?&amp;#8221; &amp;#8211; Especially if I was traveling alone people stared at me. I asked 1 or 2 of the most obnoxious persons starring at me about it and they answered they thought I was wearing a medical device and they wondered &amp;#8220;what&amp;#8217;s wrong with me&amp;#8221; as I looked otherwise &amp;#8220;normal&amp;#8221;.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;WOW Cool &amp;hellip; Glass! How is it? Can I try??&amp;rdquo; &amp;mdash; &lt;em&gt;Note&lt;/em&gt; : Before it&amp;rsquo;s released in public, I strongly recommend not wearing it on any campus with a larger IT faculty. I did not account for that and it was quite difficult to get over Karlsruhe University Campus :)&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Stop violating my privacy!&amp;rdquo; &amp;mdash; During the week I had only one person directly approach me about privacy concerns. The person was quite angry at first. I believe it&amp;rsquo;s mostly due to misinformation (something Google needs to take serious), as he believed Glass would stream automatically everything to Google and listen to all the conversations etc.. After I showed him the functionality of the device, how to use it and how to see if somebody is using it, he was calmer and actually liked it (could see the potential of a wearable display).&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;What&amp;rsquo;s wrong with this guy?&amp;rdquo; &amp;mdash; Especially if I was traveling alone people stared at me. I asked 1 or 2 of the most obnoxious persons starring at me about it and they answered they thought I was wearing a medical device and they wondered &amp;ldquo;what&amp;rsquo;s wrong with me&amp;rdquo; as I looked otherwise &amp;ldquo;normal&amp;rdquo;.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id='some_issues'&gt;Some Issues&lt;/h2&gt;
+
+&lt;h2&gt;Some Issues&lt;/h2&gt;
 
 &lt;p&gt;The 3 biggest issues I had with it:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Weight and placement - You need to get used to its weight. As I&amp;#8217;m not wearing prescription glasses, it feels strange to me wearing something on my nose. It&amp;#8217;s definitely heavier than glasses. After a couple of hours it is ok. Also it&amp;#8217;s always in your peripheral view, you need to get used to it.&lt;/li&gt;
-
-&lt;li&gt;Battery life - Ok, I played a lot with it, given I could use Glass only for a week. At the end (when me playing with it got fewer) I could get barely a day of usage. I expect that&amp;#8217;s something they can easily fix. Pst&amp;#8230; you can also plug-in a portable USB battery to charge during usage :)&lt;/li&gt;
-
-&lt;li&gt;Social acceptance - This is the hardest one to crack. Having used Glass, I don&amp;#8217;t understand most of the privacy fears people raise. It&amp;#8217;s very obvious if a person is using the device/taking a picture etc. If I want to take covert pictures/videos of people, I believe it&amp;#8217;s easier to do with today&amp;#8217;s smart phones or spy cameras (available on Amazon for example) &amp;#8230;&lt;/li&gt;
+&lt;li&gt;Weight and placement &amp;ndash; You need to get used to its weight. As I&amp;rsquo;m not wearing prescription glasses, it feels strange to me wearing something on my nose. It&amp;rsquo;s definitely heavier than glasses. After a couple of hours it is ok. Also it&amp;rsquo;s always in your peripheral view, you need to get used to it.&lt;/li&gt;
+&lt;li&gt;Battery life &amp;ndash; Ok, I played a lot with it, given I could use Glass only for a week. At the end (when me playing with it got fewer) I could get barely a day of usage. I expect that&amp;rsquo;s something they can easily fix. Pst&amp;hellip; you can also plug-in a portable USB battery to charge during usage :)&lt;/li&gt;
+&lt;li&gt;Social acceptance &amp;ndash; This is the hardest one to crack. Having used Glass, I don&amp;rsquo;t understand most of the privacy fears people raise. It&amp;rsquo;s very obvious if a person is using the device/taking a picture etc. If I want to take covert pictures/videos of people, I believe it&amp;rsquo;s easier to do with today&amp;rsquo;s smart phones or spy cameras (available on Amazon for example) &amp;hellip;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id='some_more_context'&gt;Some more Context&lt;/h2&gt;
 
-&lt;p&gt;When I unboxed Glass, I remembered how Paul, my phD. advisor, and Thad (Glass project manager) chatted about how in future everybody would wear some kind of head-mounted display and a computing device always connected to the Internet, helping us with everyday tasks - augmentations to our brain.&lt;/p&gt;
+&lt;h2&gt;Some more Context&lt;/h2&gt;
 
-&lt;p&gt;In the past, Paul was not a huge enthusiast about wearable displays and I agreed with him. I attempted to use the &lt;a href='https://en.wikipedia.org/wiki/Optical_head-mounted_display#MicroOptical_.2F_MyVu'&gt;MicroOptical&lt;/a&gt; (the display used by Thad) several times and had always terrible headaches afterwards &amp;#8230; Just not for me.&lt;/p&gt;
+&lt;p&gt;When I unboxed Glass, I remembered how Paul, my phD. advisor, and Thad (Glass project manager)
+chatted about how in future everybody would wear some kind of head-mounted
+display and a computing device always connected to the
+Internet, helping us with everyday tasks &amp;ndash; augmentations
+to our brain.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt='Me' src='/imgs/me.jpg' /&gt;&lt;/p&gt;
+&lt;p&gt;In the past, Paul was not a huge enthusiast about wearable displays and I agreed
+with him. I attempted to use the &lt;a href=&quot;https://en.wikipedia.org/wiki/Optical_head-mounted_display#MicroOptical_.2F_MyVu&quot;&gt;MicroOptical&lt;/a&gt; (the display used by Thad) several times and had always terrible headaches afterwards &amp;hellip; Just not for me.&lt;/p&gt;
 
-&lt;p&gt;Around 2004 - 2010, I played with various wearable setups to use during everyday life during my phD. each only for a week or couple of days. If you work on wearable computing you have to try at least. As seen in the picture above, the only setup working for me was a Prototype HMD from Zeiss with the &lt;a href='http://www.qbic.ethz.ch'&gt;Qbic&lt;/a&gt;, an awesome belt-integrated linux pc by ETH (black belt buckle in the picture), and &lt;a href='http://www.handykey.com'&gt;Twiddler 2&lt;/a&gt;. Yet, I stopped using it as the glasses were quite heavy, maintaining/adjusting the software was a hassle (compared to the advantages) and -I have to admit- due to social pressure, imagine living as a cyborg in a small Bavarian town, mostly occupied by law and business students &amp;#8230; I found my small, black, analog notebook more handy and less intimidating to other people. Today, I&amp;#8217;m an avid iPhone user (Things, Clear, Habit List, Textastic, Prompt and Lendromat &amp;#8230;).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/imgs/me.jpg&quot; alt=&quot;Me&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id='to_sum_up'&gt;To sum up&lt;/h2&gt;
+&lt;p&gt;Around 2004 &amp;ndash; 2010, I played with various wearable setups to use during everyday life during my phD. each only for a week or couple of days. If you work on wearable computing you have to try at least. As seen in the picture above, the only setup working for me was a Prototype HMD from Zeiss with the
+&lt;a href=&quot;http://www.qbic.ethz.ch&quot;&gt;Qbic&lt;/a&gt;, an awesome belt-integrated linux pc by ETH (black belt buckle in the picture), and &lt;a href=&quot;http://www.handykey.com&quot;&gt;Twiddler 2&lt;/a&gt;. Yet, I stopped using it as the glasses were quite heavy, maintaining/adjusting the software was a hassle (compared to the advantages) and -I have to admit- due to social pressure, imagine living as a cyborg in a small Bavarian town, mostly occupied by law and business students &amp;hellip; I found my small, black, analog notebook more handy and less intimidating to other people. Today, I&amp;rsquo;m an avid iPhone user (Things, Clear, Habit List, Textastic, Prompt and Lendromat  &amp;hellip;).&lt;/p&gt;
 
-&lt;p&gt;In total I was quite sceptical at first, the design reminded me too much on the Microoptical and the headaches I got using it. Completely unfounded! Even given the social acceptance issue, I cannot wait to get Glass for a longer test. However, I really need a good note taking app, running vim on glass would already be a selling point for me, replacing my black notebook (and maybe smart phone?). I undusted my Twiddler2 (took a long time to find it in the cellar) with hacked bluetooth connection, started practicing again and hope I can try it soon with Vim for Glass :D This is definitely not an application case for the mass market &amp;#8230; My grandparents told me that they believe there is a broader demand for such a device also by &amp;#8220;normal&amp;#8221; people (they actually want to use it!). So let&amp;#8217;s see.&lt;/p&gt;
+&lt;h2&gt;To sum up&lt;/h2&gt;
 
-&lt;p&gt;Plus the researcher in my cannot wait to get easy accessible motion sensors onto the heads of a lot of people. Combined with the sensors in your pocket it&amp;#8217;s activity recognition heaven!&lt;/p&gt;
+&lt;p&gt;In total I was quite sceptical at first, the design reminded me too much on the Microoptical and the headaches I got using it. Completely unfounded! Even given the social acceptance issue, I cannot wait to get Glass for a longer test. However, I really need a good note taking app, running vim on glass would already be a selling point for me, replacing my black notebook (and maybe smart phone?). I undusted my Twiddler2 (took a long time to find it in the cellar) with hacked bluetooth connection, started practicing again and hope I can try it soon with Vim for Glass :D This is definitely not an application case for the mass market &amp;hellip;  My grandparents told me that they believe there is a broader demand for such a device also by &amp;ldquo;normal&amp;rdquo; people (they actually want to use it!). So let&amp;rsquo;s see.&lt;/p&gt;
 
-&lt;p&gt;Let&amp;#8217;s &lt;a href='https://news.ycombinator.com/item?id=6456220'&gt;discuss on Hacker News&lt;/a&gt; if you want.&lt;/p&gt;</content>
+&lt;p&gt;Plus the researcher in my cannot wait to get easy accessible motion sensors onto the heads of a lot of people. Combined with the sensors in your pocket it&amp;rsquo;s activity recognition heaven!&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s &lt;a href=&quot;https://news.ycombinator.com/item?id=6456220&quot;&gt;discuss on Hacker News&lt;/a&gt; if you want.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>Ubicomp ISWC Impressions</title>
-   <link href="http://kaikunze.de//conference/2013/09/15/ubicom-iswc-impressions"/>
+   <link href="http://kaikunze.de/posts/ubicom-iswc-impressions"/>
    <updated>2013-09-15T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//conference/2013/09/15/ubicom-iswc-impressions</id>
-   <content type="html">&lt;p&gt;Usually, I&amp;#8217;m not such a big fan of conference openings, yet Friedemann Mattern provided a great intro giving an overview about the origins of Pervasive and Ubicom mentioning all important people and showing nice vintage pictures from Hans Gellersen, Alois Ferscha, Marc Langheinrich, Albrecht Schmidt, Kristof Van Laerhoven etc.&lt;/p&gt;
+   <id>http://kaikunze.de/posts/ubicom-iswc-impressions</id>
+   <content type="html">&lt;p&gt;Usually, I&amp;rsquo;m not such a big fan of conference openings,
+yet Friedemann Mattern provided a great intro giving
+an overview about the origins of Pervasive and Ubicom
+mentioning all important people and showing nice vintage
+pictures from Hans Gellersen, Alois Ferscha,  Marc Langheinrich, Albrecht Schmidt, Kristof Van Laerhoven etc.&lt;/p&gt;
 
-&lt;p&gt;Deeply impressed by the organization, social and general talk quality, I was a bit sceptical before the merger of Pervasive / Ubicom and collocating ISWC, yet it was completely unfounded.&lt;/p&gt;
+&lt;p&gt;Deeply impressed by the organization, social and general
+talk quality, I was a bit sceptical before the merger
+of Pervasive / Ubicom and collocating ISWC, yet it was
+completely unfounded.&lt;/p&gt;
 
-&lt;p&gt;We got some great feedback for Kazuma&amp;#8217;s and Shoya&amp;#8217;s demos. They both did a great job introducing their work about:&lt;/p&gt;
+&lt;p&gt;We got some great feedback for Kazuma&amp;rsquo;s and Shoya&amp;rsquo;s demos.
+They both did a great job introducing their work about:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href='/papers/2013Kunze-4.pdf'&gt;Eyetracking on common Tablets/Phones&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-&lt;p&gt;&lt;a href='/papers/2013Kunze-3.pdf'&gt;Real-Time Document Image Retrieval On Mobile Devices&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;/papers/2013Kunze-4.pdf&quot;&gt;Eyetracking on common Tablets/Phones&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;/papers/2013Kunze-3.pdf&quot;&gt;Real-Time Document Image Retrieval On Mobile Devices&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;We got also a lof of interest and feedback to Andreas Bulling&amp;#8217;s and my work about recognizing document types using only eye gaze. By the way, below are the talk slides and the abstract of the paper.&lt;/p&gt;
 
-&lt;h2 id='iswc_talk_slides'&gt;ISWC Talk Slides&lt;/h2&gt;
-&lt;script class='speakerdeck-embed' data-id='a0f70c60fdc20130468e062acf92b5fe' data-ratio='1.33333333333333' src='//speakerdeck.com/assets/embed.js'&gt;  &lt;/script&gt;
-&lt;h2 id='abstract'&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We got also a lof of interest and feedback
+to Andreas Bulling&amp;rsquo;s and my work about recognizing
+document types using only eye gaze.
+By the way, below are the talk slides and the abstract of
+the paper.&lt;/p&gt;
+
+&lt;h2&gt;ISWC Talk Slides&lt;/h2&gt;
+
+&lt;script class=&quot;speakerdeck-embed&quot; data-id=&quot;a0f70c60fdc20130468e062acf92b5fe&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;  &lt;/script&gt;
+
+
+&lt;h2&gt;Abstract&lt;/h2&gt;
 
 &lt;p&gt;Reading is a ubiquitous activity that many people even per- form in transit, such as while on the bus or while walking. Tracking reading enables us to gain more insights about ex- pertise level and potential knowledge of users – towards a reading log tracking and improve knowledge acquisition. As a first step towards this vision, in this work we investigate whether different document types can be automatically de- tected from visual behaviour recorded using a mobile eye tracker. We present an initial recognition approach that com- bines special purpose eye movement features as well as ma- chine learning for document type detection. We evaluate our approach in a user study with eight participants and five Japanese document types and achieve a recognition perfor- mance of 74% using user-independent training.&lt;/p&gt;
 
-&lt;p&gt;Full paper link: &lt;a href='/papers/2013Kunze-5.pdf'&gt;I know what you are reading – Recognition of Document Types Using Mobile Eye Tracking&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;Full paper link:
+&lt;a href=&quot;/papers/2013Kunze-5.pdf&quot;&gt;I know what you are reading – Recognition of Document Types Using Mobile Eye Tracking&lt;/a&gt;&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>Excited about Ubicomp and ISWC</title>
-   <link href="http://kaikunze.de//conference/2013/09/06/excited-about-ubicomp-and-iswc"/>
+   <link href="http://kaikunze.de/posts/excited-about-ubicomp-and-iswc"/>
    <updated>2013-09-06T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//conference/2013/09/06/excited-about-ubicomp-and-iswc</id>
-   <content type="html">&lt;p&gt;This year I&amp;#8217;m really looking forward to &lt;a href='http://ubicomp.org'&gt;Ubicomp&lt;/a&gt; and &lt;a href='http://iswc.net'&gt;ISWC&lt;/a&gt;, it&amp;#8217;s the first time that Ubicomp and Pervasive merged into one conference and it&amp;#8217;s the first time the venue sold out with 700 participants.&lt;/p&gt;
+   <id>http://kaikunze.de/posts/excited-about-ubicomp-and-iswc</id>
+   <content type="html">&lt;p&gt;This year I&amp;rsquo;m really looking forward to &lt;a href=&quot;http://ubicomp.org&quot;&gt;Ubicomp&lt;/a&gt; and &lt;a href=&quot;http://iswc.net&quot;&gt;ISWC&lt;/a&gt;,
+it&amp;rsquo;s the first time that Ubicomp and Pervasive merged into one conference and it&amp;rsquo;s the first time the venue sold out with 700 participants.&lt;/p&gt;
 
 &lt;p&gt;I cannot wait to chat with old friends and experts (most are both :)).&lt;/p&gt;
 
 &lt;p&gt;The field slowly matures. Especially, the wearable research is really pushing towards prime-time. Most prominently, Google Glass is getting a lot of focus also discussing its impacts on privacy. Yet, there is more and more talk about fitness bracelets/trackers and smart watches. I expect that we see more intelligent clothes and activity recognition work in commercial products in the coming years.&lt;/p&gt;
 
-&lt;p&gt;By the way, we have 3 poster papers and 2 demos at Ubicomp and a short paper at ISWC.&lt;/p&gt;
+&lt;p&gt;By the way, we have 3 poster papers and 2 demos at Ubicomp
+and a short paper at ISWC.&lt;/p&gt;
 
-&lt;h3 id='ubicomp_demos_and_posters'&gt;Ubicomp Demos and Posters&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href='/papers/2013Kunze-4.pdf'&gt;My Reading Life – Towards Utilizing Eyetracking on Unmodified Tablets and Phones&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;a href='/papers/2013Kunze-3.pdf'&gt;Annotate Me – Supporting Active Reading using Real-Time Document Image Retrieval On Mobile Devices&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;a href='/papers/2013Cheng.pdf'&gt;Activity Recognition and Nutrition Monitoring in Every Day Situations with a Textile Capacitive Neckband&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id='iswc_paper'&gt;ISWC paper&lt;/h3&gt;
+&lt;h3&gt;Ubicomp Demos and Posters&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href='/papers/2013Kunze-5.pdf'&gt;I know what you are reading – Recognition of Document Types Using Mobile Eye Tracking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/papers/2013Kunze-4.pdf&quot;&gt;My Reading Life – Towards Utilizing Eyetracking on Unmodified Tablets and Phones&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/papers/2013Kunze-3.pdf&quot;&gt;Annotate Me – Supporting Active Reading using Real-Time Document Image Retrieval On Mobile Devices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/papers/2013Cheng.pdf&quot;&gt;Activity Recognition and Nutrition Monitoring in Every Day Situations with a Textile Capacitive Neckband&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+
+&lt;h3&gt;ISWC paper&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/papers/2013Kunze-5.pdf&quot;&gt;I know what you are reading – Recognition of Document Types Using Mobile Eye Tracking&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 
 &lt;p&gt;Drop by at the demo,poster sessions and/or see me my talk on Thursday.&lt;/p&gt;
 
-&lt;p&gt;On a side note, Ubicomp really picks great locations. This year it&amp;#8217;s Zurich, next year Seattle and the year after it will be in Osaka. Seems I might be staying longer in Japan, than I originally planned ;)&lt;/p&gt;</content>
+&lt;p&gt;On a side note, Ubicomp really picks great locations. This year it&amp;rsquo;s Zurich, next year Seattle and the year after it will be in Osaka. Seems I might be staying longer in Japan, than I originally planned ;)&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>ICDAR 2013 Talk Slides Online</title>
-   <link href="http://kaikunze.de//research/2013/08/26/icdar-2013-talk-slides-online"/>
+   <link href="http://kaikunze.de/posts/icdar-2013-talk-slides-online"/>
    <updated>2013-08-26T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//research/2013/08/26/icdar-2013-talk-slides-online</id>
+   <id>http://kaikunze.de/posts/icdar-2013-talk-slides-online</id>
    <content type="html">&lt;p&gt;The slides for my two talks today are online now.&lt;/p&gt;
 
-&lt;h2 id='the_wordometer'&gt;The Wordometer&lt;/h2&gt;
-&lt;script class='speakerdeck-embed' data-id='05bef8c0f0aa01300a6d065f623bb37c' data-ratio='1.33333333333333' src='//speakerdeck.com/assets/embed.js'&gt;  &lt;/script&gt;
-&lt;h2 id='reading_activity_recognition_using_an_offtheshelf_eeg'&gt;Reading activity recognition using an off-the-shelf EEG&lt;/h2&gt;
-&lt;script class='speakerdeck-embed' data-id='8a535520f0a901304b9d56bebfa6c61b' data-ratio='1.33333333333333' src='//speakerdeck.com/assets/embed.js'&gt; &lt;/script&gt;
-&lt;p&gt;For more details, check out the papers:&lt;/p&gt;
+&lt;h2&gt;The Wordometer&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href='/papers/2013Kunze-1.pdf'&gt;The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking&lt;/a&gt;&lt;/li&gt;
+&lt;script class=&quot;speakerdeck-embed&quot; data-id=&quot;05bef8c0f0aa01300a6d065f623bb37c&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;  &lt;/script&gt;
 
-&lt;li&gt;&lt;a href='/papers/2013Kunze-2.pdf'&gt;Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;p&gt;They are both published at &lt;a href='http://icdar2013.org'&gt;ICDAR 2013&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;h2&gt;Reading activity recognition using an off-the-shelf EEG&lt;/h2&gt;
+
+&lt;script class=&quot;speakerdeck-embed&quot; data-id=&quot;8a535520f0a901304b9d56bebfa6c61b&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt; &lt;/script&gt;
+
+
+&lt;p&gt;For more details, check out the papers:
+* &lt;a href=&quot;/papers/2013Kunze-1.pdf&quot;&gt;The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking&lt;/a&gt;
+* &lt;a href=&quot;/papers/2013Kunze-2.pdf&quot;&gt;Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;They are both published at &lt;a href=&quot;http://icdar2013.org&quot;&gt;ICDAR 2013&lt;/a&gt;.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>Recognizing Reading Activities</title>
-   <link href="http://kaikunze.de//research/2013/08/23/recognizing-reading-activities"/>
+   <link href="http://kaikunze.de/posts/recognizing-reading-activities"/>
    <updated>2013-08-23T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//research/2013/08/23/recognizing-reading-activities</id>
-   <content type="html">&lt;script class='speakerdeck-embed' data-id='e9181bd0ee3501308d2a1ad4cad5346c' data-ratio='1.2994923857868' src='//speakerdeck.com/assets/embed.js'&gt; &lt;/script&gt;
-&lt;p&gt;Just finished my keynote talk at CBDAR (Workshop of &lt;a href='http://icdar2013.org/'&gt;ICDAR&lt;/a&gt;), got a lot of questions and have a lot of new research ideas :)&lt;/p&gt;
+   <id>http://kaikunze.de/posts/recognizing-reading-activities</id>
+   <content type="html">&lt;script class=&quot;speakerdeck-embed&quot; data-id=&quot;e9181bd0ee3501308d2a1ad4cad5346c&quot; data-ratio=&quot;1.2994923857868&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt; &lt;/script&gt;
 
-&lt;p&gt;I&amp;#8217;m pretty ignorant about Document Analysis (and Computer Vision in general), so it&amp;#8217;s great to talk to some experts in the field. Pervasive Computing and Document Analysis are very complementary and as such interesting to combine.&lt;/p&gt;
+
+&lt;p&gt;Just finished my keynote talk at CBDAR (Workshop of &lt;a href=&quot;http://icdar2013.org/&quot;&gt;ICDAR&lt;/a&gt;),
+got a lot of questions and have a lot of new research ideas :)&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m pretty ignorant about Document Analysis (and Computer Vision in general), so it&amp;rsquo;s great to talk to some
+experts in the field. Pervasive Computing and Document Analysis are very complementary
+and as such interesting to combine.&lt;/p&gt;
 
 &lt;p&gt;Here are my talk slides, followed by the talk abstract.&lt;/p&gt;
 
-&lt;h2 id='reallife_activity_recognition__talk_abstract'&gt;Real-life Activity Recognition - Talk Abstract&lt;/h2&gt;
+&lt;h2&gt;Real-life Activity Recognition &amp;ndash; Talk Abstract&lt;/h2&gt;
 
 &lt;p&gt;Most applications in intelligent environments so far strongly rely on specific sensor combinations at predefined positions, orientations etc. While this might be acceptable for some application domains (e.g. industry), it hinders the wide adoption of pervasive computing. How can we extract high level information about human actions and complex real world situations from heterogeneous ensembles of simple, often unreliable sensors embedded in commodity devices?&lt;/p&gt;
 
@@ -198,292 +259,444 @@
 
 &lt;p&gt;We discuss how placement variations of electronic appliances carried by the user influence the possibility of using sensors integrated in those appliances for human activity recognition. I categorize possible variations into four classes: environmental placements, placement on different body parts (e.g. jacket pocket on the chest, vs. a hip holster vs. the trousers pocket), small displacement within a given coarse location (e.g. device shifting in a pocket), and different orientations.For each of these variations, I give an overview of our efforts to deal with them.&lt;/p&gt;
 
-&lt;p&gt;In the second part of the talk, we combine several pervasive sensing approaches (computer vision, motion-based activity recognition etc.) to tackle the problem of recognizing and classifying knowledge acquisition tasks with a special focus on reading. We discuss which sensing modalities can be used for digital and offline reading recognition, as well as how to combine them dynamically.&lt;/p&gt;</content>
+&lt;p&gt;In the second part of the talk, we combine several pervasive sensing approaches (computer vision, motion-based activity recognition etc.) to tackle the problem of recognizing and classifying knowledge acquisition tasks with a special focus on reading. We discuss which sensing modalities can be used for digital and offline reading recognition, as well as how to combine them dynamically.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>Wordometer and Document Analysis using Pervasive Sensing</title>
-   <link href="http://kaikunze.de//research/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing"/>
+   <link href="http://kaikunze.de/posts/wordometer-and-document-analysis-using-pervasive-sensing"/>
    <updated>2013-08-20T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//research/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing</id>
-   <content type="html">&lt;p&gt;&lt;img alt='wordometer' src='/imgs/wordometer.png' /&gt; In the last couple of months, I got more and more interested in learning, especially reading. Loving tech and sports, I got easily hooked on the Quantified Self movement (I own a Zeo Sleeping Coach and several step counters). Seeing how measuring myself transformed me. I lost around 4 kg and feel healthier/fitter, since I started tracking. I wonder why we don&amp;#8217;t have similar tools for our learning behavior.&lt;/p&gt;
+   <id>http://kaikunze.de/posts/wordometer-and-document-analysis-using-pervasive-sensing</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/imgs/wordometer.png&quot; alt=&quot;wordometer&quot; /&gt;
+In the last couple of months, I got more and more interested in learning, especially reading.
+Loving tech and sports, I got easily hooked on the Quantified Self movement (I own a Zeo Sleeping Coach and several step counters).
+Seeing how measuring myself transformed me. I lost around 4 kg and feel healthier/fitter, since
+I started tracking. I wonder why we don&amp;rsquo;t have similar tools for our learning behavior.&lt;/p&gt;
 
-&lt;p&gt;So we created a simple Wordometer in our Lab, using the SMI mobile eyetracker and document image retrieval (LLAH). We simply detect reading (very distinct horizontal or vertical movements) and afterwards count line breaks. Assuming a fixed number of words per line, voilà here is your Wordometer. The document image retreival is used to keep the accuracy at around 5-7 % (comparable to the pedometers measuring your steps each day).&lt;/p&gt;
+&lt;p&gt;So we created a simple Wordometer in our Lab, using the SMI mobile eyetracker and document image retrieval
+(LLAH). We simply detect reading (very distinct horizontal or vertical movements) and afterwards count line breaks.
+Assuming a fixed number of words per line, voilà here is your Wordometer. The document image retreival is used
+to keep the accuracy at around 5-7 % (comparable to the pedometers measuring your steps each day).&lt;/p&gt;
 
 &lt;p&gt;Of course, there are a couple of limitations:&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Mobile Eyetrackers are DAMN expensive. Yet, the main reason being that there is no demand and they are manufactured in relatively low numbers. A glass frame, 2 cameras and 2 infra-red sources that&amp;#8217;s it (together with a bit of image processing magic).&lt;/li&gt;
-
-&lt;li&gt;Document Image Retrieval means you need to register all documents with a server before reading them. I won&amp;#8217;t go into details as this limitation is the easiest to get rid of. We are currently working on a method without it. At the beginning it was easier to include (and improve the accuracy rate).&lt;/li&gt;
-
-&lt;li&gt;Not everybody likes to wear glasses. With the recent mixed reception of Google Glass, it seems that wearing glasses is way more a fashion statement than wearing a big &amp;#8220;smart&amp;#8221; phone or similar. So this tech might not be for everybody.&lt;/li&gt;
+&lt;li&gt;Mobile Eyetrackers are DAMN expensive. Yet, the main reason being that there is no demand and they are manufactured in relatively low numbers. A glass frame, 2 cameras and 2 infra-red sources that&amp;rsquo;s it (together with a bit of image processing magic).&lt;/li&gt;
+&lt;li&gt;Document Image Retrieval means you need to register all documents with a server before reading them. I won&amp;rsquo;t go into details as this limitation is the easiest to get rid of. We are currently working on a method without it. At the beginning it was easier to include (and improve the accuracy rate).&lt;/li&gt;
+&lt;li&gt;Not everybody likes to wear glasses. With the recent mixed reception of Google Glass, it seems that wearing glasses is way more a fashion statement than wearing a big &amp;ldquo;smart&amp;rdquo; phone or similar. So this tech might not be for everybody.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Overall, I&amp;#8217;m still very exited on what a cheap, public avaiable Wordometer will do to the reading habits of people and their &amp;#8220;knowledge life&amp;#8221;. We&amp;#8217;ll continue working on it ;)&lt;/p&gt;
 
-&lt;p&gt;We are also using eyetracking, EEG and other sensors to get more information about what/how a user is reading. Interestingly, it seems using the Emotiv EEG we can detect reading versus not reading and even some document types (manga versus textbook).&lt;/p&gt;
+&lt;p&gt;Overall, I&amp;rsquo;m still very exited on what a cheap, public avaiable Wordometer will do to the reading habits of people and their &amp;ldquo;knowledge life&amp;rdquo;.
+We&amp;rsquo;ll continue working on it ;)&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Disclaimer: This work would not be possible without two very talented students: Hitoshi Kawaichi and Kazuyo Yoshimura. Thanks for the hard work :D&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;We are also using eyetracking, EEG and other sensors to get more information about what/how a user is reading.
+Interestingly, it seems using the Emotiv EEG we can detect reading versus not reading and even some document types
+(manga versus textbook).&lt;/p&gt;
 
-&lt;p&gt;For more details, check out the papers:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Disclaimer:
+This work would not be possible without two very talented students: Hitoshi Kawaichi and Kazuyo Yoshimura.
+Thanks for the hard work :D&lt;/p&gt;&lt;/blockquote&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href='/papers/2013Kunze-1.pdf'&gt;The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking&lt;/a&gt;&lt;/li&gt;
+&lt;p&gt;For more details, check out the papers:
+* &lt;a href=&quot;/papers/2013Kunze-1.pdf&quot;&gt;The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking&lt;/a&gt;
+* &lt;a href=&quot;/papers/2013Kunze-2.pdf&quot;&gt;Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents&lt;/a&gt;&lt;/p&gt;
 
-&lt;li&gt;&lt;a href='/papers/2013Kunze-2.pdf'&gt;Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;They are both published at &lt;a href='http://icdar2013.org'&gt;ICDAR 2013&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;They are both published at &lt;a href=&quot;http://icdar2013.org&quot;&gt;ICDAR 2013&lt;/a&gt;.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>Kai @ CHI</title>
-   <link href="http://kaikunze.de//conference/2013/04/29/kai-%40-chi"/>
+   <link href="http://kaikunze.de/posts/kai-%40-chi"/>
    <updated>2013-04-29T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//conference/2013/04/29/kai-@-chi</id>
-   <content type="html">&lt;p&gt;So it&amp;#8217;s my first time at &lt;a href='http://chi2013.acm.org'&gt;CHI&lt;/a&gt;. Pretty amazing so far &amp;#8230; Will blog about more later.&lt;/p&gt;
+   <id>http://kaikunze.de/posts/kai-@-chi</id>
+   <content type="html">&lt;p&gt;So it&amp;rsquo;s my first time at &lt;a href=&quot;http://chi2013.acm.org&quot;&gt;CHI&lt;/a&gt;. Pretty amazing so far &amp;hellip;
+Will blog about more later.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href='http://kaikunze.de/posters/chiposter2013.pdf'&gt;&lt;img alt='Chi Poster' src='/posters/tb-chiposter2013.jpg' /&gt;&lt;/a&gt;&lt;img alt='Kai@CHI' src='/imgs/kai@chi.jpg' /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://kaikunze.de/posters/chiposter2013.pdf&quot;&gt;&lt;img src=&quot;/posters/tb-chiposter2013.jpg&quot; alt=&quot;Chi Poster&quot; /&gt;&lt;/a&gt;&lt;img src=&quot;/imgs/kai@chi.jpg&quot; alt=&quot;Kai@CHI&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I&amp;#8217;m in the first poster rotation, starting this afternoon: &amp;#8220;Towards inferring language expertise using eye tracking&amp;#8221; Drop by my poster if you&amp;#8217;re around (or try to spot me, I&amp;#8217;m wearing the white &amp;#8220;Kai@CHI&amp;#8221; Shirt today :)).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m in the first poster rotation, starting this afternoon:
+&amp;ldquo;Towards inferring language expertise using eye tracking&amp;rdquo;
+Drop by my poster if you&amp;rsquo;re around (or try to spot me, I&amp;rsquo;m wearing the white &amp;ldquo;Kai@CHI&amp;rdquo; Shirt today :)).&lt;/p&gt;
 
-&lt;p&gt;Here&amp;#8217;s the abstract of our work, as well as the &lt;a href='http://kaikunze.de/papers/2013kunze.pdf'&gt;link to the paper&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s the abstract of our work, as well as the &lt;a href=&quot;http://kaikunze.de/papers/2013kunze.pdf&quot;&gt;link to the paper&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&amp;#8220;We present initial work towards recognizing reading activities. This paper describes our efforts detect the English skill level of a user and infer which words are difficult for them to understand. We present an initial study of 5 students and show our findings regarding the skill level assessment. We explain a method to spot difficult words. Eye tracking is a promising technology to examine and assess a user’s skill level.&amp;#8221;&lt;/p&gt;</content>
+&lt;p&gt;&amp;ldquo;We present initial work towards recognizing reading activities. This paper describes our efforts detect the English skill level of a user and infer which words are difficult for them to understand. We present an initial study of 5 students and show our findings regarding the skill level assessment. We explain a method to spot difficult words. Eye tracking is a promising technology to examine and assess a user’s skill level.&amp;rdquo;&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>Activity Recognition Dagstuhl Report Online</title>
-   <link href="http://kaikunze.de//research/2013/04/24/ar-dagstuhl-report-online"/>
+   <link href="http://kaikunze.de/posts/ar-dagstuhl-report-online"/>
    <updated>2013-04-24T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//research/2013/04/24/ar-dagstuhl-report-online</id>
-   <content type="html">&lt;p&gt;If you wonder how we spent German tax money, the summary of the Activity Recognition Dagstuhl seminar is now online.&lt;/p&gt;
+   <id>http://kaikunze.de/posts/ar-dagstuhl-report-online</id>
+   <content type="html">&lt;p&gt;If you wonder how we spent German tax money, the summary of the
+Activity Recognition Dagstuhl seminar is now online.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href='http://drops.dagstuhl.de/opus/volltexte/2013/3987/'&gt;Human Activity Recognition in Smart Environments (Dagstuhl Seminar 12492)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://drops.dagstuhl.de/opus/volltexte/2013/3987/&quot;&gt;Human Activity Recognition in Smart Environments (Dagstuhl Seminar 12492)&lt;/a&gt;&lt;/p&gt;
+
 &lt;hr /&gt;
-&lt;p&gt;Here&amp;#8217;s the abstract:&lt;/p&gt;
 
-&lt;p&gt;This report documents the program and the outcomes of Dagstuhl Seminar 12492 &amp;#8220;Human Activity Recognition in Smart Environments&amp;#8221;. We established the basis for a scientific community surrounding &amp;#8220;activity recognition&amp;#8221; by involving researchers from a broad range of related research fields. 30 academic and industry researchers from US, Europe and Asia participated from diverse fields including pervasive computing, over network analysis and computer vision to human computer interaction. The major results of this Seminar are the creation of a activity recognition repository to share information, code, publications and the start of an activity recognition book aimed to serve as a scientific introduction to the field. In the following, we go into more detail about the structure of the seminar, discuss the major outcomes and give an overview about discussions and talks given during the seminar.&lt;/p&gt;</content>
+&lt;p&gt;Here&amp;rsquo;s the abstract:&lt;/p&gt;
+
+&lt;p&gt;This report documents the program and the outcomes of Dagstuhl Seminar 12492 &amp;ldquo;Human Activity Recognition in Smart Environments&amp;rdquo;. We established the basis for a scientific community surrounding &amp;ldquo;activity recognition&amp;rdquo; by involving researchers from a broad range of related research fields. 30 academic and industry researchers from US, Europe and Asia participated from diverse fields including pervasive computing, over network analysis and computer vision to human computer interaction. The major results of this Seminar are the creation of a activity recognition repository to share information, code, publications and the start of an activity recognition book aimed to serve as a scientific introduction to the field. In the following, we go into more detail about the structure of the seminar, discuss the major outcomes and give an overview about discussions and talks given during the seminar.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>Some of my favorites from the 29c3 recordings</title>
-   <link href="http://kaikunze.de//2013/02/06/some-of-my-favorites-from-the-29c3-recordings"/>
+   <link href="http://kaikunze.de/posts/some-of-my-favorites-from-the-29c3-recordings"/>
    <updated>2013-02-06T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//2013/02/06/some-of-my-favorites-from-the-29c3-recordings</id>
-   <content type="html">&lt;p&gt;Over the last weeks, I finally got around to watch some of the &lt;a href='https://events.ccc.de/congress/2012/wiki/Main_Page'&gt;29c3&lt;/a&gt; recordings. Here are some of my favorites. I will update the list accordingly.&lt;/p&gt;
+   <id>http://kaikunze.de/posts/some-of-my-favorites-from-the-29c3-recordings</id>
+   <content type="html">&lt;p&gt;Over the last weeks, I finally got around to watch some of the &lt;a href=&quot;https://events.ccc.de/congress/2012/wiki/Main_Page&quot;&gt;29c3&lt;/a&gt; recordings. Here are some of my favorites. I will update the list accordingly.&lt;/p&gt;
 
 &lt;p&gt;I link to the official recording available from the CCC domain. The talks however are also on youtube. Just search for the talk title.&lt;/p&gt;
 
-&lt;p&gt;In General, I found most talks focused on security, sadly not really my main interest. I missed some research and culture talks that were present the last years. Examples from the last years:&lt;a href='http://www.youtube.com/watch?v=mS4k0hFhPeQ'&gt;Data Mining for Hackers&lt;/a&gt; awesome talk!! or &lt;a href='http://www.youtube.com/watch?v=Lxf60pRz1tM'&gt;one&lt;/a&gt; of Bicyclemark episodes. Bicylcemark we miss you :)&lt;/p&gt;
+&lt;p&gt;In General, I found most talks focused on security, sadly not really my main interest. I missed some research and culture talks that were present the last years. Examples from the last years:&lt;a href=&quot;http://www.youtube.com/watch?v=mS4k0hFhPeQ&quot;&gt;Data Mining for Hackers&lt;/a&gt; awesome talk!! or &lt;a href=&quot;http://www.youtube.com/watch?v=Lxf60pRz1tM&quot;&gt;one&lt;/a&gt; of Bicyclemark episodes. Bicylcemark we miss you :)&lt;/p&gt;
 
-&lt;h2 id='english'&gt;English&lt;/h2&gt;
+&lt;h2&gt;English&lt;/h2&gt;
 
-&lt;p&gt;Out of the hacking talks, for me by far the most entertaining was &lt;a href='http://media.ccc.de/browse/congress/2012/29c3-5400-en-hacking_cisco_phones_h264.html'&gt;Hacking Cisco Phones&lt;/a&gt;. Scary and so cool. Ang Cui and Michael Costello are also quite good presenters. The hand-drawn slides give the visuals also a nice touch. I won&amp;#8217;t spoil the contents. just watch it.&lt;/p&gt;
+&lt;p&gt;Out of the hacking talks, for me by far the most entertaining was &lt;a href=&quot;http://media.ccc.de/browse/congress/2012/29c3-5400-en-hacking_cisco_phones_h264.html&quot;&gt;Hacking Cisco Phones&lt;/a&gt;. Scary and so cool. Ang Cui and Michael Costello are also quite good presenters. The hand-drawn slides give the visuals also a nice touch. I won&amp;rsquo;t spoil the contents. just watch it.&lt;/p&gt;
 
-&lt;p&gt;So far my most favorite talk is &lt;a href='http://media.ccc.de/browse/congress/2012/29c3-5138-en-romantichackers_h264.html'&gt;Romantic Hackers&lt;/a&gt; by Anne Marggraf-Turley and Prof. Richard Marggraf-Turley. About surveillance andy hackers in the Romantic period. I was not aware that the privacy problems and the ideas about pervasive surveillance had been discussed and encountered so early in human history. Very Insightful and fun.&lt;/p&gt;
+&lt;p&gt;So far my most favorite talk is &lt;a href=&quot;http://media.ccc.de/browse/congress/2012/29c3-5138-en-romantichackers_h264.html&quot;&gt;Romantic Hackers&lt;/a&gt; by Anne Marggraf-Turley and Prof. Richard Marggraf-Turley. About surveillance andy hackers in the Romantic period. I was not aware that the privacy problems and the ideas about pervasive surveillance had been discussed and encountered so early in human history. Very Insightful and fun.&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href='http://media.ccc.de/browse/congress/2012/29c3-5088-en-many_tamagotchis_were_harmed_in_the_making_of_this_presentation_h264.html'&gt;Tamagochi Talk&lt;/a&gt; was fun. Although the speaker seemed to be a bit nervous (listening to her voice), she gave some great insides how Tamagochis work and how to hack them.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;http://media.ccc.de/browse/congress/2012/29c3-5088-en-many_tamagotchis_were_harmed_in_the_making_of_this_presentation_h264.html&quot;&gt;Tamagochi Talk&lt;/a&gt; was fun. Although the speaker seemed to be a bit nervous (listening to her voice), she gave some great insides how Tamagochis work and how to hack them.&lt;/p&gt;
 
-&lt;p&gt;The keynote from Jacob Applebaum, &lt;a href='http://media.ccc.de/browse/congress/2012/29c3-5385-en-not_my_department_h264.html'&gt;Not my department&lt;/a&gt; is a call to action for the tech community discussing about the responsibilities we have regarding our research and how it might be used. Although Applebaum is a great public speaker and the topic is of utmost importance, for some people new to the discussion it might seem a bit out of context and difficult to understand.&lt;/p&gt;
+&lt;p&gt;The keynote from Jacob Applebaum, &lt;a href=&quot;http://media.ccc.de/browse/congress/2012/29c3-5385-en-not_my_department_h264.html&quot;&gt;Not my department&lt;/a&gt; is a call to action for the tech community discussing about the responsibilities we have regarding our research and how it might be used. Although Applebaum is a great public speaker and the topic is of utmost importance, for some people new to the discussion it might seem a bit out of context and difficult to understand.&lt;/p&gt;
 
-&lt;h2 id='german'&gt;German&lt;/h2&gt;
+&lt;h2&gt;German&lt;/h2&gt;
 
-&lt;p&gt;If you can speak German or want to practice it, check them out &amp;#8230; Of course, the usual subjects &lt;a href='http://media.ccc.de/browse/congress/2012/29c3-5198-en-de-fnord_jahresrueckblick2012_h264.html'&gt;Fnord News Show&lt;/a&gt; and &lt;a href='http://media.ccc.de/browse/congress/2012/29c3-5244-de-en-security_nightmares2012_h264.html'&gt;Security Nightmares&lt;/a&gt; are always great candidates to watch.&lt;/p&gt;
+&lt;p&gt;If you can speak German or want to practice it, check them out &amp;hellip;
+Of course, the usual subjects &lt;a href=&quot;http://media.ccc.de/browse/congress/2012/29c3-5198-en-de-fnord_jahresrueckblick2012_h264.html&quot;&gt;Fnord News Show&lt;/a&gt; and &lt;a href=&quot;http://media.ccc.de/browse/congress/2012/29c3-5244-de-en-security_nightmares2012_h264.html&quot;&gt;Security Nightmares&lt;/a&gt; are always great candidates to watch.&lt;/p&gt;
 
-&lt;p&gt;I&amp;#8217;m also always looking forward to the yearly Martin Haase Talk. Unfortunately, the official release is not online yet. Interesting especially for language geeks.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m also always looking forward to the yearly Martin Haase Talk. Unfortunately, the official release is not online yet. Interesting especially for language geeks.&lt;/p&gt;
 
-&lt;p&gt;The talk &lt;a href='http://media.ccc.de/browse/congress/2012/29c3-5121-de-en-sind_faire_computer_moeglich_h264.html'&gt;Are fair computers possible?&lt;/a&gt; explores what needs to change in manufacturing standards etc. to produce computers without child labor and fair employment conditions for all workers involved.&lt;/p&gt;</content>
+&lt;p&gt;The talk &lt;a href=&quot;http://media.ccc.de/browse/congress/2012/29c3-5121-de-en-sind_faire_computer_moeglich_h264.html&quot;&gt;Are fair computers possible?&lt;/a&gt; explores what needs to change in manufacturing standards etc. to produce computers without child labor and fair employment conditions for all workers involved.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>ACM Multimedia 2012 Main Conference Notes</title>
-   <link href="http://kaikunze.de//conferences/2012/10/31/acm-multimedia-2012-day-2-notes"/>
+   <link href="http://kaikunze.de/posts/acm-multimedia-2012-day-2-notes"/>
    <updated>2012-10-31T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//conferences/2012/10/31/acm-multimedia-2012-day-2-notes</id>
-   <content type="html">&lt;p&gt;This is a scratchpad &amp;#8230; will fill the rest when I have time.&lt;/p&gt;
+   <id>http://kaikunze.de/posts/acm-multimedia-2012-day-2-notes</id>
+   <content type="html">&lt;p&gt;This is a scratchpad &amp;hellip; will fill the rest when I have time.&lt;/p&gt;
 
-&lt;h2 id='papers'&gt;Papers&lt;/h2&gt;
+&lt;h2&gt;Papers&lt;/h2&gt;
 
-&lt;p&gt;I really enjoyed the work from Heng Liu, Tao Mei et. al. &amp;#8220;Finding Perfect Rendezvous On the Go: Accurate Mobile Visual Localization and Its Applications to Routing&amp;#8221;. They combine existing research in a very interesting mixture. They use a visual localization method based on &lt;a href='http://phototour.cs.washington.edu/bundler/'&gt;bundler&lt;/a&gt; to detect where in the city a mobile phone user is. The application scenario I liked best was their collaborative localization for rendezvous :)&lt;/p&gt;
+&lt;p&gt;I really enjoyed the work from Heng Liu, Tao Mei et. al.
+&amp;ldquo;Finding Perfect Rendezvous On the Go: Accurate Mobile Visual Localization and Its Applications to Routing&amp;rdquo;.
+They combine existing research in a very interesting mixture. They use a visual localization method
+based on &lt;a href=&quot;http://phototour.cs.washington.edu/bundler/&quot;&gt;bundler&lt;/a&gt; to detect where in the city
+a mobile phone user is. The application scenario I liked best was their collaborative localization
+for rendezvous :)&lt;/p&gt;
 
-&lt;p&gt;The best paper award went to Zhi Wang, Lifeng Sun, Xiangwen Chen, Wenwu Zhu, Jiangchuan Liu, Minghua Chen and Shiqiang Yang for &amp;#8220;Propagation-Based Social-Aware Replication for Social Video Contents&amp;#8221;. They use the contacts mined over social networking to replicate content for better streaming and content distribution. The presentation was great, the research solid, still it&amp;#8217;s not a topic I&amp;#8217;m very interested in. However, for content providers it seems very useful.&lt;/p&gt;
+&lt;p&gt;The best paper award went to Zhi Wang, Lifeng Sun, Xiangwen Chen, Wenwu Zhu, Jiangchuan Liu, Minghua Chen and Shiqiang Yang for &amp;ldquo;Propagation-Based Social-Aware Replication for Social Video Contents&amp;rdquo;. They use the contacts mined over
+social networking to replicate content for better streaming and content distribution.
+The presentation was great, the research solid, still it&amp;rsquo;s not a topic I&amp;rsquo;m very interested in. However, for content providers it seems very useful.&lt;/p&gt;
 
-&lt;p&gt;Shih-Yao Lin et. al. presented a system to recognize the users motion using the kinect and imitate them via a marionette in &amp;#8220;Action Recognition for Human-Marionette Interaction&amp;#8221;. I hoped to get more information about the interactions between users and marionettes, still very stylish presentation and artsy topic.&lt;/p&gt;
+&lt;p&gt;Shih-Yao Lin et. al. presented a system to recognize the users motion using the kinect and imitate them via a
+marionette in &amp;ldquo;Action Recognition for Human-Marionette Interaction&amp;rdquo;. I hoped to get more information
+about the interactions between users and marionettes, still very stylish presentation and artsy topic.&lt;/p&gt;
 
-&lt;p&gt;Hamdi Dibeklioglu et. al. showed how to infer the age of a person when they are simling in &amp;#8220;A Smile Can Reveal Your Age: Enabling Facial Dynamics in Age Estimation&amp;#8221;. I find fascinating to hear about small cues that can tell a lot about a person or a situation.&lt;/p&gt;
+&lt;p&gt;Hamdi Dibeklioglu et. al. showed how to infer the age of a person when they are simling in &amp;ldquo;A Smile Can Reveal Your Age: Enabling Facial Dynamics in Age Estimation&amp;rdquo;. I find fascinating to hear about small cues that can
+tell a lot about a person or a situation.&lt;/p&gt;
 
-&lt;p&gt;Fascinating work by Victoria Yanulevskaya et. al. (&amp;#8220;In the Eye of the Beholder: Employing Statistical Analysis and Eye Tracking for Analyzing Abstract Paintings&amp;#8221;). They link the emotional impact of a painting to the eye movements of the observer. Very interesting and in line with my current focus. I wonder if also expertise etc. can be recognized using sensors.&lt;/p&gt;
+&lt;p&gt;Fascinating work by Victoria Yanulevskaya et. al. (&amp;ldquo;In the Eye of the Beholder: Employing Statistical Analysis and Eye Tracking for Analyzing Abstract Paintings&amp;rdquo;). They link the emotional impact of a painting to the eye movements
+of the observer. Very interesting and in line with my current focus. I wonder if also expertise etc. can be
+recognized using sensors.&lt;/p&gt;
 
-&lt;p&gt;Another very art focused paper I enjoyed was &amp;#8220;Dinner of Luciérnaga-An interactive Play with iPhone App in Theater&amp;#8221; by Yu-Chuan Tseng. Theater visitors can interact with the play using their smart phone (getting also feedback on the device &amp;#8230;.).&lt;/p&gt;
+&lt;p&gt;Another very art focused paper I enjoyed was &amp;ldquo;Dinner of Luciérnaga-An interactive Play with iPhone App in Theater&amp;rdquo;
+by Yu-Chuan Tseng. Theater visitors can interact with the play using their smart phone (getting also feedback on the device &amp;hellip;.).&lt;/p&gt;
 
-&lt;h2 id='posters_demos_competitions'&gt;Posters, Demos, Competitions&lt;/h2&gt;
+&lt;h2&gt;Posters, Demos, Competitions&lt;/h2&gt;
 
-&lt;p&gt;The winner of the Multimedia Grand Challenge was very well deserved. &amp;#8220;Analysis of Dance Movements using Gaussian Processes&amp;#8221; by Antoine Liutkus et. al. decomposed dance moves using Gaussian processes in movements with slow periodicity, high periodicity and moves that happened just once. Fascinating and applicable to so many fields &amp;#8230; :)&lt;/p&gt;
+&lt;p&gt;The winner of the Multimedia Grand Challenge was very well deserved. &amp;ldquo;Analysis of Dance Movements using Gaussian Processes&amp;rdquo; by Antoine Liutkus et. al. decomposed dance moves using Gaussian processes in movements with
+slow periodicity, high periodicity and moves that happened just once. Fascinating and applicable to so many fields &amp;hellip; :)&lt;/p&gt;
 
-&lt;p&gt;A very neat demo was presented by Wei Zhang et. al.: &amp;#8220;FashionAsk: Pushing Community Answers to Your Fingertips&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;A very neat demo was presented by Wei Zhang et. al.: &amp;ldquo;FashionAsk: Pushing Community Answers to Your Fingertips&amp;rdquo;.&lt;/p&gt;
 
-&lt;h2 id='other_notes'&gt;Other Notes&lt;/h2&gt;
+&lt;h2&gt;Other Notes&lt;/h2&gt;
 
-&lt;p&gt;As expected from any conference in Japan :), the organisation was flawless. In case any if the organisers is reading this. Thanks again. Nara is a perfect place for a venue like this (deer, world heritage sites, good food &amp;#8230;).&lt;/p&gt;
+&lt;p&gt;As expected from any conference in Japan :), the organisation was flawless.
+In case any if the organisers is reading this. Thanks again. Nara is a perfect place for a venue like this
+(deer, world heritage sites, good food &amp;hellip;).&lt;/p&gt;
 
-&lt;p&gt;More curiously, although there was a lot of talk about social media and some lively discussions on twitter, I seemed to be the only participant on &lt;a href='https://alpha.app.net/'&gt;ADN&lt;/a&gt; at least posting with hashtag.&lt;/p&gt;</content>
+&lt;p&gt;More curiously, although there was a lot of talk about social media and some lively discussions
+on twitter, I seemed to be the only participant on &lt;a href=&quot;https://alpha.app.net/&quot;&gt;ADN&lt;/a&gt; at least posting with hashtag.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>ACM Multimedia 2012 Tutorials and Workshops</title>
-   <link href="http://kaikunze.de//conferences/2012/10/29/acm-multimedia-2012-day-1-notes"/>
+   <link href="http://kaikunze.de/posts/acm-multimedia-2012-day-1-notes"/>
    <updated>2012-10-29T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//conferences/2012/10/29/acm-multimedia-2012-day-1-notes</id>
-   <content type="html">&lt;p&gt;I attended the Tutorials &amp;#8220;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&amp;#8221; and &amp;#8220;Continuous Analysis of Emotions for Multimedia Applications&amp;#8221; on the first day.&lt;/p&gt;
+   <id>http://kaikunze.de/posts/acm-multimedia-2012-day-1-notes</id>
+   <content type="html">&lt;p&gt;I attended the Tutorials &amp;ldquo;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&amp;rdquo;
+and &amp;ldquo;Continuous Analysis of Emotions for Multimedia Applications&amp;rdquo; on the first day.&lt;/p&gt;
 
-&lt;p&gt;The last day I went to &amp;#8220;Workshop on Audio and Multimedia Methods for Large Scale Video Analysis&amp;#8221; and to the &amp;#8220;Workshop on Interactive Multimedia on Mobile and Portable Devices&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;The last day I went to &amp;ldquo;Workshop on Audio and Multimedia Methods for Large Scale Video Analysis&amp;rdquo; and
+to the &amp;ldquo;Workshop on Interactive Multimedia on Mobile and Portable Devices&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;This is meant as a scratchpad &amp;#8230; I&amp;#8217;ll add more later if I have time.&lt;/p&gt;
+&lt;p&gt;This is meant as a scratchpad &amp;hellip; I&amp;rsquo;ll add more later if I have time.&lt;/p&gt;
 
-&lt;h3 id='interacting_with_image_collections__visualisation_and_browsing_of_image_repositories'&gt;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&lt;/h3&gt;
+&lt;h3&gt;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&lt;/h3&gt;
 
-&lt;p&gt;Schaefer gave a overview about how to browse large scale image repositories. Interesting, yet of not really related to my research interests. He showed 3 approaches for retrieval: mapping-based, clustering-based and graph-based. I would have loved if he could have gone a bit more in detail in the mobile section at the end.&lt;/p&gt;
+&lt;p&gt;Schaefer gave a overview about how to browse large scale image repositories.
+Interesting, yet of not really related to my research interests.
+He showed 3 approaches for retrieval: mapping-based, clustering-based and graph-based.
+I would have loved if he could have gone a bit more in detail in the mobile section at the end.&lt;/p&gt;
 
-&lt;h3 id='continuous_analysis_of_emotions_for_multimedia_applications'&gt;Continuous Analysis of Emotions for Multimedia Applications&lt;/h3&gt;
+&lt;h3&gt;Continuous Analysis of Emotions for Multimedia Applications&lt;/h3&gt;
 
-&lt;p&gt;Hatice Gunes and Bjoern Schuller introduced a state of the art in emotion analysis. Their problems seem very similar to what we have to cope with in activity recognition, especially in terms of segmentation and continuous recognition problems. Their inference pipeline is comparable to ours in context recognition.&lt;/p&gt;
+&lt;p&gt;Hatice Gunes and Bjoern Schuller introduced a state of the art in emotion analysis.
+Their problems seem very similar to what we have to cope with in activity recognition,
+especially in terms of segmentation and continuous recognition problems.
+Their inference pipeline is comparable to ours in context recognition.&lt;/p&gt;
 
-&lt;p&gt;Where Affective Computing seems to have an edge is in the standardized data sets. There are already quite a lot (mainly focusing on video and audio). I guess it&amp;#8217;s also easier compared to the very multi-modal datasets we deal with in activity recogntion.&lt;/p&gt;
+&lt;p&gt;Where Affective Computing seems to have an edge is in the standardized data sets.
+There are already quite a lot (mainly focusing on video and audio).
+I guess it&amp;rsquo;s also easier compared to the very multi-modal datasets we deal with in activity recogntion.&lt;/p&gt;
 
-&lt;p&gt;Hatice Gunes showed two videos of two girls, one is faking a laugh the other one is authentic. Interestingly enough, the whole audience was wrong in picking the authentic laugh. The fake laughing girl was overdoing it and laughed constantly. However, authentic laughter has a time component (coming in waves: increasing, decreasing, increasing again etc.).&lt;/p&gt;
+&lt;p&gt;Hatice Gunes showed two videos of two girls, one is faking a laugh the other one is authentic.
+Interestingly enough, the whole audience was wrong in picking the authentic laugh.
+The fake laughing girl was overdoing it and laughed constantly.
+However, authentic laughter has a time component (coming in waves: increasing, decreasing, increasing again etc.).&lt;/p&gt;
 
-&lt;p&gt;The tools section contained the obvious candidates (opencv, kinect, weka &amp;#8230;). Sadly they did not mention the new set of tools I love to use. Check out &lt;a href='http://pandas.pydata.org'&gt;Pandas&lt;/a&gt; and &lt;a href='http://ipython.org'&gt;iPython&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The tools section contained the obvious candidates (opencv, kinect, weka &amp;hellip;).
+Sadly they did not mention the new set of tools I love to use. Check out &lt;a href=&quot;http://pandas.pydata.org&quot;&gt;Pandas&lt;/a&gt;
+and &lt;a href=&quot;http://ipython.org&quot;&gt;iPython&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Good overview about the state of the art. I would have loved to get more information about the subjective nature of emotion. For me it&amp;#8217;s not as obvious as activity (already there is a lot of room of ambiguity). Also, depending on personal experience and cultural background, the emotional response to specific stimuli can be diverse.&lt;/p&gt;
+&lt;p&gt;Good overview about the state of the art.
+I would have loved to get more information about the subjective nature of emotion. For me it&amp;rsquo;s not
+as obvious as activity (already there is a lot of room of ambiguity).
+Also, depending on personal experience and cultural background, the emotional response to specific stimuli can be diverse.&lt;/p&gt;
 
-&lt;h4 id='interesting_links'&gt;interesting links&lt;/h4&gt;
+&lt;h4&gt;interesting links&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href='http://semaine-db.eu'&gt;Semaine Corpus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://semaine-db.eu&quot;&gt;Semaine Corpus&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href='http://www.multimediaeval.org/'&gt;Media Eval&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.multimediaeval.org/&quot;&gt;Media Eval&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href='http://www.informatik.uni-augsburg.de/de/lehrstuehle/hcm/projects/tools/emovoice/'&gt;EmoVoice Audio Emotion classifier&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.informatik.uni-augsburg.de/de/lehrstuehle/hcm/projects/tools/emovoice/&quot;&gt;EmoVoice Audio Emotion classifier&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href='http://www.affectiva.com/q-sensor/'&gt;qsensor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.affectiva.com/q-sensor/&quot;&gt;qsensor&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href='http://cinimodstudio.com/project/london-eye-mood-conductor/'&gt;London eye mood&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://cinimodstudio.com/project/london-eye-mood-conductor/&quot;&gt;London eye mood&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id='workshop_on_audio_and_multimedia_methods_for_large_scale_video_analysis'&gt;Workshop on Audio and Multimedia Methods for Large Scale Video Analysis&lt;/h3&gt;
+&lt;h3&gt;Workshop on Audio and Multimedia Methods for Large Scale Video Analysis&lt;/h3&gt;
 
-&lt;h3 id='workshop_on_interactive_multimedia_on_mobile_and_portable_devices'&gt;Workshop on Interactive Multimedia on Mobile and Portable Devices&lt;/h3&gt;</content>
+&lt;h3&gt;Workshop on Interactive Multimedia on Mobile and Portable Devices&lt;/h3&gt;
+</content>
  </entry>
  
  <entry>
    <title>Laughing Faces App in the AppStore</title>
-   <link href="http://kaikunze.de//hacking/2012/08/30/laughing-faces-app-in-the-appstore"/>
+   <link href="http://kaikunze.de/posts/laughing-faces-app-in-the-appstore"/>
    <updated>2012-08-30T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//hacking/2012/08/30/laughing-faces-app-in-the-appstore</id>
-   <content type="html">&lt;p&gt;Over the last couple of weeks, I was getting settled in my new job. As I&amp;#8217;m working with &lt;a href='http://imlab.jp'&gt;computer vision researchers&lt;/a&gt; now, I started playing with the camera api for the iPhone.&lt;/p&gt;
+   <id>http://kaikunze.de/posts/laughing-faces-app-in-the-appstore</id>
+   <content type="html">&lt;p&gt;Over the last couple of weeks, I was getting settled in my new job.
+As I&amp;rsquo;m working with &lt;a href=&quot;http://imlab.jp&quot;&gt;computer vision researchers&lt;/a&gt; now,
+I started playing with the camera api for the iPhone.&lt;/p&gt;
 
-&lt;p&gt;Again, I&amp;#8217;m very surprised by the accessibility and quality of Apples apis and their sample code.&lt;/p&gt;
+&lt;p&gt;Again, I&amp;rsquo;m very surprised by the accessibility and quality of Apples
+apis and their sample code.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt='Laughing Face' src='/imgs/laughing.png' /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/imgs/laughing.png&quot; alt=&quot;Laughing Face&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;As a start, this little app is a &amp;#8220;privacy enhanced&amp;#8221; camera app for entertainment purposes. It uses face detection and draws a little laughing face on top of each recognized head in real time. I hesitated putting it in the store, yet was asked by some friends to do so (had to exchange the laughing face due to copyright constraints).&lt;/p&gt;
+&lt;p&gt;As a start, this little app is a &amp;ldquo;privacy enhanced&amp;rdquo; camera
+app for entertainment purposes.
+It uses face detection and draws a little
+laughing face on top of each recognized head in real time.
+I hesitated putting it in the store, yet was asked by some friends to
+do so (had to exchange the laughing face due to copyright constraints).&lt;/p&gt;
 
-&lt;p&gt;Grab it while it&amp;#8217;s hot &amp;#8230; it&amp;#8217;s quite popular in Japan (understandable given the background, see below), China and Saudi Arabia (of all places, &amp;#8230; if somebody can tell me why, please send me a mail): &lt;a href='http://itunes.apple.com/us/app/laughing-faces/id551656355?mt=8'&gt;Laughing Faces AppStore Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Grab it while it&amp;rsquo;s hot &amp;hellip; it&amp;rsquo;s quite popular in Japan (understandable
+given the background, see below), China and Saudi Arabia (of all places, &amp;hellip; if
+somebody can tell me why, please send me a mail):
+&lt;a href=&quot;http://itunes.apple.com/us/app/laughing-faces/id551656355?mt=8&quot;&gt;Laughing Faces AppStore Link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;By the way, I had over 250 downloads the first day :) Oh if you wonder, the inspiration came from &lt;a href='http://en.wikipedia.org/wiki/Laughing_Man_(Ghost_in_the_Shell'&gt;Ghost in the Shell Standalone Complex&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;By the way, I had over 250 downloads the first day :)
+Oh if you wonder, the inspiration came from
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Laughing_Man_(Ghost_in_the_Shell&quot;&gt;Ghost in the Shell Standalone Complex&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;If people bug me enough, I will make the png exchangable. Cannot tell you too much, yet expect an update when iOS6 hits.&lt;/p&gt;</content>
+&lt;p&gt;If people bug me enough, I will make the png exchangable.
+Cannot tell you too much, yet expect an update when iOS6 hits.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>AAAI activity context workshop notes</title>
-   <link href="http://kaikunze.de//scratchpad/2012/07/26/aaai-activity-context-workshop-notes"/>
+   <link href="http://kaikunze.de/posts/aaai-activity-context-workshop-notes"/>
    <updated>2012-07-26T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//scratchpad/2012/07/26/aaai-activity-context-workshop-notes</id>
+   <id>http://kaikunze.de/posts/aaai-activity-context-workshop-notes</id>
    <content type="html">&lt;p&gt;I enjoyed the AAAI context activity workshop a lot.&lt;/p&gt;
 
-&lt;p&gt;The keynote &lt;a href='http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5292/5556'&gt;How to make Face Recognition work (pdf)&lt;/a&gt; by &lt;a href='http://research.microsoft.com/en-us/um/people/akapoor/'&gt;Ashis Kapoor&lt;/a&gt; showed how to increase face recognition introducing very simple &amp;#8220;context&amp;#8221; constrains (two people in the same image cannot be the same person etc.). Very interesting work, I wonder how much better you can get introducing some more dynamic context recognition to the face recognition task.&lt;/p&gt;
+&lt;p&gt;The keynote &lt;a href=&quot;http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5292/5556&quot;&gt;How to make Face
+Recognition work (pdf)&lt;/a&gt;
+by &lt;a href=&quot;http://research.microsoft.com/en-us/um/people/akapoor/&quot;&gt;Ashis Kapoor&lt;/a&gt;
+showed how to increase face recognition introducing very simple &amp;ldquo;context&amp;rdquo; constrains
+(two people in the same image cannot be the same person etc.).
+Very interesting work, I wonder how much better you can get introducing
+some more dynamic context recognition to the face recognition task.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href='http://www.cs.ubc.ca/~murphy/'&gt;Gail Murphy&lt;/a&gt; gave the other keynote &lt;a href='http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5302/5557'&gt;Task Context for Knowledge Workers (pdf)&lt;/a&gt;. She introduces context modelling for tasks in GTD scenarios. Also quite interesting, as completely complimentary to my work (no mobile clients, sensors etc.).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.cs.ubc.ca/~murphy/&quot;&gt;Gail Murphy&lt;/a&gt; gave the other keynote
+&lt;a href=&quot;http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5302/5557&quot;&gt;Task Context for Knowledge Workers (pdf)&lt;/a&gt;.
+She introduces context modelling for tasks in GTD scenarios.
+Also quite interesting, as completely complimentary to my work (no mobile
+clients, sensors etc.).&lt;/p&gt;
 
-&lt;p&gt;A lot of people were aware of our efforts during the &lt;a href='http://www.opportunity-project.eu/'&gt;Opportunity Project&lt;/a&gt; and the standard datasets we want to put out.&lt;/p&gt;
+&lt;p&gt;A lot of people were aware of our efforts during the
+&lt;a href=&quot;http://www.opportunity-project.eu/&quot;&gt;Opportunity Project&lt;/a&gt; and the standard datasets we want to put out.&lt;/p&gt;
 
-&lt;p&gt;Rim Helaoui presented work about using &lt;a href='http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5269/5552'&gt;Probabilistic Description Logics (pdf)&lt;/a&gt; for activity recognition, an interesting approach trying to combine data driven and rule-based activity inference. They used the opportunity dataset ;)&lt;/p&gt;
+&lt;p&gt;Rim Helaoui presented work about using &lt;a href=&quot;http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5269/5552&quot;&gt;Probabilistic Description Logics (pdf)&lt;/a&gt;
+for activity recognition, an interesting approach trying to combine
+  data driven and rule-based activity inference. They used
+  the opportunity dataset ;)&lt;/p&gt;
 
-&lt;p&gt;Bostjan Kaluza shared the call for more standardized datasets in context recognition in his talk about &lt;a href='http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5305/5555'&gt;The Activity Recognition Repository (pdf)&lt;/a&gt;. A very important endeavor, I already also discussed several times. I think a broad effort in the field is necessary.&lt;/p&gt;
+&lt;p&gt;Bostjan Kaluza shared the call for more standardized datasets in context recognition
+in his talk about &lt;a href=&quot;http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5305/5555&quot;&gt;The Activity Recognition Repository (pdf)&lt;/a&gt;.
+A very important endeavor, I already also discussed several times.
+I think a broad effort in the field is necessary.&lt;/p&gt;
 
-&lt;p&gt;All the final papers are up on the &lt;a href='http://activitycontext.org/final-papers/'&gt;workshop website&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;All the final papers are up on the &lt;a href=&quot;http://activitycontext.org/final-papers/&quot;&gt;workshop website&lt;/a&gt;.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>Towards Dynamically Configurable Context Recognition Systems</title>
-   <link href="http://kaikunze.de//publication/2012/07/09/draft-version-of-aaai-workshop-paper-online"/>
+   <link href="http://kaikunze.de/posts/draft-version-of-aaai-workshop-paper-online"/>
    <updated>2012-07-09T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//publication/2012/07/09/draft-version-of-aaai-workshop-paper-online</id>
-   <content type="html">&lt;p&gt;Here&amp;#8217;s a &lt;a href='http://kaikunze.de/papers/2012Kunze.pdf'&gt;draft version of my publication&lt;/a&gt; for the &lt;a href='http://activitycontext.org/'&gt;Activity Context Workshop&lt;/a&gt; in Toronto. Bellow the abstract.&lt;/p&gt;
+   <id>http://kaikunze.de/posts/draft-version-of-aaai-workshop-paper-online</id>
+   <content type="html">&lt;p&gt;Here&amp;rsquo;s a &lt;a href=&quot;http://kaikunze.de/papers/2012Kunze.pdf&quot;&gt;draft version of my publication&lt;/a&gt; for the &lt;a href=&quot;http://activitycontext.org/&quot;&gt;Activity Context Workshop&lt;/a&gt;
+in Toronto. Bellow the abstract.&lt;/p&gt;
 
-&lt;p&gt;Also download &lt;a href='http://kaikunze.de/slides/2012aaai-slides.pdf'&gt;the slides&lt;/a&gt; of my talk.&lt;/p&gt;
+&lt;p&gt;Also download &lt;a href=&quot;http://kaikunze.de/slides/2012aaai-slides.pdf&quot;&gt;the slides&lt;/a&gt; of my talk.&lt;/p&gt;
 
-&lt;p&gt;Here&amp;#8217;s the link to the &lt;a href='https://github.com/kkai/snsrlog'&gt;source code for snsrlog for iPhone&lt;/a&gt; (which I mentioned during my talk).&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s the link to the &lt;a href=&quot;https://github.com/kkai/snsrlog&quot;&gt;source code for snsrlog for iPhone&lt;/a&gt; (which I mentioned during my talk).&lt;/p&gt;
+
 &lt;hr /&gt;
+
 &lt;p&gt;Abstract&lt;/p&gt;
 
-&lt;p&gt;General representation, abstraction and exchange definitions are crucial for dynamically configurable context recognition. However, to evaluate potential definitions, suitable standard datasets are needed. This paper presents our effort to create and maintain large scale, multimodal standard datasets for context recognition research. We ourselves used these datasets in previous research to deal with placement effects and presented low-level sensor abstractions in motion based on-body sensing. Researchers, conducting novel data collections, can rely on the toolchain and the the low-level sensor abstractions summarized in this paper. Additionally, they can draw from our experiences developing and conducting context recognition experiments. Our toolchain is already a valuable rapid prototyping tool. Still, we plan to extend it to crowd-based sensing, enabling the general public to gather context data, learn more about their lives and contribute to context recognition research. Applying higher level context reasoning on the gathered context data is a obvious extension to our work.&lt;/p&gt;</content>
+&lt;p&gt;General representation, abstraction and exchange definitions are crucial for dynamically configurable context recognition.
+However, to evaluate potential definitions, suitable standard datasets are needed.
+This paper presents our effort to create and maintain large scale, multimodal standard datasets
+for context recognition research. We ourselves used these datasets in previous research to deal with placement effects
+and presented low-level sensor abstractions in motion based on-body sensing.
+Researchers, conducting novel data collections, can rely on the toolchain and the the low-level sensor
+abstractions summarized in this paper. Additionally, they can draw from our experiences developing and
+conducting context recognition experiments.
+Our toolchain is already a valuable rapid prototyping tool. Still, we plan to extend it to crowd-based
+sensing, enabling the general public to gather context data, learn more about their lives and contribute
+to context recognition research.
+Applying higher level context reasoning on the gathered context data is a obvious extension to our work.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>Some of my publications are online</title>
-   <link href="http://kaikunze.de//publication/2012/07/08/some-of-my-publications-are-online"/>
+   <link href="http://kaikunze.de/posts/some-of-my-publications-are-online"/>
    <updated>2012-07-08T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//publication/2012/07/08/some-of-my-publications-are-online</id>
-   <content type="html">&lt;p&gt;I&amp;#8217;m slowly uploading a couple of references and the pdf draft versions of them. Please find some of my &lt;a href='http://kaikunze.de/publications.html'&gt;publications&lt;/a&gt; in the corresponding section of this website.&lt;/p&gt;
+   <id>http://kaikunze.de/posts/some-of-my-publications-are-online</id>
+   <content type="html">&lt;p&gt;I&amp;rsquo;m slowly uploading a couple of references and the pdf draft versions of them.
+Please find some of my &lt;a href=&quot;http://kaikunze.de/publications.html&quot;&gt;publications&lt;/a&gt; in the corresponding
+section of this website.&lt;/p&gt;
 
-&lt;p&gt;Stay tuned for the bibtex description and some more papers.&lt;/p&gt;</content>
+&lt;p&gt;Stay tuned for the bibtex description and some more papers.&lt;/p&gt;
+</content>
  </entry>
  
  <entry>
    <title>Compensating for On-body Placement Effects in Activity Recognition</title>
-   <link href="http://kaikunze.de//publication/2012/07/07/phd-thesis-sources-on-github"/>
+   <link href="http://kaikunze.de/posts/phd-thesis-sources-on-github"/>
    <updated>2012-07-07T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//publication/2012/07/07/phd-thesis-sources-on-github</id>
-   <content type="html">&lt;p&gt;Finished my phD. last year in Passau. The thesis is already published over &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/'&gt;Opus Bayern&lt;/a&gt;. The pdf is open access, so feel free to read it (careful 19 MB pdf): &lt;a href='http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf'&gt;Compensating for On-Body Placement Effects in Activity Recognition as pdf&lt;/a&gt;&lt;/p&gt;
+   <id>http://kaikunze.de/posts/phd-thesis-sources-on-github</id>
+   <content type="html">&lt;p&gt;Finished my phD. last year in Passau. The
+thesis is already published over &lt;a href=&quot;http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/&quot;&gt;Opus Bayern&lt;/a&gt;.
+The pdf is open access, so feel free to read it (careful 19 MB pdf):
+&lt;a href=&quot;http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf&quot;&gt;Compensating for On-Body Placement Effects in Activity Recognition as pdf&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;However, the sources were not available. Finally, I got around to push the &lt;a href='http://github.com/kkai/phdthesis'&gt;latex sources of my dissertation&lt;/a&gt; up to github.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Please feel free to use it as a thesis template, attribution would be apprecitated ;)&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Please share if you make improvements, there are a lot of hacks and quick fixes in the sources.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;I&amp;#8217;ll try to share most of the algorithms discussed in my dissertation.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Here&amp;#8217;s a quick summary about the content together with the slides of my defense:&lt;/p&gt;
+&lt;p&gt;However, the sources were not available.
+Finally, I got around to push the &lt;a href=&quot;http://github.com/kkai/phdthesis&quot;&gt;latex sources
+of my dissertation&lt;/a&gt; up to github.&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;This thesis investigates, how placement variations of electronic devices influence the possibility of using sensors integrated in those devices for context recognition. The vast majority of context recognition research assumes well defined, fixed sen- sor locations. Although this might be acceptable for some application domains (e.g. in an industrial setting), users, in general, will have a hard time coping with these limitations. If one needs to remember to carry dedicated sensors and to adjust their orientation from time to time, the activity recognition system is more distracting than helpful. How can we deal with device location and orientation changes to make context sensing mainstream? This thesis presents a systematic evaluation of device placement effects in context recognition.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;script class='speakerdeck-embed' data-id='eece7090eb64013086517aec58278375' data-ratio='1.33333333333333' src='//speakerdeck.com/assets/embed.js'&gt; &lt;/script&gt;</content>
+&lt;hr /&gt;
+
+&lt;p&gt;Please feel free to use it as a thesis template,
+attribution would be apprecitated ;)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Please share if you make improvements, there
+are a lot of hacks and quick fixes in the sources.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I&amp;rsquo;ll try to share most of the algorithms discussed in my dissertation.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a quick summary about the content together with the slides of my defense:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;This thesis investigates, how placement variations of electronic
+devices influence the possibility of using sensors integrated in
+those devices for context recognition. The vast majority of context
+recognition research assumes well defined, fixed sen- sor locations.
+Although this might be acceptable for some application domains
+(e.g. in an industrial setting), users, in general, will have a
+hard time coping with these limitations. If one needs to remember
+to carry dedicated sensors and to adjust their orientation from
+time to time, the activity recognition system is more distracting
+than helpful. How can we deal with device location and orientation
+changes to make context
+sensing mainstream? This thesis presents a systematic
+evaluation of device placement effects in context recognition.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;script class=&quot;speakerdeck-embed&quot; data-id=&quot;eece7090eb64013086517aec58278375&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt; &lt;/script&gt;
+
+
+
+</content>
  </entry>
  
  <entry>
    <title>Using device motion in html/javascript</title>
-   <link href="http://kaikunze.de//hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript"/>
+   <link href="http://kaikunze.de/posts/using-device-motion-from-a-mobile-device-in-htmljavascript"/>
    <updated>2012-06-18T00:00:00+09:00</updated>
-   <id>http://kaikunze.de//hacking/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript</id>
-   <content type="html">&lt;p&gt;A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red cube is shown on the screen (placed between randomly generated cubes). The transparent area around the cube changes depending on how strong one shakes the phone.&lt;/p&gt;
-&lt;iframe frameborder='0' height='281' src='http://player.vimeo.com/video/45626605' width='500'&gt;
-&lt;/iframe&gt;&lt;p&gt;&lt;a href='http://vimeo.com/45626605'&gt;Visualization based on mobile phone data&lt;/a&gt; from &lt;a href='http://vimeo.com/user8093378'&gt;Kai Kunze&lt;/a&gt; on &lt;a href='http://vimeo.com'&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can get the code from my &lt;a href='https://github.com/kkai/devicemotion-demo'&gt;github page&lt;/a&gt;&lt;/p&gt;
+   <id>http://kaikunze.de/posts/using-device-motion-from-a-mobile-device-in-htmljavascript</id>
+   <content type="html">&lt;p&gt;A while ago, I built a simple demonstration on how to stream accelerometer
+data from a mobile device over websockets to a server just using
+html and javascript. It consists of a nodejs web server and a processing.org
+visualization. As soon as a mobile browser connects to the server a new red
+cube is shown on the screen (placed between randomly generated cubes).
+The transparent area around the cube changes depending on how strong
+one shakes the phone.&lt;/p&gt;
 
-&lt;p&gt;It&amp;#8217;s based on these tutorials and sample code:&lt;/p&gt;
+&lt;iframe src=&quot;http://player.vimeo.com/video/45626605&quot; 
+width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot;
+&gt;
+&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href='http://martinsikora.com/nodejs-and-websocket-simple-chat-tutorial'&gt;a simple chat server node.js tutorial&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href='http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/'&gt;3d css cube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href='http://openprocessing.org/sketch/19216'&gt;3d cube world&lt;/a&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;a href=&quot;http://vimeo.com/45626605&quot;&gt;Visualization based on mobile phone data&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/user8093378&quot;&gt;Kai Kunze&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;p&gt;You can get the code from my &lt;a href=&quot;https://github.com/kkai/devicemotion-demo&quot;&gt;github page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s based on these tutorials and sample code:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://martinsikora.com/nodejs-and-websocket-simple-chat-tutorial&quot;&gt;a simple chat server node.js tutorial&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/&quot;&gt;3d css cube&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://openprocessing.org/sketch/19216&quot;&gt;3d cube world&lt;/a&gt;&lt;/p&gt;
+</content>
  </entry>
  
- 
+
 </feed>
