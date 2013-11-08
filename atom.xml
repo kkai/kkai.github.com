@@ -4,12 +4,65 @@
  <title>Kai Kunze</title>
  <link href="http://kaikunze.de/atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2013-11-05T10:11:25+09:00</updated>
+ <updated>2013-11-08T10:51:23+09:00</updated>
  <id>http://kaikunze.de</id>
  <author>
    <name>Kai Kunze</name>
  </author>
 
+ 
+ <entry>
+   <title>Amazing Okinawa - Attending the ASVAI Workshop</title>
+   <link href="http://kaikunze.de/posts/amazing-okinawa-attending-the-asvai-workshop"/>
+   <updated>2013-11-05T00:00:00+09:00</updated>
+   <id>http://kaikunze.de/posts/amazing-okinawa-attending-the-asvai-workshop</id>
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;Cool research discussions at a nice location. The workshop was perfect fit to my research interests.&lt;/p&gt;
+
+
+&lt;p&gt;The &lt;a href=&quot;http://www.am.sanken.osaka-u.ac.jp/ASVAI2013/&quot;&gt;ASVAI workshop&lt;/a&gt; gave a good overview about several research
+efforts part of and related to the &lt;a href=&quot;http://www.jst.go.jp/kisoken/crest/en/research_area/ongoing/areah21-1.html&quot;&gt;JST CREST&lt;/a&gt; and the JSPS Core-to-Core Sanken Program.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.am.sanken.osaka-u.ac.jp/~yagi/&quot;&gt;Prof. Yasushi Yagi&lt;/a&gt;
+showed how to infer intention from gait analysis.
+Interestingly, he showed research about the relationship
+of gaze and gait.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://ai.stanford.edu/~alireza/&quot;&gt;Dr. Alireza Fathi&lt;/a&gt;
+presented cool work about ego centric cameras. He showed
+how to estimate gaze using ego centric cameras during
+cooking tasks and psychological studies.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.uh.edu/class/psychology/about/people/hanako-yoshida/index.php&quot;&gt;Prof. Hanako Yoshida&lt;/a&gt; explores
+social learning in infants (equipping children with mobile
+eye trackers &amp;hellip; awesome!), inferring developmental stages
+giving more insights in the learning process.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.irc.atr.jp/~m-shiomi/&quot;&gt;Prof. Masahiro Shiomi&lt;/a&gt;
+spoke about his research trying to adapt robot behavior
+to fit into social public spaces ( videos about
+people running away from a robot included ;) ).
+Currently, they focus on service robots and model their
+behavior according to successful human service personnel.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.hci.iis.u-tokyo.ac.jp/~ysato/&quot;&gt;Prof. Yoichi Sato&lt;/a&gt; presented work related to
+detecting visual attention. They use visual saliency
+on video to train an appearance-based eye tracking.
+Really interesting work, I had a chance to talk a bit
+more with &lt;a href=&quot;http://www.hci.iis.u-tokyo.ac.jp/~sugano/&quot;&gt;Yusuke Sugano&lt;/a&gt;, cool research :)&lt;/p&gt;
+
+&lt;p&gt;Of course, Koichi also gave an overview about our work.
+If you want to read more, checkout the &lt;a href=&quot;/papers/kunze2013activity.pdf&quot;&gt;IEEE Computer article&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m looking forward to the main conference.
+Here&amp;rsquo;s a tag cloud using the abstracts of ACPR and ASVAI papers:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/imgs/acpr_wordcloud.png&quot; alt=&quot;Tag cloud&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We present demonstrations and new results
+of the eye tracking on commodity
+tablets/smart phones and a sharing infrastructure for our document annotation for smart phones.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>A Week with Glass</title>
