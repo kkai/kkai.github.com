@@ -4,12 +4,63 @@
  <title>Kai Kunze</title>
  <link href="http://kaikunze.de/atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2013-11-18T10:11:36+09:00</updated>
+ <updated>2013-12-06T10:59:15+09:00</updated>
  <id>http://kaikunze.de</id>
  <author>
    <name>Kai Kunze</name>
  </author>
 
+ 
+ <entry>
+   <title>Bits and Bytes instead of a Bookshelf</title>
+   <link href="http://kaikunze.de/posts/bits-and-bytes-instead-of-a-book-shelf"/>
+   <updated>2013-11-29T00:00:00+09:00</updated>
+   <id>http://kaikunze.de/posts/bits-and-bytes-instead-of-a-book-shelf</id>
+   <content type="html">&lt;p class=&quot;lead&quot;&gt; An interview made me wonder about how reading habits are changing and how we will narrate stories in the future. &lt;/p&gt;
+
+
+&lt;p&gt;Recently, I gave an interview for the German online issue
+of the Scientific American (&lt;a href=&quot;http://spectrum.de/&quot;&gt;Spectrum der Wissenschaft&lt;/a&gt;) for a &lt;a href=&quot;http://www.spektrum.de/alias/lesen/bits-und-bytes-statt-buchregal/1211519&quot;&gt;special about reading habits (in German, paywall)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As I&amp;rsquo;m interested in the topic, I often hear
+that &amp;ldquo;endless scrolling&amp;rdquo; is bad as it destroys
+the mental map we make of books and pages or
+that reading from backlit screens is eye-straining
+inducing headaches. Personally, I cannot really
+understand these complaints. I&amp;rsquo;m doing most
+of my reading on tablet devices or computer screens
+though I never experienced these problems directly.&lt;/p&gt;
+
+&lt;p&gt;However, active reading -the process of working with the text through highlight, notes, marks- is still better
+on paper. In Human Computer interaction terms, people talk about &lt;a href=&quot;http://en.wikipedia.org/wiki/Affordance&quot;&gt;affordances&lt;/a&gt;. The affordance of paper is very high for active reading. So I find myself still printing out drafts
+or review papers, especially if it&amp;rsquo;s a close call and
+I need to concentrate on the contents. In later case, I even like to change the reading environment, moving away
+from my laptop/desktop to a meeting table or a bank outside. I believe this helps me concentrate, deliberately shutting out any distractions.&lt;/p&gt;
+
+&lt;p&gt;We just started to modify the reading experience using electronic devices.
+So far most of the applications and reading devices
+directly mimic the book. We have &amp;ldquo;ebooks&amp;rdquo;, &amp;ldquo;e-reading&amp;rdquo; software
+use pages and page turns etc. I believe there is a lot of room for improvement related to reading on screens.&lt;/p&gt;
+
+&lt;p&gt;Given the possibility to assess the user&amp;rsquo;s mental state using
+&lt;a href=&quot;/papers/kunze2013activity.pdf&quot;&gt;Cognitive Activity Recognition&lt;/a&gt;, we
+can change content, structure and style of reading materials dynamically.
+Most straight forward, if an application detects that a reader looses
+interest, it could prompt her with an interactive challenge/video or
+similar. Changing fonts, colors and lettering according to mood and
+context could be also interesting. There is a fairly new
+playground opening up for anybody curious and interested in
+defining new forms of reading.&lt;/p&gt;
+
+&lt;p&gt;Interesting further reading:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.fxpal.com/publications/FXPAL-PR-98-053.pdf&quot;&gt;Shilit et. al. Beyond Paper: Supporting Active Reading with Free Form Digital Ink Annotations&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://courses.cs.vt.edu/~cs5714/fall2003/Affordances,%20as%20appeared.pdf&quot;&gt;Hartson. Cognitive, physical, sensory, and functional affordances in interaction design&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://hci.ucsd.edu/hollan/Pubs/piperCHI2009.pdf&quot;&gt;Piper et. al. Tabletop Displays for Small Group Study: Affordances of Paper and Digital Materials&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Amazing Okinawa - Attending the ASVAI Workshop</title>
@@ -200,8 +251,8 @@ completely unfounded.&lt;/p&gt;
 They both did a great job introducing their work about:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;/papers/2013Kunze-4.pdf&quot;&gt;Eyetracking on common Tablets/Phones&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;/papers/2013Kunze-3.pdf&quot;&gt;Real-Time Document Image Retrieval On Mobile Devices&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/papers/kunze2013my.pdf&quot;&gt;My Reading Life – Towards Utilizing Eyetracking on Unmodified Tablets and Phones&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/papers/kunze2013annotate.pdf&quot;&gt;Annotate Me – Supporting Active Reading using Real-Time Document Image Retrieval On Mobile Devices&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 
@@ -243,16 +294,16 @@ and a short paper at ISWC.&lt;/p&gt;
 &lt;h3&gt;Ubicomp Demos and Posters&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/papers/2013Kunze-4.pdf&quot;&gt;My Reading Life – Towards Utilizing Eyetracking on Unmodified Tablets and Phones&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/papers/2013Kunze-3.pdf&quot;&gt;Annotate Me – Supporting Active Reading using Real-Time Document Image Retrieval On Mobile Devices&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/papers/2013Cheng.pdf&quot;&gt;Activity Recognition and Nutrition Monitoring in Every Day Situations with a Textile Capacitive Neckband&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/papers/kunze2013my.pdf&quot;&gt;My Reading Life – Towards Utilizing Eyetracking on Unmodified Tablets and Phones&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/papers/kunze2013annotate.pdf&quot;&gt;Annotate Me – Supporting Active Reading using Real-Time Document Image Retrieval On Mobile Devices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/papers/cheng2013activity.pdf&quot;&gt;Activity Recognition and Nutrition Monitoring in Every Day Situations with a Textile Capacitive Neckband&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 
 &lt;h3&gt;ISWC paper&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/papers/2013Kunze-5.pdf&quot;&gt;I know what you are reading – Recognition of Document Types Using Mobile Eye Tracking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/papers/kunze2013know.pdf&quot;&gt;I know what you are reading – Recognition of Document Types Using Mobile Eye Tracking&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 
@@ -280,8 +331,8 @@ and a short paper at ISWC.&lt;/p&gt;
 
 
 &lt;p&gt;For more details, check out the papers:
-* &lt;a href=&quot;/papers/2013Kunze-1.pdf&quot;&gt;The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking&lt;/a&gt;
-* &lt;a href=&quot;/papers/2013Kunze-2.pdf&quot;&gt;Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents&lt;/a&gt;&lt;/p&gt;
+* &lt;a href=&quot;/papers/kunze2013wordometer.pdf&quot;&gt;The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking&lt;/a&gt;
+* &lt;a href=&quot;/papers/kunze2013reading.pdf&quot;&gt;Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;They are both published at &lt;a href=&quot;http://icdar2013.org&quot;&gt;ICDAR 2013&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -353,8 +404,8 @@ This work would not be possible without two very talented students: Hitoshi Kawa
 Thanks for the hard work :D&lt;/p&gt;&lt;/blockquote&gt;
 
 &lt;p&gt;For more details, check out the papers:
-* &lt;a href=&quot;/papers/2013Kunze-1.pdf&quot;&gt;The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking&lt;/a&gt;
-* &lt;a href=&quot;/papers/2013Kunze-2.pdf&quot;&gt;Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents&lt;/a&gt;&lt;/p&gt;
+* &lt;a href=&quot;/papers/kunze2013reading.pdf&quot;&gt;The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking&lt;/a&gt;
+* &lt;a href=&quot;/papers/kunze2013wordometer.pdf&quot;&gt;Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;They are both published at &lt;a href=&quot;http://icdar2013.org&quot;&gt;ICDAR 2013&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -374,7 +425,7 @@ Will blog about more later.&lt;/p&gt;
 &amp;ldquo;Towards inferring language expertise using eye tracking&amp;rdquo;
 Drop by my poster if you&amp;rsquo;re around (or try to spot me, I&amp;rsquo;m wearing the white &amp;ldquo;Kai@CHI&amp;rdquo; Shirt today :)).&lt;/p&gt;
 
-&lt;p&gt;Here&amp;rsquo;s the abstract of our work, as well as the &lt;a href=&quot;http://kaikunze.de/papers/2013kunze.pdf&quot;&gt;link to the paper&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s the abstract of our work, as well as the &lt;a href=&quot;http://kaikunze.de/papers/kunze2013towards.pdf&quot;&gt;link to the paper&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;We present initial work towards recognizing reading activities. This paper describes our efforts detect the English skill level of a user and infer which words are difficult for them to understand. We present an initial study of 5 students and show our findings regarding the skill level assessment. We explain a method to spot difficult words. Eye tracking is a promising technology to examine and assess a user’s skill level.&amp;rdquo;&lt;/p&gt;
 </content>
@@ -625,8 +676,6 @@ I think a broad effort in the field is necessary.&lt;/p&gt;
    <id>http://kaikunze.de/posts/draft-version-of-aaai-workshop-paper-online</id>
    <content type="html">&lt;p&gt;Here&amp;rsquo;s a &lt;a href=&quot;http://kaikunze.de/papers/2012Kunze.pdf&quot;&gt;draft version of my publication&lt;/a&gt; for the &lt;a href=&quot;http://activitycontext.org/&quot;&gt;Activity Context Workshop&lt;/a&gt;
 in Toronto. Bellow the abstract.&lt;/p&gt;
-
-&lt;p&gt;Also download &lt;a href=&quot;http://kaikunze.de/slides/2012aaai-slides.pdf&quot;&gt;the slides&lt;/a&gt; of my talk.&lt;/p&gt;
 
 &lt;p&gt;Here&amp;rsquo;s the link to the &lt;a href=&quot;https://github.com/kkai/snsrlog&quot;&gt;source code for snsrlog for iPhone&lt;/a&gt; (which I mentioned during my talk).&lt;/p&gt;
 
