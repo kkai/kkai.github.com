@@ -4,12 +4,28 @@
  <title>Kai Kunze</title>
  <link href="http://kaikunze.de/atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2013-12-22T22:44:59+01:00</updated>
+ <updated>2013-12-28T00:32:04+01:00</updated>
  <id>http://kaikunze.de</id>
  <author>
    <name>Kai Kunze</name>
  </author>
 
+ 
+ <entry>
+   <title>30C3 Toward a Cognitive Quantified Self</title>
+   <link href="http://kaikunze.de/posts/30c3-toward-a-cognitive-quantified-self"/>
+   <updated>2013-12-28T00:00:00+01:00</updated>
+   <id>http://kaikunze.de/posts/30c3-toward-a-cognitive-quantified-self</id>
+   <content type="html">&lt;p&gt;Here are my &lt;a href=&quot;/slides/30c3.pdf&quot;&gt;talk slides&lt;/a&gt; &amp;hellip; Sorry it took so long.
+Thanks for the great feedback, will write a bit
+more if I have sometime ;)&lt;/p&gt;
+
+&lt;script class=&quot;speakerdeck-embed&quot; data-id=&quot;6535ee80517b0131e1f61635afb1c999&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt; &lt;/script&gt;
+
+
+
+</content>
+ </entry>
  
  <entry>
    <title>Hacking Glass</title>
