@@ -4,12 +4,45 @@
  <title>Kai Kunze</title>
  <link href="http://kaikunze.de/atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2014-07-29T10:20:00+09:00</updated>
+ <updated>2014-08-10T20:24:24+09:00</updated>
  <id>http://kaikunze.de</id>
  <author>
    <name>Kai Kunze</name>
  </author>
 
+ 
+ <entry>
+   <title>Looking forward to ISWC/Ubicomp 2014</title>
+   <link href="http://kaikunze.de/posts/looking-forward-to-iswcubicomp-2014"/>
+   <updated>2014-08-10T00:00:00+09:00</updated>
+   <id>http://kaikunze.de/posts/looking-forward-to-iswcubicomp-2014</id>
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;With roughly around 1 month to go, 
+we are busy with demo preparations etc.
+&lt;/p&gt;
+
+
+&lt;p&gt;I hope to see you in Seattle. This year we have
+again a couple papers outline work from our students.
+Attached is a list with draft versions of the papers.
+I will write a bit about each topic in the next coming
+weeks.&lt;/p&gt;
+
+&lt;p&gt;Oh and if you attend please think about stopping
+by our &lt;a href=&quot;http://recall-fet.eu/wahm2014/&quot;&gt;Workshop on Ubiquitous Technologies for Augmenting the Human Mind&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/papers/okoso2014implicit.pdf&quot;&gt;&lt;em&gt;Implicit Gaze based Annotations to Support Second Language Learning&lt;/em&gt;&lt;/a&gt;. Okoso, Ayano and Kunze, Kai and Kise, Koichi. Proceedings of UbiComp&#39;14 Adjunct. 2014. &lt;a href=&quot;papers/bib/okoso2014implicit.bib&quot;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/papers/kunze2014wearable.pdf&quot;&gt;&lt;em&gt;Wearable Computing for Older Adults -Initial Insights into Head-Mounted Display Usage&lt;/em&gt;&lt;/a&gt;. Kunze, Kai and Henze, Niels and Kise, Koichi. Proceedings of UbiComp&#39;14 Adjunct. 2014. &lt;a href=&quot;papers/bib/kunze2014wearable.bib&quot;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/papers/tanaka2014memory.pdf&quot;&gt;&lt;em&gt;Memory Specs-An Annotation System on Google Glass using Document Image Retrieval&lt;/em&gt;&lt;/a&gt;. Tanaka, Katsuma and Kunze, Kai and Iwata, Motoi and Kise, Koichi. Proceedings of UbiComp&#39;14 Adjunct. 2014. &lt;a href=&quot;papers/bib/tanaka2014memory.bib&quot;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/papers/ishimaru2014smarter.pdf&quot;&gt;&lt;em&gt;Smarter Eyewear- Using Commercial EOG Glasses for Activity Recognition&lt;/em&gt;&lt;/a&gt;. Ishimaru, Shoya and Kunze, Kai and Tanaka, Katsuma and Uema, Uji and Kise, Koichi and Inami, Masahiko. Proceedings of UbiComp&#39;14 Adjunct. 2014. &lt;a href=&quot;papers/bib/ishimaru2014smarter.bib&quot;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;/papers/ishimaru2014brain.pdf&quot;&gt;&lt;em&gt;Position Paper: Brain Teasers &amp;ndash; Toward Wearable Computing that Engages Our Mind&lt;/em&gt;&lt;/a&gt;. Ishimaru, Shoya and Kunze, Kai and Kise, Koichi and Inami, Masahiko. Proceedings of UbiComp&#39;14 Adjunct. 2014. &lt;a href=&quot;papers/bib/ishimaru2014brain.bib&quot;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Augmented Human 2014</title>
