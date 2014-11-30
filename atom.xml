@@ -4,12 +4,57 @@
  <title>Kai Kunze</title>
  <link href="http://kaikunze.de/atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2014-10-20T08:23:52+09:00</updated>
+ <updated>2014-11-30T21:49:41+09:00</updated>
  <id>http://kaikunze.de</id>
  <author>
    <name>Kai Kunze</name>
  </author>
 
+ 
+ <entry>
+   <title>Eye-Wear Computing</title>
+   <link href="http://kaikunze.de/posts/eyewear-computing"/>
+   <updated>2014-11-30T00:00:00+09:00</updated>
+   <id>http://kaikunze.de/posts/eyewear-computing</id>
+   <content type="html">&lt;p class=&quot;lead&quot;&gt; Smart glasses and, in general, eyewear are a fairly novel device class with a lot of possibilities for unobtrusive activity tracking. That&#39;s why I&#39;m very excited to be working in the Team of Masahiko Inami Sensei at Keio Media Design to do research on J!NS MEME.&lt;/p&gt;
+
+
+&lt;p&gt;You might have seen the &lt;a href=&quot;http://academic.jins.com/en/&quot;&gt; J!NS academic videos &lt;/a&gt; by now,
+I added embedded versions to the end of the post.&lt;/p&gt;
+
+&lt;p&gt;Bellow is the full video of the sneak peek of our work in the J!NS promotion. Special thanks to &lt;a href=&quot;http://shoya.io/aboutme/&quot;&gt; Shoya Ishimaru &lt;/a&gt; and &lt;a href=&quot;http://questbe.at&quot;&gt;Katsuma Tanaka &lt;/a&gt;, two talented students
+Koichi Kise Sensei (Osaka Prefecture University)
+and I are co-supervising. Check out their other (private) work if you are into programming for smart phones, Mac, iOS and Google Glass ;).
+The video is a summary  of research work mostly done by Shoya.&lt;/p&gt;
+
+&lt;iframe src=&quot;//player.vimeo.com/video/113188940&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;
+&lt;/iframe&gt;
+
+
+&lt;p&gt;In the video we show applications using an early prototype of J!NS MEME, smart glasses with integrated electrodes to detect eye movements (Electrooculography, EOG) and motion sensors (accelerometer and gyroscope) to monitor head motions. We show several demonstrations: a simple eye movement visualization, detecting left/right eye motion and blink. Additionally, users can play a game, &amp;ldquo;Blinky Bird&amp;rdquo;. They need to help a bird avoid obstacles using eye movements. Using a combination of blink, eye movement and head motion
+we can also detect reading and talking behavior. We can give people a long term view of their reading, talking, and also walking activity over the day.&lt;/p&gt;
+
+&lt;p&gt;Publications still pending, so I cannot
+talk about the features, algorithms used etc.
+In the mean time, here is a demo we gave at UbiComp this year.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/papers/ishimaru2014smarter.pdf&quot;&gt;&lt;em&gt;Smarter Eyewear- Using Commercial EOG Glasses for Activity Recognition&lt;/em&gt;&lt;/a&gt;. Ishimaru, Shoya and Kunze, Kai and Tanaka, Katsuma and Uema, Uji and Kise, Koichi and Inami, Masahiko. Proceedings of UbiComp&#39;14 Adjunct. 2014. &lt;a href=&quot;papers/bib/ishimaru2014smarter.bib&quot;&gt;Bibtex&lt;/a&gt;. &lt;/p&gt;
+
+
+&lt;p&gt;J!NS Academic Video:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/W6lWbnoxmqM&quot; frameborder=&quot;0&quot; allowfullscreen&gt; 
+&lt;/iframe&gt;
+
+
+&lt;p&gt;Oh and if you haven&amp;rsquo;t had enough:
+Here&amp;rsquo;s an extended Interview with Inami Sensei and me.
+Me wearing the optical camouflage for the first time at 0:04 :D (very short).&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/9vVtUe6gQ8E&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Google Glass for Older Adults</title>
