@@ -4,12 +4,89 @@
  <title>Kai Kunze</title>
  <link href="http://kaikunze.de/atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2014-11-30T21:49:41+09:00</updated>
+ <updated>2015-02-09T00:47:08+09:00</updated>
  <id>http://kaikunze.de</id>
  <author>
    <name>Kai Kunze</name>
  </author>
 
+ 
+ <entry>
+   <title>31C3 Talk Slides: Eye Wear Computing</title>
+   <link href="http://kaikunze.de/posts/31c3-talk-slides-eye-wear-computing"/>
+   <updated>2015-02-09T00:00:00+09:00</updated>
+   <id>http://kaikunze.de/posts/31c3-talk-slides-eye-wear-computing</id>
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;Here are the video and slides 
+from my talk. Hope you like it. Please
+if you have some critique write me a mail.&lt;/p&gt;
+
+
+&lt;p&gt;I got tremendous, positive feedback. Thanks a lot!
+Even Heise had a news post about it.
+&lt;a href=&quot;http://www.heise.de/newsticker/meldung/31C3-Mit-smarten-Brillen-das-Gehirn-ausforschen-2507482.html&quot;&gt;http://www.heise.de/newsticker/meldung/31C3-Mit-smarten-Brillen-das-Gehirn-ausforschen-2507482.html&lt;/a&gt;
+(Although I cannot and don&amp;rsquo;t want to read your thoughts, as the article implies ;&amp;ndash;) ).&lt;/p&gt;
+
+&lt;p&gt;Video on Youtube:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/aWO8aejiRnA&quot; frameborder=&quot;0&quot; allowfullscreen&gt; &lt;/iframe&gt;
+
+
+&lt;p&gt;Slides on Speakerdeck:&lt;/p&gt;
+
+&lt;script async class=&quot;speakerdeck-embed&quot; data-id=&quot;f75c69a07f4c01328d155ab31af9093f&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt; &lt;/script&gt;
+
+
+&lt;p&gt;I got mixed some feedback on twitter. Some people
+mentioned that I&amp;rsquo;m working on spy wear helping
+the surveillance state&amp;hellip; I believe that
+the research I do is necessary to be out in the
+open for the society to discuss the merits
+and problems. I want to make sure that we can maximise the benefit for the individual for the tech I develop and minimize abuse from military, companies and governments. Please contact me
+if you want to discuss privacy issues or found concrete problems with my work.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>31C3 Aftermath</title>
+   <link href="http://kaikunze.de/posts/31c3-aftermath"/>
+   <updated>2015-01-17T00:00:00+09:00</updated>
+   <id>http://kaikunze.de/posts/31c3-aftermath</id>
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;Finally, I have a little time to write about the congress. As the last
+couple of years, I attended the 31st Chaos Communication Congress between Christmas and New Year.
+&lt;/p&gt;
+
+
+&lt;p&gt;Here&amp;rsquo;s my talk selection in random order (I definitely forgot some as I haven&amp;rsquo;t watched all):&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://media.ccc.de/browse/congress/2014/31c3_-_6385_-_en_-_saal_g_-_201412292245_-_the_machine_to_be_another_-_beanotherlab.html#video&quot;&gt; The Machine to be Another&lt;/a&gt;
+great research and talk. Mesmerizing, I&amp;rsquo;m thinking about how to use this effect for my work ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://media.ccc.de/browse/congress/2014/31c3_-_6573_-_en_-_saal_2_-_201412281130_-_from_computation_to_consciousness_-_joscha.html#video&quot;&gt;From Computation to Consciousness&lt;/a&gt;.
+Nice &amp;ldquo;Philosopy&amp;rdquo; talk by Joscha.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://media.ccc.de/browse/congress/2014/31c3_-_6180_-_en_-_saal_2_-_201412271830_-_rocket_science_how_hard_can_it_be_-_david_madlener.html#video&amp;t=672&quot;&gt;Rocket Science&lt;/a&gt;
+David Madlener gives a nice, entertaining
+intro in why it&amp;rsquo;s important to go to space and
+how to build rockets.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=http://media.ccc.de/browse/congress/2014/31c3_-_6574_-_en_-_saal_1_-_201412301245_-_why_are_computers_so_and_what_can_we_do_about_it_-_peter_sewell.html#video&gt;Why are computers so @#!*, and what can we do about it?&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://media.ccc.de/browse/congress/2014/31c3_-_6558_-_de_-_saal_g_-_201412282300_-_traue_keinem_scan_den_du_nicht_selbst_gefalscht_hast_-_david_kriesel.html#video&quot;&gt; Traue keinem Scan, den du nicht selbst gefälscht hast
+&lt;/a&gt; In German, yet I think there&amp;rsquo;s a translation.
+Extremely funny, hope the translation captures it.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t watch the keynote. I wonder who picked
+the speaker &amp;hellip; terrible.&lt;/p&gt;
+
+&lt;p&gt;This year, I spent a substantial amount
+with at the &lt;a href=&quot;https://foodhackingbase.org&quot;&gt; Food Hacking Base&lt;/a&gt;. Interesting talks.
+I&amp;rsquo;m thinking more and more to do some research
+in this direction. Especially after I listened
+to the new Resonator Podcast about
+the &lt;a href=&quot;http://resonator-podcast.de/2015/res049-kurz-zu-verdauungssystem-und-gehirn/&quot;&gt;connection between our gut and our brain&lt;/a&gt;
+(recording is unfortunately in German).&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Eye-Wear Computing</title>
