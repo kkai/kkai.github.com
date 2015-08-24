@@ -4,12 +4,31 @@
  <title>Kai Kunze</title>
  <link href="http://kaikunze.de/atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2015-06-16T17:41:43+09:00</updated>
+ <updated>2015-08-24T15:11:39+09:00</updated>
  <id>http://kaikunze.de</id>
  <author>
    <name>Kai Kunze</name>
  </author>
 
+ 
+ <entry>
+   <title>Affective Wear- Recognizing facial expressions</title>
+   <link href="http://kaikunze.de/posts/-affective-wear"/>
+   <updated>2015-08-18T00:00:00+09:00</updated>
+   <id>http://kaikunze.de/posts/-affective-wear</id>
+   <content type="html">&lt;p&gt;Katsutoshi Masai, one of my Master students had the idea to track facial expressions using low cost sensors in glasses. Quite nice work ;)&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vZpqzQcHIYU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;Facial expressions are a powerful way for us to exchange information nonverbally. They can give us insights into how people feel and think. There are a lot of works related to facial expression detection in computer vision. However, most work focuses on camera-based systems installed in the environment. It is difficult to track for long hours. Moreover, user’s facial expression can be recognized from only a limited angle.
+We present an eyewear type device that can detect facial expression. This eyewear can categorise various facial expression by measuring the distance between eyewear frame and the surface of a person’s face with photo reflective sensors. Recognizable states are as follows: neutral, angry （2 level） smile, laugh, sad,  surprise. With our method, an individual difference can be ignored by user-dependent training. There are several works that show wearable system that can recognize facial expression. Yet, these works focus on detecting only one specific facial expression (smiling). Our contribution is detecting various facial expression states. With our device, computing systems can tap into the rich set of information provided by nonverbal communication&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;We have developed the AffectiveWear system to detect facial expressions (neutral, angry (2 level), smile, laugh, sad, surprised). This system includes 8 photo reflective sensors (SG-105), 160 &amp;ndash; 270 ohm resistor for the LED and 62k ohm resistor for transistor. These sensors measure the distance between the eyewear and skin surface on face. This distance changes according to the movement of the facial muscles. We show the optimal placement in relation to the expressions of the photo reflective sensors on a glasses frame and the easy integration of the reflectors in the eyewear themselves. Three reflective sensors are used for detecting cheek movement, four for eyebrows/eyelid movement and one for a temple movement. Seven of them are integrated into from frame and one attached to right temple. The placement of the resistors is chosen to pick up facial changes in the action units related to the facial expressions we want to recognize [1]. We choose the following facial expressions: neutral, angry, smile, laugh, sadness and surprise. Photo reflective sensors are used for detecting distance change between the sensor and skin on face. We also implemented HMD type with 7 photo reflective sensors .&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AffectiveWear: Toward Recognizing Facial Expressions&lt;/strong&gt; Katsutoshi Masai, Yuta Sugiura, Masa Ogata, Katsuhiro Suzuki, Sho Shimamura, Kai Kunze, Masahiko Inami, Maki Sugimoto. Accepted at Siggraph Emerging Technologies 2015.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Super Human Sports: Augmenting Blind Soccer</title>
