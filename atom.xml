@@ -4,7 +4,7 @@
  <title>Kai Kunze</title>
  <link href="http://kaikunze.de/atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2015-08-24T15:11:39+09:00</updated>
+ <updated>2015-08-28T18:00:56+09:00</updated>
  <id>http://kaikunze.de</id>
  <author>
    <name>Kai Kunze</name>
@@ -18,7 +18,7 @@
    <id>http://kaikunze.de/posts/-affective-wear</id>
    <content type="html">&lt;p&gt;Katsutoshi Masai, one of my Master students had the idea to track facial expressions using low cost sensors in glasses. Quite nice work ;)&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vZpqzQcHIYU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9PMzpsDg518&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 
 
 &lt;p&gt;Facial expressions are a powerful way for us to exchange information nonverbally. They can give us insights into how people feel and think. There are a lot of works related to facial expression detection in computer vision. However, most work focuses on camera-based systems installed in the environment. It is difficult to track for long hours. Moreover, user’s facial expression can be recognized from only a limited angle.
