@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>Accelerometer Test - jsFiddle demo by zero298</title>
   
-<style>
-/*Perspective helps us see the rotation*/
+  
+  <script type='text/javascript' src='/js/lib/dummy.js'></script>
+  
+  
+  
+  
+  <link rel="stylesheet" type="text/css" href="/css/result-light.css">
+  
+  <style type='text/css'>
+    /*Perspective helps us see the rotation*/
  div#container {
     -webkit-perspective: 500px;
 }
@@ -21,12 +31,13 @@ div#orienter {
 div#orienter.tilt {
     background-color: red;
 }
-</style>
-</head>
-<body>
+  </style>
   
-  <script type="text/javascript">
-init()
+
+
+
+<script type='text/javascript'>//<![CDATA[
+window.onload=function(){
 // Check for device orientation support
 if (window.DeviceOrientationEvent) {
     var
@@ -100,13 +111,20 @@ if (window.DeviceOrientationEvent) {
             "rotateZ(" + (currentOrientation.z) + "deg)";
     });
 }
+}//]]> 
+
 </script>
+
+</head>
+<body>
+  <!--Perspective div-->
 <div id="container">
     <!--Actual oriented div-->
     <div id="orienter">Accelerometer</div>
 </div>
-
-Hallo
-
+  
 </body>
+
 </html>
+
+
