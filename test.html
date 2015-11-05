@@ -22,8 +22,11 @@ div#orienter.tilt {
     background-color: red;
 }
 </style>
-
-<script>
+</head>
+<body>
+  
+  <script type="text/javascript">
+init()
 // Check for device orientation support
 if (window.DeviceOrientationEvent) {
     var
@@ -98,8 +101,6 @@ if (window.DeviceOrientationEvent) {
     });
 }
 </script>
-</head>
-<body>
 <div id="container">
     <!--Actual oriented div-->
     <div id="orienter">Accelerometer</div>
