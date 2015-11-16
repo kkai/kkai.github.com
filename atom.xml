@@ -4,12 +4,71 @@
  <title>Kai Kunze</title>
  <link href="http://kaikunze.de/atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2015-09-07T17:41:47+09:00</updated>
+ <updated>2015-11-16T10:08:27+09:00</updated>
  <id>http://kaikunze.de</id>
  <author>
    <name>Kai Kunze</name>
  </author>
 
+ 
+ <entry>
+   <title>Looking back on UbiComp/ISWC in Osaka</title>
+   <link href="http://kaikunze.de/posts/looking-back-on-ubicompiswc-in-osaka"/>
+   <updated>2015-09-28T00:00:00+09:00</updated>
+   <id>http://kaikunze.de/posts/looking-back-on-ubicompiswc-in-osaka</id>
+   <content type="html">&lt;p class=&quot;lead&quot;&gt; It felt nice to be back in Kansai for the biggest conferences in my field.  &lt;/p&gt;
+
+
+&lt;p&gt;Overall very pleasant and inspiring event, nice to see some old friends and meet new ones.&lt;/p&gt;
+
+&lt;p&gt;So happy, Mina could win the Design Award at the ISWC Design Competition.&lt;/p&gt;
+
+&lt;p&gt;Enhanced tradition: combining tech and traditional clothing.
+Vilhelmina Sokol, Yuta Sugiura, Kai Kunze, and Masahiko Inami. 2015.&lt;/p&gt;
+
+&lt;p&gt;We had a paper about our reading logging technologies.&lt;/p&gt;
+
+&lt;p&gt;Quantifying reading habits: counting how many words you read. Kunze, Kai and Masai, Katsutoshi and Inami, Masahiko and Sacakli, Oemer and Liwicki, Marcus and Dengel, Andreas and Ishimaru, Shoya and Kise, Koichi. Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing. 2015.&lt;/p&gt;
+
+&lt;p&gt;And had several at the workshops, work in progress and demo sessions. Bellow are the titles.&lt;/p&gt;
+
+&lt;p&gt;MEME &amp;ndash; Eye Wear Computing to Explore Human Behavior. Kunze, Kai and Ishimaru, Shoya and Tanaka, Katsuma and Uema, Yuji and Kise, Koichi and Inami, Masahiko. Proceedings of UbiComp&#39;15 Adjunct. 2015&lt;/p&gt;
+
+&lt;p&gt;Multimodal Literacy: Storytelling Across Senses. Sanchez, Susana and Gu, Heng and Kunze, Kai and Inami, Masahiko. Proceedings of UbiComp&#39;15 Adjunct. 2015.&lt;/p&gt;
+
+&lt;p&gt;Silhouette Interactions &amp;ndash; Using the Hand Shadow As Interaction Modality. Chita, Eria and Kunze, Kai and Sugiura, Yuta and Inami, Masahiko and Hashimoto, Sunao and Ogata, Masa. Proceedings of UbiComp&#39;15 Adjunct. 2015.&lt;/p&gt;
+
+&lt;p&gt;Check the &lt;a href=&quot;http://kaikunze.de/publications.html&quot;&gt;publications page&lt;/a&gt; for the draft versions of the papers.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>After my first SIGGRAPH</title>
+   <link href="http://kaikunze.de/posts/after-my-first-siggraph"/>
+   <updated>2015-09-14T00:00:00+09:00</updated>
+   <id>http://kaikunze.de/posts/after-my-first-siggraph</id>
+   <content type="html">&lt;p class=&quot;lead&quot;&gt;I&#39;m impressed mostly by the Hacking/Making Studios and the interactivity/demo exhibits. Siggraph is my new favorite research conference. &lt;/p&gt;
+
+
+&lt;p&gt;Although we had 2 emerging technology demonstrations (so I had little time to checkout talks), I could at least checkout the other e-tech demos and installations.&lt;/p&gt;
+
+&lt;p&gt;The virtual village (virtual reality demos) was the most impressive to me. Before SIGGRAPH, I still felt Oculus and company are just nice gimmicks. Yet, the demos convinced me, from skateboarding to killing virtual orcs it was impressive. Seeing how technology progresses that&amp;rsquo;s what my teenage self wanted at home.&lt;/p&gt;
+
+&lt;p&gt;Yet, the SIGGRAPH Electronic Theater was by far the most entertaining event.&lt;/p&gt;
+
+&lt;p&gt;Here are the two e-tech submission videos:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9PMzpsDg518&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/139175063&quot; width=&quot;560&quot; height=&quot;315&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt; &lt;p&gt;&lt;a href=&quot;https://vimeo.com/139175063&quot;&gt;MEME &amp;ndash; Smart Glasses to Promote Healthy Habits for Knowledge Workers&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/kkai&quot;&gt;Kai Kunze&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Affective Wear- Recognizing facial expressions</title>
