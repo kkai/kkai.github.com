@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>Accelerometer Test - jsFiddle demo by zero298</title>
+  
+  
+  <script type='text/javascript' src='/js/lib/dummy.js'></script>
+  
+  
+  
+  
+  <link rel="stylesheet" type="text/css" href="/css/result-light.css">
+  
+  <style type='text/css'>
+    /*Perspective helps us see the rotation*/
+ div#container {
+    -webkit-perspective: 500px;
+}
+div#orienter {
+    text-align: center;
+    width: 10em;
+    background-color: lightcoral;
+    font-family: Arial;
+    font-size: 2em;
+    padding: 2em;
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+}
+div#orienter.tilt {
+    background-color: red;
+}
+  </style>
+  
+
+
+
+<script type='text/javascript'>//<![CDATA[
+window.onload=function(){
+// Check for device orientation support
+if (window.DeviceOrientationEvent) {
+    var
+    // The Orientation when we last checked for tilt
+    lastOrientation,
+    // The current Orientation
+    currentOrientation,
+    // How often we check for a tilt
+    tiltTime = 100,
+        // How much we must rotate to tilt
+        tiltThreshold = 100,
+        // The div that shows the rotation
+        odiv = document.getElementById("orienter"),
+        // The interval that updates the tilt
+        tiltInterval = setInterval(tiltCheck, tiltTime);
+
+    // Class to hold orientation information
+    function Orientation(x, y, z) {
+        this.x = x || 0;
+        this.y = y || 0;
+        this.z = z || 0;
+    }
+    // Member to get difference between two Orientations
+    Orientation.prototype.diff = function (o) {
+        return new Orientation(
+        this.x - o.x,
+        this.y - o.y,
+        this.z - o.z);
+    };
+    // Member to find magnitude of Orientation
+    Orientation.prototype.mag = function () {
+        return Math.sqrt(
+        (this.x * this.x) + (this.y * this.y) + (this.z * this.z));
+    };
+
+    // Function to handle when titled
+    function tiltHandler() {
+        console.log("tilt");
+        // Visualize the tilt
+        odiv.className = "tilt";
+        // Reset after a time
+        setTimeout(function () {
+            odiv.className = "";
+        }, 2000);
+    }
+
+    // The function that checks for tilts
+    function tiltCheck() {
+        // If we have an orientation to compare to
+        if (lastOrientation) {
+            // Get how much we rotated
+            var mag = currentOrientation.diff(lastOrientation).mag();
+            // If it's more than the threshold
+            if (mag > tiltThreshold) {
+                // We tilted
+                tiltHandler();
+            }
+        }
+        // Always update the last orientation
+        lastOrientation = currentOrientation;
+    }
+
+    // Add an orientation listener
+    window.addEventListener("deviceorientation", function (e) {
+        // Set the current orientation to the device orientation
+        currentOrientation = new Orientation(e.beta, e.gamma, e.alpha);
+        // Keep our div parralel to the floor (browser specific)
+        odiv.style.webkitTransform =
+            "rotateX(" + (currentOrientation.x) + "deg) " +
+            "rotateY(" + (-currentOrientation.y) + "deg) " +
+            "rotateZ(" + (currentOrientation.z) + "deg)";
+    });
+}
+}//]]> 
+
+</script>
+
+</head>
+<body>
+  <!--Perspective div-->
+<div id="container">
+    <!--Actual oriented div-->
+    <div id="orienter">Accelerometer</div>
+</div>
+
+</body>
+
+</html>
+
+
