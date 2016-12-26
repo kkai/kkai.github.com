@@ -4,7 +4,7 @@
  <title>Kai Kunze</title>
  <link href="http://kaikunze.de/atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2016-12-26T16:47:55+01:00</updated>
+ <updated>2016-12-26T17:03:07+01:00</updated>
  <id>http://kaikunze.de</id>
  <author>
    <name>Kai Kunze</name>
@@ -20,7 +20,7 @@
 project grant, on the Topic Open Collective Eyewear.&lt;/p&gt;
 
 &lt;p&gt;Information unfortunately in Japanese:
-https://www.jst.go.jp/kisoken/presto/news/2016/161118/161118presto.pdf&lt;/p&gt;
+&lt;a href=&quot;https://www.jst.go.jp/kisoken/presto/news/2016/161118/161118presto.pdf&quot;&gt;JST Annoucement&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Here&amp;rsquo;s a short summary about the project direction and goals.&lt;/p&gt;
 
@@ -36,6 +36,8 @@ advertisement and marketing companies. This project aims at
 exploring these patterns using an Open Eyewear Platform to
 understand our behavior better.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/imgs/eyewear-overview.jpg&quot; alt=&quot;overview&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;This project is interdisciplinary research focusing on
 the use of patterns in physiological signals to quantify
 and improve our daily practices using a smart glasses design.
@@ -45,6 +47,23 @@ functions using specialized medical hardware (ground truth)
 and we quantify them in real life (from the lab to everyday life).
 In a second step, we explore interactions to improve behavior:
 learn smarter, work smarter, live smarter.&lt;/p&gt;
+
+&lt;p&gt;Two publications that are the basis for the project and
+a good summary of previous work:&lt;/p&gt;
+
+&lt;hr /&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;/papers/bulling2016eyewear.pdf&quot;&gt;&lt;em&gt;Eyewear computers for human-computer interaction&lt;/em&gt;&lt;/a&gt;. Bulling, Andreas and Kunze, Kai. interactions 23, 3. 2016. &lt;a href=&quot;papers/bib/bulling2016eyewear.bib&quot;&gt;Bibtex&lt;/a&gt;. &lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;/papers/amft2015making.pdf&quot;&gt;&lt;em&gt;Making Regular Eyeglasses Smart&lt;/em&gt;&lt;/a&gt;. Amft, Oliver and Wahl, Florian and Ishimaru, Shoya and Kunze, Kai. Pervasive Computing, IEEE. 2015. &lt;a href=&quot;papers/bib/amft2015making.bib&quot;&gt;Bibtex&lt;/a&gt;. &lt;/p&gt;
+
+
+
 </content>
  </entry>
  
@@ -69,6 +88,39 @@ Angela Vujic, Thad Starner, Melody Jackson&lt;/p&gt;
 
 &lt;p&gt;Cognitive rhythms: unobtrusive and continuous sensing of alertness using a mobile phone
 Saeed Abdullah, Elizabeth L. Murnane, Mark Matthews, Matthew Kay, Julie A. Kientz, Geri Gay, Tanzeem Choudhury&lt;/p&gt;
+
+&lt;p&gt;We also had a couple of papers accepted.
+Thanks again for the great team (a lot of them also helping as student volunteers :) )&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/papers/chernyshov2016wearable.pdf&quot;&gt;&lt;em&gt;Wearable ambient sound display: embedding information in personal music&lt;/em&gt;&lt;/a&gt;. Chernyshov, George and Tag, Benjamin and Chen, Jiajun and Noriyasu, Vontin and Lukowicz, Paul and Kunze, Kai. Proceedings of the 2016 ACM International Symposium on Wearable Computers. 2016. &lt;a href=&quot;papers/bib/chernyshov2016wearable.bib&quot;&gt;Bibtex&lt;/a&gt;. &lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;/papers/nakuo2016smart.pdf&quot;&gt;&lt;em&gt;Smart glasses with a peripheral vision display&lt;/em&gt;&lt;/a&gt;. Nakuo, Takuro and Kunze, Kai. Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct. 2016. &lt;a href=&quot;papers/bib/nakuo2016smart.bib&quot;&gt;Bibtex&lt;/a&gt;. &lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;/papers/tag2016eyeblink.pdf&quot;&gt;&lt;em&gt;Eye blink as an input modality for a responsive adaptable video system&lt;/em&gt;&lt;/a&gt;. Tag, Benjamin and Shimizu, Junichi and Zhang, Chi and Ohta, Naohisa and Kunze, Kai and Sugiura, Kazunori. Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct. 2016. &lt;a href=&quot;papers/bib/tag2016eyeblink.bib&quot;&gt;Bibtex&lt;/a&gt;. &lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;/papers/shimizu2016solar.pdf&quot;&gt;&lt;em&gt;Solar system: smooth pursuit interactions using EOG glasses&lt;/em&gt;&lt;/a&gt;. Shimizu, Junichi and Lee, Juyoung and Dhuliawala, Murtaza and Bulling, Andreas and Starner, Thad and Woo, Woontack and Kunze, Kai. Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct. 2016. &lt;a href=&quot;papers/bib/shimizu2016solar.bib&quot;&gt;Bibtex&lt;/a&gt;. &lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;/papers/alohali2016run.pdf&quot;&gt;&lt;em&gt;Run with me: designing storytelling tools for runners&lt;/em&gt;&lt;/a&gt;. Alohali, Albara and Kunze, Kai and Earle, Robert. Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct. 2016. &lt;a href=&quot;papers/bib/alohali2016run.bib&quot;&gt;Bibtex&lt;/a&gt;. &lt;/p&gt;
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;/papers/ishimaru2016wordometer.pdf&quot;&gt;&lt;em&gt;The wordometer 2.0: estimating the number of words you read in real life using commercial EOG glasses&lt;/em&gt;&lt;/a&gt;. Ishimaru, Shoya and Kunze, Kai and Kise, Koichi and Dengel, Andreas. Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct. 2016. &lt;a href=&quot;papers/bib/ishimaru2016wordometer.bib&quot;&gt;Bibtex&lt;/a&gt;. &lt;/p&gt;
+
+
+
 </content>
  </entry>
  
