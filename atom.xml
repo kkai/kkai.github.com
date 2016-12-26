@@ -4,7 +4,7 @@
  <title>Kai Kunze</title>
  <link href="http://kaikunze.de/atom.xml" rel="self"/>
  <link href="http://kaikunze.de/"/>
- <updated>2016-05-08T09:33:11-07:00</updated>
+ <updated>2016-12-26T16:47:55+01:00</updated>
  <id>http://kaikunze.de</id>
  <author>
    <name>Kai Kunze</name>
@@ -12,9 +12,70 @@
 
  
  <entry>
+   <title>JST Presto Project on Open Eyewear</title>
+   <link href="http://kaikunze.de/posts/jst-presto-project-on-open-eyewear"/>
+   <updated>2016-12-26T00:00:00+01:00</updated>
+   <id>http://kaikunze.de/posts/jst-presto-project-on-open-eyewear</id>
+   <content type="html">&lt;p&gt;I&amp;rsquo;m excited and happy to be one of few none-Japanese researchers to receive a &lt;a href=&quot;https://www.jst.go.jp/kisoken/presto/en/index.html&quot;&gt;JST Presto (Sakigake)&lt;/a&gt;
+project grant, on the Topic Open Collective Eyewear.&lt;/p&gt;
+
+&lt;p&gt;Information unfortunately in Japanese:
+https://www.jst.go.jp/kisoken/presto/news/2016/161118/161118presto.pdf&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a short summary about the project direction and goals.&lt;/p&gt;
+
+&lt;p&gt;Attention is a finite resource, and we need to use it smartly.
+We need new tools to manage our attention better,
+to improve our collective intelligence.
+There are patterns in human physiological signals
+(facial expressions, heart rate, nose temperature,
+eye movements, blinks, etc.) that can reveal information
+about intentions and cognitive functions of individuals
+and groups. So far, this data is only heavily exploited by
+advertisement and marketing companies. This project aims at
+exploring these patterns using an Open Eyewear Platform to
+understand our behavior better.&lt;/p&gt;
+
+&lt;p&gt;This project is interdisciplinary research focusing on
+the use of patterns in physiological signals to quantify
+and improve our daily practices using a smart glasses design.
+First, we assess the link between behavior
+patterns/physiological signals and social/cognitive
+functions using specialized medical hardware (ground truth)
+and we quantify them in real life (from the lab to everyday life).
+In a second step, we explore interactions to improve behavior:
+learn smarter, work smarter, live smarter.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ISWC and UbiComp in Heidelberg</title>
+   <link href="http://kaikunze.de/posts/iswc-and-ubicomp-in-heidelberg"/>
+   <updated>2016-11-06T00:00:00+01:00</updated>
+   <id>http://kaikunze.de/posts/iswc-and-ubicomp-in-heidelberg</id>
+   <content type="html">&lt;p&gt;It&amp;rsquo;s a strange feeling to have UbiComp and ISWC so close to my home.
+Amazing organization and impressive research and meeting old friends.&lt;/p&gt;
+
+&lt;p&gt;Some personal highlights (in random order):&lt;/p&gt;
+
+&lt;p&gt;Skin Reading: Encoding Text in a 6-Channel Haptic Display
+Granit Luzhnica, Eduardo Veas, Viktoria Pammer&lt;/p&gt;
+
+&lt;p&gt;Smart Soccer Shoe: Monitoring Foot-Ball Interaction with Shoe Integrated Textile Pressure Sensor Matrix
+Bo Zhou, Markus Wirth, Christine Martindale, Harald Koerger, Constantin Zwick, Heber Cruz, Bjoern Eskofier, Paul Lukowicz&lt;/p&gt;
+
+&lt;p&gt;MoodLens: Restoring Non-Verbal Communication with an In-Lens Fiber Optic Display
+Angela Vujic, Thad Starner, Melody Jackson&lt;/p&gt;
+
+&lt;p&gt;Cognitive rhythms: unobtrusive and continuous sensing of alertness using a mobile phone
+Saeed Abdullah, Elizabeth L. Murnane, Mark Matthews, Matthew Kay, Julie A. Kientz, Geri Gay, Tanzeem Choudhury&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Kai at CHI 2016</title>
    <link href="http://kaikunze.de/posts/kai-at-chi-2016"/>
-   <updated>2016-05-08T00:00:00-07:00</updated>
+   <updated>2016-05-08T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/kai-at-chi-2016</id>
    <content type="html">&lt;p&gt;back @ this year&amp;rsquo;s CHI 2016. We just have 3 Late Breaking Work submissions accepted and it seems they are currently for free download at the ACM website
 (so grab them while they are still hot &amp;hellip; I mean free):&lt;/p&gt;
@@ -48,7 +109,7 @@ Benjamin Tag, Junichi Shimizu, Chi Zhang, Kai Kunze, Naohisa Ohta, and Kazunori 
  <entry>
    <title>Lessons from the Dagstuhl Seminar on Eyewear Computing</title>
    <link href="http://kaikunze.de/posts/dagstuhl-seminar-on-eyewear-computing"/>
-   <updated>2016-05-07T00:00:00-07:00</updated>
+   <updated>2016-05-07T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/dagstuhl-seminar-on-eyewear-computing</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt; We took a risk in organizing the Eyewear Computing Seminar as we deviated largely from the standard model, yet I believe it payed off.&lt;/p&gt;
 
@@ -118,7 +179,7 @@ for the workshop/tutorial organizers as they needed to bring hardware etc. Howev
  <entry>
    <title>Looking back on UbiComp/ISWC in Osaka</title>
    <link href="http://kaikunze.de/posts/looking-back-on-ubicompiswc-in-osaka"/>
-   <updated>2015-09-28T00:00:00-07:00</updated>
+   <updated>2015-09-28T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/looking-back-on-ubicompiswc-in-osaka</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt; It felt nice to be back in Kansai for the biggest conferences in my field.  &lt;/p&gt;
 
@@ -149,7 +210,7 @@ Vilhelmina Sokol, Yuta Sugiura, Kai Kunze, and Masahiko Inami. 2015.&lt;/p&gt;
  <entry>
    <title>After my first SIGGRAPH</title>
    <link href="http://kaikunze.de/posts/after-my-first-siggraph"/>
-   <updated>2015-09-14T00:00:00-07:00</updated>
+   <updated>2015-09-14T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/after-my-first-siggraph</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt;I&#39;m impressed mostly by the Hacking/Making Studios and the interactivity/demo exhibits. Siggraph is my new favorite research conference. &lt;/p&gt;
 
@@ -177,7 +238,7 @@ Vilhelmina Sokol, Yuta Sugiura, Kai Kunze, and Masahiko Inami. 2015.&lt;/p&gt;
  <entry>
    <title>Affective Wear- Recognizing facial expressions</title>
    <link href="http://kaikunze.de/posts/-affective-wear"/>
-   <updated>2015-08-18T00:00:00-07:00</updated>
+   <updated>2015-08-18T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/-affective-wear</id>
    <content type="html">&lt;p&gt;Katsutoshi Masai, one of my Master students had the idea to track facial expressions using low cost sensors in glasses. Quite nice work ;)&lt;/p&gt;
 
@@ -196,7 +257,7 @@ We present an eyewear type device that can detect facial expression. This eyewea
  <entry>
    <title>Super Human Sports: Augmenting Blind Soccer</title>
    <link href="http://kaikunze.de/posts/my-first-blind-soccer-training"/>
-   <updated>2015-02-18T00:00:00-08:00</updated>
+   <updated>2015-02-18T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/my-first-blind-soccer-training</id>
    <content type="html">&lt;p&gt;I&amp;rsquo;m getting more and more fascinated by augmenting Blind Soccer.
 After 3 blind soccer trainings, we had now a couple
@@ -230,7 +291,7 @@ I stumbled over a couple of papers about sonic interface design. Looking forward
  <entry>
    <title>31C3 Talk Slides: Eye Wear Computing</title>
    <link href="http://kaikunze.de/posts/31c3-talk-slides-eye-wear-computing"/>
-   <updated>2015-02-09T00:00:00-08:00</updated>
+   <updated>2015-02-09T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/31c3-talk-slides-eye-wear-computing</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt;Here are the video and slides 
 from my talk. Hope you like it. Please
@@ -265,7 +326,7 @@ if you want to discuss privacy issues or found concrete problems with my work.&l
  <entry>
    <title>31C3 Aftermath</title>
    <link href="http://kaikunze.de/posts/31c3-aftermath"/>
-   <updated>2015-01-17T00:00:00-08:00</updated>
+   <updated>2015-01-17T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/31c3-aftermath</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt;Finally, I have a little time to write about the congress. As the last
 couple of years, I attended the 31st Chaos Communication Congress between Christmas and New Year.
@@ -307,7 +368,7 @@ the &lt;a href=&quot;http://resonator-podcast.de/2015/res049-kurz-zu-verdauungss
  <entry>
    <title>Eye-Wear Computing</title>
    <link href="http://kaikunze.de/posts/eyewear-computing"/>
-   <updated>2014-11-30T00:00:00-08:00</updated>
+   <updated>2014-11-30T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/eyewear-computing</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt; Smart glasses and, in general, eyewear are a fairly novel device class with a lot of possibilities for unobtrusive activity tracking. That&#39;s why I&#39;m very excited to be working in the Team of Masahiko Inami Sensei at Keio Media Design to do research on J!NS MEME.&lt;/p&gt;
 
@@ -352,7 +413,7 @@ Me wearing the optical camouflage for the first time at 0:04 :D (very short).&lt
  <entry>
    <title>Google Glass for Older Adults</title>
    <link href="http://kaikunze.de/posts/google-glass-for-eldery"/>
-   <updated>2014-08-24T00:00:00-07:00</updated>
+   <updated>2014-08-24T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/google-glass-for-eldery</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt; As the first article about
 my grandparents using Google Glass received a lot of interest,
@@ -432,7 +493,7 @@ or share the article :)&lt;/p&gt;
  <entry>
    <title>Looking forward to ISWC/Ubicomp 2014</title>
    <link href="http://kaikunze.de/posts/looking-forward-to-iswcubicomp-2014"/>
-   <updated>2014-08-10T00:00:00-07:00</updated>
+   <updated>2014-08-10T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/looking-forward-to-iswcubicomp-2014</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt;With roughly around 1 month to go, 
 we are busy with demo preparations etc.
@@ -465,7 +526,7 @@ by our &lt;a href=&quot;http://recall-fet.eu/wahm2014/&quot;&gt;Workshop on Ubiq
  <entry>
    <title>Augmented Human 2014</title>
    <link href="http://kaikunze.de/posts/augmented-human-2014"/>
-   <updated>2014-03-19T00:00:00-07:00</updated>
+   <updated>2014-03-19T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/augmented-human-2014</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt;Innovative research, that makes you first laugh and then think. The conference develops into one of my favorite venues.&lt;/p&gt;
 
@@ -575,7 +636,7 @@ See you next year at &lt;a href=&quot;http://www.augmented-human.com/augmented-h
  <entry>
    <title>Beyond FuturICT</title>
    <link href="http://kaikunze.de/posts/Attending-the-symposium-on-service-systems-science"/>
-   <updated>2014-03-05T00:00:00-08:00</updated>
+   <updated>2014-03-05T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/Attending-the-symposium-on-service-systems-science</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt;  
 Attending the International Symposium on Service Systems Science on the 26.02.2014 in Tokyo, I got a glimpse on how the next steps of FuturICT and how similar projects and efforts are on their way in Japan.
@@ -629,7 +690,7 @@ Yet meeting Dirk again and seeing how his ideas and research towards social comp
  <entry>
    <title>Glass Talk at Hacker News Kansai</title>
    <link href="http://kaikunze.de/posts/glass-talk-at-hacker-news-kansai"/>
-   <updated>2014-02-13T00:00:00-08:00</updated>
+   <updated>2014-02-13T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/glass-talk-at-hacker-news-kansai</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt; Introducing Google Glass to Hacker News Kansai Community was a lot of fun. &lt;/p&gt;
 
@@ -658,7 +719,7 @@ I gave a small introduction on how to use (and hack for) Google Glass.&lt;/p&gt;
  <entry>
    <title>Looking back at 30C3</title>
    <link href="http://kaikunze.de/posts/looking-back-at-30c3"/>
-   <updated>2014-01-28T00:00:00-08:00</updated>
+   <updated>2014-01-28T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/looking-back-at-30c3</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt;Impressions and Talk Recommendations. Finally, a couple of days with normal people ...&lt;/p&gt;
 
@@ -711,7 +772,7 @@ Highly appreciated.&lt;/p&gt;
  <entry>
    <title>30C3 Toward a Cognitive Quantified Self</title>
    <link href="http://kaikunze.de/posts/30c3-toward-a-cognitive-quantified-self"/>
-   <updated>2013-12-28T00:00:00-08:00</updated>
+   <updated>2013-12-28T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/30c3-toward-a-cognitive-quantified-self</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt;Discussing activity recognition for the Mind and its potential applications.
 &lt;/p&gt;
@@ -745,7 +806,7 @@ the talk&lt;/a&gt;.&lt;/p&gt;
  <entry>
    <title>Hacking Glass</title>
    <link href="http://kaikunze.de/posts/hacking-glass"/>
-   <updated>2013-12-22T00:00:00-08:00</updated>
+   <updated>2013-12-22T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/hacking-glass</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt;
 So I got my hands on another Glass device and can now
@@ -849,7 +910,7 @@ think it&amp;rsquo;s a start ;)&lt;/p&gt;
  <entry>
    <title>Bits and Bytes instead of a Bookshelf</title>
    <link href="http://kaikunze.de/posts/bits-and-bytes-instead-of-a-book-shelf"/>
-   <updated>2013-11-29T00:00:00-08:00</updated>
+   <updated>2013-11-29T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/bits-and-bytes-instead-of-a-book-shelf</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt; An interview made me wonder about how reading habits are changing and how we will narrate stories in the future. &lt;/p&gt;
 
@@ -900,7 +961,7 @@ defining new forms of reading.&lt;/p&gt;
  <entry>
    <title>Amazing Okinawa - Attending the ASVAI Workshop</title>
    <link href="http://kaikunze.de/posts/amazing-okinawa-attending-the-asvai-workshop"/>
-   <updated>2013-11-05T00:00:00-08:00</updated>
+   <updated>2013-11-05T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/amazing-okinawa-attending-the-asvai-workshop</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt;Cool research discussions at a nice location. The workshop was perfect fit to my research interests.&lt;/p&gt;
 
@@ -953,7 +1014,7 @@ tablets/smart phones and a sharing infrastructure for our document annotation fo
  <entry>
    <title>A Week with Glass</title>
    <link href="http://kaikunze.de/posts/a-week-with-glass"/>
-   <updated>2013-09-20T00:00:00-07:00</updated>
+   <updated>2013-09-20T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/a-week-with-glass</id>
    <content type="html">&lt;p class=&quot;lead&quot;&gt; How my grandparents interact with GLASS, showed me that Google seems to be onto something. &lt;/p&gt;
 
@@ -1069,7 +1130,7 @@ with him. I attempted to use the &lt;a href=&quot;https://en.wikipedia.org/wiki/
  <entry>
    <title>Ubicomp ISWC Impressions</title>
    <link href="http://kaikunze.de/posts/ubicom-iswc-impressions"/>
-   <updated>2013-09-15T00:00:00-07:00</updated>
+   <updated>2013-09-15T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/ubicom-iswc-impressions</id>
    <content type="html">&lt;p&gt;Usually, I&amp;rsquo;m not such a big fan of conference openings,
 yet Friedemann Mattern provided a great intro giving
@@ -1114,7 +1175,7 @@ the paper.&lt;/p&gt;
  <entry>
    <title>Excited about Ubicomp and ISWC</title>
    <link href="http://kaikunze.de/posts/excited-about-ubicomp-and-iswc"/>
-   <updated>2013-09-06T00:00:00-07:00</updated>
+   <updated>2013-09-06T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/excited-about-ubicomp-and-iswc</id>
    <content type="html">&lt;p&gt;This year I&amp;rsquo;m really looking forward to &lt;a href=&quot;http://ubicomp.org&quot;&gt;Ubicomp&lt;/a&gt; and &lt;a href=&quot;http://iswc.net&quot;&gt;ISWC&lt;/a&gt;,
 it&amp;rsquo;s the first time that Ubicomp and Pervasive merged into one conference and it&amp;rsquo;s the first time the venue sold out with 700 participants.&lt;/p&gt;
@@ -1151,7 +1212,7 @@ and a short paper at ISWC.&lt;/p&gt;
  <entry>
    <title>ICDAR 2013 Talk Slides Online</title>
    <link href="http://kaikunze.de/posts/icdar-2013-talk-slides-online"/>
-   <updated>2013-08-26T00:00:00-07:00</updated>
+   <updated>2013-08-26T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/icdar-2013-talk-slides-online</id>
    <content type="html">&lt;p&gt;The slides for my two talks today are online now.&lt;/p&gt;
 
@@ -1176,7 +1237,7 @@ and a short paper at ISWC.&lt;/p&gt;
  <entry>
    <title>Recognizing Reading Activities</title>
    <link href="http://kaikunze.de/posts/recognizing-reading-activities"/>
-   <updated>2013-08-23T00:00:00-07:00</updated>
+   <updated>2013-08-23T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/recognizing-reading-activities</id>
    <content type="html">&lt;script class=&quot;speakerdeck-embed&quot; data-id=&quot;e9181bd0ee3501308d2a1ad4cad5346c&quot; data-ratio=&quot;1.2994923857868&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt; &lt;/script&gt;
 
@@ -1205,7 +1266,7 @@ and as such interesting to combine.&lt;/p&gt;
  <entry>
    <title>Wordometer and Document Analysis using Pervasive Sensing</title>
    <link href="http://kaikunze.de/posts/wordometer-and-document-analysis-using-pervasive-sensing"/>
-   <updated>2013-08-20T00:00:00-07:00</updated>
+   <updated>2013-08-20T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/wordometer-and-document-analysis-using-pervasive-sensing</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/imgs/wordometer.png&quot; alt=&quot;wordometer&quot; /&gt;
 In the last couple of months, I got more and more interested in learning, especially reading.
@@ -1249,7 +1310,7 @@ Thanks for the hard work :D&lt;/p&gt;&lt;/blockquote&gt;
  <entry>
    <title>Kai @ CHI</title>
    <link href="http://kaikunze.de/posts/kai-%40-chi"/>
-   <updated>2013-04-29T00:00:00-07:00</updated>
+   <updated>2013-04-29T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/kai-@-chi</id>
    <content type="html">&lt;p&gt;So it&amp;rsquo;s my first time at &lt;a href=&quot;http://chi2013.acm.org&quot;&gt;CHI&lt;/a&gt;. Pretty amazing so far &amp;hellip;
 Will blog about more later.&lt;/p&gt;
@@ -1269,7 +1330,7 @@ Drop by my poster if you&amp;rsquo;re around (or try to spot me, I&amp;rsquo;m w
  <entry>
    <title>Activity Recognition Dagstuhl Report Online</title>
    <link href="http://kaikunze.de/posts/ar-dagstuhl-report-online"/>
-   <updated>2013-04-24T00:00:00-07:00</updated>
+   <updated>2013-04-24T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/ar-dagstuhl-report-online</id>
    <content type="html">&lt;p&gt;If you wonder how we spent German tax money, the summary of the
 Activity Recognition Dagstuhl seminar is now online.&lt;/p&gt;
@@ -1287,7 +1348,7 @@ Activity Recognition Dagstuhl seminar is now online.&lt;/p&gt;
  <entry>
    <title>Some of my favorites from the 29c3 recordings</title>
    <link href="http://kaikunze.de/posts/some-of-my-favorites-from-the-29c3-recordings"/>
-   <updated>2013-02-06T00:00:00-08:00</updated>
+   <updated>2013-02-06T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/some-of-my-favorites-from-the-29c3-recordings</id>
    <content type="html">&lt;p&gt;Over the last weeks, I finally got around to watch some of the &lt;a href=&quot;https://events.ccc.de/congress/2012/wiki/Main_Page&quot;&gt;29c3&lt;/a&gt; recordings. Here are some of my favorites. I will update the list accordingly.&lt;/p&gt;
 
@@ -1319,7 +1380,7 @@ Of course, the usual subjects &lt;a href=&quot;http://media.ccc.de/browse/congre
  <entry>
    <title>ACM Multimedia 2012 Main Conference Notes</title>
    <link href="http://kaikunze.de/posts/acm-multimedia-2012-day-2-notes"/>
-   <updated>2012-10-31T00:00:00-07:00</updated>
+   <updated>2012-10-31T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/acm-multimedia-2012-day-2-notes</id>
    <content type="html">&lt;p&gt;This is a scratchpad &amp;hellip; will fill the rest when I have time.&lt;/p&gt;
 
@@ -1371,7 +1432,7 @@ on twitter, I seemed to be the only participant on &lt;a href=&quot;https://alph
  <entry>
    <title>ACM Multimedia 2012 Tutorials and Workshops</title>
    <link href="http://kaikunze.de/posts/acm-multimedia-2012-day-1-notes"/>
-   <updated>2012-10-29T00:00:00-07:00</updated>
+   <updated>2012-10-29T00:00:00+01:00</updated>
    <id>http://kaikunze.de/posts/acm-multimedia-2012-day-1-notes</id>
    <content type="html">&lt;p&gt;I attended the Tutorials &amp;ldquo;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&amp;rdquo;
 and &amp;ldquo;Continuous Analysis of Emotions for Multimedia Applications&amp;rdquo; on the first day.&lt;/p&gt;
@@ -1434,7 +1495,7 @@ Also, depending on personal experience and cultural background, the emotional re
  <entry>
    <title>Laughing Faces App in the AppStore</title>
    <link href="http://kaikunze.de/posts/laughing-faces-app-in-the-appstore"/>
-   <updated>2012-08-30T00:00:00-07:00</updated>
+   <updated>2012-08-30T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/laughing-faces-app-in-the-appstore</id>
    <content type="html">&lt;p&gt;Over the last couple of weeks, I was getting settled in my new job.
 As I&amp;rsquo;m working with &lt;a href=&quot;http://imlab.jp&quot;&gt;computer vision researchers&lt;/a&gt; now,
@@ -1469,7 +1530,7 @@ Cannot tell you too much, yet expect an update when iOS6 hits.&lt;/p&gt;
  <entry>
    <title>AAAI activity context workshop notes</title>
    <link href="http://kaikunze.de/posts/aaai-activity-context-workshop-notes"/>
-   <updated>2012-07-26T00:00:00-07:00</updated>
+   <updated>2012-07-26T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/aaai-activity-context-workshop-notes</id>
    <content type="html">&lt;p&gt;I enjoyed the AAAI context activity workshop a lot.&lt;/p&gt;
 
@@ -1507,7 +1568,7 @@ I think a broad effort in the field is necessary.&lt;/p&gt;
  <entry>
    <title>Towards Dynamically Configurable Context Recognition Systems</title>
    <link href="http://kaikunze.de/posts/draft-version-of-aaai-workshop-paper-online"/>
-   <updated>2012-07-09T00:00:00-07:00</updated>
+   <updated>2012-07-09T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/draft-version-of-aaai-workshop-paper-online</id>
    <content type="html">&lt;p&gt;Here&amp;rsquo;s a &lt;a href=&quot;http://kaikunze.de/papers/2012Kunze.pdf&quot;&gt;draft version of my publication&lt;/a&gt; for the &lt;a href=&quot;http://activitycontext.org/&quot;&gt;Activity Context Workshop&lt;/a&gt;
 in Toronto. Bellow the abstract.&lt;/p&gt;
@@ -1536,7 +1597,7 @@ Applying higher level context reasoning on the gathered context data is a obviou
  <entry>
    <title>Some of my publications are online</title>
    <link href="http://kaikunze.de/posts/some-of-my-publications-are-online"/>
-   <updated>2012-07-08T00:00:00-07:00</updated>
+   <updated>2012-07-08T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/some-of-my-publications-are-online</id>
    <content type="html">&lt;p&gt;I&amp;rsquo;m slowly uploading a couple of references and the pdf draft versions of them.
 Please find some of my &lt;a href=&quot;http://kaikunze.de/publications.html&quot;&gt;publications&lt;/a&gt; in the corresponding
@@ -1549,7 +1610,7 @@ section of this website.&lt;/p&gt;
  <entry>
    <title>Compensating for On-body Placement Effects in Activity Recognition</title>
    <link href="http://kaikunze.de/posts/phd-thesis-sources-on-github"/>
-   <updated>2012-07-07T00:00:00-07:00</updated>
+   <updated>2012-07-07T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/phd-thesis-sources-on-github</id>
    <content type="html">&lt;p&gt;Finished my phD. last year in Passau. The
 thesis is already published over &lt;a href=&quot;http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/&quot;&gt;Opus Bayern&lt;/a&gt;.
@@ -1602,7 +1663,7 @@ evaluation of device placement effects in context recognition.&lt;/p&gt;&lt;/blo
  <entry>
    <title>Using device motion in html/javascript</title>
    <link href="http://kaikunze.de/posts/using-device-motion-from-a-mobile-device-in-htmljavascript"/>
-   <updated>2012-06-18T00:00:00-07:00</updated>
+   <updated>2012-06-18T00:00:00+02:00</updated>
    <id>http://kaikunze.de/posts/using-device-motion-from-a-mobile-device-in-htmljavascript</id>
    <content type="html">&lt;p&gt;A while ago, I built a simple demonstration on how to stream accelerometer
 data from a mobile device over websockets to a server just using
