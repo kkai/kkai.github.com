@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iswc on Kai Kunze</title>
+    <link>http://kaikunze.de/tags/iswc/</link>
+    <description>Recent content in Iswc on Kai Kunze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Aug 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kaikunze.de/tags/iswc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Looking forward to ISWC/Ubicomp 2014</title>
+      <link>http://kaikunze.de/2014/08/10/looking-forward-to-iswcubicomp-2014/</link>
+      <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaikunze.de/2014/08/10/looking-forward-to-iswcubicomp-2014/</guid>
+      <description>With roughly around 1 month to go, we are busy with demo preparations etc. I hope to see you in Seattle. This year we have again a couple papers outline work from our students. Attached is a list with draft versions of the papers. I will write a bit about each topic in the next coming weeks.
+Oh and if you attend please think about stopping by our Workshop on Ubiquitous Technologies for Augmenting the Human Mind.</description>
+    </item>
+    
+    <item>
+      <title>Ubicomp ISWC Impressions</title>
+      <link>http://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</link>
+      <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</guid>
+      <description>Usually, I&amp;rsquo;m not such a big fan of conference openings, yet Friedemann Mattern provided a great intro giving an overview about the origins of Pervasive and Ubicom mentioning all important people and showing nice vintage pictures from Hans Gellersen, Alois Ferscha, Marc Langheinrich, Albrecht Schmidt, Kristof Van Laerhoven etc.
+Deeply impressed by the organization, social and general talk quality, I was a bit sceptical before the merger of Pervasive / Ubicom and collocating ISWC, yet it was completely unfounded.</description>
+    </item>
+    
+    <item>
+      <title>Excited about Ubicomp and ISWC</title>
+      <link>http://kaikunze.de/2013/09/06/excited-about-ubicomp-and-iswc/</link>
+      <pubDate>Fri, 06 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaikunze.de/2013/09/06/excited-about-ubicomp-and-iswc/</guid>
+      <description>This year I&amp;rsquo;m really looking forward to Ubicomp and ISWC, it&amp;rsquo;s the first time that Ubicomp and Pervasive merged into one conference and it&amp;rsquo;s the first time the venue sold out with 700 participants.
+I cannot wait to chat with old friends and experts (most are both :)).
+The field slowly matures. Especially, the wearable research is really pushing towards prime-time. Most prominently, Google Glass is getting a lot of focus also discussing its impacts on privacy.</description>
+    </item>
+    
+  </channel>
+</rss>

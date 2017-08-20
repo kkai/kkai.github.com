@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keynote on Kai Kunze</title>
+    <link>http://kaikunze.de/tags/keynote/</link>
+    <description>Recent content in Keynote on Kai Kunze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Aug 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kaikunze.de/tags/keynote/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recognizing Reading Activities</title>
+      <link>http://kaikunze.de/2013/08/23/recognizing-reading-activities/</link>
+      <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaikunze.de/2013/08/23/recognizing-reading-activities/</guid>
+      <description>Just finished my keynote talk at CBDAR (Workshop of ICDAR), got a lot of questions and have a lot of new research ideas :)
+I&amp;rsquo;m pretty ignorant about Document Analysis (and Computer Vision in general), so it&amp;rsquo;s great to talk to some experts in the field. Pervasive Computing and Document Analysis are very complementary and as such interesting to combine.
+Here are my talk slides, followed by the talk abstract.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glass on Kai Kunze</title>
+    <link>http://kaikunze.de/tags/glass/</link>
+    <description>Recent content in Glass on Kai Kunze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Dec 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kaikunze.de/tags/glass/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hacking Glass</title>
+      <link>http://kaikunze.de/2013/12/22/hacking-glass/</link>
+      <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaikunze.de/2013/12/22/hacking-glass/</guid>
+      <description>So I got my hands on another Glass device and can now play with it a bit longer. Disclaimer: Rooting and flashing your device voids your warranty and can brick your Glass. Also you won&amp;rsquo;t receive OTA updates afterwards. This is not an instruction manual. I just use it as a scratch pad to give a record what I did and what worked for me. The commands below will erase all data on your device.</description>
+    </item>
+    
+    <item>
+      <title>A Week with Glass</title>
+      <link>http://kaikunze.de/2013/09/20/a-week-with-glass/</link>
+      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaikunze.de/2013/09/20/a-week-with-glass/</guid>
+      <description>How my grandparents interact with GLASS, showed me that Google seems to be onto something. As there were a lot of researchers visiting for the Ubicomp /ISWC conferences, I could grab a Google Glass from one of the participants for a week. Thanks to the anonymous donor (to avoid speculations it was none of the people mentioned below). In the following some unsorted thoughts &amp;hellip; Sorry for typos etc. It&amp;rsquo;s more a scratch pad so I don&amp;rsquo;t forget the impressions I had.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dagstuhl on Kai Kunze</title>
+    <link>http://kaikunze.de/tags/dagstuhl/</link>
+    <description>Recent content in Dagstuhl on Kai Kunze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Apr 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kaikunze.de/tags/dagstuhl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Activity Recognition Dagstuhl Report Online</title>
+      <link>http://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</guid>
+      <description>If you wonder how we spent German tax money, the summary of the Activity Recognition Dagstuhl seminar is now online.
+Human Activity Recognition in Smart Environments (Dagstuhl Seminar 12492)
+Here&amp;rsquo;s the abstract:
+This report documents the program and the outcomes of Dagstuhl Seminar 12492 &amp;ldquo;Human Activity Recognition in Smart Environments&amp;rdquo;. We established the basis for a scientific community surrounding &amp;ldquo;activity recognition&amp;rdquo; by involving researchers from a broad range of related research fields.</description>
+    </item>
+    
+  </channel>
+</rss>

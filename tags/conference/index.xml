@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on Kai Kunze</title>
+    <link>http://kaikunze.de/tags/conference/</link>
+    <description>Recent content in Conference on Kai Kunze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Sep 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kaikunze.de/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ubicomp ISWC Impressions</title>
+      <link>http://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</link>
+      <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</guid>
+      <description>Usually, I&amp;rsquo;m not such a big fan of conference openings, yet Friedemann Mattern provided a great intro giving an overview about the origins of Pervasive and Ubicom mentioning all important people and showing nice vintage pictures from Hans Gellersen, Alois Ferscha, Marc Langheinrich, Albrecht Schmidt, Kristof Van Laerhoven etc.
+Deeply impressed by the organization, social and general talk quality, I was a bit sceptical before the merger of Pervasive / Ubicom and collocating ISWC, yet it was completely unfounded.</description>
+    </item>
+    
+    <item>
+      <title>Excited about Ubicomp and ISWC</title>
+      <link>http://kaikunze.de/2013/09/06/excited-about-ubicomp-and-iswc/</link>
+      <pubDate>Fri, 06 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaikunze.de/2013/09/06/excited-about-ubicomp-and-iswc/</guid>
+      <description>This year I&amp;rsquo;m really looking forward to Ubicomp and ISWC, it&amp;rsquo;s the first time that Ubicomp and Pervasive merged into one conference and it&amp;rsquo;s the first time the venue sold out with 700 participants.
+I cannot wait to chat with old friends and experts (most are both :)).
+The field slowly matures. Especially, the wearable research is really pushing towards prime-time. Most prominently, Google Glass is getting a lot of focus also discussing its impacts on privacy.</description>
+    </item>
+    
+    <item>
+      <title>ACM Multimedia 2012 Tutorials and Workshops</title>
+      <link>http://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</guid>
+      <description>I attended the Tutorials &amp;ldquo;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&amp;rdquo; and &amp;ldquo;Continuous Analysis of Emotions for Multimedia Applications&amp;rdquo; on the first day.
+The last day I went to &amp;ldquo;Workshop on Audio and Multimedia Methods for Large Scale Video Analysis&amp;rdquo; and to the &amp;ldquo;Workshop on Interactive Multimedia on Mobile and Portable Devices&amp;rdquo;.
+This is meant as a scratchpad &amp;hellip; I&amp;rsquo;ll add more later if I have time.</description>
+    </item>
+    
+  </channel>
+</rss>

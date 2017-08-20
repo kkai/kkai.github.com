@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chi on Kai Kunze</title>
+    <link>http://kaikunze.de/tags/chi/</link>
+    <description>Recent content in Chi on Kai Kunze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kaikunze.de/tags/chi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kai @ CHI</title>
+      <link>http://kaikunze.de/2013/04/29/kai--chi/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaikunze.de/2013/04/29/kai--chi/</guid>
+      <description>So it&amp;rsquo;s my first time at CHI. Pretty amazing so far &amp;hellip; Will blog about more later.
+I&amp;rsquo;m in the first poster rotation, starting this afternoon: &amp;ldquo;Towards inferring language expertise using eye tracking&amp;rdquo; Drop by my poster if you&amp;rsquo;re around (or try to spot me, I&amp;rsquo;m wearing the white &amp;ldquo;Kai@CHI&amp;rdquo; Shirt today :)).
+Here&amp;rsquo;s the abstract of our work, as well as the link to the paper.
+&amp;ldquo;We present initial work towards recognizing reading activities.</description>
+    </item>
+    
+  </channel>
+</rss>

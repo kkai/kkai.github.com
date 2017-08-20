@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Wordometer and Document Analysis using Pervasive Sensing</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    
+    <link href="/css/blog.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+
+  </head>
+
+      <div class="blog-masthead">
+      <div class="container">
+        <nav class="nav">
+          
+          <a class="nav-link" href=/> Kai </a>
+          
+          <a class="nav-link" href=/post/> blog </a>
+          
+          <a class="nav-link" href=/research/> research </a>
+          
+          <a class="nav-link" href=/about/> about </a>
+          
+        </nav>
+      </div>
+    </div>
+    <body>
+
+<div class="container">
+  <div class="row">
+  <div class="col-sm-9">
+  <div class="blog-post">
+            <h2 class="blog-post-title"> Wordometer and Document Analysis using Pervasive Sensing</h2>
+ <p class="blog-post-meta">Tue, Aug 20, 2013</p>
+  <p><img src="/imgs/wordometer.png" alt="wordometer" />
+In the last couple of months, I got more and more interested in learning, especially reading.
+Loving tech and sports, I got easily hooked on the Quantified Self movement (I own a Zeo Sleeping Coach and several step counters).
+Seeing how measuring myself transformed me. I lost around 4 kg and feel healthier/fitter, since
+I started tracking. I wonder why we don&rsquo;t have similar tools for our learning behavior.</p>
+
+<p>So we created a simple Wordometer in our Lab, using the SMI mobile eyetracker and document image retrieval
+(LLAH). We simply detect reading (very distinct horizontal or vertical movements) and afterwards count line breaks.
+Assuming a fixed number of words per line, voilà here is your Wordometer. The document image retreival is used
+to keep the accuracy at around 5-7 % (comparable to the pedometers measuring your steps each day).</p>
+
+<p>Of course, there are a couple of limitations:</p>
+
+<ol>
+<li>Mobile Eyetrackers are DAMN expensive. Yet, the main reason being that there is no demand and they are manufactured in relatively low numbers. A glass frame, 2 cameras and 2 infra-red sources that&rsquo;s it (together with a bit of image processing magic).</li>
+<li>Document Image Retrieval means you need to register all documents with a server before reading them. I won&rsquo;t go into details as this limitation is the easiest to get rid of. We are currently working on a method without it. At the beginning it was easier to include (and improve the accuracy rate).</li>
+<li>Not everybody likes to wear glasses. With the recent mixed reception of Google Glass, it seems that wearing glasses is way more a fashion statement than wearing a big &ldquo;smart&rdquo; phone or similar. So this tech might not be for everybody.</li>
+</ol>
+
+<p>Overall, I&rsquo;m still very exited on what a cheap, public avaiable Wordometer will do to the reading habits of people and their &ldquo;knowledge life&rdquo;.
+We&rsquo;ll continue working on it ;)</p>
+
+<p>We are also using eyetracking, EEG and other sensors to get more information about what/how a user is reading.
+Interestingly, it seems using the Emotiv EEG we can detect reading versus not reading and even some document types
+(manga versus textbook).</p>
+
+<blockquote>
+<p>Disclaimer:
+This work would not be possible without two very talented students: Hitoshi Kawaichi and Kazuyo Yoshimura.
+Thanks for the hard work :D</p>
+</blockquote>
+
+<p>For more details, check out the papers:
+* <a href="/papers/kunze2013reading.pdf">The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking</a>
+* <a href="/papers/kunze2013wordometer.pdf">Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents</a></p>
+
+<p>They are both published at <a href="http://icdar2013.org">ICDAR 2013</a>.</p>
+
+</div>
+</div>
+</div>
+</div>
+</br>
+<footer class="blog-footer">
+  <p> built by Kai, 2017. </p>
+  <p>
+    <a href="#">Back to top</a>
+  </p>
+</footer>
+</body>
+</html>
+

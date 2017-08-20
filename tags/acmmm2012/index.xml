@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acmmm2012 on Kai Kunze</title>
+    <link>http://kaikunze.de/tags/acmmm2012/</link>
+    <description>Recent content in Acmmm2012 on Kai Kunze</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Oct 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kaikunze.de/tags/acmmm2012/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ACM Multimedia 2012 Main Conference Notes</title>
+      <link>http://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</link>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</guid>
+      <description>This is a scratchpad &amp;hellip; will fill the rest when I have time.
+##Papers I really enjoyed the work from Heng Liu, Tao Mei et. al. &amp;ldquo;Finding Perfect Rendezvous On the Go: Accurate Mobile Visual Localization and Its Applications to Routing&amp;rdquo;. They combine existing research in a very interesting mixture. They use a visual localization method based on bundler to detect where in the city a mobile phone user is. The application scenario I liked best was their collaborative localization for rendezvous :)</description>
+    </item>
+    
+    <item>
+      <title>ACM Multimedia 2012 Tutorials and Workshops</title>
+      <link>http://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</guid>
+      <description>I attended the Tutorials &amp;ldquo;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&amp;rdquo; and &amp;ldquo;Continuous Analysis of Emotions for Multimedia Applications&amp;rdquo; on the first day.
+The last day I went to &amp;ldquo;Workshop on Audio and Multimedia Methods for Large Scale Video Analysis&amp;rdquo; and to the &amp;ldquo;Workshop on Interactive Multimedia on Mobile and Portable Devices&amp;rdquo;.
+This is meant as a scratchpad &amp;hellip; I&amp;rsquo;ll add more later if I have time.</description>
+    </item>
+    
+  </channel>
+</rss>
