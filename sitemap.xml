@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://kaikunze.de/news/ubicomp/</loc>
+    <lastmod>2018-10-12T00:06:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/news/eyewear/</loc>
+    <lastmod>2018-10-08T14:31:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/news/dagstuhl/</loc>
+    <lastmod>2018-08-05T14:31:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/news/sfovisit/</loc>
+    <lastmod>2017-08-28T14:31:44-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kaikunze.de/kai--miraikan-science-quest/</loc>
     <lastmod>2017-08-20T16:20:01+09:00</lastmod>
   </url>
@@ -338,11 +358,6 @@
   </url>
   
   <url>
-    <loc>http://kaikunze.de/publications/</loc>
-    <lastmod>2017-08-14T08:57:29+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://kaikunze.de/contact/</loc>
     <lastmod>2017-08-13T15:32:59+09:00</lastmod>
   </url>
@@ -538,6 +553,10 @@
   </url>
   
   <url>
+    <loc>http://kaikunze.de/publications/</loc>
+  </url>
+  
+  <url>
     <loc>http://kaikunze.de/tags/30c3/</loc>
     <lastmod>2014-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -610,7 +629,7 @@
   
   <url>
     <loc>http://kaikunze.de/</loc>
-    <lastmod>2017-08-20T16:20:01+09:00</lastmod>
+    <lastmod>2018-10-12T00:06:39+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -622,7 +641,7 @@
   
   <url>
     <loc>http://kaikunze.de/news/</loc>
-    <lastmod>2017-08-20T16:16:00+09:00</lastmod>
+    <lastmod>2018-10-12T00:06:39+09:00</lastmod>
     <priority>0</priority>
   </url>
   

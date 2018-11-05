@@ -6,10 +6,46 @@
     <description>Recent content in News on Kai Kunze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Aug 2017 16:16:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Oct 2018 00:06:39 +0900</lastBuildDate>
     
 	<atom:link href="http://kaikunze.de/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ubicomp</title>
+      <link>http://kaikunze.de/news/ubicomp/</link>
+      <pubDate>Fri, 12 Oct 2018 00:06:39 +0900</pubDate>
+      
+      <guid>http://kaikunze.de/news/ubicomp/</guid>
+      <description>9th - 11th Oct 2018 ISWC/UbiComp  General Co-Chair in Singapore. </description>
+    </item>
+    
+    <item>
+      <title>eyewear</title>
+      <link>http://kaikunze.de/news/eyewear/</link>
+      <pubDate>Mon, 08 Oct 2018 14:31:44 -0700</pubDate>
+      
+      <guid>http://kaikunze.de/news/eyewear/</guid>
+      <description>8th Oct. 2018  co-organized the 2nd eyewear workshop  at UibComp ISWC in Singapore.</description>
+    </item>
+    
+    <item>
+      <title>dagstuhl</title>
+      <link>http://kaikunze.de/news/dagstuhl/</link>
+      <pubDate>Sun, 05 Aug 2018 14:31:44 -0700</pubDate>
+      
+      <guid>http://kaikunze.de/news/dagstuhl/</guid>
+      <description>5th - 10 Aug. 2018  attended a Dagstuhl Seminar on Human Computer Integration, Wadern Germany.</description>
+    </item>
+    
+    <item>
+      <title>Sfovisit</title>
+      <link>http://kaikunze.de/news/sfovisit/</link>
+      <pubDate>Mon, 28 Aug 2017 14:31:44 -0700</pubDate>
+      
+      <guid>http://kaikunze.de/news/sfovisit/</guid>
+      <description>26th - 30th Aug JST Presto Visit in Silicon Valley (NVP, IBM, PARC, Fujitsu etc.)</description>
+    </item>
     
     <item>
       <title>Siggraph</title>

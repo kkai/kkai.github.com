@@ -16,6 +16,17 @@ body {
   line-height: 1.5;
 }
 
+.card-title {
+  border-left: 1.3rem solid transparent;
+}
+
+.card-text {
+  border-left: 1.3rem solid transparent;
+  border-bottom: 1.3rem solid transparent;
+  
+}
+
+
 a {color: #336699;}
 /*a:hover {color: #4EB1BA;}*/
 
@@ -25,7 +36,7 @@ h3, .h3,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
-  font-family: concourse_t8regular, Helvetica, Arial, sans-serif;
+  font-family: concourse_c4regular, Helvetica, Arial, sans-serif;
   font-weight: normal;
   color: #46494C;
 }
@@ -68,7 +79,7 @@ img {
 .nav-link {
   position: relative;
   padding: 1rem;
-  font-family: concourse_t8regular;
+  font-family: concourse_c4regular;
   color: #cdddeb;
 }
 .nav-link:hover,
