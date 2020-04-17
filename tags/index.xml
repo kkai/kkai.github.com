@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kai Kunze</title>
@@ -6,143 +6,145 @@
     <description>Recent content in Tags on Kai Kunze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
+    <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
+    <lastBuildDate>Sun, 10 Aug 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://kaikunze.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>30c3</title>
-      <link>http://kaikunze.de/tags/30c3/</link>
-      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaikunze.de/tags/30c3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Acmmm2012</title>
-      <link>http://kaikunze.de/tags/acmmm2012/</link>
-      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaikunze.de/tags/acmmm2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chi</title>
-      <link>http://kaikunze.de/tags/chi/</link>
-      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaikunze.de/tags/chi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conference</title>
-      <link>http://kaikunze.de/tags/conference/</link>
-      <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaikunze.de/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conferences</title>
-      <link>http://kaikunze.de/tags/conferences/</link>
-      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaikunze.de/tags/conferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dagstuhl</title>
-      <link>http://kaikunze.de/tags/dagstuhl/</link>
-      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaikunze.de/tags/dagstuhl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Glass</title>
-      <link>http://kaikunze.de/tags/glass/</link>
-      <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaikunze.de/tags/glass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Iswc</title>
+      <title>iswc</title>
       <link>http://kaikunze.de/tags/iswc/</link>
       <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/tags/iswc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Keynote</title>
-      <link>http://kaikunze.de/tags/keynote/</link>
-      <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaikunze.de/tags/keynote/</guid>
+      <title>ubicomp</title>
+      <link>http://kaikunze.de/tags/ubicomp/</link>
+      <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/tags/ubicomp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Notes</title>
-      <link>http://kaikunze.de/tags/notes/</link>
-      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaikunze.de/tags/notes/</guid>
+      <title>30c3</title>
+      <link>http://kaikunze.de/tags/30c3/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/tags/30c3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Poster</title>
-      <link>http://kaikunze.de/tags/poster/</link>
-      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaikunze.de/tags/poster/</guid>
+      <title>glass</title>
+      <link>http://kaikunze.de/tags/glass/</link>
+      <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/tags/glass/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Research</title>
+      <title>conference</title>
+      <link>http://kaikunze.de/tags/conference/</link>
+      <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
       <link>http://kaikunze.de/tags/research/</link>
       <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scratchpad</title>
-      <link>http://kaikunze.de/tags/scratchpad/</link>
-      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaikunze.de/tags/scratchpad/</guid>
+      <title>keynote</title>
+      <link>http://kaikunze.de/tags/keynote/</link>
+      <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/tags/keynote/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Trip Report</title>
+      <title>chi</title>
+      <link>http://kaikunze.de/tags/chi/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/tags/chi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poster</title>
+      <link>http://kaikunze.de/tags/poster/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/tags/poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dagstuhl</title>
+      <link>http://kaikunze.de/tags/dagstuhl/</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/tags/dagstuhl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>acmmm2012</title>
+      <link>http://kaikunze.de/tags/acmmm2012/</link>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/tags/acmmm2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conferences</title>
+      <link>http://kaikunze.de/tags/conferences/</link>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/tags/conferences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>notes</title>
+      <link>http://kaikunze.de/tags/notes/</link>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/tags/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trip report</title>
       <link>http://kaikunze.de/tags/trip-report/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/tags/trip-report/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ubicomp</title>
-      <link>http://kaikunze.de/tags/ubicomp/</link>
-      <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaikunze.de/tags/ubicomp/</guid>
+      <title>scratchpad</title>
+      <link>http://kaikunze.de/tags/scratchpad/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/tags/scratchpad/</guid>
       <description></description>
     </item>
     

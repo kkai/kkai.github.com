@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on Kai Kunze</title>
+    <title>research on Kai Kunze</title>
     <link>http://kaikunze.de/categories/research/</link>
-    <description>Recent content in Research on Kai Kunze</description>
+    <description>Recent content in research on Kai Kunze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
+    <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
     <lastBuildDate>Fri, 20 Sep 2013 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://kaikunze.de/categories/research/index.xml" rel="self" type="application/rss+xml" />
@@ -15,55 +17,45 @@
       <title>A Week with Glass</title>
       <link>http://kaikunze.de/2013/09/20/a-week-with-glass/</link>
       <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/09/20/a-week-with-glass/</guid>
-      <description>How my grandparents interact with GLASS, showed me that Google seems to be onto something. As there were a lot of researchers visiting for the Ubicomp /ISWC conferences, I could grab a Google Glass from one of the participants for a week. Thanks to the anonymous donor (to avoid speculations it was none of the people mentioned below). In the following some unsorted thoughts &amp;hellip; Sorry for typos etc. It&amp;rsquo;s more a scratch pad so I don&amp;rsquo;t forget the impressions I had.</description>
+      <description>How my grandparents interact with GLASS, showed me that Google seems to be onto something.</description>
     </item>
     
     <item>
       <title>ICDAR 2013 Talk Slides Online</title>
       <link>http://kaikunze.de/2013/08/26/icdar-2013-talk-slides-online/</link>
       <pubDate>Mon, 26 Aug 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/08/26/icdar-2013-talk-slides-online/</guid>
-      <description>The slides for my two talks today are online now.
-##The Wordometer##
- ##Reading activity recognition using an off-the-shelf EEG##
- For more details, check out the papers: * The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking * Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents
-They are both published at ICDAR 2013.</description>
+      <description>The slides for my two talks today are now online.</description>
     </item>
     
     <item>
       <title>Recognizing Reading Activities</title>
       <link>http://kaikunze.de/2013/08/23/recognizing-reading-activities/</link>
       <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/08/23/recognizing-reading-activities/</guid>
-      <description>Just finished my keynote talk at CBDAR (Workshop of ICDAR), got a lot of questions and have a lot of new research ideas :)
-I&amp;rsquo;m pretty ignorant about Document Analysis (and Computer Vision in general), so it&amp;rsquo;s great to talk to some experts in the field. Pervasive Computing and Document Analysis are very complementary and as such interesting to combine.
-Here are my talk slides, followed by the talk abstract.</description>
+      <description>Just finished my keynote talk at CBDAR, a Workshop at ICDAR</description>
     </item>
     
     <item>
       <title>Wordometer and Document Analysis using Pervasive Sensing</title>
       <link>http://kaikunze.de/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</link>
       <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</guid>
-      <description>In the last couple of months, I got more and more interested in learning, especially reading. Loving tech and sports, I got easily hooked on the Quantified Self movement (I own a Zeo Sleeping Coach and several step counters). Seeing how measuring myself transformed me. I lost around 4 kg and feel healthier/fitter, since I started tracking. I wonder why we don&amp;rsquo;t have similar tools for our learning behavior.
-So we created a simple Wordometer in our Lab, using the SMI mobile eyetracker and document image retrieval (LLAH).</description>
+      <description>In the last couple of months, I got more and more interested in learning, especially reading.</description>
     </item>
     
     <item>
       <title>Activity Recognition Dagstuhl Report Online</title>
       <link>http://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</link>
       <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</guid>
-      <description>If you wonder how we spent German tax money, the summary of the Activity Recognition Dagstuhl seminar is now online.
-Human Activity Recognition in Smart Environments (Dagstuhl Seminar 12492)
-Here&amp;rsquo;s the abstract:
-This report documents the program and the outcomes of Dagstuhl Seminar 12492 &amp;ldquo;Human Activity Recognition in Smart Environments&amp;rdquo;. We established the basis for a scientific community surrounding &amp;ldquo;activity recognition&amp;rdquo; by involving researchers from a broad range of related research fields.</description>
+      <description>If you wonder, &amp;hellip;</description>
     </item>
     
   </channel>

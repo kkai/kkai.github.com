@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication on Kai Kunze</title>
+    <title>publication on Kai Kunze</title>
     <link>http://kaikunze.de/categories/publication/</link>
-    <description>Recent content in Publication on Kai Kunze</description>
+    <description>Recent content in publication on Kai Kunze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
+    <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
     <lastBuildDate>Mon, 09 Jul 2012 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://kaikunze.de/categories/publication/index.xml" rel="self" type="application/rss+xml" />
@@ -15,33 +17,27 @@
       <title>Towards Dynamically Configurable Context Recognition Systems</title>
       <link>http://kaikunze.de/2012/07/09/draft-version-of-aaai-workshop-paper-online/</link>
       <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2012/07/09/draft-version-of-aaai-workshop-paper-online/</guid>
-      <description>Here&amp;rsquo;s a draft version of my publication for the Activity Context Workshop in Toronto. Bellow the abstract.
-Here&amp;rsquo;s the link to the source code for snsrlog for iPhone (which I mentioned during my talk).
-Abstract
-General representation, abstraction and exchange definitions are crucial for dynamically configurable context recognition. However, to evaluate potential definitions, suitable standard datasets are needed. This paper presents our effort to create and maintain large scale, multimodal standard datasets for context recognition research.</description>
+      <description>Here&amp;rsquo;s a draft version of my publication for the AAI workshop &amp;hellip;</description>
     </item>
     
     <item>
       <title>Some of my publications are online</title>
       <link>http://kaikunze.de/2012/07/08/some-of-my-publications-are-online/</link>
       <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2012/07/08/some-of-my-publications-are-online/</guid>
-      <description>I&amp;rsquo;m slowly uploading a couple of references and the pdf draft versions of them. Please find some of my publications in the corresponding section of this website.
-Stay tuned for the bibtex description and some more papers.</description>
+      <description>I&amp;rsquo;m slowly uploading a couple of references and the pdf draft versions of them.</description>
     </item>
     
     <item>
       <title>Compensating for On-body Placement Effects in Activity Recognition</title>
       <link>http://kaikunze.de/2012/07/07/phd-thesis-sources-on-github/</link>
       <pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2012/07/07/phd-thesis-sources-on-github/</guid>
-      <description>Finished my phD. last year in Passau. The thesis is already published over Opus Bayern. The pdf is open access, so feel free to read it (careful 19 MB pdf): Compensating for On-Body Placement Effects in Activity Recognition as pdf
-However, the sources were not available. Finally, I got around to push the latex sources of my dissertation up to github.
-Please feel free to use it as a thesis template, attribution would be apprecitated ;)</description>
+      <description>Finished my phD. last year in Passau. The thesis is already published over Opus Bayern &amp;hellip;</description>
     </item>
     
   </channel>

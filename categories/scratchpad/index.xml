@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scratchpad on Kai Kunze</title>
+    <title>scratchpad on Kai Kunze</title>
     <link>http://kaikunze.de/categories/scratchpad/</link>
-    <description>Recent content in Scratchpad on Kai Kunze</description>
+    <description>Recent content in scratchpad on Kai Kunze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
+    <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
     <lastBuildDate>Thu, 26 Jul 2012 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://kaikunze.de/categories/scratchpad/index.xml" rel="self" type="application/rss+xml" />
@@ -15,11 +17,9 @@
       <title>AAAI activity context workshop notes</title>
       <link>http://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</link>
       <pubDate>Thu, 26 Jul 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</guid>
-      <description>I enjoyed the AAAI context activity workshop a lot.
-The keynote How to make Face Recognition work (pdf) by Ashis Kapoor showed how to increase face recognition introducing very simple &amp;ldquo;context&amp;rdquo; constrains (two people in the same image cannot be the same person etc.). Very interesting work, I wonder how much better you can get introducing some more dynamic context recognition to the face recognition task.
-Gail Murphy gave the other keynote Task Context for Knowledge Workers (pdf).</description>
+      <description>The keynote How to make Face Recognition work (pdf) by Ashis Kapoor &amp;hellip;</description>
     </item>
     
   </channel>

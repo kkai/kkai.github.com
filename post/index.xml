@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kai Kunze</title>
@@ -6,6 +6,8 @@
     <description>Recent content in Posts on Kai Kunze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
+    <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
     <lastBuildDate>Sun, 20 Aug 2017 16:20:01 +0900</lastBuildDate>
     
 	<atom:link href="http://kaikunze.de/post/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +15,10 @@
     
     <item>
       <title>Kai @ Miraikan Science Quest</title>
-      <link>http://kaikunze.de/kai--miraikan-science-quest/</link>
+      <link>http://kaikunze.de/post/2017-08-20-miraikan_sience_quest/</link>
       <pubDate>Sun, 20 Aug 2017 16:20:01 +0900</pubDate>
-      
-      <guid>http://kaikunze.de/kai--miraikan-science-quest/</guid>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/post/2017-08-20-miraikan_sience_quest/</guid>
       <description>&lt;p&gt;On the 9th August I had the opportunity to take part in a Miraikan Science Quest.
 It&amp;rsquo;s an open event at Miraikan, the Science Museum in Tokyo, to encourage
 a dialog between the public and researchers. This Science Quest was a premier,
@@ -25,20 +27,19 @@ as it was the first ever held in English ;)&lt;/p&gt;</description>
     
     <item>
       <title>Kai @ Siggraph</title>
-      <link>http://kaikunze.de/kai--siggraph/</link>
+      <link>http://kaikunze.de/post/2017-08-20-kai_at_siggraph/</link>
       <pubDate>Sun, 20 Aug 2017 16:19:37 +0900</pubDate>
-      
-      <guid>http://kaikunze.de/kai--siggraph/</guid>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/post/2017-08-20-kai_at_siggraph/</guid>
       <description>&lt;p&gt;My second Siggraph was pretty amazing again. Unfortunately, we had another
-emerging technology exhibit, so my time joining the main conference was limited.
-&lt;/p&gt;</description>
+emerging technology exhibit, so my time joining the main conference was limited.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>JST Presto Project on Open Eyewear</title>
       <link>http://kaikunze.de/2016/12/26/jst-presto-project-on-open-eyewear/</link>
       <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2016/12/26/jst-presto-project-on-open-eyewear/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m excited and happy to be one of few non-Japanese researchers to receive a &lt;a href=&#34;https://www.jst.go.jp/kisoken/presto/en/index.html&#34;&gt;JST Presto (Sakigake)&lt;/a&gt;
 project grant, on the Topic Open Collective Eyewear.&lt;/p&gt;</description>
@@ -48,401 +49,335 @@ project grant, on the Topic Open Collective Eyewear.&lt;/p&gt;</description>
       <title>ISWC and UbiComp in Heidelberg</title>
       <link>http://kaikunze.de/2016/11/06/iswc-and-ubicomp-in-heidelberg/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2016/11/06/iswc-and-ubicomp-in-heidelberg/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s a strange feeling to have UbiComp and ISWC so close to my home.
-Amazing organization and impressive research and meeting old friends.
-&lt;/p&gt;</description>
+Amazing organization and impressive research and meeting old friends.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Kai at CHI 2016</title>
       <link>http://kaikunze.de/2016/05/08/kai-at-chi-2016/</link>
       <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2016/05/08/kai-at-chi-2016/</guid>
-      <description>&lt;p&gt;back @ this year&amp;rsquo;s CHI 2016. We just have 3 Late Breaking Work submissions accepted and it seems they are currently for free download at the ACM website
-
-(so grab them while they are still hot &amp;hellip; I mean free):&lt;/p&gt;</description>
+      <description>&lt;p&gt;back @ this year&amp;rsquo;s CHI 2016. We just have 3 Late Breaking Work submissions accepted and it seems they are currently for free download at the ACM website&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Lessons from the Dagstuhl Seminar on Eyewear Computing</title>
       <link>http://kaikunze.de/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</link>
       <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</guid>
-      <description>&lt;p&gt;&lt;p class=&#34;lead&#34;&gt; We took a risk in organizing the Eyewear Computing Seminar as we deviated largely from the standard model, yet I believe it payed off.&lt;/p&gt;
-&lt;/p&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
       <title>Looking back on UbiComp/ISWC in Osaka</title>
       <link>http://kaikunze.de/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</link>
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</guid>
-      <description>&lt;p class=&#34;lead&#34;&gt; It felt nice to be back in Kansai for the biggest conferences in my field.  &lt;/p&gt;
-
-&lt;p&gt;Overall very pleasant and inspiring event, nice to see some old friends and meet new ones.
-&lt;/p&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Overall very pleasant and inspiring event, nice to see some old friends and meet new ones.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>After my first SIGGRAPH</title>
       <link>http://kaikunze.de/2015/09/14/after-my-first-siggraph/</link>
       <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2015/09/14/after-my-first-siggraph/</guid>
-      <description>&lt;p class=&#34;lead&#34;&gt;I&#39;m impressed mostly by the Hacking/Making Studios and the interactivity/demo exhibits. Siggraph is my new favorite research conference. &lt;/p&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
       <title>Affective Wear- Recognizing facial expressions</title>
       <link>http://kaikunze.de/2015/08/18/-affective-wear/</link>
       <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2015/08/18/-affective-wear/</guid>
-      <description>&lt;p&gt;Katsutoshi Masai, one of my Master students had the idea to track facial expressions using low cost sensors in glasses. Quite nice work ;)
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/9PMzpsDg518&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Katsutoshi Masai, one of my Master students had the idea to track facial expressions using low cost sensors in glasses. Quite nice work ;)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Super Human Sports: Augmenting Blind Soccer</title>
       <link>http://kaikunze.de/2015/02/18/my-first-blind-soccer-training/</link>
       <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2015/02/18/my-first-blind-soccer-training/</guid>
-      <description>I&amp;rsquo;m getting more and more fascinated by augmenting Blind Soccer. After 3 blind soccer trainings, we had now a couple of meetings to discuss how to extend and enhance the play experience.
-For me there are 3 interesting points about blind soccer:
- It&amp;rsquo;s very hard to learn. Can we make it easier for blind people to learn it? If you can play it, it&amp;rsquo;s very fast and empowering. We train with a soccer player from the Japanese national team.</description>
+      <description>I&amp;rsquo;m getting more and more fascinated by augmenting Blind Soccer. After 3 blind soccer trainings, we had now a couple of meetings to discuss how to extend and enhance the play experience.</description>
     </item>
     
     <item>
       <title>31C3 Talk Slides: Eye Wear Computing</title>
       <link>http://kaikunze.de/2015/02/09/31c3-talk-slides-eye-wear-computing/</link>
       <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2015/02/09/31c3-talk-slides-eye-wear-computing/</guid>
-      <description>Here are the video and slides from my talk. Hope you like it. Please if you have some critique write me a mail.
-I got tremendous, positive feedback. Thanks a lot! Even Heise had a news post about it. http://www.heise.de/newsticker/meldung/31C3-Mit-smarten-Brillen-das-Gehirn-ausforschen-2507482.html (Although I cannot and don&amp;rsquo;t want to read your thoughts, as the article implies ;-) ).
-Video on Youtube: 
-Slides on Speakerdeck: 
-I got mixed some feedback on twitter.</description>
+      <description>Here are the video and slides from my talk. Hope you like it. Please if you have some critique write me a mail.</description>
     </item>
     
     <item>
       <title>31C3 Aftermath</title>
       <link>http://kaikunze.de/2015/01/17/31c3-aftermath/</link>
       <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2015/01/17/31c3-aftermath/</guid>
-      <description>Finally, I have a little time to write about the congress. As the last couple of years, I attended the 31st Chaos Communication Congress between Christmas and New Year. Here&amp;rsquo;s my talk selection in random order (I definitely forgot some as I haven&amp;rsquo;t watched all):
-The Machine to be Another great research and talk. Mesmerizing, I&amp;rsquo;m thinking about how to use this effect for my work ;)
-From Computation to Consciousness.</description>
+      <description>Finally, I have a little time to write about the congress. As the last couple of years, I attended the 31st Chaos Communication Congress between Christmas and New Year.</description>
     </item>
     
     <item>
       <title>Eye-Wear Computing</title>
       <link>http://kaikunze.de/2014/11/30/eyewear-computing/</link>
       <pubDate>Sun, 30 Nov 2014 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2014/11/30/eyewear-computing/</guid>
-      <description>Smart glasses and, in general, eyewear are a fairly novel device class with a lot of possibilities for unobtrusive activity tracking. That&#39;s why I&#39;m very excited to be working in the Team of Masahiko Inami Sensei at Keio Media Design to do research on J!NS MEME.
-You might have seen the J!NS academic videos  by now, I added embedded versions to the end of the post.
-Bellow is the full video of the sneak peek of our work in the J!</description>
+      <description>Smart glasses and, in general, eyewear are a fairly novel device class with a lot of possibilities for unobtrusive activity tracking. That&amp;rsquo;s why I&amp;rsquo;m very excited to be working in the Team of Masahiko Inami Sensei at Keio Media Design to do research on J!NS MEME.</description>
     </item>
     
     <item>
       <title>Google Glass for Older Adults</title>
       <link>http://kaikunze.de/2014/08/24/google-glass-for-eldery/</link>
       <pubDate>Sun, 24 Aug 2014 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2014/08/24/google-glass-for-eldery/</guid>
-      <description>As the first article about my grandparents using Google Glass received a lot of interest, I decided to delve a little bit more into the topic.
-My grandparents conducted a longer Google Glass usability study for me. I&amp;rsquo;m happy they agreed that I can use their images and insights to share here.
-##Evaluation of the Current Google Glass
-My grandparents mentioned that the current functionality of the device is quite limited.</description>
+      <description>As the first article about my grandparents using Google Glass received a lot of interest, I decided to delve a little bit more into the topic.</description>
     </item>
     
     <item>
       <title>Looking forward to ISWC/Ubicomp 2014</title>
       <link>http://kaikunze.de/2014/08/10/looking-forward-to-iswcubicomp-2014/</link>
       <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2014/08/10/looking-forward-to-iswcubicomp-2014/</guid>
-      <description>With roughly around 1 month to go, we are busy with demo preparations etc. I hope to see you in Seattle. This year we have again a couple papers outline work from our students. Attached is a list with draft versions of the papers. I will write a bit about each topic in the next coming weeks.
-Oh and if you attend please think about stopping by our Workshop on Ubiquitous Technologies for Augmenting the Human Mind.</description>
+      <description>With roughly around 1 month to go, we are busy with demo preparations etc.</description>
     </item>
     
     <item>
       <title>Augmented Human 2014</title>
       <link>http://kaikunze.de/2014/03/19/augmented-human-2014/</link>
       <pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2014/03/19/augmented-human-2014/</guid>
-      <description>Innovative research, that makes you first laugh and then think. The conference develops into one of my favorite venues.
-Ok, I&amp;rsquo;m &amp;ldquo;a bit&amp;rdquo; biased as I&amp;rsquo;m one of the conference co-chairs. Still I enjoyed this years Augmented Human. Below is the tag cloud from all abstracts, to give you a brief overview about the topics.
-Considering the small size of the conference, the quality of the work is exceptional. It&amp;rsquo;s not one of the conferences that gets the rejected papers from CHI, Ubicomp, PerComp etc.</description>
+      <description>Innovative research, that makes you first laugh and then think. The conference develops into one of my favorite venues.</description>
     </item>
     
     <item>
       <title>Beyond FuturICT</title>
       <link>http://kaikunze.de/2014/03/05/attending-the-symposium-on-service-systems-science/</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2014/03/05/attending-the-symposium-on-service-systems-science/</guid>
-      <description>Attending the International Symposium on Service Systems Science on the 26.02.2014 in Tokyo, I got a glimpse on how the next steps of FuturICT and how similar projects and efforts are on their way in Japan. Although the FuturICT project did not get funding from the EU so far (I still believe this was a grave mistake), I can see that the spirit and our ideas live on. The Japanese COI-T Program focuses on the same issues and problems as FuturICT.</description>
+      <description>Attending the International Symposium on Service Systems Science in Tokyo, I got a glimpse on how the progress and the next steps of FuturICT &amp;hellip;</description>
     </item>
     
     <item>
       <title>Glass Talk at Hacker News Kansai</title>
       <link>http://kaikunze.de/2014/02/13/glass-talk-at-hacker-news-kansai/</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2014/02/13/glass-talk-at-hacker-news-kansai/</guid>
-      <description>Introducing Google Glass to Hacker News Kansai Community was a lot of fun. I&amp;rsquo;m sorry it took so long to put online. Too much to do, especially due to Augmented Human 2014 (really looking forward to the beginning of march) :)
-As part of our monthly Hacker News meetupin Kansai, I gave a small introduction on how to use (and hack for) Google Glass. 
-The slides are also available as pdf download (7 MB).</description>
+      <description>Introducing Google Glass to Hacker News Kansai Community was a lot of fun.</description>
     </item>
     
     <item>
       <title>Looking back at 30C3</title>
       <link>http://kaikunze.de/2014/01/28/looking-back-at-30c3/</link>
       <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2014/01/28/looking-back-at-30c3/</guid>
-      <description>Impressions and Talk Recommendations. Finally, a couple of days with normal people ...
-Honestly I was impressed by the professionalism of the 30th Chaos Communication Congress. It changed a lot from the last time I visited ( 25c3), grew bigger without loosing its atmosphere. With the assemblies and workshops the event starts to get more and more interactive.
-##Talk Recommendations##
-I link to the youtube streams of the recordings yet you can get them also over at media.</description>
+      <description>Impressions and Talk Recommendations. Finally, a couple of days with normal people &amp;hellip;</description>
     </item>
     
     <item>
       <title>30C3 Toward a Cognitive Quantified Self</title>
       <link>http://kaikunze.de/2013/12/28/30c3-toward-a-cognitive-quantified-self/</link>
       <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/12/28/30c3-toward-a-cognitive-quantified-self/</guid>
-      <description>Discussing activity recognition for the Mind and its potential applications. Here are my talk slides for my 30c3 talk &amp;hellip; Sorry it took so long. Thanks for the great feedback, will write a bit more if I have sometime ;)
-The video is also online. This happened very quick after the event. I&amp;rsquo;m impressed by the 30c3 content team.
-  Thanks a lot for the great reviews and suggestions. They are highly appreciated.</description>
+      <description>Discussing activity recognition for the Mind and its potential applications.</description>
     </item>
     
     <item>
       <title>Hacking Glass</title>
       <link>http://kaikunze.de/2013/12/22/hacking-glass/</link>
       <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/12/22/hacking-glass/</guid>
-      <description>So I got my hands on another Glass device and can now play with it a bit longer. Disclaimer: Rooting and flashing your device voids your warranty and can brick your Glass. Also you won&amp;rsquo;t receive OTA updates afterwards. This is not an instruction manual. I just use it as a scratch pad to give a record what I did and what worked for me. The commands below will erase all data on your device.</description>
+      <description>So I got my hands on another Glass device and can now play with it a bit longer.</description>
     </item>
     
     <item>
       <title>Bits and Bytes instead of a Bookshelf</title>
       <link>http://kaikunze.de/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/</link>
       <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/</guid>
-      <description>An interview made me wonder about how reading habits are changing and how we will narrate stories in the future. Recently, I gave an interview for the German online issue of the Scientific American (Spectrum der Wissenschaft) for a special about reading habits (in German, paywall).
-As I&amp;rsquo;m interested in the topic, I often hear that &amp;ldquo;endless scrolling&amp;rdquo; is bad as it destroys the mental map we make of books and pages or that reading from backlit screens is eye-straining inducing headaches.</description>
+      <description>An interview made me wonder about how reading habits are changing and how we will narrate stories in the future.</description>
     </item>
     
     <item>
       <title>Amazing Okinawa - Attending the ASVAI Workshop</title>
       <link>http://kaikunze.de/2013/11/05/amazing-okinawa-attending-the-asvai-workshop/</link>
       <pubDate>Tue, 05 Nov 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/11/05/amazing-okinawa-attending-the-asvai-workshop/</guid>
-      <description>Cool research discussions at a nice location. The workshop was perfect fit to my research interests.
-The ASVAI workshop gave a good overview about several research efforts part of and related to the JST CREST and the JSPS Core-to-Core Sanken Program.
-Prof. Yasushi Yagi showed how to infer intention from gait analysis. Interestingly, he showed research about the relationship of gaze and gait.
-Dr. Alireza Fathi presented cool work about ego centric cameras.</description>
+      <description>Cool research discussions at a nice location. The workshop was perfect fit to my research interests.</description>
     </item>
     
     <item>
       <title>A Week with Glass</title>
       <link>http://kaikunze.de/2013/09/20/a-week-with-glass/</link>
       <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/09/20/a-week-with-glass/</guid>
-      <description>How my grandparents interact with GLASS, showed me that Google seems to be onto something. As there were a lot of researchers visiting for the Ubicomp /ISWC conferences, I could grab a Google Glass from one of the participants for a week. Thanks to the anonymous donor (to avoid speculations it was none of the people mentioned below). In the following some unsorted thoughts &amp;hellip; Sorry for typos etc. It&amp;rsquo;s more a scratch pad so I don&amp;rsquo;t forget the impressions I had.</description>
+      <description>How my grandparents interact with GLASS, showed me that Google seems to be onto something.</description>
     </item>
     
     <item>
       <title>Ubicomp ISWC Impressions</title>
       <link>http://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</link>
       <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</guid>
-      <description>Usually, I&amp;rsquo;m not such a big fan of conference openings, yet Friedemann Mattern provided a great intro giving an overview about the origins of Pervasive and Ubicom mentioning all important people and showing nice vintage pictures from Hans Gellersen, Alois Ferscha, Marc Langheinrich, Albrecht Schmidt, Kristof Van Laerhoven etc.
-Deeply impressed by the organization, social and general talk quality, I was a bit sceptical before the merger of Pervasive / Ubicom and collocating ISWC, yet it was completely unfounded.</description>
+      <description>Usually, I&amp;rsquo;m not such a big fan of conference openings, &amp;hellip;</description>
     </item>
     
     <item>
       <title>Excited about Ubicomp and ISWC</title>
       <link>http://kaikunze.de/2013/09/06/excited-about-ubicomp-and-iswc/</link>
       <pubDate>Fri, 06 Sep 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/09/06/excited-about-ubicomp-and-iswc/</guid>
-      <description>This year I&amp;rsquo;m really looking forward to Ubicomp and ISWC, it&amp;rsquo;s the first time that Ubicomp and Pervasive merged into one conference and it&amp;rsquo;s the first time the venue sold out with 700 participants.
-I cannot wait to chat with old friends and experts (most are both :)).
-The field slowly matures. Especially, the wearable research is really pushing towards prime-time. Most prominently, Google Glass is getting a lot of focus also discussing its impacts on privacy.</description>
+      <description>This year I&amp;rsquo;m really looking forward to Ubicomp and ISWC, it&amp;rsquo;s the first time that &amp;hellip;</description>
     </item>
     
     <item>
       <title>ICDAR 2013 Talk Slides Online</title>
       <link>http://kaikunze.de/2013/08/26/icdar-2013-talk-slides-online/</link>
       <pubDate>Mon, 26 Aug 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/08/26/icdar-2013-talk-slides-online/</guid>
-      <description>The slides for my two talks today are online now.
-##The Wordometer##
- ##Reading activity recognition using an off-the-shelf EEG##
- For more details, check out the papers: * The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking * Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents
-They are both published at ICDAR 2013.</description>
+      <description>The slides for my two talks today are now online.</description>
     </item>
     
     <item>
       <title>Recognizing Reading Activities</title>
       <link>http://kaikunze.de/2013/08/23/recognizing-reading-activities/</link>
       <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/08/23/recognizing-reading-activities/</guid>
-      <description>Just finished my keynote talk at CBDAR (Workshop of ICDAR), got a lot of questions and have a lot of new research ideas :)
-I&amp;rsquo;m pretty ignorant about Document Analysis (and Computer Vision in general), so it&amp;rsquo;s great to talk to some experts in the field. Pervasive Computing and Document Analysis are very complementary and as such interesting to combine.
-Here are my talk slides, followed by the talk abstract.</description>
+      <description>Just finished my keynote talk at CBDAR, a Workshop at ICDAR</description>
     </item>
     
     <item>
       <title>Wordometer and Document Analysis using Pervasive Sensing</title>
       <link>http://kaikunze.de/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</link>
       <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</guid>
-      <description>In the last couple of months, I got more and more interested in learning, especially reading. Loving tech and sports, I got easily hooked on the Quantified Self movement (I own a Zeo Sleeping Coach and several step counters). Seeing how measuring myself transformed me. I lost around 4 kg and feel healthier/fitter, since I started tracking. I wonder why we don&amp;rsquo;t have similar tools for our learning behavior.
-So we created a simple Wordometer in our Lab, using the SMI mobile eyetracker and document image retrieval (LLAH).</description>
+      <description>In the last couple of months, I got more and more interested in learning, especially reading.</description>
     </item>
     
     <item>
       <title>Kai @ CHI</title>
-      <link>http://kaikunze.de/2013/04/29/kai--chi/</link>
+      <link>http://kaikunze.de/2013/04/29/kai-chi/</link>
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://kaikunze.de/2013/04/29/kai--chi/</guid>
-      <description>So it&amp;rsquo;s my first time at CHI. Pretty amazing so far &amp;hellip; Will blog about more later.
-I&amp;rsquo;m in the first poster rotation, starting this afternoon: &amp;ldquo;Towards inferring language expertise using eye tracking&amp;rdquo; Drop by my poster if you&amp;rsquo;re around (or try to spot me, I&amp;rsquo;m wearing the white &amp;ldquo;Kai@CHI&amp;rdquo; Shirt today :)).
-Here&amp;rsquo;s the abstract of our work, as well as the link to the paper.
-&amp;ldquo;We present initial work towards recognizing reading activities.</description>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>http://kaikunze.de/2013/04/29/kai-chi/</guid>
+      <description>So it&amp;rsquo;s my first time at CHI. Pretty amazing so far &amp;hellip;</description>
     </item>
     
     <item>
       <title>Activity Recognition Dagstuhl Report Online</title>
       <link>http://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</link>
       <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</guid>
-      <description>If you wonder how we spent German tax money, the summary of the Activity Recognition Dagstuhl seminar is now online.
-Human Activity Recognition in Smart Environments (Dagstuhl Seminar 12492)
-Here&amp;rsquo;s the abstract:
-This report documents the program and the outcomes of Dagstuhl Seminar 12492 &amp;ldquo;Human Activity Recognition in Smart Environments&amp;rdquo;. We established the basis for a scientific community surrounding &amp;ldquo;activity recognition&amp;rdquo; by involving researchers from a broad range of related research fields.</description>
+      <description>If you wonder, &amp;hellip;</description>
     </item>
     
     <item>
       <title>Some of my favorites from the 29c3 recordings</title>
       <link>http://kaikunze.de/2013/02/06/some-of-my-favorites-from-the-29c3-recordings/</link>
       <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2013/02/06/some-of-my-favorites-from-the-29c3-recordings/</guid>
-      <description>Over the last weeks, I finally got around to watch some of the 29c3 recordings. Here are some of my favorites. I will update the list accordingly.
-I link to the official recording available from the CCC domain. The talks however are also on youtube. Just search for the talk title.
-In General, I found most talks focused on security, sadly not really my main interest. I missed some research and culture talks that were present the last years.</description>
+      <description>Over the last weeks, I finally got around to watch some of the &amp;hellip;</description>
     </item>
     
     <item>
       <title>ACM Multimedia 2012 Main Conference Notes</title>
       <link>http://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</guid>
-      <description>This is a scratchpad &amp;hellip; will fill the rest when I have time.
-##Papers I really enjoyed the work from Heng Liu, Tao Mei et. al. &amp;ldquo;Finding Perfect Rendezvous On the Go: Accurate Mobile Visual Localization and Its Applications to Routing&amp;rdquo;. They combine existing research in a very interesting mixture. They use a visual localization method based on bundler to detect where in the city a mobile phone user is. The application scenario I liked best was their collaborative localization for rendezvous :)</description>
+      <description>Here are some notes about ACM Multimedia, in random order.</description>
     </item>
     
     <item>
       <title>ACM Multimedia 2012 Tutorials and Workshops</title>
       <link>http://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</link>
       <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</guid>
-      <description>I attended the Tutorials &amp;ldquo;Interacting with Image Collections – Visualisation and Browsing of Image Repositories&amp;rdquo; and &amp;ldquo;Continuous Analysis of Emotions for Multimedia Applications&amp;rdquo; on the first day.
-The last day I went to &amp;ldquo;Workshop on Audio and Multimedia Methods for Large Scale Video Analysis&amp;rdquo; and to the &amp;ldquo;Workshop on Interactive Multimedia on Mobile and Portable Devices&amp;rdquo;.
-This is meant as a scratchpad &amp;hellip; I&amp;rsquo;ll add more later if I have time.</description>
+      <description>I attended the following Tutorials &amp;hellip;</description>
     </item>
     
     <item>
       <title>Laughing Faces App in the AppStore</title>
       <link>http://kaikunze.de/2012/08/30/laughing-faces-app-in-the-appstore/</link>
       <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2012/08/30/laughing-faces-app-in-the-appstore/</guid>
-      <description>Over the last couple of weeks, I was getting settled in my new job. As I&amp;rsquo;m working with computer vision researchers now, I started playing with the camera api for the iPhone.
-Again, I&amp;rsquo;m very surprised by the accessibility and quality of Apples apis and their sample code.
-As a start, this little app is a &amp;ldquo;privacy enhanced&amp;rdquo; camera app for entertainment purposes. It uses face detection and draws a little laughing face on top of each recognized head in real time.</description>
+      <description>Over the last couple of weeks, I was getting settled in my new job.</description>
     </item>
     
     <item>
       <title>AAAI activity context workshop notes</title>
       <link>http://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</link>
       <pubDate>Thu, 26 Jul 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</guid>
-      <description>I enjoyed the AAAI context activity workshop a lot.
-The keynote How to make Face Recognition work (pdf) by Ashis Kapoor showed how to increase face recognition introducing very simple &amp;ldquo;context&amp;rdquo; constrains (two people in the same image cannot be the same person etc.). Very interesting work, I wonder how much better you can get introducing some more dynamic context recognition to the face recognition task.
-Gail Murphy gave the other keynote Task Context for Knowledge Workers (pdf).</description>
+      <description>The keynote How to make Face Recognition work (pdf) by Ashis Kapoor &amp;hellip;</description>
     </item>
     
     <item>
       <title>Towards Dynamically Configurable Context Recognition Systems</title>
       <link>http://kaikunze.de/2012/07/09/draft-version-of-aaai-workshop-paper-online/</link>
       <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2012/07/09/draft-version-of-aaai-workshop-paper-online/</guid>
-      <description>Here&amp;rsquo;s a draft version of my publication for the Activity Context Workshop in Toronto. Bellow the abstract.
-Here&amp;rsquo;s the link to the source code for snsrlog for iPhone (which I mentioned during my talk).
-Abstract
-General representation, abstraction and exchange definitions are crucial for dynamically configurable context recognition. However, to evaluate potential definitions, suitable standard datasets are needed. This paper presents our effort to create and maintain large scale, multimodal standard datasets for context recognition research.</description>
+      <description>Here&amp;rsquo;s a draft version of my publication for the AAI workshop &amp;hellip;</description>
     </item>
     
     <item>
       <title>Some of my publications are online</title>
       <link>http://kaikunze.de/2012/07/08/some-of-my-publications-are-online/</link>
       <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2012/07/08/some-of-my-publications-are-online/</guid>
-      <description>I&amp;rsquo;m slowly uploading a couple of references and the pdf draft versions of them. Please find some of my publications in the corresponding section of this website.
-Stay tuned for the bibtex description and some more papers.</description>
+      <description>I&amp;rsquo;m slowly uploading a couple of references and the pdf draft versions of them.</description>
     </item>
     
     <item>
       <title>Compensating for On-body Placement Effects in Activity Recognition</title>
       <link>http://kaikunze.de/2012/07/07/phd-thesis-sources-on-github/</link>
       <pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2012/07/07/phd-thesis-sources-on-github/</guid>
-      <description>Finished my phD. last year in Passau. The thesis is already published over Opus Bayern. The pdf is open access, so feel free to read it (careful 19 MB pdf): Compensating for On-Body Placement Effects in Activity Recognition as pdf
-However, the sources were not available. Finally, I got around to push the latex sources of my dissertation up to github.
-Please feel free to use it as a thesis template, attribution would be apprecitated ;)</description>
+      <description>Finished my phD. last year in Passau. The thesis is already published over Opus Bayern &amp;hellip;</description>
     </item>
     
     <item>
       <title>Using device motion in html/javascript</title>
       <link>http://kaikunze.de/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript/</link>
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript/</guid>
-      <description>A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red cube is shown on the screen (placed between randomly generated cubes). The transparent area around the cube changes depending on how strong one shakes the phone.</description>
+      <description>A while ago, I built a simple demonstration on how to stream accelerometer &amp;hellip;</description>
     </item>
     
   </channel>

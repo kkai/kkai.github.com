@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notes on Kai Kunze</title>
+    <title>notes on Kai Kunze</title>
     <link>http://kaikunze.de/tags/notes/</link>
-    <description>Recent content in Notes on Kai Kunze</description>
+    <description>Recent content in notes on Kai Kunze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
+    <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
     <lastBuildDate>Wed, 31 Oct 2012 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://kaikunze.de/tags/notes/index.xml" rel="self" type="application/rss+xml" />
@@ -15,10 +17,9 @@
       <title>ACM Multimedia 2012 Main Conference Notes</title>
       <link>http://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</guid>
-      <description>This is a scratchpad &amp;hellip; will fill the rest when I have time.
-##Papers I really enjoyed the work from Heng Liu, Tao Mei et. al. &amp;ldquo;Finding Perfect Rendezvous On the Go: Accurate Mobile Visual Localization and Its Applications to Routing&amp;rdquo;. They combine existing research in a very interesting mixture. They use a visual localization method based on bundler to detect where in the city a mobile phone user is. The application scenario I liked best was their collaborative localization for rendezvous :)</description>
+      <description>Here are some notes about ACM Multimedia, in random order.</description>
     </item>
     
   </channel>

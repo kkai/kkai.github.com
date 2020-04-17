@@ -1,369 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kaikunze.de/news/ubicomp/</loc>
-    <lastmod>2018-10-12T00:06:39+09:00</lastmod>
+    <loc>http://kaikunze.de/</loc>
+    <lastmod>2020-04-16T22:03:19+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kaikunze.de/news/eyewear/</loc>
-    <lastmod>2018-10-08T14:31:44-07:00</lastmod>
+    <loc>http://kaikunze.de/projects/</loc>
+    <lastmod>2020-04-16T22:03:19+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kaikunze.de/news/dagstuhl/</loc>
-    <lastmod>2018-08-05T14:31:44-07:00</lastmod>
+    <loc>http://kaikunze.de/publications/</loc>
+    <lastmod>2020-04-16T12:07:18+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kaikunze.de/news/sfovisit/</loc>
-    <lastmod>2017-08-28T14:31:44-07:00</lastmod>
+    <loc>http://kaikunze.de/page/about/</loc>
+    <lastmod>2020-04-16T00:14:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kaikunze.de/kai--miraikan-science-quest/</loc>
+    <loc>http://kaikunze.de/page/</loc>
+    <lastmod>2020-04-16T00:14:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/about/</loc>
+    <lastmod>2020-04-16T00:12:31+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/post/2017-08-20-miraikan_sience_quest/</loc>
     <lastmod>2017-08-20T16:20:01+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kaikunze.de/kai--siggraph/</loc>
+    <loc>http://kaikunze.de/post/</loc>
+    <lastmod>2017-08-20T16:20:01+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/post/2017-08-20-kai_at_siggraph/</loc>
     <lastmod>2017-08-20T16:19:37+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://kaikunze.de/news/siggraph/</loc>
-    <lastmod>2017-08-20T16:16:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/enhance/</loc>
-    <lastmod>2017-08-20T15:41:40+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/eyewear/</loc>
-    <lastmod>2017-08-20T15:41:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news60/</loc>
-    <lastmod>2017-08-17T00:09:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news59/</loc>
-    <lastmod>2017-08-17T00:09:20+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news58/</loc>
-    <lastmod>2017-08-17T00:09:16+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news57/</loc>
-    <lastmod>2017-08-17T00:09:13+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news56/</loc>
-    <lastmod>2017-08-17T00:09:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news55/</loc>
-    <lastmod>2017-08-17T00:09:07+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news54/</loc>
-    <lastmod>2017-08-17T00:09:04+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news53/</loc>
-    <lastmod>2017-08-17T00:09:01+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news52/</loc>
-    <lastmod>2017-08-17T00:08:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news51/</loc>
-    <lastmod>2017-08-17T00:08:55+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news50/</loc>
-    <lastmod>2017-08-17T00:08:52+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news49/</loc>
-    <lastmod>2017-08-17T00:08:49+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news48/</loc>
-    <lastmod>2017-08-17T00:08:46+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news47/</loc>
-    <lastmod>2017-08-17T00:08:43+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news46/</loc>
-    <lastmod>2017-08-17T00:08:40+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news45/</loc>
-    <lastmod>2017-08-17T00:08:36+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news44/</loc>
-    <lastmod>2017-08-17T00:08:33+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news43/</loc>
-    <lastmod>2017-08-17T00:08:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news42/</loc>
-    <lastmod>2017-08-17T00:08:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news41/</loc>
-    <lastmod>2017-08-17T00:08:24+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news40/</loc>
-    <lastmod>2017-08-17T00:08:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news39/</loc>
-    <lastmod>2017-08-17T00:08:18+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news38/</loc>
-    <lastmod>2017-08-17T00:08:15+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news37/</loc>
-    <lastmod>2017-08-17T00:08:12+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news36/</loc>
-    <lastmod>2017-08-17T00:08:09+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news35/</loc>
-    <lastmod>2017-08-17T00:08:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news34/</loc>
-    <lastmod>2017-08-17T00:08:03+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news33/</loc>
-    <lastmod>2017-08-17T00:07:59+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news32/</loc>
-    <lastmod>2017-08-17T00:07:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news31/</loc>
-    <lastmod>2017-08-17T00:07:53+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news30/</loc>
-    <lastmod>2017-08-17T00:07:50+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news29/</loc>
-    <lastmod>2017-08-17T00:07:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news28/</loc>
-    <lastmod>2017-08-17T00:07:44+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news27/</loc>
-    <lastmod>2017-08-17T00:07:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news26/</loc>
-    <lastmod>2017-08-17T00:07:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news25/</loc>
-    <lastmod>2017-08-17T00:07:35+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news24/</loc>
-    <lastmod>2017-08-17T00:07:32+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news23/</loc>
-    <lastmod>2017-08-17T00:07:29+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news22/</loc>
-    <lastmod>2017-08-17T00:07:26+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news21/</loc>
-    <lastmod>2017-08-17T00:07:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news20/</loc>
-    <lastmod>2017-08-17T00:07:19+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news19/</loc>
-    <lastmod>2017-08-17T00:07:16+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news18/</loc>
-    <lastmod>2017-08-17T00:07:13+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news17/</loc>
-    <lastmod>2017-08-17T00:07:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news16/</loc>
-    <lastmod>2017-08-17T00:07:07+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news15/</loc>
-    <lastmod>2017-08-17T00:07:04+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news14/</loc>
-    <lastmod>2017-08-17T00:07:01+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news13/</loc>
-    <lastmod>2017-08-17T00:06:58+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news12/</loc>
-    <lastmod>2017-08-17T00:06:55+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news11/</loc>
-    <lastmod>2017-08-17T00:06:52+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news10/</loc>
-    <lastmod>2017-08-17T00:06:49+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news9/</loc>
-    <lastmod>2017-08-17T00:06:46+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news8/</loc>
-    <lastmod>2017-08-17T00:06:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news7/</loc>
-    <lastmod>2017-08-17T00:06:39+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news6/</loc>
-    <lastmod>2017-08-17T00:06:36+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news5/</loc>
-    <lastmod>2017-08-17T00:06:33+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news4/</loc>
-    <lastmod>2017-08-17T00:06:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news3/</loc>
-    <lastmod>2017-08-17T00:06:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news2/</loc>
-    <lastmod>2017-08-17T00:06:24+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news1/</loc>
-    <lastmod>2017-08-17T00:06:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/news0/</loc>
-    <lastmod>2017-08-17T00:06:18+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/research/</loc>
-    <lastmod>2017-08-14T08:57:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/contact/</loc>
-    <lastmod>2017-08-13T15:32:59+09:00</lastmod>
+    <loc>http://kaikunze.de/categories/</loc>
+    <lastmod>2016-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://kaikunze.de/2016/12/26/jst-presto-project-on-open-eyewear/</loc>
+    <lastmod>2016-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/categories/posts/</loc>
     <lastmod>2016-12-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -423,7 +118,22 @@
   </url>
   
   <url>
+    <loc>http://kaikunze.de/tags/iswc/</loc>
+    <lastmod>2014-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kaikunze.de/2014/08/10/looking-forward-to-iswcubicomp-2014/</loc>
+    <lastmod>2014-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/tags/</loc>
+    <lastmod>2014-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/tags/ubicomp/</loc>
     <lastmod>2014-08-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -443,6 +153,11 @@
   </url>
   
   <url>
+    <loc>http://kaikunze.de/tags/30c3/</loc>
+    <lastmod>2014-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kaikunze.de/2014/01/28/looking-back-at-30c3/</loc>
     <lastmod>2014-01-28T00:00:00+00:00</lastmod>
   </url>
@@ -450,6 +165,11 @@
   <url>
     <loc>http://kaikunze.de/2013/12/28/30c3-toward-a-cognitive-quantified-self/</loc>
     <lastmod>2013-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/tags/glass/</loc>
+    <lastmod>2013-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -473,6 +193,26 @@
   </url>
   
   <url>
+    <loc>http://kaikunze.de/categories/research/</loc>
+    <lastmod>2013-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/tags/conference/</loc>
+    <lastmod>2013-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/categories/conference/</loc>
+    <lastmod>2013-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/tags/research/</loc>
+    <lastmod>2013-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</loc>
     <lastmod>2013-09-15T00:00:00+00:00</lastmod>
   </url>
@@ -488,6 +228,11 @@
   </url>
   
   <url>
+    <loc>http://kaikunze.de/tags/keynote/</loc>
+    <lastmod>2013-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kaikunze.de/2013/08/23/recognizing-reading-activities/</loc>
     <lastmod>2013-08-23T00:00:00+00:00</lastmod>
   </url>
@@ -498,12 +243,27 @@
   </url>
   
   <url>
-    <loc>http://kaikunze.de/2013/04/29/kai--chi/</loc>
+    <loc>http://kaikunze.de/tags/chi/</loc>
+    <lastmod>2013-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/2013/04/29/kai-chi/</loc>
+    <lastmod>2013-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/tags/poster/</loc>
     <lastmod>2013-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</loc>
+    <lastmod>2013-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/tags/dagstuhl/</loc>
     <lastmod>2013-04-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -518,8 +278,43 @@
   </url>
   
   <url>
+    <loc>http://kaikunze.de/tags/acmmm2012/</loc>
+    <lastmod>2012-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/tags/conferences/</loc>
+    <lastmod>2012-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/categories/conferences/</loc>
+    <lastmod>2012-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/tags/notes/</loc>
+    <lastmod>2012-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/tags/trip-report/</loc>
+    <lastmod>2012-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</loc>
     <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/tags/scratchpad/</loc>
+    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/categories/hacking/</loc>
+    <lastmod>2012-08-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -530,6 +325,16 @@
   <url>
     <loc>http://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</loc>
     <lastmod>2012-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/categories/scratchpad/</loc>
+    <lastmod>2012-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kaikunze.de/categories/publication/</loc>
+    <lastmod>2012-07-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -550,171 +355,6 @@
   <url>
     <loc>http://kaikunze.de/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript/</loc>
     <lastmod>2012-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/publications/</loc>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/30c3/</loc>
-    <lastmod>2014-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/acmmm2012/</loc>
-    <lastmod>2012-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/chi/</loc>
-    <lastmod>2013-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/conference/</loc>
-    <lastmod>2013-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/categories/conference/</loc>
-    <lastmod>2013-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/conferences/</loc>
-    <lastmod>2012-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/categories/conferences/</loc>
-    <lastmod>2012-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/dagstuhl/</loc>
-    <lastmod>2013-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/glass/</loc>
-    <lastmod>2013-12-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/categories/hacking/</loc>
-    <lastmod>2012-08-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/iswc/</loc>
-    <lastmod>2014-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/</loc>
-    <lastmod>2018-10-12T00:06:39+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/keynote/</loc>
-    <lastmod>2013-08-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/news/</loc>
-    <lastmod>2018-10-12T00:06:39+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/notes/</loc>
-    <lastmod>2012-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/poster/</loc>
-    <lastmod>2013-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/post/</loc>
-    <lastmod>2017-08-20T16:20:01+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/categories/posts/</loc>
-    <lastmod>2016-12-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/categories/publication/</loc>
-    <lastmod>2012-07-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/research/</loc>
-    <lastmod>2013-09-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/categories/research/</loc>
-    <lastmod>2013-09-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/scratchpad/</loc>
-    <lastmod>2012-10-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/categories/scratchpad/</loc>
-    <lastmod>2012-07-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/</loc>
-    <lastmod>2014-01-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/trip-report/</loc>
-    <lastmod>2012-10-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://kaikunze.de/tags/ubicomp/</loc>
-    <lastmod>2014-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

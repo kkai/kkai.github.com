@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>30c3 on Kai Kunze</title>
@@ -6,6 +6,8 @@
     <description>Recent content in 30c3 on Kai Kunze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
+    <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
     <lastBuildDate>Tue, 28 Jan 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://kaikunze.de/tags/30c3/index.xml" rel="self" type="application/rss+xml" />
@@ -15,12 +17,9 @@
       <title>Looking back at 30C3</title>
       <link>http://kaikunze.de/2014/01/28/looking-back-at-30c3/</link>
       <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
-      
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>http://kaikunze.de/2014/01/28/looking-back-at-30c3/</guid>
-      <description>Impressions and Talk Recommendations. Finally, a couple of days with normal people ...
-Honestly I was impressed by the professionalism of the 30th Chaos Communication Congress. It changed a lot from the last time I visited ( 25c3), grew bigger without loosing its atmosphere. With the assemblies and workshops the event starts to get more and more interactive.
-##Talk Recommendations##
-I link to the youtube streams of the recordings yet you can get them also over at media.</description>
+      <description>Impressions and Talk Recommendations. Finally, a couple of days with normal people &amp;hellip;</description>
     </item>
     
   </channel>
