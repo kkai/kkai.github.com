@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Kai Kunze</title>
-    <link>http://kaikunze.de/page/</link>
+    <link>https://kaikunze.de/page/</link>
     <description>Recent content in Pages on Kai Kunze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,15 +10,15 @@
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
     <lastBuildDate>Thu, 16 Apr 2020 00:14:03 +0900</lastBuildDate>
     
-	<atom:link href="http://kaikunze.de/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kaikunze.de/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://kaikunze.de/page/about/</link>
+      <link>https://kaikunze.de/page/about/</link>
       <pubDate>Thu, 16 Apr 2020 00:14:03 +0900</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>http://kaikunze.de/page/about/</guid>
+      <guid>https://kaikunze.de/page/about/</guid>
       <description></description>
     </item>
     

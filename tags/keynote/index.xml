@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>keynote on Kai Kunze</title>
-    <link>http://kaikunze.de/tags/keynote/</link>
+    <link>https://kaikunze.de/tags/keynote/</link>
     <description>Recent content in keynote on Kai Kunze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,15 +10,15 @@
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
     <lastBuildDate>Fri, 23 Aug 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://kaikunze.de/tags/keynote/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kaikunze.de/tags/keynote/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recognizing Reading Activities</title>
-      <link>http://kaikunze.de/2013/08/23/recognizing-reading-activities/</link>
+      <link>https://kaikunze.de/2013/08/23/recognizing-reading-activities/</link>
       <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>http://kaikunze.de/2013/08/23/recognizing-reading-activities/</guid>
+      <guid>https://kaikunze.de/2013/08/23/recognizing-reading-activities/</guid>
       <description>Just finished my keynote talk at CBDAR, a Workshop at ICDAR</description>
     </item>
     

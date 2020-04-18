@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kai Kunze</title>
-    <link>http://kaikunze.de/categories/</link>
+    <link>https://kaikunze.de/categories/</link>
     <description>Recent content in Categories on Kai Kunze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,69 +10,69 @@
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
     <lastBuildDate>Mon, 26 Dec 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://kaikunze.de/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kaikunze.de/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>posts</title>
-      <link>http://kaikunze.de/categories/posts/</link>
+      <link>https://kaikunze.de/categories/posts/</link>
       <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>http://kaikunze.de/categories/posts/</guid>
+      <guid>https://kaikunze.de/categories/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>research</title>
-      <link>http://kaikunze.de/categories/research/</link>
+      <link>https://kaikunze.de/categories/research/</link>
       <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>http://kaikunze.de/categories/research/</guid>
+      <guid>https://kaikunze.de/categories/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>conference</title>
-      <link>http://kaikunze.de/categories/conference/</link>
+      <link>https://kaikunze.de/categories/conference/</link>
       <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>http://kaikunze.de/categories/conference/</guid>
+      <guid>https://kaikunze.de/categories/conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>conferences</title>
-      <link>http://kaikunze.de/categories/conferences/</link>
+      <link>https://kaikunze.de/categories/conferences/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>http://kaikunze.de/categories/conferences/</guid>
+      <guid>https://kaikunze.de/categories/conferences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hacking</title>
-      <link>http://kaikunze.de/categories/hacking/</link>
+      <link>https://kaikunze.de/categories/hacking/</link>
       <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>http://kaikunze.de/categories/hacking/</guid>
+      <guid>https://kaikunze.de/categories/hacking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scratchpad</title>
-      <link>http://kaikunze.de/categories/scratchpad/</link>
+      <link>https://kaikunze.de/categories/scratchpad/</link>
       <pubDate>Thu, 26 Jul 2012 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>http://kaikunze.de/categories/scratchpad/</guid>
+      <guid>https://kaikunze.de/categories/scratchpad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>publication</title>
-      <link>http://kaikunze.de/categories/publication/</link>
+      <link>https://kaikunze.de/categories/publication/</link>
       <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>http://kaikunze.de/categories/publication/</guid>
+      <guid>https://kaikunze.de/categories/publication/</guid>
       <description></description>
     </item>
     

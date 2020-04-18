@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scratchpad on Kai Kunze</title>
-    <link>http://kaikunze.de/categories/scratchpad/</link>
+    <link>https://kaikunze.de/categories/scratchpad/</link>
     <description>Recent content in scratchpad on Kai Kunze</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,15 +10,15 @@
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
     <lastBuildDate>Thu, 26 Jul 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://kaikunze.de/categories/scratchpad/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kaikunze.de/categories/scratchpad/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AAAI activity context workshop notes</title>
-      <link>http://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</link>
+      <link>https://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</link>
       <pubDate>Thu, 26 Jul 2012 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>http://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</guid>
+      <guid>https://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</guid>
       <description>The keynote How to make Face Recognition work (pdf) by Ashis Kapoor &amp;hellip;</description>
     </item>
     
