@@ -8,20 +8,10 @@
     <language>en-us</language>
     <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
-    <lastBuildDate>Mon, 24 Aug 2020 09:50:05 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2020 00:14:03 +0900</lastBuildDate>
     
 	<atom:link href="https://kaikunze.de/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Augmented Humans 2020</title>
-      <link>https://kaikunze.de/post/2020-02-18-augmented-humans/</link>
-      <pubDate>Mon, 24 Aug 2020 09:50:05 +0900</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>https://kaikunze.de/post/2020-02-18-augmented-humans/</guid>
-      <description>Stelarc presenting his work to the Online attendees.    On 16-17 March 2020, we co-organized the Augmented Humans conference in Kaiserslautern.. Due to the circumstances related to COVID-19, we moved to a fully virtual event and cancelled the physical event on 13th March. The whole team was struggling and especially thanks to all of the chairs it came together quite well.
-On Sunday, just we met (only 2 people, disinfection materials, social distancing and mask wearing in place) to pre-record Stelarc&amp;rsquo;s Keynote</description>
-    </item>
     
     <item>
       <title>Projects</title>
@@ -71,6 +61,16 @@ email (business): kai (at) kmd.keio.ac.jp
 email (personal): kai.kunze (at) gmail.com
 About Kai loves hacking and playing with technology, he also loves science.
 With over fifteen years of experience in the Wearable Computing research field, Kai works as Professor at the Graduate School of Media Design, Keio University, Yokohama, Japan.</description>
+    </item>
+    
+    <item>
+      <title>Augmented Humans 2020</title>
+      <link>https://kaikunze.de/post/2020-02-18-augmented-humans/</link>
+      <pubDate>Wed, 01 Apr 2020 09:50:05 +0900</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>https://kaikunze.de/post/2020-02-18-augmented-humans/</guid>
+      <description>Stelarc presenting his work to the Online attendees.    On 16-17 March 2020, we co-organized the Augmented Humans conference in Kaiserslautern.. Due to the circumstances related to COVID-19, we moved to a fully virtual event and cancelled the physical event on 13th March. The whole team was struggling and especially thanks to all of the chairs it came together quite well.
+On Sunday, just we met (only 2 people, disinfection materials, social distancing and mask wearing in place) to pre-record Stelarc&amp;rsquo;s Keynote</description>
     </item>
     
     <item>

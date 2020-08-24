@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kaikunze.de/post/2020-02-18-augmented-humans/</loc>
-    <lastmod>2020-08-24T09:50:05+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kaikunze.de/</loc>
-    <lastmod>2020-08-24T09:50:05+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kaikunze.de/post/</loc>
-    <lastmod>2020-08-24T09:50:05+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kaikunze.de/projects/</loc>
     <lastmod>2020-04-16T22:03:19+09:00</lastmod>
   </url>
@@ -33,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://kaikunze.de/</loc>
+    <lastmod>2020-04-16T00:14:03+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kaikunze.de/page/</loc>
     <lastmod>2020-04-16T00:14:03+09:00</lastmod>
   </url>
@@ -40,6 +30,16 @@
   <url>
     <loc>https://kaikunze.de/about/</loc>
     <lastmod>2020-04-16T00:12:31+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaikunze.de/post/2020-02-18-augmented-humans/</loc>
+    <lastmod>2020-04-01T09:50:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaikunze.de/post/</loc>
+    <lastmod>2020-04-01T09:50:05+09:00</lastmod>
   </url>
   
   <url>
