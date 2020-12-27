@@ -8,11 +8,7 @@
     <language>en-us</language>
     <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
-    <lastBuildDate>Sun, 15 Sep 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://kaikunze.de/tags/conference/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 15 Sep 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://kaikunze.de/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ubicomp ISWC Impressions</title>
       <link>https://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</link>

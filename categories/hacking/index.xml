@@ -8,11 +8,7 @@
     <language>en-us</language>
     <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
-    <lastBuildDate>Thu, 30 Aug 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://kaikunze.de/categories/hacking/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 30 Aug 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://kaikunze.de/categories/hacking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Laughing Faces App in the AppStore</title>
       <link>https://kaikunze.de/2012/08/30/laughing-faces-app-in-the-appstore/</link>

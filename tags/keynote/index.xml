@@ -8,11 +8,7 @@
     <language>en-us</language>
     <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
-    <lastBuildDate>Fri, 23 Aug 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://kaikunze.de/tags/keynote/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 23 Aug 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://kaikunze.de/tags/keynote/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recognizing Reading Activities</title>
       <link>https://kaikunze.de/2013/08/23/recognizing-reading-activities/</link>

@@ -8,10 +8,15 @@
     <language>en-us</language>
     <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
-    <lastBuildDate>Wed, 01 Apr 2020 09:50:05 +0900</lastBuildDate>
-    
-	<atom:link href="https://kaikunze.de/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 27 Dec 2020 17:35:58 +0900</lastBuildDate><atom:link href="https://kaikunze.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rc3 Talk Boiling Mind</title>
+      <link>https://kaikunze.de/post/2020-12-27-boiling-mind/</link>
+      <pubDate>Sun, 27 Dec 2020 17:35:58 +0900</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>https://kaikunze.de/post/2020-12-27-boiling-mind/</guid>
+      <description>A picture from the perfromance.    The role of the audience in stage performances is changing from passive spectators to contributors making the performance interactive by using different techniques. In this talk, we investigate the connection of audience physiological data to the experienced performance in three performance events with a total of 98 participants. We identified memorable performance moments by assessing, Electrodermal Activity (EDA) showing that the audience’s responses match the choreographer’s intention.</description>
+    </item>
     
     <item>
       <title>Augmented Humans 2020</title>
@@ -176,10 +181,10 @@ Amazing organization and impressive research and meeting old friends.&lt;/p&gt;<
     
     <item>
       <title>Beyond FuturICT</title>
-      <link>https://kaikunze.de/2014/03/05/attending-the-symposium-on-service-systems-science/</link>
+      <link>https://kaikunze.de/2014/03/05/Attending-the-symposium-on-service-systems-science/</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>https://kaikunze.de/2014/03/05/attending-the-symposium-on-service-systems-science/</guid>
+      <guid>https://kaikunze.de/2014/03/05/Attending-the-symposium-on-service-systems-science/</guid>
       <description>Attending the International Symposium on Service Systems Science in Tokyo, I got a glimpse on how the progress and the next steps of FuturICT &amp;hellip;</description>
     </item>
     
@@ -293,10 +298,10 @@ Amazing organization and impressive research and meeting old friends.&lt;/p&gt;<
     
     <item>
       <title>Kai @ CHI</title>
-      <link>https://kaikunze.de/2013/04/29/kai-chi/</link>
+      <link>https://kaikunze.de/2013/04/29/kai-@-chi/</link>
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>https://kaikunze.de/2013/04/29/kai-chi/</guid>
+      <guid>https://kaikunze.de/2013/04/29/kai-@-chi/</guid>
       <description>So it&amp;rsquo;s my first time at CHI. Pretty amazing so far &amp;hellip;</description>
     </item>
     

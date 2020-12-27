@@ -8,11 +8,7 @@
     <language>en-us</language>
     <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
-    <lastBuildDate>Mon, 26 Dec 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://kaikunze.de/categories/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 26 Dec 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://kaikunze.de/categories/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JST Presto Project on Open Eyewear</title>
       <link>https://kaikunze.de/2016/12/26/jst-presto-project-on-open-eyewear/</link>
@@ -144,10 +140,10 @@ Amazing organization and impressive research and meeting old friends.&lt;/p&gt;<
     
     <item>
       <title>Beyond FuturICT</title>
-      <link>https://kaikunze.de/2014/03/05/attending-the-symposium-on-service-systems-science/</link>
+      <link>https://kaikunze.de/2014/03/05/Attending-the-symposium-on-service-systems-science/</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>https://kaikunze.de/2014/03/05/attending-the-symposium-on-service-systems-science/</guid>
+      <guid>https://kaikunze.de/2014/03/05/Attending-the-symposium-on-service-systems-science/</guid>
       <description>Attending the International Symposium on Service Systems Science in Tokyo, I got a glimpse on how the progress and the next steps of FuturICT &amp;hellip;</description>
     </item>
     
