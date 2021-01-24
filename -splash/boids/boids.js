@@ -133,10 +133,11 @@ function Boid(){
 		ctx.translate(self.x, self.y);
 		ctx.rotate(self.a);
 		ctx.beginPath();
-    //ctx.moveTo(20, 0);
-    ctx.arc(20, 0, 100, 0, 0.2 * Math.PI);
-    //ctx.lineTo(-10, 10);
-    //ctx.lineTo(-12, -10);
+    //ctx.moveTo(20, 0);c
+    //
+    ctx.arc(0, 0, 80, 0, 0.2 * Math.PI);
+    ctx.lineTo(-1, 1);
+    ctx.lineTo( 5, -5);
     ctx.closePath();
     //ctx.fillStyle = "rgba(225,225,225,0.2)";
     ctx.stroke();
