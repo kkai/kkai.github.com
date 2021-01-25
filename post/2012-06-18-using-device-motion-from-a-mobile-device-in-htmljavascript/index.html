@@ -7,7 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>hacking - Kai Kunze</title>
+  <title>Device Motion in Html/Javascript - Kai Kunze</title>
+  <meta name="description" content="A simple demo">
   <meta name="author" content="Kai Kunze"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -28,14 +29,64 @@
   
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https:\/\/kaikunze.de\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https:\/\/kaikunze.de\/post\/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript\/",
+          "name": "Device motion in html\/ javascript"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : "Kai Kunze"
+  },
+  "headline": "Device Motion in Html\/Javascript",
+  "description" : "A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red cube is shown on the screen (placed between randomly generated cubes). The transparent area around the cube changes depending on how strong one shakes the phone.",
+  "inLanguage" : "en",
+  "wordCount":  116 ,
+  "datePublished" : "2012-06-18T00:00:00",
+  "dateModified" : "2012-06-18T00:00:00",
+  "image" : "https:\/\/kaikunze.de\/img\/avatar-icon-1.png",
+  "keywords" : [ "" ],
+  "mainEntityOfPage" : "https:\/\/kaikunze.de\/post\/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "https:\/\/kaikunze.de\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "https:\/\/kaikunze.de\/img\/avatar-icon-1.png",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
 
-<meta property="og:title" content="hacking" />
+<meta property="og:title" content="Device Motion in Html/Javascript" />
+<meta property="og:description" content="A simple demo">
 <meta property="og:image" content="https://kaikunze.de/img/avatar-icon-1.png" />
-<meta property="og:url" content="https://kaikunze.de/categories/hacking/" />
+<meta property="og:url" content="https://kaikunze.de/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Kai Kunze" />
 
-  <meta name="twitter:title" content="hacking" />
+  <meta name="twitter:title" content="Device Motion in Html/Javascript" />
+  <meta name="twitter:description" content="A simple demo">
   <meta name="twitter:image" content="https://kaikunze.de/img/avatar-icon-1.png" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@_kai_ku" />
@@ -178,9 +229,11 @@
         <div id="nsplash" >
         <iframe id="nsplash_iframe"> </iframe>
         <div id="splash_title">
-                   <h1>hacking</h1>
+                   <h1>Device Motion in Html/Javascript</h1>
          </div>
               
+              
+              <div id="splash_subtitle"> A simple demo </div>
               
         </div>
 
@@ -188,8 +241,25 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="categories-heading">
+            <div class="post-heading">
                            
+                <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;
+  
+  
+    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;1&nbsp;minutes
+  
+  
+    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;116&nbsp;words
+  
+  
+  
+</span>
+
+
+              
             </div>
           </div>
         </div>
@@ -199,74 +269,111 @@
 
 
     
-  <div class="container" role="main">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <p>A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red
+cube is shown on the screen (placed between randomly generated cubes).
+The transparent area around the cube changes depending on how strong
+one shakes the phone.</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://player.vimeo.com/video/45626605" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Using Device Motion" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+<p><a href="http://vimeo.com/45626605">Visualization based on mobile phone data</a> from <a href="http://vimeo.com/user8093378">Kai Kunze</a>.</p>
+<p>You can get the code from my <a href="https://github.com/kkai/devicemotion-demo">github page</a></p>
+<p>It&rsquo;s based on these tutorials and sample code:</p>
+<p><a href="http://martinsikora.com/nodejs-and-websocket-simple-chat-tutorial">a simple chat server node.js tutorial</a></p>
+<p><a href="http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/">3d css cube</a></p>
+<p><a href="http://openprocessing.org/sketch/19216">3d cube world</a></p>
+
+
         
-        <div class="posts-list">
+
+        
+            <hr/>
+            <section id="social-share">
+              <div class="list-inline footer-links">
+                
+
+<div class="share-box" aria-hidden="true">
+    <ul class="share">
+      
+      <li>
+        <a href="//twitter.com/share?url=https%3a%2f%2fkaikunze.de%2fpost%2f2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript%2f&amp;text=Device%20Motion%20in%20Html%2fJavascript&amp;via=_kai_ku" target="_blank" title="Share on Twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fkaikunze.de%2fpost%2f2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript%2f" target="_blank" title="Share on Facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//reddit.com/submit?url=https%3a%2f%2fkaikunze.de%2fpost%2f2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript%2f&amp;title=Device%20Motion%20in%20Html%2fJavascript" target="_blank" title="Share on Reddit">
+          <i class="fab fa-reddit"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fkaikunze.de%2fpost%2f2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript%2f&amp;title=Device%20Motion%20in%20Html%2fJavascript" target="_blank" title="Share on LinkedIn">
+          <i class="fab fa-linkedin"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fkaikunze.de%2fpost%2f2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript%2f&amp;title=Device%20Motion%20in%20Html%2fJavascript" target="_blank" title="Share on StumbleUpon">
+          <i class="fab fa-stumbleupon"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fkaikunze.de%2fpost%2f2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript%2f&amp;description=Device%20Motion%20in%20Html%2fJavascript" target="_blank" title="Share on Pinterest">
+          <i class="fab fa-pinterest"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+  
+
+              </div>
+            </section>
+        
+
+        
           
-            <article class="post-preview">
-    <a href="https://kaikunze.de/2012/08/30/laughing-faces-app-in-the-appstore/">
-        <h2 class="post-title">Laughing Faces App in the AppStore</h2>
-        
-        
-        
-    </a>
 
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;
-  
-  
-    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;1&nbsp;minutes
-  
-  
-    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;197&nbsp;words
-  
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        <p>Over the last couple of weeks, I was getting settled in my new job.
-As I&rsquo;m working with <a href="http://imlab.jp">computer vision researchers</a> now,
-I started playing with the camera api for the iPhone.</p>
-<p>Again, I&rsquo;m very surprised by the accessibility and quality of Apples
-apis and their sample code.</p>
-<p><img src="/imgs/laughing.png" alt="Laughing Face"></p>
-<p>As a start, this little app is a &ldquo;privacy enhanced&rdquo; camera
-app for entertainment purposes.
-It uses face detection and draws a little
-laughing face on top of each recognized head in real time.
-I hesitated putting it in the store, yet was asked by some friends to
-do so (had to exchange the laughing face due to copyright constraints).</p>
-<p>Grab it while it&rsquo;s hot &hellip; it&rsquo;s quite popular in Japan (understandable
-given the background, see below), China and Saudi Arabia (of all places, &hellip; if
-somebody can tell me why, please send me a mail):
-<a href="http://itunes.apple.com/us/app/laughing-faces/id551656355?mt=8">Laughing Faces AppStore Link</a></p>
-<p>By the way, I had over 250 downloads the first day :)
-Oh if you wonder, the inspiration came from
-<a href="http://en.wikipedia.org/wiki/Laughing_Man_(Ghost_in_the_Shell)">Ghost in the Shell Standalone Complex</a></p>
-<p>If people bug me enough, I will make the png exchangable.
-Cannot tell you too much, yet expect an update when iOS6 hits.</p>
-
-        
-    </div>
-
-    
-
-</article>
           
-        </div>
         
-      </div>
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+          
+            <li class="next">
+              <a href="https://kaikunze.de/2012/07/07/phd-thesis-sources-on-github/" data-toggle="tooltip" data-placement="top" title="Compensating for On-body Placement Effects in Activity Recognition">Next Post &rarr;</a>
+            </li>
+          
+        </ul>
+      
+
+
+      
+        
+        
+      
+
     </div>
   </div>
+</div>
 
       
 <footer>
@@ -325,7 +432,7 @@ Cannot tell you too much, yet expect an update when iOS6 hits.</p>
               </li>
           
           <li>
-            <a href="/categories/hacking/index.xml" title="RSS">
+            <a href="" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-rss fa-stack-1x fa-inverse"></i>

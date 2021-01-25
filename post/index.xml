@@ -387,12 +387,12 @@ Amazing organization and impressive research and meeting old friends.&lt;/p&gt;<
     </item>
     
     <item>
-      <title>Using device motion in html/javascript</title>
-      <link>https://kaikunze.de/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript/</link>
+      <title>Device Motion in Html/Javascript</title>
+      <link>https://kaikunze.de/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</link>
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>https://kaikunze.de/2012/06/18/using-device-motion-from-a-mobile-device-in-htmljavascript/</guid>
-      <description>A while ago, I built a simple demonstration on how to stream accelerometer from a mobile devices using html.</description>
+      <guid>https://kaikunze.de/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</guid>
+      <description>A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red cube is shown on the screen (placed between randomly generated cubes). The transparent area around the cube changes depending on how strong one shakes the phone.</description>
     </item>
     
   </channel>
