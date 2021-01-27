@@ -19,19 +19,6 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://kaikunze.de/projects/</link>
-      <pubDate>Thu, 16 Apr 2020 22:03:19 +0900</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>https://kaikunze.de/projects/</guid>
-      <description>My overall goal: I want to give people a tools to foster inert talent and empower new skills.
-You can find up-to-date works on my research group site: Geist.
-Check also my publication list
-   Eyewear Computing    Smart Eyewear is the major enabling technology for application cases to enhance human senses.
-   Augmented Humans    My goal is to use technical systems to augment existing human abilities and to create new capabilities.</description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://kaikunze.de/publications/</link>
       <pubDate>Thu, 16 Apr 2020 12:07:18 +0900</pubDate>
@@ -39,6 +26,19 @@ Check also my publication list
       <guid>https://kaikunze.de/publications/</guid>
       <description>Next Steps in Human-Computer Integration. Mueller, Florian&amp;rsquo;Floyd&#39; and Lopes, Pedro and Strohmeier, Paul and Ju, Wendy and Seim, Caitlyn and Weigel, Martin and Nanayakkara, Suranga and Obrist, Marianna and Li, Zhuying and Delfa, Joseph and others. CHI 2020. 2020. Bibtex.
  Accelerating Skill Acquisition of Two-Handed Drumming using Pneumatic Artificial Muscles. Goto and Takashi Das, Swagata and Wolf, Katrin and Lopes, Pedro and Kurita, Yuichi and Kunze, Kai. Augmented Humans 2020.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://kaikunze.de/projects/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>https://kaikunze.de/projects/</guid>
+      <description>My overall goal: I want to give people tools to foster inert talent and empower new skills.
+You can find up-to-date works on my research group site: Geist.
+Check also my publication list
+   Eyewear Computing    Smart Eyewear is the major enabling technology for application cases to enhance human senses.
+   Boiling Mind    Exploring Interpersonal Synchrony, for example linking Physiology to Choreography.</description>
     </item>
     
     <item>
