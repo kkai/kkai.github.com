@@ -8,11 +8,11 @@
     <language>en-us</language>
     <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
-    <lastBuildDate>Sun, 27 Dec 2020 17:35:58 +0900</lastBuildDate><atom:link href="https://kaikunze.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kaikunze.de/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>rc3 Talk Boiling Mind</title>
       <link>https://kaikunze.de/post/2020-12-27-boiling-mind/</link>
-      <pubDate>Sun, 27 Dec 2020 17:35:58 +0900</pubDate>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2020-12-27-boiling-mind/</guid>
       <description>A picture from the perfromance.    The role of the audience in stage performances is changing from passive spectators to contributors making the performance interactive by using different techniques. In this talk, we investigate the connection of audience physiological data to the experienced performance in three performance events with a total of 98 participants. We identified memorable performance moments by assessing, Electrodermal Activity (EDA) showing that the audience’s responses match the choreographer’s intention.</description>
@@ -379,11 +379,12 @@ Amazing organization and impressive research and meeting old friends.&lt;/p&gt;<
     
     <item>
       <title>Compensating for On-body Placement Effects in Activity Recognition</title>
-      <link>https://kaikunze.de/2012/07/07/phd-thesis-sources-on-github/</link>
+      <link>https://kaikunze.de/post/2012-07-07-phd-thesis-sources-on-github/</link>
       <pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
-      <guid>https://kaikunze.de/2012/07/07/phd-thesis-sources-on-github/</guid>
-      <description>Finished my phD. last year in Passau. The thesis is already published over Opus Bayern &amp;hellip;</description>
+      <guid>https://kaikunze.de/post/2012-07-07-phd-thesis-sources-on-github/</guid>
+      <description>Finally finished my phD. last year at Passau University. phD. Advisor Prof. Dr. Paul Lukowicz, second advisor Prof. Dr. Hans Gellersen. The thesis is already published at Opus Bayern. The pdf is open access, so feel free to read it (careful it&amp;rsquo;s a 19 MB pdf): Compensating for On-Body Placement Effects in Activity Recognition as pdf
+However, the sources were not available. Finally, I got around to push the latex sources of my dissertation up to github.</description>
     </item>
     
     <item>
