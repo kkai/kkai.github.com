@@ -1,380 +1,224 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://kaikunze.de/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/post/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/post/2020-12-27-boiling-mind/</loc>
     <lastmod>2020-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/publications/</loc>
     <lastmod>2020-04-16T12:07:18+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/projects/</loc>
     <lastmod>2020-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kaikunze.de/page/about/</loc>
-    <lastmod>2020-04-16T00:14:03+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kaikunze.de/page/</loc>
-    <lastmod>2020-04-16T00:14:03+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/about/</loc>
     <lastmod>2020-04-16T00:12:31+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/post/2020-02-18-augmented-humans/</loc>
     <lastmod>2020-04-01T09:50:05+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/post/2017-08-20-miraikan_sience_quest/</loc>
     <lastmod>2017-08-20T16:20:01+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/post/2017-08-20-kai_at_siggraph/</loc>
     <lastmod>2017-08-20T16:19:37+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/categories/</loc>
     <lastmod>2016-12-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2016/12/26/jst-presto-project-on-open-eyewear/</loc>
     <lastmod>2016-12-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/categories/posts/</loc>
     <lastmod>2016-12-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2016/11/06/iswc-and-ubicomp-in-heidelberg/</loc>
     <lastmod>2016-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2016/05/08/kai-at-chi-2016/</loc>
     <lastmod>2016-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</loc>
     <lastmod>2016-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</loc>
     <lastmod>2015-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2015/09/14/after-my-first-siggraph/</loc>
     <lastmod>2015-09-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2015/08/18/-affective-wear/</loc>
     <lastmod>2015-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2015/02/18/my-first-blind-soccer-training/</loc>
     <lastmod>2015-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2015/02/09/31c3-talk-slides-eye-wear-computing/</loc>
     <lastmod>2015-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2015/01/17/31c3-aftermath/</loc>
     <lastmod>2015-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2014/11/30/eyewear-computing/</loc>
     <lastmod>2014-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2014/08/24/google-glass-for-eldery/</loc>
     <lastmod>2014-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/iswc/</loc>
     <lastmod>2014-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2014/08/10/looking-forward-to-iswcubicomp-2014/</loc>
     <lastmod>2014-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/</loc>
     <lastmod>2014-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/ubicomp/</loc>
     <lastmod>2014-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2014/03/19/augmented-human-2014/</loc>
     <lastmod>2014-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2014/03/05/Attending-the-symposium-on-service-systems-science/</loc>
     <lastmod>2014-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2014/02/13/glass-talk-at-hacker-news-kansai/</loc>
     <lastmod>2014-02-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/30c3/</loc>
     <lastmod>2014-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2014/01/28/looking-back-at-30c3/</loc>
     <lastmod>2014-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2013/12/28/30c3-toward-a-cognitive-quantified-self/</loc>
     <lastmod>2013-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/glass/</loc>
     <lastmod>2013-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2013/12/22/hacking-glass/</loc>
     <lastmod>2013-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/</loc>
     <lastmod>2013-11-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2013/11/05/amazing-okinawa-attending-the-asvai-workshop/</loc>
     <lastmod>2013-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2013/09/20/a-week-with-glass/</loc>
     <lastmod>2013-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/categories/research/</loc>
     <lastmod>2013-09-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/conference/</loc>
     <lastmod>2013-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/categories/conference/</loc>
     <lastmod>2013-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/research/</loc>
     <lastmod>2013-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</loc>
     <lastmod>2013-09-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2013/09/06/excited-about-ubicomp-and-iswc/</loc>
     <lastmod>2013-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2013/08/26/icdar-2013-talk-slides-online/</loc>
     <lastmod>2013-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/keynote/</loc>
     <lastmod>2013-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2013/08/23/recognizing-reading-activities/</loc>
     <lastmod>2013-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</loc>
     <lastmod>2013-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/chi/</loc>
     <lastmod>2013-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2013/04/29/kai-@-chi/</loc>
     <lastmod>2013-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/poster/</loc>
     <lastmod>2013-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</loc>
     <lastmod>2013-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/dagstuhl/</loc>
     <lastmod>2013-04-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2013/02/06/some-of-my-favorites-from-the-29c3-recordings/</loc>
     <lastmod>2013-02-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</loc>
     <lastmod>2012-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/acmmm2012/</loc>
     <lastmod>2012-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/conferences/</loc>
     <lastmod>2012-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/categories/conferences/</loc>
     <lastmod>2012-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/notes/</loc>
     <lastmod>2012-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/trip-report/</loc>
     <lastmod>2012-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</loc>
     <lastmod>2012-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/scratchpad/</loc>
     <lastmod>2012-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/categories/hacking/</loc>
     <lastmod>2012-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2012/08/30/laughing-faces-app-in-the-appstore/</loc>
     <lastmod>2012-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</loc>
     <lastmod>2012-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/categories/scratchpad/</loc>
     <lastmod>2012-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/categories/publication/</loc>
     <lastmod>2012-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2012/07/09/draft-version-of-aaai-workshop-paper-online/</loc>
     <lastmod>2012-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/2012/07/08/some-of-my-publications-are-online/</loc>
     <lastmod>2012-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/post/2012-07-07-phd-thesis-sources-on-github/</loc>
     <lastmod>2012-07-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/demo/</loc>
     <lastmod>2012-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</loc>
     <lastmod>2012-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kaikunze.de/tags/hacking/</loc>
     <lastmod>2012-06-18T00:00:00+00:00</lastmod>
   </url>
-  
 </urlset>
