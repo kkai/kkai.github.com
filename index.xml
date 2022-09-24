@@ -8,14 +8,23 @@
     <language>en-us</language>
     <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
-    <lastBuildDate>Mon, 27 Dec 2021 19:42:36 +0100</lastBuildDate><atom:link href="https://kaikunze.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Sep 2022 19:42:36 +0100</lastBuildDate><atom:link href="https://kaikunze.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stable Diffusion</title>
+      <link>https://kaikunze.de/post/2022-09-10-stable-diffusion/</link>
+      <pubDate>Sat, 10 Sep 2022 19:42:36 +0100</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>https://kaikunze.de/post/2022-09-10-stable-diffusion/</guid>
+      <description> A picture from the performance. </description>
+    </item>
+    
     <item>
       <title>Frisson Waves</title>
       <link>https://kaikunze.de/post/2021-12-27-frisson/</link>
       <pubDate>Mon, 27 Dec 2021 19:42:36 +0100</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2021-12-27-frisson/</guid>
-      <description>A picture from the performance.    Frisson is a feeling as well as an experience of physical reactions such as shivers, tingling skin, and goosebumps. In this work, we propose Frisson Waves, an exploratory real-time system to detect, trigger and share frisson in a wave-like pattern over audience members during music performances. The system consists of a physiological sensing wristband for detecting frisson and a thermo-haptic neckband for inducing frisson.</description>
+      <description>A picture from the performance. Frisson is a feeling as well as an experience of physical reactions such as shivers, tingling skin, and goosebumps. In this work, we propose Frisson Waves, an exploratory real-time system to detect, trigger and share frisson in a wave-like pattern over audience members during music performances. The system consists of a physiological sensing wristband for detecting frisson and a thermo-haptic neckband for inducing frisson.</description>
     </item>
     
     <item>
@@ -24,7 +33,7 @@
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2021-01-24-augmenting/</guid>
-      <description>Augmenting Humans    Very happy to be invited as one of the panelists presenting in a three-day online symposium on Liveness organised by the Neurolive EU Project. The symposium brings together artists, humanities scholars and cognitive neuroscientists to explore how liveness is conceptualised, measured and practiced across the arts and the sciences.
+      <description>Augmenting Humans Very happy to be invited as one of the panelists presenting in a three-day online symposium on Liveness organised by the Neurolive EU Project. The symposium brings together artists, humanities scholars and cognitive neuroscientists to explore how liveness is conceptualised, measured and practiced across the arts and the sciences.
 I&amp;rsquo;m speaking on the 24th, here&amp;rsquo;s the abstract of my talk and my slides (carefull ~17 Mb pdf)</description>
     </item>
     
@@ -34,7 +43,7 @@ I&amp;rsquo;m speaking on the 24th, here&amp;rsquo;s the abstract of my talk and
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2020-12-27-boiling-mind/</guid>
-      <description>A picture from the perfromance.    The role of the audience in stage performances is changing from passive spectators to contributors making the performance interactive by using different techniques. In this talk, we investigate the connection of audience physiological data to the experienced performance in three performance events with a total of 98 participants. We identified memorable performance moments by assessing, Electrodermal Activity (EDA) showing that the audience’s responses match the choreographer’s intention.</description>
+      <description>A picture from the perfromance. The role of the audience in stage performances is changing from passive spectators to contributors making the performance interactive by using different techniques. In this talk, we investigate the connection of audience physiological data to the experienced performance in three performance events with a total of 98 participants. We identified memorable performance moments by assessing, Electrodermal Activity (EDA) showing that the audience’s responses match the choreographer’s intention.</description>
     </item>
     
     <item>
@@ -43,8 +52,8 @@ I&amp;rsquo;m speaking on the 24th, here&amp;rsquo;s the abstract of my talk and
       <pubDate>Thu, 16 Apr 2020 12:07:18 +0900</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/publications/</guid>
-      <description>NapWell: An EOG-based Sleep Assistant Exploring the Effects of Virtual Reality on Sleep Onset. Pai, Yun Suen and Bait, Marsel L and Lee, Juyoung and Xu, Jingjing and Peiris, Roshan L and Woo, Woontack and Billinghurst, Mark and Kunze, Kai. Virtual Reality. 2021. Bibtex.
- Investigating Usability and User Experience of IndividuallyVerifiable Internet Voting Schemes. Marky, Karola and Zollinger, Marie-Laure and Roenne, Peter and Ryan, Peter Y. A. and Grube, Tim and Kunze, Kai.</description>
+      <description>Linking Audience Physiology to Choreography. Han, Jiawen and Chernyshov, George and Sugawa, Moe and Zheng, Dingding and Hynds, Danny and Furukawa, Taichi and Padovani, Marcelo and Minamizawa, Kouta and Marky, Karola and Ward, Jamie A and others. ACM Transactions on Computer-Human Interaction. 2022. Bibtex.
+Frisson Waves: Exploring Automatic Detection, Triggering and Sharing of Aesthetic Chills in Music Performances. He, Yan and Chernyshov, George and Han, Jiawen and Zheng, Dingding and Thomsen, Ragnar and Hynds, Danny and Liu, Muyu and Yang, Yuehui and Ju, Yulan and Pai, Yun Suen and others.</description>
     </item>
     
     <item>
@@ -56,26 +65,19 @@ I&amp;rsquo;m speaking on the 24th, here&amp;rsquo;s the abstract of my talk and
       <description>My overall goal: I want to give people tools to foster inert talent and empower new skills.
 You can find up-to-date works on my research group site: Geist.
 Check also my publication list
-   Eyewear Computing    Smart Eyewear is the major enabling technology for application cases to enhance human senses.
-   Boiling Mind    Exploring Interpersonal Synchrony, for example linking Physiology to Choreography.</description>
+Eyewear Computing Smart Eyewear is the major enabling technology for application cases to enhance human senses.
+Boiling Mind Exploring Interpersonal Synchrony, for example linking Physiology to Choreography.
+Augmented Humans My goal is to use technical systems to augment existing human abilities and to create new capabilities.</description>
     </item>
     
     <item>
-      <title>How to Contact Kai</title>
+      <title>About Kai</title>
       <link>https://kaikunze.de/about/</link>
       <pubDate>Thu, 16 Apr 2020 00:12:31 +0900</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/about/</guid>
-      <description>Please feel free to get in touch about research, interests, collaborations and other requests.
-Kai Kunze
-Professor
-Graduate School of Media Design
-Keio University (KMD)
-4-1-1 Hiyoshi, Kohoku-ku, Yokohama 223-8526, JAPAN
-email (business): kai (at) kmd.keio.ac.jp
-email (personal): kai.kunze (at) gmail.com
-About Kai loves hacking and playing with technology, he also loves science.
-With over fifteen years of experience in the Wearable Computing research field, Kai works as Professor at the Graduate School of Media Design, Keio University, Yokohama, Japan.</description>
+      <description>Kai serves as the co-chair of the International Wearable Computing Academic Research Community, also a Steering Committee Member of the International Augmented Humans Conference. Previously, held an Assistant Professorship working for Prof. Koichi Kise at Osaka Prefecture University, Japan (2011 -2013). Work experience includes research visits at MIT (Cambridge, US), at the Palo Alto Research Center (Palo Alto, US) and, Sunlabs Europe (Grenoble, France).
+International Wearable Computing Academic Research Community Co-chair 、 International Augmented Humans Conference 運営委員。2011〜2013 年大阪府 立大学助教。MIT メディアラボ、米パロアルト研究所、仏 Sunlabs Europe 研究訪問。 研究分野はウェアラブルセンシングを用いた自己理解促進、認 知コーディング、舞台芸術での感情フィードバックループ、アクセシ ビリティツールキット、インクルーシブデザインなど。</description>
     </item>
     
     <item>
@@ -84,7 +86,7 @@ With over fifteen years of experience in the Wearable Computing research field, 
       <pubDate>Wed, 01 Apr 2020 09:50:05 +0900</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2020-02-18-augmented-humans/</guid>
-      <description>Stelarc presenting his work to the Online attendees.    On 16-17 March 2020, we co-organized the Augmented Humans conference in Kaiserslautern.. Due to the circumstances related to COVID-19, we moved to a fully virtual event and cancelled the physical event on 13th March. The whole team was struggling and especially thanks to all of the chairs it came together quite well.
+      <description>Stelarc presenting his work to the Online attendees. On 16-17 March 2020, we co-organized the Augmented Humans conference in Kaiserslautern.. Due to the circumstances related to COVID-19, we moved to a fully virtual event and cancelled the physical event on 13th March. The whole team was struggling and especially thanks to all of the chairs it came together quite well.
 On Sunday, just we met (only 2 people, disinfection materials, social distancing and mask wearing in place) to pre-record Stelarc&amp;rsquo;s Keynote</description>
     </item>
     

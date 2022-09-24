@@ -8,14 +8,23 @@
     <language>en-us</language>
     <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
-    <lastBuildDate>Mon, 27 Dec 2021 19:42:36 +0100</lastBuildDate><atom:link href="https://kaikunze.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Sep 2022 19:42:36 +0100</lastBuildDate><atom:link href="https://kaikunze.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stable Diffusion</title>
+      <link>https://kaikunze.de/post/2022-09-10-stable-diffusion/</link>
+      <pubDate>Sat, 10 Sep 2022 19:42:36 +0100</pubDate>
+      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>https://kaikunze.de/post/2022-09-10-stable-diffusion/</guid>
+      <description> A picture from the performance. </description>
+    </item>
+    
     <item>
       <title>Frisson Waves</title>
       <link>https://kaikunze.de/post/2021-12-27-frisson/</link>
       <pubDate>Mon, 27 Dec 2021 19:42:36 +0100</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2021-12-27-frisson/</guid>
-      <description>A picture from the performance.    Frisson is a feeling as well as an experience of physical reactions such as shivers, tingling skin, and goosebumps. In this work, we propose Frisson Waves, an exploratory real-time system to detect, trigger and share frisson in a wave-like pattern over audience members during music performances. The system consists of a physiological sensing wristband for detecting frisson and a thermo-haptic neckband for inducing frisson.</description>
+      <description>A picture from the performance. Frisson is a feeling as well as an experience of physical reactions such as shivers, tingling skin, and goosebumps. In this work, we propose Frisson Waves, an exploratory real-time system to detect, trigger and share frisson in a wave-like pattern over audience members during music performances. The system consists of a physiological sensing wristband for detecting frisson and a thermo-haptic neckband for inducing frisson.</description>
     </item>
     
     <item>
@@ -24,7 +33,7 @@
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2021-01-24-augmenting/</guid>
-      <description>Augmenting Humans    Very happy to be invited as one of the panelists presenting in a three-day online symposium on Liveness organised by the Neurolive EU Project. The symposium brings together artists, humanities scholars and cognitive neuroscientists to explore how liveness is conceptualised, measured and practiced across the arts and the sciences.
+      <description>Augmenting Humans Very happy to be invited as one of the panelists presenting in a three-day online symposium on Liveness organised by the Neurolive EU Project. The symposium brings together artists, humanities scholars and cognitive neuroscientists to explore how liveness is conceptualised, measured and practiced across the arts and the sciences.
 I&amp;rsquo;m speaking on the 24th, here&amp;rsquo;s the abstract of my talk and my slides (carefull ~17 Mb pdf)</description>
     </item>
     
@@ -34,7 +43,7 @@ I&amp;rsquo;m speaking on the 24th, here&amp;rsquo;s the abstract of my talk and
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2020-12-27-boiling-mind/</guid>
-      <description>A picture from the perfromance.    The role of the audience in stage performances is changing from passive spectators to contributors making the performance interactive by using different techniques. In this talk, we investigate the connection of audience physiological data to the experienced performance in three performance events with a total of 98 participants. We identified memorable performance moments by assessing, Electrodermal Activity (EDA) showing that the audience’s responses match the choreographer’s intention.</description>
+      <description>A picture from the perfromance. The role of the audience in stage performances is changing from passive spectators to contributors making the performance interactive by using different techniques. In this talk, we investigate the connection of audience physiological data to the experienced performance in three performance events with a total of 98 participants. We identified memorable performance moments by assessing, Electrodermal Activity (EDA) showing that the audience’s responses match the choreographer’s intention.</description>
     </item>
     
     <item>
@@ -43,7 +52,7 @@ I&amp;rsquo;m speaking on the 24th, here&amp;rsquo;s the abstract of my talk and
       <pubDate>Wed, 01 Apr 2020 09:50:05 +0900</pubDate>
       <author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2020-02-18-augmented-humans/</guid>
-      <description>Stelarc presenting his work to the Online attendees.    On 16-17 March 2020, we co-organized the Augmented Humans conference in Kaiserslautern.. Due to the circumstances related to COVID-19, we moved to a fully virtual event and cancelled the physical event on 13th March. The whole team was struggling and especially thanks to all of the chairs it came together quite well.
+      <description>Stelarc presenting his work to the Online attendees. On 16-17 March 2020, we co-organized the Augmented Humans conference in Kaiserslautern.. Due to the circumstances related to COVID-19, we moved to a fully virtual event and cancelled the physical event on 13th March. The whole team was struggling and especially thanks to all of the chairs it came together quite well.
 On Sunday, just we met (only 2 people, disinfection materials, social distancing and mask wearing in place) to pre-record Stelarc&amp;rsquo;s Keynote</description>
     </item>
     
