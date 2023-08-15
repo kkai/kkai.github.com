@@ -192,6 +192,73 @@
           
           
             <article class="post-preview">
+    <a href="https://kaikunze.de/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/">
+        <h2 class="post-title">Wordometer and Document Analysis using Pervasive Sensing</h2>
+        
+        
+        
+    </a>
+
+    <p class="post-meta">
+        <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;
+  
+  
+    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;2&nbsp;minutes
+  
+  
+    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;424&nbsp;words
+  
+  
+  
+</span>
+
+
+    </p>
+    <div class="post-entry">
+        
+        <p><img src="/images/wordometer.png" alt="wordometer"></p>
+<p>In the last couple of months, I got more and more interested in learning, especially reading.
+Loving tech and sports, I got easily hooked on the Quantified Self movement (I own a Zeo Sleeping Coach and several step counters).
+Seeing how measuring myself transformed me. I lost around 4 kg and feel healthier/fitter, since
+I started tracking. I wonder why we don&rsquo;t have similar tools for our learning behavior.</p>
+<p>So we created a simple Wordometer in our Lab, using the SMI mobile eyetracker and document image retrieval
+(LLAH). We simply detect reading (very distinct horizontal or vertical movements) and afterwards count line breaks.
+Assuming a fixed number of words per line, voilà here is your Wordometer. The document image retreival is used
+to keep the accuracy at around 5-7 % (comparable to the pedometers measuring your steps each day).</p>
+<p>Of course, there are a couple of limitations:</p>
+<ol>
+<li>Mobile Eyetrackers are DAMN expensive. Yet, the main reason being that there is no demand and they are manufactured in relatively low numbers. A glass frame, 2 cameras and 2 infra-red sources that&rsquo;s it (together with a bit of image processing magic).</li>
+<li>Document Image Retrieval means you need to register all documents with a server before reading them. I won&rsquo;t go into details as this limitation is the easiest to get rid of. We are currently working on a method without it. At the beginning it was easier to include (and improve the accuracy rate).</li>
+<li>Not everybody likes to wear glasses. With the recent mixed reception of Google Glass, it seems that wearing glasses is way more a fashion statement than wearing a big &ldquo;smart&rdquo; phone or similar. So this tech might not be for everybody.</li>
+</ol>
+<p>Overall, I&rsquo;m still very exited on what a cheap, public avaiable Wordometer will do to the reading habits of people and their &ldquo;knowledge life&rdquo;.
+We&rsquo;ll continue working on it ;)</p>
+<p>We are also using eyetracking, EEG and other sensors to get more information about what/how a user is reading.
+Interestingly, it seems using the Emotiv EEG we can detect reading versus not reading and even some document types
+(manga versus textbook).</p>
+<blockquote>
+<p>Disclaimer:
+This work would not be possible without two very talented students: Hitoshi Kawaichi and Kazuyo Yoshimura.
+Thanks for the hard work :D</p>
+</blockquote>
+<p>For more details, check out the papers:</p>
+<ul>
+<li><a href="/papers/kunze2013reading.pdf">The Wordometer – Estimating the Number of Words Read Using Document Image Retrieval and Mobile Eye Tracking</a></li>
+<li><a href="/papers/kunze2013wordometer.pdf">Reading Activity Recognition using an off-the-shelf EEG — Detecting Reading Activities and Distinguishing Genres of Documents</a></li>
+</ul>
+<p>They are both published at <a href="http://icdar2013.org">ICDAR 2013</a>.</p>
+
+        
+    </div>
+
+    
+
+</article>
+          
+            <article class="post-preview">
     <a href="https://kaikunze.de/2013/04/29/kai-@-chi/">
         <h2 class="post-title">Kai @ CHI</h2>
         
@@ -709,50 +776,6 @@ Please find some of my <a href="http://kaikunze.de/publications/">publications</
 section of this website.</p>
 <p>Stay tuned for the bibtex description and some more papers.</p>
 
-        
-    </div>
-
-    
-
-</article>
-          
-            <article class="post-preview">
-    <a href="https://kaikunze.de/post/2012-07-07-phd-thesis-sources-on-github/">
-        <h2 class="post-title">Compensating for On-body Placement Effects in Activity Recognition</h2>
-        
-        <h3 class="post-subtitle">
-            phD. thesis latex sources on github
-        </h3>
-        
-        
-        <img src="images/2012-thesis.jpg" alt="Compensating for On-body Placement Effects in Activity Recognition" class="img-title" />
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;
-  
-  
-    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;2&nbsp;minutes
-  
-  
-    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;268&nbsp;words
-  
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        Finally finished my phD. last year at Passau University. phD. Advisor Prof. Dr. Paul Lukowicz, second advisor Prof. Dr. Hans Gellersen. The thesis is already published at Opus Bayern. The pdf is open access, so feel free to read it (careful it&rsquo;s a 19 MB pdf): Compensating for On-Body Placement Effects in Activity Recognition as pdf
-However, the sources were not available. Finally, I got around to push the latex sources of my dissertation up to github.
-        <a href="https://kaikunze.de/post/2012-07-07-phd-thesis-sources-on-github/" class="post-read-more">[Read More]</a>
         
     </div>
 
