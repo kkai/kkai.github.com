@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dagstuhl on Kai Kunze</title>
+    <title>Dagstuhl on Kai Kunze</title>
     <link>https://kaikunze.de/tags/dagstuhl/</link>
-    <description>Recent content in dagstuhl on Kai Kunze</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Dagstuhl on Kai Kunze</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
-    <lastBuildDate>Wed, 24 Apr 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://kaikunze.de/tags/dagstuhl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Apr 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kaikunze.de/tags/dagstuhl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Activity Recognition Dagstuhl Report Online</title>
       <link>https://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</link>
-      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</guid>
       <description>If you wonder, &amp;hellip;</description>
     </item>
-    
   </channel>
 </rss>

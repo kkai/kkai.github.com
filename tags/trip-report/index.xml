@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>trip report on Kai Kunze</title>
+    <title>Trip Report on Kai Kunze</title>
     <link>https://kaikunze.de/tags/trip-report/</link>
-    <description>Recent content in trip report on Kai Kunze</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Trip Report on Kai Kunze</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
-    <lastBuildDate>Wed, 31 Oct 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://kaikunze.de/tags/trip-report/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Oct 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kaikunze.de/tags/trip-report/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ACM Multimedia 2012 Main Conference Notes</title>
       <link>https://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</link>
-      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</guid>
       <description>Here are some notes about ACM Multimedia, in random order.</description>
     </item>
-    
   </channel>
 </rss>

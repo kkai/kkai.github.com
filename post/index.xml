@@ -4,396 +4,319 @@
     <title>Posts on Kai Kunze</title>
     <link>https://kaikunze.de/post/</link>
     <description>Recent content in Posts on Kai Kunze</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>kai.kunze@pm.me (Kai Kunze)</managingEditor>
     <webMaster>kai.kunze@pm.me (Kai Kunze)</webMaster>
-    <lastBuildDate>Fri, 28 Apr 2023 19:42:36 +0100</lastBuildDate><atom:link href="https://kaikunze.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Apr 2023 19:42:36 +0100</lastBuildDate>
+    <atom:link href="https://kaikunze.de/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eyewear Computing</title>
       <link>https://kaikunze.de/post/2023-04-28-eyewear-computing/</link>
-      <pubDate>Fri, 28 Apr 2023 19:42:36 +0100</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Fri, 28 Apr 2023 19:42:36 +0100</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2023-04-28-eyewear-computing/</guid>
-      <description>A research concept from 2016 might be in the spotlight in the next years, as described and discussed in the Dagstuhl Seminar &amp;ldquo;Eyewear Computing – Augmenting the Human with Head-mounted Wearable Assistants&amp;rdquo;.
-With the advent of Apple Vision Pro, it seems timely to reflect on some of our earlier research directions. Eyewear Computing could go from an academic niche (e.g. Eyewear Computing Workshops at UbiComp) to becoming mainstream in the next years, if Apple succeeds in establishing their platform.</description>
+      <description>A research concept from 2016 might be in the spotlight in the next years, as described and discussed in the Dagstuhl Seminar &amp;ldquo;Eyewear Computing – Augmenting the Human with Head-mounted Wearable Assistants&amp;rdquo;.&#xA;With the advent of Apple Vision Pro, it seems timely to reflect on some of our earlier research directions. Eyewear Computing could go from an academic niche (e.g. Eyewear Computing Workshops at UbiComp) to becoming mainstream in the next years, if Apple succeeds in establishing their platform.</description>
     </item>
-    
     <item>
       <title>Frisson Waves</title>
       <link>https://kaikunze.de/post/2021-12-27-frisson/</link>
-      <pubDate>Mon, 27 Dec 2021 19:42:36 +0100</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Mon, 27 Dec 2021 19:42:36 +0100</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2021-12-27-frisson/</guid>
       <description>A picture from the performance. Frisson is a feeling as well as an experience of physical reactions such as shivers, tingling skin, and goosebumps. In this work, we propose Frisson Waves, an exploratory real-time system to detect, trigger and share frisson in a wave-like pattern over audience members during music performances. The system consists of a physiological sensing wristband for detecting frisson and a thermo-haptic neckband for inducing frisson.</description>
     </item>
-    
+    <item>
+      <title>Augmenting Humans @ Neurolive</title>
+      <link>https://kaikunze.de/post/2021-01-24-augmenting/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>https://kaikunze.de/post/2021-01-24-augmenting/</guid>
+      <description>Augmenting Humans Very happy to be invited as one of the panelists presenting in a three-day online symposium on Liveness organised by the Neurolive EU Project. The symposium brings together artists, humanities scholars and cognitive neuroscientists to explore how liveness is conceptualised, measured and practiced across the arts and the sciences.&#xA;I&amp;rsquo;m speaking on the 24th, here&amp;rsquo;s the abstract of my talk and my slides (carefull ~17 Mb pdf)</description>
+    </item>
+    <item>
+      <title>rc3 Talk Boiling Mind</title>
+      <link>https://kaikunze.de/post/2020-12-27-boiling-mind/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
+      <guid>https://kaikunze.de/post/2020-12-27-boiling-mind/</guid>
+      <description>A picture from the perfromance. The role of the audience in stage performances is changing from passive spectators to contributors making the performance interactive by using different techniques. In this talk, we investigate the connection of audience physiological data to the experienced performance in three performance events with a total of 98 participants. We identified memorable performance moments by assessing, Electrodermal Activity (EDA) showing that the audience’s responses match the choreographer’s intention.</description>
+    </item>
     <item>
       <title>Augmented Humans 2020</title>
       <link>https://kaikunze.de/post/2020-02-18-augmented-humans/</link>
-      <pubDate>Thu, 10 Sep 2020 09:50:05 +0900</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Thu, 10 Sep 2020 09:50:05 +0900</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2020-02-18-augmented-humans/</guid>
-      <description>Stelarc presenting his work to the Online attendees. On 16-17 March 2020, we co-organized the Augmented Humans conference in Kaiserslautern.. Due to the circumstances related to COVID-19, we moved to a fully virtual event and cancelled the physical event on 13th March. The whole team was struggling and especially thanks to all of the chairs it came together quite well.
-On Sunday, just we met (only 2 people, disinfection materials, social distancing and mask wearing in place) to pre-record Stelarc&amp;rsquo;s Keynote</description>
+      <description>Stelarc presenting his work to the Online attendees. On 16-17 March 2020, we co-organized the Augmented Humans conference in Kaiserslautern.. Due to the circumstances related to COVID-19, we moved to a fully virtual event and cancelled the physical event on 13th March. The whole team was struggling and especially thanks to all of the chairs it came together quite well.&#xA;On Sunday, just we met (only 2 people, disinfection materials, social distancing and mask wearing in place) to pre-record Stelarc&amp;rsquo;s Keynote</description>
     </item>
-    
     <item>
       <title>Kai @ Miraikan Science Quest</title>
       <link>https://kaikunze.de/post/2017-08-20-miraikan_sience_quest/</link>
-      <pubDate>Sun, 20 Aug 2017 16:20:01 +0900</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Sun, 20 Aug 2017 16:20:01 +0900</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2017-08-20-miraikan_sience_quest/</guid>
-      <description>&lt;p&gt;On the 9th August I had the opportunity to take part in a Miraikan Science Quest.
-It&amp;rsquo;s an open event at Miraikan, the Science Museum in Tokyo, to encourage
-a dialog between the public and researchers. This Science Quest was a premier,
-as it was the first ever held in English ;)&lt;/p&gt;</description>
+      <description>&lt;p&gt;On the 9th August I had the opportunity to take part in a Miraikan Science Quest.&#xA;It&amp;rsquo;s an open event at Miraikan, the Science Museum in Tokyo, to encourage&#xA;a dialog between the public and researchers. This Science Quest was a premier,&#xA;as it was the first ever held in English ;)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>JST Presto Project on Open Eyewear</title>
       <link>https://kaikunze.de/2016/12/26/jst-presto-project-on-open-eyewear/</link>
-      <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2016/12/26/jst-presto-project-on-open-eyewear/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m excited and happy to be one of few non-Japanese researchers to receive a &lt;a href=&#34;https://www.jst.go.jp/kisoken/presto/en/index.html&#34;&gt;JST Presto (Sakigake)&lt;/a&gt; project grant, on the Topic Open Collective Eyewear.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>ISWC and UbiComp in Heidelberg</title>
       <link>https://kaikunze.de/2016/11/06/iswc-and-ubicomp-in-heidelberg/</link>
-      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2016/11/06/iswc-and-ubicomp-in-heidelberg/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s a strange feeling to have UbiComp and ISWC so close to my home.
-Amazing organization and impressive research and meeting old friends.&lt;/p&gt;</description>
+      <description>&lt;p&gt;It&amp;rsquo;s a strange feeling to have UbiComp and ISWC so close to my home.&#xA;Amazing organization and impressive research and meeting old friends.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kai at CHI 2016</title>
       <link>https://kaikunze.de/2016/05/08/kai-at-chi-2016/</link>
-      <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2016/05/08/kai-at-chi-2016/</guid>
       <description>&lt;p&gt;back @ this year&amp;rsquo;s CHI 2016. We just have 3 Late Breaking Work submissions accepted and it seems they are currently for free download at the ACM website&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lessons from the Dagstuhl Seminar on Eyewear Computing</title>
       <link>https://kaikunze.de/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</link>
-      <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
-    
     <item>
       <title>Looking back on UbiComp/ISWC in Osaka</title>
       <link>https://kaikunze.de/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</link>
-      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Overall very pleasant and inspiring event, nice to see some old friends and meet new ones.&lt;/p&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Overall very pleasant and inspiring event, nice to see some old friends and meet new ones.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>After my first SIGGRAPH</title>
       <link>https://kaikunze.de/2015/09/14/after-my-first-siggraph/</link>
-      <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2015/09/14/after-my-first-siggraph/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
-    
     <item>
       <title>Affective Wear- Recognizing facial expressions</title>
       <link>https://kaikunze.de/2015/08/18/-affective-wear/</link>
-      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2015/08/18/-affective-wear/</guid>
       <description>&lt;p&gt;Katsutoshi Masai, one of my Master students had the idea to track facial expressions using low cost sensors in glasses. Quite nice work ;)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Super Human Sports: Augmenting Blind Soccer</title>
       <link>https://kaikunze.de/2015/02/18/my-first-blind-soccer-training/</link>
-      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2015/02/18/my-first-blind-soccer-training/</guid>
       <description>I&amp;rsquo;m getting more and more fascinated by augmenting Blind Soccer. After 3 blind soccer trainings, we had now a couple of meetings to discuss how to extend and enhance the play experience.</description>
     </item>
-    
     <item>
       <title>31C3 Talk Slides: Eye Wear Computing</title>
       <link>https://kaikunze.de/2015/02/09/31c3-talk-slides-eye-wear-computing/</link>
-      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2015/02/09/31c3-talk-slides-eye-wear-computing/</guid>
       <description>Here are the video and slides from my talk. Hope you like it. Please if you have some critique write me a mail.</description>
     </item>
-    
     <item>
       <title>31C3 Aftermath</title>
       <link>https://kaikunze.de/2015/01/17/31c3-aftermath/</link>
-      <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2015/01/17/31c3-aftermath/</guid>
       <description>Finally, I have a little time to write about the congress. As the last couple of years, I attended the 31st Chaos Communication Congress between Christmas and New Year.</description>
     </item>
-    
     <item>
       <title>Eye-Wear Computing</title>
       <link>https://kaikunze.de/2014/11/30/eyewear-computing/</link>
-      <pubDate>Sun, 30 Nov 2014 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Sun, 30 Nov 2014 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2014/11/30/eyewear-computing/</guid>
       <description>Smart glasses and, in general, eyewear are a fairly novel device class with a lot of possibilities for unobtrusive activity tracking. That&amp;rsquo;s why I&amp;rsquo;m very excited to be working in the Team of Masahiko Inami Sensei at Keio Media Design to do research on J!NS MEME.</description>
     </item>
-    
     <item>
       <title>Google Glass for Older Adults</title>
       <link>https://kaikunze.de/2014/08/24/google-glass-for-eldery/</link>
-      <pubDate>Sun, 24 Aug 2014 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Sun, 24 Aug 2014 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2014/08/24/google-glass-for-eldery/</guid>
       <description>As the first article about my grandparents using Google Glass received a lot of interest, I decided to delve a little bit more into the topic.</description>
     </item>
-    
     <item>
       <title>Looking forward to ISWC/Ubicomp 2014</title>
       <link>https://kaikunze.de/2014/08/10/looking-forward-to-iswcubicomp-2014/</link>
-      <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2014/08/10/looking-forward-to-iswcubicomp-2014/</guid>
       <description>With roughly around 1 month to go, we are busy with demo preparations etc.</description>
     </item>
-    
     <item>
       <title>Augmented Human 2014</title>
       <link>https://kaikunze.de/2014/03/19/augmented-human-2014/</link>
-      <pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2014/03/19/augmented-human-2014/</guid>
       <description>Innovative research, that makes you first laugh and then think. The conference develops into one of my favorite venues.</description>
     </item>
-    
     <item>
       <title>Beyond FuturICT</title>
       <link>https://kaikunze.de/2014/03/05/Attending-the-symposium-on-service-systems-science/</link>
-      <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2014/03/05/Attending-the-symposium-on-service-systems-science/</guid>
       <description>Attending the International Symposium on Service Systems Science in Tokyo, I got a glimpse on how the progress and the next steps of FuturICT &amp;hellip;</description>
     </item>
-    
     <item>
       <title>Glass Talk at Hacker News Kansai</title>
       <link>https://kaikunze.de/2014/02/13/glass-talk-at-hacker-news-kansai/</link>
-      <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2014/02/13/glass-talk-at-hacker-news-kansai/</guid>
       <description>Introducing Google Glass to Hacker News Kansai Community was a lot of fun.</description>
     </item>
-    
     <item>
       <title>Looking back at 30C3</title>
       <link>https://kaikunze.de/2014/01/28/looking-back-at-30c3/</link>
-      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2014/01/28/looking-back-at-30c3/</guid>
       <description>Impressions and Talk Recommendations. Finally, a couple of days with normal people &amp;hellip;</description>
     </item>
-    
     <item>
       <title>30C3 Toward a Cognitive Quantified Self</title>
       <link>https://kaikunze.de/2013/12/28/30c3-toward-a-cognitive-quantified-self/</link>
-      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/12/28/30c3-toward-a-cognitive-quantified-self/</guid>
       <description>Discussing activity recognition for the Mind and its potential applications.</description>
     </item>
-    
     <item>
       <title>Hacking Glass</title>
       <link>https://kaikunze.de/2013/12/22/hacking-glass/</link>
-      <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/12/22/hacking-glass/</guid>
       <description>So I got my hands on another Glass device and can now play with it a bit longer.</description>
     </item>
-    
     <item>
       <title>Bits and Bytes instead of a Bookshelf</title>
       <link>https://kaikunze.de/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/</link>
-      <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/</guid>
       <description>An interview made me wonder about how reading habits are changing and how we will narrate stories in the future.</description>
     </item>
-    
     <item>
       <title>Amazing Okinawa - Attending the ASVAI Workshop</title>
       <link>https://kaikunze.de/2013/11/05/amazing-okinawa-attending-the-asvai-workshop/</link>
-      <pubDate>Tue, 05 Nov 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Tue, 05 Nov 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/11/05/amazing-okinawa-attending-the-asvai-workshop/</guid>
       <description>Cool research discussions at a nice location. The workshop was perfect fit to my research interests.</description>
     </item>
-    
     <item>
       <title>A Week with Glass</title>
       <link>https://kaikunze.de/2013/09/20/a-week-with-glass/</link>
-      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/09/20/a-week-with-glass/</guid>
       <description>How my grandparents interact with GLASS, showed me that Google seems to be onto something.</description>
     </item>
-    
     <item>
       <title>Ubicomp ISWC Impressions</title>
       <link>https://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</link>
-      <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</guid>
       <description>Usually, I&amp;rsquo;m not such a big fan of conference openings, &amp;hellip;</description>
     </item>
-    
     <item>
       <title>Excited about Ubicomp and ISWC</title>
       <link>https://kaikunze.de/2013/09/06/excited-about-ubicomp-and-iswc/</link>
-      <pubDate>Fri, 06 Sep 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Fri, 06 Sep 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/09/06/excited-about-ubicomp-and-iswc/</guid>
       <description>This year I&amp;rsquo;m really looking forward to Ubicomp and ISWC, it&amp;rsquo;s the first time that &amp;hellip;</description>
     </item>
-    
     <item>
       <title>ICDAR 2013 Talk Slides Online</title>
       <link>https://kaikunze.de/2013/08/26/icdar-2013-talk-slides-online/</link>
-      <pubDate>Mon, 26 Aug 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Mon, 26 Aug 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/08/26/icdar-2013-talk-slides-online/</guid>
       <description>The slides for my two talks today are now online.</description>
     </item>
-    
     <item>
       <title>Recognizing Reading Activities</title>
       <link>https://kaikunze.de/2013/08/23/recognizing-reading-activities/</link>
-      <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/08/23/recognizing-reading-activities/</guid>
       <description>Just finished my keynote talk at CBDAR, a Workshop at ICDAR</description>
     </item>
-    
     <item>
       <title>Wordometer and Document Analysis using Pervasive Sensing</title>
       <link>https://kaikunze.de/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</link>
-      <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</guid>
       <description>In the last couple of months, I got more and more interested in learning, especially reading.</description>
     </item>
-    
     <item>
       <title>Kai @ CHI</title>
       <link>https://kaikunze.de/2013/04/29/kai-@-chi/</link>
-      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/04/29/kai-@-chi/</guid>
       <description>So it&amp;rsquo;s my first time at CHI. Pretty amazing so far &amp;hellip;</description>
     </item>
-    
     <item>
       <title>Activity Recognition Dagstuhl Report Online</title>
       <link>https://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</link>
-      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</guid>
       <description>If you wonder, &amp;hellip;</description>
     </item>
-    
     <item>
       <title>Some of my favorites from the 29c3 recordings</title>
       <link>https://kaikunze.de/2013/02/06/some-of-my-favorites-from-the-29c3-recordings/</link>
-      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2013/02/06/some-of-my-favorites-from-the-29c3-recordings/</guid>
       <description>Over the last weeks, I finally got around to watch some of the &amp;hellip;</description>
     </item>
-    
     <item>
       <title>ACM Multimedia 2012 Main Conference Notes</title>
       <link>https://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</link>
-      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</guid>
       <description>Here are some notes about ACM Multimedia, in random order.</description>
     </item>
-    
     <item>
       <title>ACM Multimedia 2012 Tutorials and Workshops</title>
       <link>https://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</link>
-      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</guid>
       <description>I attended the following Tutorials &amp;hellip;</description>
     </item>
-    
     <item>
       <title>Laughing Faces App in the AppStore</title>
       <link>https://kaikunze.de/2012/08/30/laughing-faces-app-in-the-appstore/</link>
-      <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2012/08/30/laughing-faces-app-in-the-appstore/</guid>
       <description>Over the last couple of weeks, I was getting settled in my new job.</description>
     </item>
-    
     <item>
       <title>AAAI activity context workshop notes</title>
       <link>https://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</link>
-      <pubDate>Thu, 26 Jul 2012 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Thu, 26 Jul 2012 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</guid>
       <description>The keynote How to make Face Recognition work (pdf) by Ashis Kapoor &amp;hellip;</description>
     </item>
-    
     <item>
       <title>Towards Dynamically Configurable Context Recognition Systems</title>
       <link>https://kaikunze.de/2012/07/09/draft-version-of-aaai-workshop-paper-online/</link>
-      <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2012/07/09/draft-version-of-aaai-workshop-paper-online/</guid>
       <description>Here&amp;rsquo;s a draft version of my publication for the AAI workshop &amp;hellip;</description>
     </item>
-    
     <item>
       <title>Some of my publications are online</title>
       <link>https://kaikunze.de/2012/07/08/some-of-my-publications-are-online/</link>
-      <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/2012/07/08/some-of-my-publications-are-online/</guid>
       <description>I&amp;rsquo;m slowly uploading a couple of references and the pdf draft versions of them.</description>
     </item>
-    
     <item>
       <title>Compensating for On-body Placement Effects in Activity Recognition</title>
       <link>https://kaikunze.de/post/2012-07-07-phd-thesis-sources-on-github/</link>
-      <pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2012-07-07-phd-thesis-sources-on-github/</guid>
-      <description>Finally finished my phD. last year at Passau University. phD. Advisor Prof. Dr. Paul Lukowicz, second advisor Prof. Dr. Hans Gellersen. The thesis is already published at Opus Bayern. The pdf is open access, so feel free to read it (careful it&amp;rsquo;s a 19 MB pdf): Compensating for On-Body Placement Effects in Activity Recognition as pdf
-However, the sources were not available. Finally, I got around to push the latex sources of my dissertation up to github.</description>
+      <description>Finally finished my phD. last year at Passau University. phD. Advisor Prof. Dr. Paul Lukowicz, second advisor Prof. Dr. Hans Gellersen. The thesis is already published at Opus Bayern. The pdf is open access, so feel free to read it (careful it&amp;rsquo;s a 19 MB pdf): Compensating for On-Body Placement Effects in Activity Recognition as pdf&#xA;However, the sources were not available. Finally, I got around to push the latex sources of my dissertation up to github.</description>
     </item>
-    
     <item>
       <title>Device Motion in Html/Javascript</title>
       <link>https://kaikunze.de/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</link>
-      <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
-      <author>kai.kunze@pm.me (Kai Kunze)</author>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate><author>kai.kunze@pm.me (Kai Kunze)</author>
       <guid>https://kaikunze.de/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</guid>
       <description>A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red cube is shown on the screen (placed between randomly generated cubes). The transparent area around the cube changes depending on how strong one shakes the phone.</description>
     </item>
-    
   </channel>
 </rss>
