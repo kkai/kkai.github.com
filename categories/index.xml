@@ -2,101 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kai Kunze</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://kaikunze.de/categories/</link>
     <description>Recent content in Categories on Kai Kunze</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kaikunze.de/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-<<<<<<< HEAD
       <link>https://kaikunze.de/categories/posts/</link>
       <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/categories/posts/</guid>
-=======
-      <link>http://localhost:1313/categories/posts/</link>
-      <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/posts/</guid>
->>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Research</title>
-<<<<<<< HEAD
       <link>https://kaikunze.de/categories/research/</link>
       <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/categories/research/</guid>
-=======
-      <link>http://localhost:1313/categories/research/</link>
-      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/research/</guid>
->>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Conference</title>
-<<<<<<< HEAD
       <link>https://kaikunze.de/categories/conference/</link>
       <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/categories/conference/</guid>
-=======
-      <link>http://localhost:1313/categories/conference/</link>
-      <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/conference/</guid>
->>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Conferences</title>
-<<<<<<< HEAD
       <link>https://kaikunze.de/categories/conferences/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/categories/conferences/</guid>
-=======
-      <link>http://localhost:1313/categories/conferences/</link>
-      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/conferences/</guid>
->>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Hacking</title>
-<<<<<<< HEAD
       <link>https://kaikunze.de/categories/hacking/</link>
       <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/categories/hacking/</guid>
-=======
-      <link>http://localhost:1313/categories/hacking/</link>
-      <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/hacking/</guid>
->>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Scratchpad</title>
-<<<<<<< HEAD
       <link>https://kaikunze.de/categories/scratchpad/</link>
       <pubDate>Thu, 26 Jul 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/categories/scratchpad/</guid>
-=======
-      <link>http://localhost:1313/categories/scratchpad/</link>
-      <pubDate>Thu, 26 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/scratchpad/</guid>
->>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Publication</title>
-<<<<<<< HEAD
       <link>https://kaikunze.de/categories/publication/</link>
       <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/categories/publication/</guid>
-=======
-      <link>http://localhost:1313/categories/publication/</link>
-      <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/publication/</guid>
->>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
   </channel>

@@ -2,23 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conferences on Kai Kunze</title>
-    <link>http://localhost:1313/tags/conferences/</link>
+    <link>https://kaikunze.de/tags/conferences/</link>
     <description>Recent content in Conferences on Kai Kunze</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Oct 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kaikunze.de/tags/conferences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ACM Multimedia 2012 Main Conference Notes</title>
-<<<<<<< HEAD
       <link>https://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</guid>
-=======
-      <link>http://localhost:1313/2012/10/31/acm-multimedia-2012-day-2-notes/</link>
-      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2012/10/31/acm-multimedia-2012-day-2-notes/</guid>
->>>>>>> f0c6135 (refactor for hugo changes)
       <description>Here are some notes about ACM Multimedia, in random order.</description>
     </item>
   </channel>

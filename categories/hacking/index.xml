@@ -2,23 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hacking on Kai Kunze</title>
-    <link>http://localhost:1313/categories/hacking/</link>
+    <link>https://kaikunze.de/categories/hacking/</link>
     <description>Recent content in Hacking on Kai Kunze</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Aug 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/hacking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kaikunze.de/categories/hacking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Laughing Faces App in the AppStore</title>
-<<<<<<< HEAD
       <link>https://kaikunze.de/2012/08/30/laughing-faces-app-in-the-appstore/</link>
       <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2012/08/30/laughing-faces-app-in-the-appstore/</guid>
-=======
-      <link>http://localhost:1313/2012/08/30/laughing-faces-app-in-the-appstore/</link>
-      <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/2012/08/30/laughing-faces-app-in-the-appstore/</guid>
->>>>>>> f0c6135 (refactor for hugo changes)
       <description>Over the last couple of weeks, I was getting settled in my new job.</description>
     </item>
   </channel>
