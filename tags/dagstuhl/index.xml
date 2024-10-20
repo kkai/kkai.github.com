@@ -2,17 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dagstuhl on Kai Kunze</title>
-    <link>https://kaikunze.de/tags/dagstuhl/</link>
+    <link>http://localhost:1313/tags/dagstuhl/</link>
     <description>Recent content in Dagstuhl on Kai Kunze</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Apr 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kaikunze.de/tags/dagstuhl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/dagstuhl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Activity Recognition Dagstuhl Report Online</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</link>
       <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</guid>
+=======
+      <link>http://localhost:1313/2013/04/24/ar-dagstuhl-report-online/</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/04/24/ar-dagstuhl-report-online/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>If you wonder, &amp;hellip;</description>
     </item>
   </channel>

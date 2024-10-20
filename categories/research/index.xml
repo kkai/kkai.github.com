@@ -2,45 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Kai Kunze</title>
-    <link>https://kaikunze.de/categories/research/</link>
+    <link>http://localhost:1313/categories/research/</link>
     <description>Recent content in Research on Kai Kunze</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Sep 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kaikunze.de/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Week with Glass</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/09/20/a-week-with-glass/</link>
       <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/09/20/a-week-with-glass/</guid>
+=======
+      <link>http://localhost:1313/2013/09/20/a-week-with-glass/</link>
+      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/09/20/a-week-with-glass/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>How my grandparents interact with GLASS, showed me that Google seems to be onto something.</description>
     </item>
     <item>
       <title>ICDAR 2013 Talk Slides Online</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/08/26/icdar-2013-talk-slides-online/</link>
       <pubDate>Mon, 26 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/08/26/icdar-2013-talk-slides-online/</guid>
+=======
+      <link>http://localhost:1313/2013/08/26/icdar-2013-talk-slides-online/</link>
+      <pubDate>Mon, 26 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/08/26/icdar-2013-talk-slides-online/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>The slides for my two talks today are now online.</description>
     </item>
     <item>
       <title>Recognizing Reading Activities</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/08/23/recognizing-reading-activities/</link>
       <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/08/23/recognizing-reading-activities/</guid>
+=======
+      <link>http://localhost:1313/2013/08/23/recognizing-reading-activities/</link>
+      <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/08/23/recognizing-reading-activities/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Just finished my keynote talk at CBDAR, a Workshop at ICDAR</description>
     </item>
     <item>
       <title>Wordometer and Document Analysis using Pervasive Sensing</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</link>
       <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</guid>
+=======
+      <link>http://localhost:1313/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</link>
+      <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>In the last couple of months, I got more and more interested in learning, especially reading.</description>
     </item>
     <item>
       <title>Activity Recognition Dagstuhl Report Online</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</link>
       <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</guid>
+=======
+      <link>http://localhost:1313/2013/04/24/ar-dagstuhl-report-online/</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/04/24/ar-dagstuhl-report-online/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>If you wonder, &amp;hellip;</description>
     </item>
   </channel>

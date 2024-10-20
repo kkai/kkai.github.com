@@ -2,129 +2,231 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kai Kunze</title>
-    <link>https://kaikunze.de/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Kai Kunze</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Aug 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kaikunze.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Iswc</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/iswc/</link>
       <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/iswc/</guid>
+=======
+      <link>http://localhost:1313/tags/iswc/</link>
+      <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/iswc/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Ubicomp</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/ubicomp/</link>
       <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/ubicomp/</guid>
+=======
+      <link>http://localhost:1313/tags/ubicomp/</link>
+      <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ubicomp/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>30c3</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/30c3/</link>
       <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/30c3/</guid>
+=======
+      <link>http://localhost:1313/tags/30c3/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/30c3/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Glass</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/glass/</link>
       <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/glass/</guid>
+=======
+      <link>http://localhost:1313/tags/glass/</link>
+      <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/glass/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Conference</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/conference/</link>
       <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/conference/</guid>
+=======
+      <link>http://localhost:1313/tags/conference/</link>
+      <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/conference/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Research</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/research/</link>
       <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/research/</guid>
+=======
+      <link>http://localhost:1313/tags/research/</link>
+      <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/research/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Keynote</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/keynote/</link>
       <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/keynote/</guid>
+=======
+      <link>http://localhost:1313/tags/keynote/</link>
+      <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/keynote/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Chi</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/chi/</link>
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/chi/</guid>
+=======
+      <link>http://localhost:1313/tags/chi/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chi/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Poster</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/poster/</link>
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/poster/</guid>
+=======
+      <link>http://localhost:1313/tags/poster/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/poster/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Dagstuhl</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/dagstuhl/</link>
       <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/dagstuhl/</guid>
+=======
+      <link>http://localhost:1313/tags/dagstuhl/</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dagstuhl/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Acmmm2012</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/acmmm2012/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/acmmm2012/</guid>
+=======
+      <link>http://localhost:1313/tags/acmmm2012/</link>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/acmmm2012/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Conferences</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/conferences/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/conferences/</guid>
+=======
+      <link>http://localhost:1313/tags/conferences/</link>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/conferences/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Notes</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/notes/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/notes/</guid>
+=======
+      <link>http://localhost:1313/tags/notes/</link>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/notes/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Trip Report</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/trip-report/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/trip-report/</guid>
+=======
+      <link>http://localhost:1313/tags/trip-report/</link>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/trip-report/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Scratchpad</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/scratchpad/</link>
       <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/scratchpad/</guid>
+=======
+      <link>http://localhost:1313/tags/scratchpad/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/scratchpad/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Demo</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/demo/</link>
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/demo/</guid>
+=======
+      <link>http://localhost:1313/tags/demo/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/demo/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
     <item>
       <title>Hacking</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/tags/hacking/</link>
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/tags/hacking/</guid>
+=======
+      <link>http://localhost:1313/tags/hacking/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hacking/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description></description>
     </item>
   </channel>

@@ -2,14 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kai Kunze</title>
-    <link>https://kaikunze.de/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Kai Kunze</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Apr 2023 19:42:36 +0100</lastBuildDate>
-    <atom:link href="https://kaikunze.de/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eyewear Computing</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/post/2023-04-28-eyewear-computing/</link>
       <pubDate>Fri, 28 Apr 2023 19:42:36 +0100</pubDate>
       <guid>https://kaikunze.de/post/2023-04-28-eyewear-computing/</guid>
@@ -48,7 +49,7 @@
       <link>https://kaikunze.de/publications/</link>
       <pubDate>Thu, 16 Apr 2020 12:07:18 +0900</pubDate>
       <guid>https://kaikunze.de/publications/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kaikunze.de/papers/pdf/barbareschi2024speech.pdf&#34;&gt;&lt;em&gt;&amp;quot; Speech is Silver, Silence is Golden&amp;quot; Analyzing Micro-communication Strategies between Visually Impaired Runners and their Guides&lt;/em&gt;&lt;/a&gt;. Barbareschi, Giulia and Kumar, Tarika and Kim, Christopher Changmok and Chernyshov, George and Kunze, Kai. Proceedings of the CHI Conference on Human Factors in Computing Systems. 2024. &lt;a href=&#34;https://kaikunze.de/papers/bib/barbareschi2024speech.bib&#34;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kaikunze.de/papers/pdf/hynds2024innermost.pdf&#34;&gt;&lt;em&gt;Innermost echoes: Integrating real-time physiology into live music performances&lt;/em&gt;&lt;/a&gt;. Hynds, Danny and Chernyshov, George and Zheng, Dingding and Uyama, Aoi and Li, Juling and Matsumoto, Kozue and Pogorzhelskiy, Michael and Kunze, Kai and Ward, Jamie A and Minamizawa, Kouta. Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction. 2024. &lt;a href=&#34;https://kaikunze.de/papers/bib/hynds2024innermost.bib&#34;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://kaikunze.de/papers/pdf/semertzidis2022human.pdf&#34;&gt;&lt;em&gt;Human&amp;ndash;Computer Integration: Towards Integrating the Human Body with the Computational Machine&lt;/em&gt;&lt;/a&gt;. Semertzidis, Nathan and Andres, Josh and Weigel, Martin and Nanayakkara, Suranga and Patibanda, Rakesh and Li, Zhuying and Strohmeier, Paul and Knibbe, Jarrod and Greuter, Stefan and Obrist, Marianna and others. Foundations and Trends{\textregistered} in Human-Computer Interaction. 2022. &lt;a href=&#34;https://kaikunze.de/papers/bib/semertzidis2022human.bib&#34;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;Seeing our Blind Spots: Smart Glasses-based Simulation to Increase Design Students’ Awareness of Visual Impairment&lt;/em&gt;. Zhang, Qing and Barbareschi, Giulia and Huang, Yifei and Li, Juling and Pai, Yun Suen and Ward, Jamie and Kunze, Kai. Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology. 2022. &lt;a href=&#34;https://kaikunze.de/papers/bib/zhang2022seeing.bib&#34;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
@@ -62,276 +63,559 @@
       <link>https://kaikunze.de/about/</link>
       <pubDate>Thu, 16 Apr 2020 00:12:31 +0900</pubDate>
       <guid>https://kaikunze.de/about/</guid>
+=======
+      <link>http://localhost:1313/post/2023-04-28-eyewear-computing/</link>
+      <pubDate>Fri, 28 Apr 2023 19:42:36 +0100</pubDate>
+      <guid>http://localhost:1313/post/2023-04-28-eyewear-computing/</guid>
+      <description>&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;&#xA;&#x9;  &#xA;  &#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;&#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//images/oma-thumb.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/images/oma-thumb.jpg&#34; alt=&#34;There are also applications of smart eyewear for older adults.&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/oma.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//images/seminar-thumb.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/images/seminar-thumb.jpg&#34; alt=&#34;Participants of the 2016 Dagstuhl Seminar on Eyewear Computing&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/seminar.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &#xA;  &#xA;  &lt;div class=&#34;box&#34; &gt;&#xA;    &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;      &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;http://localhost:1313//images/miraikan-thumb.jpg&#39;);&#34;&gt;&#xA;        &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/images/miraikan-thumb.jpg&#34; alt=&#34;Public dissemination about Eyewear Computing at The National Museum of Emerging Science and Innovation, Miraikan, Tokyo 2017.&#34;/&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;a href=&#34;http://localhost:1313/images/miraikan.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;A research concept from 2016 might be in the spotlight in the next years,&#xA;as described and discussed in the &lt;a href=&#34;https://www.dagstuhl.de/16042&#34;&gt;Dagstuhl Seminar&#xA;&amp;ldquo;Eyewear Computing – Augmenting the Human with Head-mounted Wearable Assistants&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frisson Waves</title>
+      <link>http://localhost:1313/post/2021-12-27-frisson/</link>
+      <pubDate>Mon, 27 Dec 2021 19:42:36 +0100</pubDate>
+      <guid>http://localhost:1313/post/2021-12-27-frisson/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;&#xA;&lt;div class=&#34;box&#34; &gt;&#xA;  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;    &lt;div class=&#34;img&#34;&gt;&#xA;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/images/frisson2.jpg&#34; alt=&#34;/images/frisson2.jpg&#34;/&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/frisson2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;      &lt;figcaption&gt;&lt;h4&gt;A picture from the performance.&lt;/h4&gt;&#xA;      &lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Frisson is a feeling as well as an experience of physical reactions such as shivers, tingling skin, and goosebumps. In this work, we propose Frisson Waves, an exploratory real-time system to detect, trigger and share frisson in a wave-like pattern over audience members during music performances. The system consists of a physiological sensing wristband for detecting frisson and a thermo-haptic neckband for inducing frisson.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Augmenting Humans @ Neurolive</title>
+      <link>http://localhost:1313/post/2021-01-24-augmenting/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2021-01-24-augmenting/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;&#xA;&lt;div class=&#34;box&#34; &gt;&#xA;  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;    &lt;div class=&#34;img&#34;&gt;&#xA;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/images/liveness-1.jpg&#34; alt=&#34;/images/liveness-1.jpg&#34;/&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/liveness-1.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;      &lt;figcaption&gt;&lt;h4&gt;Augmenting Humans&lt;/h4&gt;&#xA;      &lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Very happy to be invited as one of the panelists presenting in a three-day online symposium on Liveness organised by the &lt;a href=&#34;https://neurolive.info/About&#34;&gt;Neurolive EU Project&lt;/a&gt;. The &lt;a href=&#34;https://www.eventbrite.com/e/liveness-symposium-tickets-141701857069&#34;&gt;symposium&lt;/a&gt; brings together artists, humanities scholars and cognitive neuroscientists to explore how liveness is conceptualised, measured and practiced across the arts and the sciences.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m speaking on the 24th, here&amp;rsquo;s the abstract of my talk and my &lt;a href=&#34;http://kaikunze.de/files/liveness2021-kai.pdf&#34;&gt;slides (carefull ~17 Mb pdf)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Abstract:&#xA;In my research, I combine design and technology to augment human senses, looking for novel interaction paradigms.&#xA;Engineering and computing have often been used to mimic or surpass some human abilities (for example autonomous driving, playing Go). Such efforts appear to put humans and computers in a competitive relationship, as emphasized in AI vs. Human game competitions. Once fantastic fear of AIs “replacing” human workers is now taken much more seriously and discussed in the public sphere. My research proposes a different approach to the human-computer relationship by applying a cooperative and empowering framework, using wearable computing to actively augment human capabilities.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>rc3 Talk Boiling Mind</title>
+      <link>http://localhost:1313/post/2020-12-27-boiling-mind/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2020-12-27-boiling-mind/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;&#xA;&lt;div class=&#34;box&#34; &gt;&#xA;  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;    &lt;div class=&#34;img&#34;&gt;&#xA;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/images/boiling.jpg&#34; alt=&#34;/images/boiling.jpg&#34;/&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/boiling.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;      &lt;figcaption&gt;&lt;h4&gt;A picture from the perfromance.&lt;/h4&gt;&#xA;      &lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;The role of the audience in stage performances is changing from passive spectators to contributors making the performance interactive by using different techniques. In this talk, we investigate the connection of audience physiological data to the experienced performance in three performance events with a total of 98 participants. We identified memorable performance moments by assessing, Electrodermal Activity (EDA) showing that the audience’s responses match the choreographer’s intention. Through Heart Rate Variability (HRV) features related to parasympathetic activity, we identified dramatic shifts that are connected to the choreographic development of the performance. Our results show how the audience&amp;rsquo;s physiological responses are linked to the choreographic development of the performance. Based on the findings, we contribute a discussion of the registered physiological phenomena and implications of the audience’s responses analysis to performance and choreography design in general. Furthermore, we walk through the dataset collected from the performance events.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Augmented Humans 2020</title>
+      <link>http://localhost:1313/post/2020-02-18-augmented-humans/</link>
+      <pubDate>Thu, 10 Sep 2020 09:50:05 +0900</pubDate>
+      <guid>http://localhost:1313/post/2020-02-18-augmented-humans/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;&#xA;&lt;div class=&#34;box&#34; &gt;&#xA;  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;    &lt;div class=&#34;img&#34;&gt;&#xA;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/images/stelarc.jpg&#34; alt=&#34;/images/stelarc.jpg&#34;/&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/stelarc.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;      &lt;figcaption&gt;&lt;h4&gt;Stelarc presenting his work to the Online attendees.&lt;/h4&gt;&#xA;      &lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;On 16-17 March 2020, we co-organized the &lt;a href=&#34;https://augmented-humans.org/&#34;&gt;Augmented Humans conference in&#xA;Kaiserslautern.&lt;/a&gt;.&#xA;Due to the circumstances related to COVID-19, we moved&#xA;to a fully virtual event and cancelled the physical event on 13th March.&#xA;The whole team was struggling and especially thanks to all of the chairs it came together quite well.&lt;/p&gt;&#xA;&lt;p&gt;On Sunday, just we met (only 2 people, disinfection materials, social distancing and mask wearing in place)&#xA;to pre-record &lt;a href=&#34;https://www.youtube.com/watch?v=p44RVyD5Qt8&#34;&gt;Stelarc&amp;rsquo;s Keynote&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Thu, 16 Apr 2020 12:07:18 +0900</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/papers/pdf/han2022linking.pdf&#34;&gt;&lt;em&gt;Linking Audience Physiology to Choreography&lt;/em&gt;&lt;/a&gt;. Han, Jiawen and Chernyshov, George and Sugawa, Moe and Zheng, Dingding and Hynds, Danny and Furukawa, Taichi and Padovani, Marcelo and Minamizawa, Kouta and Marky, Karola and Ward, Jamie A and others. ACM Transactions on Computer-Human Interaction. 2022. &lt;a href=&#34;http://localhost:1313/papers/bib/han2022linking.bib&#34;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/papers/pdf/he2022frisson.pdf&#34;&gt;&lt;em&gt;Frisson Waves: Exploring Automatic Detection, Triggering and Sharing of Aesthetic Chills in Music Performances&lt;/em&gt;&lt;/a&gt;. He, Yan and Chernyshov, George and Han, Jiawen and Zheng, Dingding and Thomsen, Ragnar and Hynds, Danny and Liu, Muyu and Yang, Yuehui and Ju, Yulan and Pai, Yun Suen and others. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies. 2022. &lt;a href=&#34;http://localhost:1313/papers/bib/he2022frisson.bib&#34;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;My overall goal: I want to give people tools&#xA;to foster inert talent and empower new skills.&lt;/p&gt;&#xA;&lt;p&gt;You can find up-to-date works on my &lt;a href=&#34;http://localhost:1313/publications/&#34;&gt;publication list&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;&#xA;&lt;div class=&#34;box&#34; &gt;&#xA;  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;    &lt;div class=&#34;img&#34;&gt;&#xA;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/images/eyewear.jpg&#34; alt=&#34;/images/eyewear.jpg&#34;/&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/eyewear.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;      &lt;figcaption&gt;&lt;h4&gt;Eyewear Computing&lt;/h4&gt;&#xA;      &lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&#xA;Smart Eyewear is the major enabling technology for application cases to enhance human senses.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&lt;div class=&#34;box&#34; &gt;&#xA;  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;    &lt;div class=&#34;img&#34;&gt;&#xA;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/images/sports.jpg&#34; alt=&#34;/images/sports.jpg&#34;/&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/sports.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;      &lt;figcaption&gt;&lt;h4&gt;Augmented Humans&lt;/h4&gt;&#xA;      &lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&#xA;My goal is to use technical systems to augment existing human abilities and to create new capabilities.&lt;/p&gt;&#xA;&lt;h3 id=&#34;selected-publications&#34;&gt;Selected Publications&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/papers/pdf/masai2017evaluation.pdf&#34;&gt;&lt;em&gt;Evaluation of Facial Expression Recognition by A Smart Eyewear for Facial Direction Changes, Repeatability and Positional Drift&lt;/em&gt;&lt;/a&gt;. Masai, Katsutoshi and Kunze, Kai and Sugiura, Yuta and Ogata, Masa and Suzuki, Katsuhiro and Nakamura, Fumihiko and Shimamura, Sho and Inami, Masahiko and Sugimoto, Maki. To be published in ACM Transactions on Interactive Intelligent Systems (TiiS). 2017. &lt;a href=&#34;papers/bib/masai2017evaluation.bib&#34;&gt;Bibtex&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Kai</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 16 Apr 2020 00:12:31 +0900</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;p&gt;Kai Kunze is a pioneer researcher in the HCI field, augmenting humans using technology. His most significant research contributions are in Eyewear Computing and Placement Robust Activity Recognition. His current research includes also Digitalizing Human Emotions and Amplifying Human Senses. Kai Kunze published over 254 papers at high profile conferences and journals (e.g. CHI, TOCHI, UIST, IEEE Computer)1. His publications are well-cited, with a total citation count of 4868 (H-index of 40), according to Google Scholar. He is actively involved in the research community, most notably as PC Co-Chair for TEI 2017, and Local Co-Chair of CHI 2021.&lt;/p&gt;</description>
     </item>
     <item>
       <title>blanks</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/blanks/</link>
       <pubDate>Thu, 16 Apr 2020 00:12:31 +0900</pubDate>
       <guid>https://kaikunze.de/blanks/</guid>
+=======
+      <link>http://localhost:1313/blanks/</link>
+      <pubDate>Thu, 16 Apr 2020 00:12:31 +0900</pubDate>
+      <guid>http://localhost:1313/blanks/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;h1 id=&#34;about&#34;&gt;about&lt;/h1&gt;&#xA;&lt;p&gt;&amp;lsquo;Blanks&amp;rsquo; is a simple application helping you to learn new&#xA;English words. It shows you word definition and gives 4 choices as answer.&#xA;Select one of the choices by dragging it on the hole in the paper.&#xA;If you are correct, a green hock is displayed.&#xA;If the selected word does not fit to the definition, you will see a red cross.&lt;/p&gt;&#xA;&lt;p&gt;The word definitions are from Wordnet. The application developer is not associated in any way with Wordnet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kai @ Miraikan Science Quest</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/post/2017-08-20-miraikan_sience_quest/</link>
       <pubDate>Sun, 20 Aug 2017 16:20:01 +0900</pubDate>
       <guid>https://kaikunze.de/post/2017-08-20-miraikan_sience_quest/</guid>
+=======
+      <link>http://localhost:1313/post/2017-08-20-miraikan_sience_quest/</link>
+      <pubDate>Sun, 20 Aug 2017 16:20:01 +0900</pubDate>
+      <guid>http://localhost:1313/post/2017-08-20-miraikan_sience_quest/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;p&gt;On the 9th August I had the opportunity to take part in a Miraikan Science Quest.&#xA;It&amp;rsquo;s an open event at Miraikan, the Science Museum in Tokyo, to encourage&#xA;a dialog between the public and researchers. This Science Quest was a premier,&#xA;as it was the first ever held in English ;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>JST Presto Project on Open Eyewear</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2016/12/26/jst-presto-project-on-open-eyewear/</link>
       <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2016/12/26/jst-presto-project-on-open-eyewear/</guid>
+=======
+      <link>http://localhost:1313/2016/12/26/jst-presto-project-on-open-eyewear/</link>
+      <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2016/12/26/jst-presto-project-on-open-eyewear/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;p&gt;I&amp;rsquo;m excited and happy to be one of few non-Japanese researchers to receive a &lt;a href=&#34;https://www.jst.go.jp/kisoken/presto/en/index.html&#34;&gt;JST Presto (Sakigake)&lt;/a&gt; project grant, on the Topic Open Collective Eyewear.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ISWC and UbiComp in Heidelberg</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2016/11/06/iswc-and-ubicomp-in-heidelberg/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2016/11/06/iswc-and-ubicomp-in-heidelberg/</guid>
+=======
+      <link>http://localhost:1313/2016/11/06/iswc-and-ubicomp-in-heidelberg/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2016/11/06/iswc-and-ubicomp-in-heidelberg/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;p&gt;It&amp;rsquo;s a strange feeling to have UbiComp and ISWC so close to my home.&#xA;Amazing organization and impressive research and meeting old friends.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kai at CHI 2016</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2016/05/08/kai-at-chi-2016/</link>
       <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2016/05/08/kai-at-chi-2016/</guid>
+=======
+      <link>http://localhost:1313/2016/05/08/kai-at-chi-2016/</link>
+      <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2016/05/08/kai-at-chi-2016/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;p&gt;back @ this year&amp;rsquo;s CHI 2016. We just have 3 Late Breaking Work submissions accepted and it seems they are currently for free download at the ACM website&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lessons from the Dagstuhl Seminar on Eyewear Computing</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</link>
       <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</guid>
+=======
+      <link>http://localhost:1313/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</link>
+      <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Looking back on UbiComp/ISWC in Osaka</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</link>
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</guid>
+=======
+      <link>http://localhost:1313/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</link>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Overall very pleasant and inspiring event, nice to see some old friends and meet new ones.&lt;/p&gt;</description>
     </item>
     <item>
       <title>After my first SIGGRAPH</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2015/09/14/after-my-first-siggraph/</link>
       <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/09/14/after-my-first-siggraph/</guid>
+=======
+      <link>http://localhost:1313/2015/09/14/after-my-first-siggraph/</link>
+      <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2015/09/14/after-my-first-siggraph/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Affective Wear- Recognizing facial expressions</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2015/08/18/-affective-wear/</link>
       <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/08/18/-affective-wear/</guid>
+=======
+      <link>http://localhost:1313/2015/08/18/-affective-wear/</link>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2015/08/18/-affective-wear/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;p&gt;Katsutoshi Masai, one of my Master students had the idea to track facial expressions using low cost sensors in glasses. Quite nice work ;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Super Human Sports: Augmenting Blind Soccer</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2015/02/18/my-first-blind-soccer-training/</link>
       <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/02/18/my-first-blind-soccer-training/</guid>
+=======
+      <link>http://localhost:1313/2015/02/18/my-first-blind-soccer-training/</link>
+      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2015/02/18/my-first-blind-soccer-training/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>I&amp;rsquo;m getting more and more fascinated by augmenting Blind Soccer. After 3 blind soccer trainings, we had now a couple of meetings to discuss how to extend and enhance the play experience.</description>
     </item>
     <item>
       <title>31C3 Talk Slides: Eye Wear Computing</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2015/02/09/31c3-talk-slides-eye-wear-computing/</link>
       <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/02/09/31c3-talk-slides-eye-wear-computing/</guid>
+=======
+      <link>http://localhost:1313/2015/02/09/31c3-talk-slides-eye-wear-computing/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2015/02/09/31c3-talk-slides-eye-wear-computing/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Here are the video and slides from my talk. Hope you like it. Please if you have some critique write me a mail.</description>
     </item>
     <item>
       <title>31C3 Aftermath</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2015/01/17/31c3-aftermath/</link>
       <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/01/17/31c3-aftermath/</guid>
+=======
+      <link>http://localhost:1313/2015/01/17/31c3-aftermath/</link>
+      <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2015/01/17/31c3-aftermath/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Finally, I have a little time to write about the congress. As the last couple of years, I attended the 31st Chaos Communication Congress between Christmas and New Year.</description>
     </item>
     <item>
       <title>Eye-Wear Computing</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/11/30/eyewear-computing/</link>
       <pubDate>Sun, 30 Nov 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/11/30/eyewear-computing/</guid>
+=======
+      <link>http://localhost:1313/2014/11/30/eyewear-computing/</link>
+      <pubDate>Sun, 30 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/11/30/eyewear-computing/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Smart glasses and, in general, eyewear are a fairly novel device class with a lot of possibilities for unobtrusive activity tracking. That&amp;rsquo;s why I&amp;rsquo;m very excited to be working in the Team of Masahiko Inami Sensei at Keio Media Design to do research on J!NS MEME.</description>
     </item>
     <item>
       <title>Google Glass for Older Adults</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/08/24/google-glass-for-eldery/</link>
       <pubDate>Sun, 24 Aug 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/08/24/google-glass-for-eldery/</guid>
+=======
+      <link>http://localhost:1313/2014/08/24/google-glass-for-eldery/</link>
+      <pubDate>Sun, 24 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/08/24/google-glass-for-eldery/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>As the first article about my grandparents using Google Glass received a lot of interest, I decided to delve a little bit more into the topic.</description>
     </item>
     <item>
       <title>Looking forward to ISWC/Ubicomp 2014</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/08/10/looking-forward-to-iswcubicomp-2014/</link>
       <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/08/10/looking-forward-to-iswcubicomp-2014/</guid>
+=======
+      <link>http://localhost:1313/2014/08/10/looking-forward-to-iswcubicomp-2014/</link>
+      <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/08/10/looking-forward-to-iswcubicomp-2014/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>With roughly around 1 month to go, we are busy with demo preparations etc.</description>
     </item>
     <item>
       <title>Augmented Human 2014</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/03/19/augmented-human-2014/</link>
       <pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/03/19/augmented-human-2014/</guid>
+=======
+      <link>http://localhost:1313/2014/03/19/augmented-human-2014/</link>
+      <pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/03/19/augmented-human-2014/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Innovative research, that makes you first laugh and then think. The conference develops into one of my favorite venues.</description>
     </item>
     <item>
       <title>Beyond FuturICT</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/03/05/Attending-the-symposium-on-service-systems-science/</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/03/05/Attending-the-symposium-on-service-systems-science/</guid>
+=======
+      <link>http://localhost:1313/2014/03/05/Attending-the-symposium-on-service-systems-science/</link>
+      <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/03/05/Attending-the-symposium-on-service-systems-science/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Attending the International Symposium on Service Systems Science in Tokyo, I got a glimpse on how the progress and the next steps of FuturICT &amp;hellip;</description>
     </item>
     <item>
       <title>Glass Talk at Hacker News Kansai</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/02/13/glass-talk-at-hacker-news-kansai/</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/02/13/glass-talk-at-hacker-news-kansai/</guid>
+=======
+      <link>http://localhost:1313/2014/02/13/glass-talk-at-hacker-news-kansai/</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/02/13/glass-talk-at-hacker-news-kansai/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Introducing Google Glass to Hacker News Kansai Community was a lot of fun.</description>
     </item>
     <item>
       <title>Looking back at 30C3</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/01/28/looking-back-at-30c3/</link>
       <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/01/28/looking-back-at-30c3/</guid>
+=======
+      <link>http://localhost:1313/2014/01/28/looking-back-at-30c3/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/01/28/looking-back-at-30c3/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Impressions and Talk Recommendations. Finally, a couple of days with normal people &amp;hellip;</description>
     </item>
     <item>
       <title>30C3 Toward a Cognitive Quantified Self</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/12/28/30c3-toward-a-cognitive-quantified-self/</link>
       <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/12/28/30c3-toward-a-cognitive-quantified-self/</guid>
+=======
+      <link>http://localhost:1313/2013/12/28/30c3-toward-a-cognitive-quantified-self/</link>
+      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/12/28/30c3-toward-a-cognitive-quantified-self/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Discussing activity recognition for the Mind and its potential applications.</description>
     </item>
     <item>
       <title>Hacking Glass</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/12/22/hacking-glass/</link>
       <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/12/22/hacking-glass/</guid>
+=======
+      <link>http://localhost:1313/2013/12/22/hacking-glass/</link>
+      <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/12/22/hacking-glass/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>So I got my hands on another Glass device and can now play with it a bit longer.</description>
     </item>
     <item>
       <title>Bits and Bytes instead of a Bookshelf</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/</link>
       <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/</guid>
+=======
+      <link>http://localhost:1313/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/</link>
+      <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>An interview made me wonder about how reading habits are changing and how we will narrate stories in the future.</description>
     </item>
     <item>
       <title>Amazing Okinawa - Attending the ASVAI Workshop</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/11/05/amazing-okinawa-attending-the-asvai-workshop/</link>
       <pubDate>Tue, 05 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/11/05/amazing-okinawa-attending-the-asvai-workshop/</guid>
+=======
+      <link>http://localhost:1313/2013/11/05/amazing-okinawa-attending-the-asvai-workshop/</link>
+      <pubDate>Tue, 05 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/11/05/amazing-okinawa-attending-the-asvai-workshop/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Cool research discussions at a nice location. The workshop was perfect fit to my research interests.</description>
     </item>
     <item>
       <title>A Week with Glass</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/09/20/a-week-with-glass/</link>
       <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/09/20/a-week-with-glass/</guid>
+=======
+      <link>http://localhost:1313/2013/09/20/a-week-with-glass/</link>
+      <pubDate>Fri, 20 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/09/20/a-week-with-glass/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>How my grandparents interact with GLASS, showed me that Google seems to be onto something.</description>
     </item>
     <item>
       <title>Ubicomp ISWC Impressions</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</link>
       <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</guid>
+=======
+      <link>http://localhost:1313/2013/09/15/ubicom-iswc-impressions/</link>
+      <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/09/15/ubicom-iswc-impressions/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Usually, I&amp;rsquo;m not such a big fan of conference openings, &amp;hellip;</description>
     </item>
     <item>
       <title>Excited about Ubicomp and ISWC</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/09/06/excited-about-ubicomp-and-iswc/</link>
       <pubDate>Fri, 06 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/09/06/excited-about-ubicomp-and-iswc/</guid>
+=======
+      <link>http://localhost:1313/2013/09/06/excited-about-ubicomp-and-iswc/</link>
+      <pubDate>Fri, 06 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/09/06/excited-about-ubicomp-and-iswc/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>This year I&amp;rsquo;m really looking forward to Ubicomp and ISWC, it&amp;rsquo;s the first time that &amp;hellip;</description>
     </item>
     <item>
       <title>ICDAR 2013 Talk Slides Online</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/08/26/icdar-2013-talk-slides-online/</link>
       <pubDate>Mon, 26 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/08/26/icdar-2013-talk-slides-online/</guid>
+=======
+      <link>http://localhost:1313/2013/08/26/icdar-2013-talk-slides-online/</link>
+      <pubDate>Mon, 26 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/08/26/icdar-2013-talk-slides-online/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>The slides for my two talks today are now online.</description>
     </item>
     <item>
       <title>Recognizing Reading Activities</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/08/23/recognizing-reading-activities/</link>
       <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/08/23/recognizing-reading-activities/</guid>
+=======
+      <link>http://localhost:1313/2013/08/23/recognizing-reading-activities/</link>
+      <pubDate>Fri, 23 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/08/23/recognizing-reading-activities/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Just finished my keynote talk at CBDAR, a Workshop at ICDAR</description>
     </item>
     <item>
       <title>Wordometer and Document Analysis using Pervasive Sensing</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</link>
       <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</guid>
+=======
+      <link>http://localhost:1313/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</link>
+      <pubDate>Tue, 20 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/08/20/wordometer-and-document-analysis-using-pervasive-sensing/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>In the last couple of months, I got more and more interested in learning, especially reading.</description>
     </item>
     <item>
       <title>Kai @ CHI</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/04/29/kai-@-chi/</link>
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/04/29/kai-@-chi/</guid>
+=======
+      <link>http://localhost:1313/2013/04/29/kai-@-chi/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/04/29/kai-@-chi/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>So it&amp;rsquo;s my first time at CHI. Pretty amazing so far &amp;hellip;</description>
     </item>
     <item>
       <title>Activity Recognition Dagstuhl Report Online</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</link>
       <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/</guid>
+=======
+      <link>http://localhost:1313/2013/04/24/ar-dagstuhl-report-online/</link>
+      <pubDate>Wed, 24 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/04/24/ar-dagstuhl-report-online/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>If you wonder, &amp;hellip;</description>
     </item>
     <item>
       <title>Some of my favorites from the 29c3 recordings</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/02/06/some-of-my-favorites-from-the-29c3-recordings/</link>
       <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/02/06/some-of-my-favorites-from-the-29c3-recordings/</guid>
+=======
+      <link>http://localhost:1313/2013/02/06/some-of-my-favorites-from-the-29c3-recordings/</link>
+      <pubDate>Wed, 06 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/02/06/some-of-my-favorites-from-the-29c3-recordings/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Over the last weeks, I finally got around to watch some of the &amp;hellip;</description>
     </item>
     <item>
       <title>ACM Multimedia 2012 Main Conference Notes</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</guid>
+=======
+      <link>http://localhost:1313/2012/10/31/acm-multimedia-2012-day-2-notes/</link>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2012/10/31/acm-multimedia-2012-day-2-notes/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Here are some notes about ACM Multimedia, in random order.</description>
     </item>
     <item>
       <title>ACM Multimedia 2012 Tutorials and Workshops</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</link>
       <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</guid>
+=======
+      <link>http://localhost:1313/2012/10/29/acm-multimedia-2012-day-1-notes/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2012/10/29/acm-multimedia-2012-day-1-notes/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>I attended the following Tutorials &amp;hellip;</description>
     </item>
     <item>
       <title>Laughing Faces App in the AppStore</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2012/08/30/laughing-faces-app-in-the-appstore/</link>
       <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2012/08/30/laughing-faces-app-in-the-appstore/</guid>
+=======
+      <link>http://localhost:1313/2012/08/30/laughing-faces-app-in-the-appstore/</link>
+      <pubDate>Thu, 30 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2012/08/30/laughing-faces-app-in-the-appstore/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Over the last couple of weeks, I was getting settled in my new job.</description>
     </item>
     <item>
       <title>AAAI activity context workshop notes</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</link>
       <pubDate>Thu, 26 Jul 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2012/07/26/aaai-activity-context-workshop-notes/</guid>
+=======
+      <link>http://localhost:1313/2012/07/26/aaai-activity-context-workshop-notes/</link>
+      <pubDate>Thu, 26 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2012/07/26/aaai-activity-context-workshop-notes/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>The keynote How to make Face Recognition work (pdf) by Ashis Kapoor &amp;hellip;</description>
     </item>
     <item>
       <title>Towards Dynamically Configurable Context Recognition Systems</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2012/07/09/draft-version-of-aaai-workshop-paper-online/</link>
       <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2012/07/09/draft-version-of-aaai-workshop-paper-online/</guid>
+=======
+      <link>http://localhost:1313/2012/07/09/draft-version-of-aaai-workshop-paper-online/</link>
+      <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2012/07/09/draft-version-of-aaai-workshop-paper-online/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Here&amp;rsquo;s a draft version of my publication for the AAI workshop &amp;hellip;</description>
     </item>
     <item>
       <title>Some of my publications are online</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2012/07/08/some-of-my-publications-are-online/</link>
       <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2012/07/08/some-of-my-publications-are-online/</guid>
+=======
+      <link>http://localhost:1313/2012/07/08/some-of-my-publications-are-online/</link>
+      <pubDate>Sun, 08 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2012/07/08/some-of-my-publications-are-online/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>I&amp;rsquo;m slowly uploading a couple of references and the pdf draft versions of them.</description>
     </item>
     <item>
       <title>Compensating for On-body Placement Effects in Activity Recognition</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/post/2012-07-07-phd-thesis-sources-on-github/</link>
       <pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/post/2012-07-07-phd-thesis-sources-on-github/</guid>
@@ -342,6 +626,18 @@
       <link>https://kaikunze.de/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</link>
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</guid>
+=======
+      <link>http://localhost:1313/post/2012-07-07-phd-thesis-sources-on-github/</link>
+      <pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2012-07-07-phd-thesis-sources-on-github/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;&#xA;&lt;div class=&#34;box&#34; &gt;&#xA;  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;    &lt;div class=&#34;img&#34;&gt;&#xA;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/images/2012-thesis.jpg&#34; alt=&#34;/images/2012-thesis.jpg&#34;/&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;a href=&#34;http://localhost:1313/images/2012-thesis.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Finally finished my phD. last year at Passau University.&#xA;phD. Advisor Prof. Dr. Paul Lukowicz, second advisor Prof. Dr. Hans Gellersen.&#xA;The thesis is already published at &lt;a href=&#34;http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/&#34;&gt;Opus Bayern&lt;/a&gt;.&#xA;The pdf is open access, so feel free to read it (careful it&amp;rsquo;s a 19 MB pdf):&#xA;&lt;a href=&#34;http://www.opus-bayern.de/uni-passau/volltexte/2012/2611/pdf/kunze_kai.pdf&#34;&gt;Compensating for On-Body Placement Effects in Activity Recognition as pdf&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;However, the sources were not available.&#xA;Finally, I got around to push the &lt;a href=&#34;http://github.com/kkai/phdthesis&#34;&gt;latex sources&#xA;of my dissertation&lt;/a&gt; up to github.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Device Motion in Html/Javascript</title>
+      <link>http://localhost:1313/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;p&gt;A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red&#xA;cube is shown on the screen (placed between randomly generated cubes).&#xA;The transparent area around the cube changes depending on how strong&#xA;one shakes the phone.&lt;/p&gt;</description>
     </item>
   </channel>

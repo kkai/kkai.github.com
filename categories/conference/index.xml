@@ -2,31 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference on Kai Kunze</title>
-    <link>https://kaikunze.de/categories/conference/</link>
+    <link>http://localhost:1313/categories/conference/</link>
     <description>Recent content in Conference on Kai Kunze</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Sep 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kaikunze.de/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/conference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ubicomp ISWC Impressions</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</link>
       <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/09/15/ubicom-iswc-impressions/</guid>
+=======
+      <link>http://localhost:1313/2013/09/15/ubicom-iswc-impressions/</link>
+      <pubDate>Sun, 15 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/09/15/ubicom-iswc-impressions/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Usually, I&amp;rsquo;m not such a big fan of conference openings, &amp;hellip;</description>
     </item>
     <item>
       <title>Excited about Ubicomp and ISWC</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/09/06/excited-about-ubicomp-and-iswc/</link>
       <pubDate>Fri, 06 Sep 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/09/06/excited-about-ubicomp-and-iswc/</guid>
+=======
+      <link>http://localhost:1313/2013/09/06/excited-about-ubicomp-and-iswc/</link>
+      <pubDate>Fri, 06 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/09/06/excited-about-ubicomp-and-iswc/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>This year I&amp;rsquo;m really looking forward to Ubicomp and ISWC, it&amp;rsquo;s the first time that &amp;hellip;</description>
     </item>
     <item>
       <title>Kai @ CHI</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/04/29/kai-@-chi/</link>
       <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/04/29/kai-@-chi/</guid>
+=======
+      <link>http://localhost:1313/2013/04/29/kai-@-chi/</link>
+      <pubDate>Mon, 29 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/04/29/kai-@-chi/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>So it&amp;rsquo;s my first time at CHI. Pretty amazing so far &amp;hellip;</description>
     </item>
   </channel>

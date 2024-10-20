@@ -2,157 +2,283 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kai Kunze</title>
-    <link>https://kaikunze.de/categories/posts/</link>
+    <link>http://localhost:1313/categories/posts/</link>
     <description>Recent content in Posts on Kai Kunze</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Dec 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kaikunze.de/categories/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JST Presto Project on Open Eyewear</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2016/12/26/jst-presto-project-on-open-eyewear/</link>
       <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2016/12/26/jst-presto-project-on-open-eyewear/</guid>
+=======
+      <link>http://localhost:1313/2016/12/26/jst-presto-project-on-open-eyewear/</link>
+      <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2016/12/26/jst-presto-project-on-open-eyewear/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;p&gt;I&amp;rsquo;m excited and happy to be one of few non-Japanese researchers to receive a &lt;a href=&#34;https://www.jst.go.jp/kisoken/presto/en/index.html&#34;&gt;JST Presto (Sakigake)&lt;/a&gt; project grant, on the Topic Open Collective Eyewear.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ISWC and UbiComp in Heidelberg</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2016/11/06/iswc-and-ubicomp-in-heidelberg/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2016/11/06/iswc-and-ubicomp-in-heidelberg/</guid>
+=======
+      <link>http://localhost:1313/2016/11/06/iswc-and-ubicomp-in-heidelberg/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2016/11/06/iswc-and-ubicomp-in-heidelberg/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;p&gt;It&amp;rsquo;s a strange feeling to have UbiComp and ISWC so close to my home.&#xA;Amazing organization and impressive research and meeting old friends.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kai at CHI 2016</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2016/05/08/kai-at-chi-2016/</link>
       <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2016/05/08/kai-at-chi-2016/</guid>
+=======
+      <link>http://localhost:1313/2016/05/08/kai-at-chi-2016/</link>
+      <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2016/05/08/kai-at-chi-2016/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;p&gt;back @ this year&amp;rsquo;s CHI 2016. We just have 3 Late Breaking Work submissions accepted and it seems they are currently for free download at the ACM website&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lessons from the Dagstuhl Seminar on Eyewear Computing</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</link>
       <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</guid>
+=======
+      <link>http://localhost:1313/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</link>
+      <pubDate>Sat, 07 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2016/05/07/dagstuhl-seminar-on-eyewear-computing/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Looking back on UbiComp/ISWC in Osaka</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</link>
       <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</guid>
+=======
+      <link>http://localhost:1313/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</link>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2015/09/28/looking-back-on-ubicompiswc-in-osaka/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Overall very pleasant and inspiring event, nice to see some old friends and meet new ones.&lt;/p&gt;</description>
     </item>
     <item>
       <title>After my first SIGGRAPH</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2015/09/14/after-my-first-siggraph/</link>
       <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/09/14/after-my-first-siggraph/</guid>
+=======
+      <link>http://localhost:1313/2015/09/14/after-my-first-siggraph/</link>
+      <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2015/09/14/after-my-first-siggraph/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title>Affective Wear- Recognizing facial expressions</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2015/08/18/-affective-wear/</link>
       <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/08/18/-affective-wear/</guid>
+=======
+      <link>http://localhost:1313/2015/08/18/-affective-wear/</link>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2015/08/18/-affective-wear/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;p&gt;Katsutoshi Masai, one of my Master students had the idea to track facial expressions using low cost sensors in glasses. Quite nice work ;)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Super Human Sports: Augmenting Blind Soccer</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2015/02/18/my-first-blind-soccer-training/</link>
       <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/02/18/my-first-blind-soccer-training/</guid>
+=======
+      <link>http://localhost:1313/2015/02/18/my-first-blind-soccer-training/</link>
+      <pubDate>Wed, 18 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2015/02/18/my-first-blind-soccer-training/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>I&amp;rsquo;m getting more and more fascinated by augmenting Blind Soccer. After 3 blind soccer trainings, we had now a couple of meetings to discuss how to extend and enhance the play experience.</description>
     </item>
     <item>
       <title>31C3 Talk Slides: Eye Wear Computing</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2015/02/09/31c3-talk-slides-eye-wear-computing/</link>
       <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/02/09/31c3-talk-slides-eye-wear-computing/</guid>
+=======
+      <link>http://localhost:1313/2015/02/09/31c3-talk-slides-eye-wear-computing/</link>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2015/02/09/31c3-talk-slides-eye-wear-computing/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Here are the video and slides from my talk. Hope you like it. Please if you have some critique write me a mail.</description>
     </item>
     <item>
       <title>31C3 Aftermath</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2015/01/17/31c3-aftermath/</link>
       <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2015/01/17/31c3-aftermath/</guid>
+=======
+      <link>http://localhost:1313/2015/01/17/31c3-aftermath/</link>
+      <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2015/01/17/31c3-aftermath/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Finally, I have a little time to write about the congress. As the last couple of years, I attended the 31st Chaos Communication Congress between Christmas and New Year.</description>
     </item>
     <item>
       <title>Eye-Wear Computing</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/11/30/eyewear-computing/</link>
       <pubDate>Sun, 30 Nov 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/11/30/eyewear-computing/</guid>
+=======
+      <link>http://localhost:1313/2014/11/30/eyewear-computing/</link>
+      <pubDate>Sun, 30 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/11/30/eyewear-computing/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Smart glasses and, in general, eyewear are a fairly novel device class with a lot of possibilities for unobtrusive activity tracking. That&amp;rsquo;s why I&amp;rsquo;m very excited to be working in the Team of Masahiko Inami Sensei at Keio Media Design to do research on J!NS MEME.</description>
     </item>
     <item>
       <title>Google Glass for Older Adults</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/08/24/google-glass-for-eldery/</link>
       <pubDate>Sun, 24 Aug 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/08/24/google-glass-for-eldery/</guid>
+=======
+      <link>http://localhost:1313/2014/08/24/google-glass-for-eldery/</link>
+      <pubDate>Sun, 24 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/08/24/google-glass-for-eldery/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>As the first article about my grandparents using Google Glass received a lot of interest, I decided to delve a little bit more into the topic.</description>
     </item>
     <item>
       <title>Looking forward to ISWC/Ubicomp 2014</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/08/10/looking-forward-to-iswcubicomp-2014/</link>
       <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/08/10/looking-forward-to-iswcubicomp-2014/</guid>
+=======
+      <link>http://localhost:1313/2014/08/10/looking-forward-to-iswcubicomp-2014/</link>
+      <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/08/10/looking-forward-to-iswcubicomp-2014/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>With roughly around 1 month to go, we are busy with demo preparations etc.</description>
     </item>
     <item>
       <title>Augmented Human 2014</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/03/19/augmented-human-2014/</link>
       <pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/03/19/augmented-human-2014/</guid>
+=======
+      <link>http://localhost:1313/2014/03/19/augmented-human-2014/</link>
+      <pubDate>Wed, 19 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/03/19/augmented-human-2014/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Innovative research, that makes you first laugh and then think. The conference develops into one of my favorite venues.</description>
     </item>
     <item>
       <title>Beyond FuturICT</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/03/05/Attending-the-symposium-on-service-systems-science/</link>
       <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/03/05/Attending-the-symposium-on-service-systems-science/</guid>
+=======
+      <link>http://localhost:1313/2014/03/05/Attending-the-symposium-on-service-systems-science/</link>
+      <pubDate>Wed, 05 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/03/05/Attending-the-symposium-on-service-systems-science/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Attending the International Symposium on Service Systems Science in Tokyo, I got a glimpse on how the progress and the next steps of FuturICT &amp;hellip;</description>
     </item>
     <item>
       <title>Glass Talk at Hacker News Kansai</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/02/13/glass-talk-at-hacker-news-kansai/</link>
       <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/02/13/glass-talk-at-hacker-news-kansai/</guid>
+=======
+      <link>http://localhost:1313/2014/02/13/glass-talk-at-hacker-news-kansai/</link>
+      <pubDate>Thu, 13 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/02/13/glass-talk-at-hacker-news-kansai/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Introducing Google Glass to Hacker News Kansai Community was a lot of fun.</description>
     </item>
     <item>
       <title>Looking back at 30C3</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2014/01/28/looking-back-at-30c3/</link>
       <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2014/01/28/looking-back-at-30c3/</guid>
+=======
+      <link>http://localhost:1313/2014/01/28/looking-back-at-30c3/</link>
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2014/01/28/looking-back-at-30c3/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Impressions and Talk Recommendations. Finally, a couple of days with normal people &amp;hellip;</description>
     </item>
     <item>
       <title>30C3 Toward a Cognitive Quantified Self</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/12/28/30c3-toward-a-cognitive-quantified-self/</link>
       <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/12/28/30c3-toward-a-cognitive-quantified-self/</guid>
+=======
+      <link>http://localhost:1313/2013/12/28/30c3-toward-a-cognitive-quantified-self/</link>
+      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/12/28/30c3-toward-a-cognitive-quantified-self/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Discussing activity recognition for the Mind and its potential applications.</description>
     </item>
     <item>
       <title>Hacking Glass</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/12/22/hacking-glass/</link>
       <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/12/22/hacking-glass/</guid>
+=======
+      <link>http://localhost:1313/2013/12/22/hacking-glass/</link>
+      <pubDate>Sun, 22 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/12/22/hacking-glass/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>So I got my hands on another Glass device and can now play with it a bit longer.</description>
     </item>
     <item>
       <title>Bits and Bytes instead of a Bookshelf</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/</link>
       <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/</guid>
+=======
+      <link>http://localhost:1313/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/</link>
+      <pubDate>Fri, 29 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>An interview made me wonder about how reading habits are changing and how we will narrate stories in the future.</description>
     </item>
     <item>
       <title>Amazing Okinawa - Attending the ASVAI Workshop</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2013/11/05/amazing-okinawa-attending-the-asvai-workshop/</link>
       <pubDate>Tue, 05 Nov 2013 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2013/11/05/amazing-okinawa-attending-the-asvai-workshop/</guid>
+=======
+      <link>http://localhost:1313/2013/11/05/amazing-okinawa-attending-the-asvai-workshop/</link>
+      <pubDate>Tue, 05 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2013/11/05/amazing-okinawa-attending-the-asvai-workshop/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Cool research discussions at a nice location. The workshop was perfect fit to my research interests.</description>
     </item>
   </channel>

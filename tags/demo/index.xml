@@ -2,17 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo on Kai Kunze</title>
-    <link>https://kaikunze.de/tags/demo/</link>
+    <link>http://localhost:1313/tags/demo/</link>
     <description>Recent content in Demo on Kai Kunze</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Jun 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kaikunze.de/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Device Motion in Html/Javascript</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</link>
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</guid>
+=======
+      <link>http://localhost:1313/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>&lt;p&gt;A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red&#xA;cube is shown on the screen (placed between randomly generated cubes).&#xA;The transparent area around the cube changes depending on how strong&#xA;one shakes the phone.&lt;/p&gt;</description>
     </item>
   </channel>

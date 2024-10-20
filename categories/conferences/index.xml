@@ -2,24 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conferences on Kai Kunze</title>
-    <link>https://kaikunze.de/categories/conferences/</link>
+    <link>http://localhost:1313/categories/conferences/</link>
     <description>Recent content in Conferences on Kai Kunze</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Oct 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kaikunze.de/categories/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/conferences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ACM Multimedia 2012 Main Conference Notes</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</link>
       <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2012/10/31/acm-multimedia-2012-day-2-notes/</guid>
+=======
+      <link>http://localhost:1313/2012/10/31/acm-multimedia-2012-day-2-notes/</link>
+      <pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2012/10/31/acm-multimedia-2012-day-2-notes/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>Here are some notes about ACM Multimedia, in random order.</description>
     </item>
     <item>
       <title>ACM Multimedia 2012 Tutorials and Workshops</title>
+<<<<<<< HEAD
       <link>https://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</link>
       <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/2012/10/29/acm-multimedia-2012-day-1-notes/</guid>
+=======
+      <link>http://localhost:1313/2012/10/29/acm-multimedia-2012-day-1-notes/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2012/10/29/acm-multimedia-2012-day-1-notes/</guid>
+>>>>>>> f0c6135 (refactor for hugo changes)
       <description>I attended the following Tutorials &amp;hellip;</description>
     </item>
   </channel>
