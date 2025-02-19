@@ -8,8 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <title>Device Motion in Html/Javascript - Kai Kunze</title>
-  <meta name="description" content="A simple demo">
-  <meta name="author" content="Kai Kunze"/><script type="application/ld+json">
+  <meta name="description" content="A simple demo"><script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "WebSite",
@@ -54,12 +53,12 @@
   "@context": "http://schema.org",
   "@type": "Article",
   "author": {
-    "name" : "Kai Kunze"
+    "name" : ""
   },
   "headline": "Device Motion in Html\/Javascript",
-  "description" : "A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red cube is shown on the screen (placed between randomly generated cubes). The transparent area around the cube changes depending on how strong one shakes the phone.\n",
+  "description" : "This project demonstrates real-time accelerometer data streaming from mobile devices using WebSocket technology. The system combines a Node.js web server with a Processing.org visualization interface. When a mobile device connects to the server through its browser, the visualization displays a distinctive red cube among randomly positioned background cubes. The cube features a dynamic transparent aura that responds to the intensity of the device\u0026rsquo;s movement - the more vigorously you shake your phone, the more pronounced the visual effect becomes.\n",
   "inLanguage" : "en",
-  "wordCount":  116 ,
+  "wordCount":  202 ,
   "datePublished" : "2012-06-18T00:00:00",
   "dateModified" : "2012-06-18T00:00:00",
   "image" : "https:\/\/kaikunze.de\/img\/avatar-icon-1.png",
@@ -89,10 +88,8 @@
   <meta name="twitter:description" content="A simple demo">
   <meta name="twitter:image" content="https://kaikunze.de/img/avatar-icon-1.png" />
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@_kai_ku" />
-  <meta name="twitter:creator" content="@_kai_ku" />
   <link href='https://kaikunze.de/img/favicon.ico' rel='icon' type='image/x-icon'/>
-  <meta name="generator" content="Hugo 0.135.0">
+  <meta name="generator" content="Hugo 0.143.1">
   <link rel="alternate" href="https://kaikunze.de/index.xml" type="application/rss+xml" title="Kai Kunze"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"><link rel="stylesheet" href="https://kaikunze.de/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
@@ -251,7 +248,7 @@
     &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;1&nbsp;minutes
   
   
-    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;116&nbsp;words
+    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;202&nbsp;words
   
   
   
@@ -272,19 +269,20 @@
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        <p>A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red
-cube is shown on the screen (placed between randomly generated cubes).
-The transparent area around the cube changes depending on how strong
-one shakes the phone.</p>
+        <p>This project demonstrates real-time accelerometer data streaming from mobile devices using WebSocket technology. The system combines a Node.js web server with a Processing.org visualization interface. When a mobile device connects to the server through its browser, the visualization displays a distinctive red cube among randomly positioned background cubes. The cube features a dynamic transparent aura that responds to the intensity of the device&rsquo;s movement - the more vigorously you shake your phone, the more pronounced the visual effect becomes.</p>
+<p>The implementation relies purely on HTML and JavaScript, making it both lightweight and accessible. This creates an intuitive bridge between physical movement and digital visualization, effectively demonstrating the potential of mobile sensors in interactive web applications.</p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://player.vimeo.com/video/45626605" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Using Device Motion" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 <p><a href="http://vimeo.com/45626605">Visualization based on mobile phone data</a> from <a href="http://vimeo.com/user8093378">Kai Kunze</a>.</p>
-<p>You can get the code from my <a href="https://github.com/kkai/devicemotion-demo">github page</a></p>
-<p>It&rsquo;s based on these tutorials and sample code:</p>
-<p><a href="http://martinsikora.com/nodejs-and-websocket-simple-chat-tutorial">a simple chat server node.js tutorial</a></p>
-<p><a href="http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/">3d css cube</a></p>
-<p><a href="http://openprocessing.org/sketch/19216">3d cube world</a></p>
+<p>The complete source code is available on my GitHub repository: <a href="https://github.com/kkai/devicemotion-demo">devicemotion-demo</a>
+This project builds upon several excellent resources:</p>
+<ul>
+<li>A Node.js WebSocket tutorial demonstrating chat server implementation by Martin Sikora: <a href="http://martinsikora.com/nodejs-and-websocket-simple-chat-tutorial">a simple chat server node.js tutorial</a></li>
+<li>Paul Hayes&rsquo; guide on creating animated 3D cubes using CSS3 transforms: <a href="http://www.paulrhayes.com/2009-07/animated-css3-cube-interface-using-3d-transforms/">3d css cube</a></li>
+<li>The &ldquo;3D Cube World&rdquo; Processing sketch that inspired the visualization: <a href="http://openprocessing.org/sketch/19216">3d cube world</a></li>
+</ul>
+<p>These resources provided the foundational techniques that were combined and adapted to create this interactive demonstration.</p>
 
 
         
@@ -307,7 +305,7 @@ one shakes the phone.</p>
     <ul class="share">
       
       <li>
-        <a href="//twitter.com/share?url=https%3a%2f%2fkaikunze.de%2fpost%2f2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript%2f&amp;text=Device%20Motion%20in%20Html%2fJavascript&amp;via=_kai_ku" target="_blank" title="Share on Twitter">
+        <a href="//twitter.com/share?url=https%3a%2f%2fkaikunze.de%2fpost%2f2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript%2f&amp;text=Device%20Motion%20in%20Html%2fJavascript&amp;via=" target="_blank" title="Share on Twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -385,54 +383,6 @@ one shakes the phone.</p>
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
           
-              <li>
-                <a href="mailto:kai.kunze@pm.me" title="Email me">
-                  <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/kai.kunze" title="Facebook">
-                  <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="https://github.com/kkai" title="GitHub">
-                  <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="https://twitter.com/_kai_ku" title="Twitter">
-                  <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="https://linkedin.com/in/kaikunze" title="LinkedIn">
-                  <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-              <li>
-                <a href="https://www.instagram.com/kaikunze" title="Instagram">
-                  <span class="fa-stack fa-lg">
-                    <i class="fas fa-circle fa-stack-2x"></i>
-                    <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
           
           <li>
             <a href="" title="RSS">
@@ -445,10 +395,6 @@ one shakes the phone.</p>
           
         </ul>
         <p class="credits copyright text-muted">
-          
-            
-              <a href="kaikunze.de">Kai Kunze</a>
-            
           
 
           &nbsp;&bull;&nbsp;&copy;

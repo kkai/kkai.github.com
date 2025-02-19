@@ -328,7 +328,7 @@
       <link>https://kaikunze.de/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</link>
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0000</pubDate>
       <guid>https://kaikunze.de/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</guid>
-      <description>&lt;p&gt;A while ago, I built a simple demonstration on how to stream accelerometer data from a mobile device over websockets to a server just using html and javascript. It consists of a nodejs web server and a processing.org visualization. As soon as a mobile browser connects to the server a new red&#xA;cube is shown on the screen (placed between randomly generated cubes).&#xA;The transparent area around the cube changes depending on how strong&#xA;one shakes the phone.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project demonstrates real-time accelerometer data streaming from mobile devices using WebSocket technology. The system combines a Node.js web server with a Processing.org visualization interface. When a mobile device connects to the server through its browser, the visualization displays a distinctive red cube among randomly positioned background cubes. The cube features a dynamic transparent aura that responds to the intensity of the device&amp;rsquo;s movement - the more vigorously you shake your phone, the more pronounced the visual effect becomes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
