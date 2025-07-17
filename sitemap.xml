@@ -137,10 +137,10 @@
     <loc>https://kaikunze.de/categories/research/</loc>
     <lastmod>2013-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kaikunze.de/tags/conference/</loc>
+    <loc>https://kaikunze.de/categories/conference/</loc>
     <lastmod>2013-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kaikunze.de/categories/conference/</loc>
+    <loc>https://kaikunze.de/tags/conference/</loc>
     <lastmod>2013-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kaikunze.de/tags/research/</loc>
@@ -179,6 +179,9 @@
     <loc>https://kaikunze.de/tags/dagstuhl/</loc>
     <lastmod>2013-04-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://kaikunze.de/tags/hacking/</loc>
+    <lastmod>2013-02-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kaikunze.de/2013/02/06/some-of-my-favorites-from-the-29c3-recordings/</loc>
     <lastmod>2013-02-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -188,10 +191,10 @@
     <loc>https://kaikunze.de/tags/acmmm2012/</loc>
     <lastmod>2012-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kaikunze.de/tags/conferences/</loc>
+    <loc>https://kaikunze.de/categories/conferences/</loc>
     <lastmod>2012-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kaikunze.de/categories/conferences/</loc>
+    <loc>https://kaikunze.de/tags/conferences/</loc>
     <lastmod>2012-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kaikunze.de/tags/notes/</loc>
@@ -234,9 +237,6 @@
     <lastmod>2012-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kaikunze.de/post/2012-06-18-using-device-motion-from-a-mobile-device-in-htmljavascript/</loc>
-    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kaikunze.de/tags/hacking/</loc>
     <lastmod>2012-06-18T00:00:00+00:00</lastmod>
   </url>
 </urlset>
