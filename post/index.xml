@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Kai Kunze</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Oct 2024 14:08:46 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 14:08:46 +0900</lastBuildDate>
     <atom:link href="https://kaikunze.de/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuddle Fish</title>
+      <link>https://kaikunze.de/post/2025-11.18-cuddle-fish/</link>
+      <pubDate>Tue, 18 Nov 2025 14:08:46 +0900</pubDate>
+      <guid>https://kaikunze.de/post/2025-11.18-cuddle-fish/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://kaikunze.de/css/hugo-easy-gallery.css&#34; /&gt;&#xA;&lt;div class=&#34;box&#34; &gt;&#xA;  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;    &lt;div class=&#34;img&#34;&gt;&#xA;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://kaikunze.de/images/robot_overview.jpg&#34; alt=&#34;/images/robot_overview.jpg&#34;/&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;a href=&#34;https://kaikunze.de/images/robot_overview.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;&#xA;      &lt;figcaption&gt;&lt;h4&gt;A picture of the robot prototype Cuddle Fish&lt;/h4&gt;&#xA;      &lt;/figcaption&gt;&#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Flying robots are becoming more and more common. Yet, they also come with safety concerns. Quadrocopter drones, the most popular type, have fast-spinning propellers. Their rigid structures and loud noise levels make them unsuitable for close-range human interaction. Yet, can we design flying robots that people can safely touch and interact with?&lt;/p&gt;&#xA;&lt;p&gt;Our recent work, lead by Mingyang Xu, introduces Cuddle-Fish, a soft floating robot that takes a different approach to aerial robotics.  Instead of using propellers, the robot combines a helium-filled soft body with low-frequency flapping wings inspired by animal movement. It&amp;rsquo;s also the first of its kind that fits in normal indoor environments (like appartments and homes). Its design eliminates the danger of spinning blades while maintaining the ability to move through indoor spaces.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>HCI Deep Dive</title>
       <link>https://kaikunze.de/post/2024-10-20-hci-deep-dive/</link>
