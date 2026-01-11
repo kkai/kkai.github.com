@@ -1,0 +1,45 @@
+/* Custom accessibility improvements for kaikunze.de */
+
+/* Improve link visibility and contrast in blog post content */
+.blog-post p a,
+.blog-post li a,
+.post-entry p a,
+.post-entry li a,
+article p a,
+article li a {
+  /* Add underline to distinguish links from surrounding text */
+  text-decoration: underline;
+
+  /* Use a darker blue for better contrast ratio (meets WCAG AA 4.5:1) */
+  color: #0066CC;
+
+  /* Slightly bolder font weight for better visibility */
+  font-weight: 500;
+}
+
+/* Maintain underline on hover/focus and darken color */
+.blog-post p a:hover,
+.blog-post li a:hover,
+.post-entry p a:hover,
+.post-entry li a:hover,
+article p a:hover,
+article li a:hover,
+.blog-post p a:focus,
+.blog-post li a:focus,
+.post-entry p a:focus,
+.post-entry li a:focus,
+article p a:focus,
+article li a:focus {
+  text-decoration: underline;
+  color: #004080;
+}
+
+/* Ensure sufficient contrast for general links */
+a {
+  color: #0066CC;
+}
+
+a:hover,
+a:focus {
+  color: #004080;
+}
