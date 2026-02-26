@@ -220,6 +220,120 @@
         <div class="posts-list">
           
             <article class="post-preview">
+    <a href="https://kaikunze.de/2013/12/22/hacking-glass/">
+        <h2 class="post-title">Hacking Glass</h2>
+        
+        
+        
+    </a>
+
+    <p class="post-meta">
+        <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;
+  
+  
+    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;3&nbsp;minutes
+  
+  
+    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;431&nbsp;words
+  
+  
+  
+</span>
+
+
+    </p>
+    <div class="post-entry">
+        
+        <p class="lead">
+So I got my hands on another Glass device and can now
+play with it a bit longer.
+</p>
+<p>Disclaimer: Rooting and flashing your device voids your warranty and can brick your Glass. Also you won&rsquo;t receive OTA updates afterwards.
+This is not an instruction manual. I just use it as
+a scratch pad to give a record what I did and
+what worked for me. The commands below will erase all data on your device. Proceed at your own risk.</p>
+<p>##Rooting and Flashing Images##
+To get root follow the instructions from Google.
+Unfortunately, the fastboot under Mac OS does not work.
+I could use a virtual machine on my Mac with ubuntu
+to get root and flash images.</p>
+<pre><code>adb devices
+adb reboot-bootloader
+fastboot devices
+
+fastboot oem unlock
+</code></pre>
+<p>I needed to execute the last command twice. The first time
+it just asked me if I was sure if I want to void my
+warranty etc.</p>
+<p>Next I flashed the boot image from the <a href="">Glass developer page</a>.</p>
+<pre><code>fastboot flash boot boot.img
+fastboot reboot
+adb root
+adb shell
+</code></pre>
+<p>If you want to update to a new OTA (in my case XE12) and
+rooted your device,
+you can download the zip with all necessary images from
+Google. It&rsquo;s cool that they support rooting and
+flashing (even if it voids your warranty).</p>
+<pre><code>fastboot flash boot boot.img
+fastboot flash system system.img
+fastboot flash recovery recovery.img
+fastboot flash userdata userdata.img
+fastboot erase cache
+</code></pre>
+<p>##Reading out the Proximity Sensor##
+I&rsquo;m most interested in accessing the proximity
+sensor facing the eye. So thanks to Philip Scholl&rsquo;s and
+Shoya&rsquo;s help, I was able to do it.
+The device is under</p>
+<pre><code>adb root
+adb shell
+&gt; cat /sys/bus/i2c/devices/4-0035/proxraw
+</code></pre>
+<p>Gives back one raw proximity value from
+the sensor. Unfortunately without timestamp.
+If you want to read out the proximity
+data from Android Apps etc. you need to change
+the access rights.</p>
+<pre><code>&gt;chmod 664 /sys/bus/i2c/devices/4-0035/proxraw
+</code></pre>
+<p>##Privacy Enhancement##</p>
+<p>As I will be visiting the <a href="">Chaos Communication Congress</a>
+next weekend, I wanted to &ldquo;privacy enhance&rdquo; GLASS
+for the event. I want to wear Glass but don&rsquo;t
+really need the camera functionality.</p>
+<p>So I used my <a href="http://www.the3doodler.com">3Doodler</a> to make a simple attachment to block the camera of.</p>
+<p><img src="/imgs/doodler.jpg" alt="Doodler"></p>
+<p>The tricky part is that the light sensor for adjusting
+screen brightness is directly under the camera.
+If it&rsquo;s blocked the screen will be very dark.
+Here&rsquo;s the &ldquo;privacy enhanced&rdquo; Google Glass version.</p>
+<p><img src="/imgs/glass_p.jpg" alt="Glass Enhanced"></p>
+<p>and a picture taken by it. It&rsquo;s not completely black
+due to the issue with the light sensor, yet I
+think it&rsquo;s a start ;)</p>
+<p><img src="/imgs/glass_p2.jpg" alt="Glass Enhanced"></p>
+<p>Here is the very <a href="/files/glass.stencil.pdf">basic stencil</a> I used to build the attachment.</p>
+
+        
+    </div>
+
+    
+    <div class="blog-tags">
+        
+        <a href="https://kaikunze.de//tags/glass/">glass</a>&nbsp;
+        
+    </div>
+    
+
+</article>
+          
+            <article class="post-preview">
     <a href="https://kaikunze.de/2013/11/29/bits-and-bytes-instead-of-a-book-shelf/">
         <h2 class="post-title">Bits and Bytes instead of a Bookshelf</h2>
         
@@ -833,56 +947,6 @@ Drop by my poster if you&rsquo;re around (or try to spot me, I&rsquo;m wearing t
         <a href="https://kaikunze.de//tags/research/">research</a>&nbsp;
         
         <a href="https://kaikunze.de//tags/poster/">poster</a>&nbsp;
-        
-    </div>
-    
-
-</article>
-          
-            <article class="post-preview">
-    <a href="https://kaikunze.de/2013/04/24/ar-dagstuhl-report-online/">
-        <h2 class="post-title">Activity Recognition Dagstuhl Report Online</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;
-  
-  
-    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;1&nbsp;minutes
-  
-  
-    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;166&nbsp;words
-  
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        <p>If you wonder how we spent German tax money, the summary of the
-Activity Recognition Dagstuhl seminar is now online.</p>
-<p><a href="http://drops.dagstuhl.de/opus/volltexte/2013/3987/">Human Activity Recognition in Smart Environments (Dagstuhl Seminar 12492)</a></p>
-<hr>
-<p>Here&rsquo;s the abstract:</p>
-<p>This report documents the program and the outcomes of Dagstuhl Seminar 12492 &ldquo;Human Activity Recognition in Smart Environments&rdquo;. We established the basis for a scientific community surrounding &ldquo;activity recognition&rdquo; by involving researchers from a broad range of related research fields. 30 academic and industry researchers from US, Europe and Asia participated from diverse fields including pervasive computing, over network analysis and computer vision to human computer interaction. The major results of this Seminar are the creation of a activity recognition repository to share information, code, publications and the start of an activity recognition book aimed to serve as a scientific introduction to the field. In the following, we go into more detail about the structure of the seminar, discuss the major outcomes and give an overview about discussions and talks given during the seminar.</p>
-
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://kaikunze.de//tags/dagstuhl/">dagstuhl</a>&nbsp;
-        
-        <a href="https://kaikunze.de//tags/research/">research</a>&nbsp;
         
     </div>
     

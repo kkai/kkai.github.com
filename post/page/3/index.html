@@ -220,6 +220,60 @@
         <div class="posts-list">
           
             <article class="post-preview">
+    <a href="https://kaikunze.de/2015/02/09/31c3-talk-slides-eye-wear-computing/">
+        <h2 class="post-title">31C3 Talk Slides: Eye Wear Computing</h2>
+        
+        
+        
+    </a>
+
+    <p class="post-meta">
+        <span class="post-meta">
+  
+  
+  <i class="fas fa-calendar"></i>&nbsp;
+  
+  
+    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;1&nbsp;minutes
+  
+  
+    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;150&nbsp;words
+  
+  
+  
+</span>
+
+
+    </p>
+    <div class="post-entry">
+        
+        <p class="lead">Here are the video and slides 
+from my talk. Hope you like it. Please
+if you have some critique write me a mail.</p>
+<p>I got tremendous, positive feedback. Thanks a lot!
+Even Heise had a news post about it.
+<a href="http://www.heise.de/newsticker/meldung/31C3-Mit-smarten-Brillen-das-Gehirn-ausforschen-2507482.html">http://www.heise.de/newsticker/meldung/31C3-Mit-smarten-Brillen-das-Gehirn-ausforschen-2507482.html</a>
+(Although I cannot and don&rsquo;t want to read your thoughts, as the article implies ;-) ).</p>
+<p>Video on Youtube:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aWO8aejiRnA" frameborder="0" allowfullscreen> </iframe>
+<p>Slides on Speakerdeck:</p>
+<script async class="speakerdeck-embed" data-id="f75c69a07f4c01328d155ab31af9093f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"> </script>
+<p>I got mixed some feedback on twitter. Some people
+mentioned that I&rsquo;m working on spy wear helping
+the surveillance state&hellip; I believe that
+the research I do is necessary to be out in the
+open for the society to discuss the merits
+and problems. I want to make sure that we can maximise the benefit for the individual for the tech I develop and minimize abuse from military, companies and governments. Please contact me
+if you want to discuss privacy issues or found concrete problems with my work.</p>
+
+        
+    </div>
+
+    
+
+</article>
+          
+            <article class="post-preview">
     <a href="https://kaikunze.de/2015/01/17/31c3-aftermath/">
         <h2 class="post-title">31C3 Aftermath</h2>
         
@@ -805,120 +859,6 @@ the talk</a>.</p>
         
     </div>
 
-    
-
-</article>
-          
-            <article class="post-preview">
-    <a href="https://kaikunze.de/2013/12/22/hacking-glass/">
-        <h2 class="post-title">Hacking Glass</h2>
-        
-        
-        
-    </a>
-
-    <p class="post-meta">
-        <span class="post-meta">
-  
-  
-  <i class="fas fa-calendar"></i>&nbsp;
-  
-  
-    &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;3&nbsp;minutes
-  
-  
-    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;431&nbsp;words
-  
-  
-  
-</span>
-
-
-    </p>
-    <div class="post-entry">
-        
-        <p class="lead">
-So I got my hands on another Glass device and can now
-play with it a bit longer.
-</p>
-<p>Disclaimer: Rooting and flashing your device voids your warranty and can brick your Glass. Also you won&rsquo;t receive OTA updates afterwards.
-This is not an instruction manual. I just use it as
-a scratch pad to give a record what I did and
-what worked for me. The commands below will erase all data on your device. Proceed at your own risk.</p>
-<p>##Rooting and Flashing Images##
-To get root follow the instructions from Google.
-Unfortunately, the fastboot under Mac OS does not work.
-I could use a virtual machine on my Mac with ubuntu
-to get root and flash images.</p>
-<pre><code>adb devices
-adb reboot-bootloader
-fastboot devices
-
-fastboot oem unlock
-</code></pre>
-<p>I needed to execute the last command twice. The first time
-it just asked me if I was sure if I want to void my
-warranty etc.</p>
-<p>Next I flashed the boot image from the <a href="">Glass developer page</a>.</p>
-<pre><code>fastboot flash boot boot.img
-fastboot reboot
-adb root
-adb shell
-</code></pre>
-<p>If you want to update to a new OTA (in my case XE12) and
-rooted your device,
-you can download the zip with all necessary images from
-Google. It&rsquo;s cool that they support rooting and
-flashing (even if it voids your warranty).</p>
-<pre><code>fastboot flash boot boot.img
-fastboot flash system system.img
-fastboot flash recovery recovery.img
-fastboot flash userdata userdata.img
-fastboot erase cache
-</code></pre>
-<p>##Reading out the Proximity Sensor##
-I&rsquo;m most interested in accessing the proximity
-sensor facing the eye. So thanks to Philip Scholl&rsquo;s and
-Shoya&rsquo;s help, I was able to do it.
-The device is under</p>
-<pre><code>adb root
-adb shell
-&gt; cat /sys/bus/i2c/devices/4-0035/proxraw
-</code></pre>
-<p>Gives back one raw proximity value from
-the sensor. Unfortunately without timestamp.
-If you want to read out the proximity
-data from Android Apps etc. you need to change
-the access rights.</p>
-<pre><code>&gt;chmod 664 /sys/bus/i2c/devices/4-0035/proxraw
-</code></pre>
-<p>##Privacy Enhancement##</p>
-<p>As I will be visiting the <a href="">Chaos Communication Congress</a>
-next weekend, I wanted to &ldquo;privacy enhance&rdquo; GLASS
-for the event. I want to wear Glass but don&rsquo;t
-really need the camera functionality.</p>
-<p>So I used my <a href="http://www.the3doodler.com">3Doodler</a> to make a simple attachment to block the camera of.</p>
-<p><img src="/imgs/doodler.jpg" alt="Doodler"></p>
-<p>The tricky part is that the light sensor for adjusting
-screen brightness is directly under the camera.
-If it&rsquo;s blocked the screen will be very dark.
-Here&rsquo;s the &ldquo;privacy enhanced&rdquo; Google Glass version.</p>
-<p><img src="/imgs/glass_p.jpg" alt="Glass Enhanced"></p>
-<p>and a picture taken by it. It&rsquo;s not completely black
-due to the issue with the light sensor, yet I
-think it&rsquo;s a start ;)</p>
-<p><img src="/imgs/glass_p2.jpg" alt="Glass Enhanced"></p>
-<p>Here is the very <a href="/files/glass.stencil.pdf">basic stencil</a> I used to build the attachment.</p>
-
-        
-    </div>
-
-    
-    <div class="blog-tags">
-        
-        <a href="https://kaikunze.de//tags/glass/">glass</a>&nbsp;
-        
-    </div>
     
 
 </article>
