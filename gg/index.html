@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DFG Großgeräte — Robotics / HCI benchmark</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    #gate{position:fixed;inset:0;z-index:9999;display:flex;align-items:center;justify-content:center;
+      background:#fff;font-family:system-ui,-apple-system,sans-serif}
+    #gate .box{max-width:320px;width:90%;text-align:center}
+    #gate h2{margin:0 0 .75rem;font-size:1.1rem;font-weight:600}
+    #gate input{width:100%;padding:.55rem .6rem;font-size:1rem;border:1px solid #999;
+      border-radius:6px;box-sizing:border-box}
+    #gate button{margin-top:.6rem;padding:.5rem 1.1rem;font-size:1rem;cursor:pointer;
+      border:1px solid #555;border-radius:6px;background:#f3f3f3}
+    #gate .err{color:#b00;font-size:.85rem;min-height:1.1em;margin-top:.5rem}
+    html.gg-locked body{overflow:hidden}
+    html.gg-locked #app{display:none}
+  </style>
+  <script>
+    if (sessionStorage.getItem("gg_auth") !== "1") {
+      document.documentElement.className += " gg-locked";
+    }
+  </script>
+</head>
+<body>
+  <div id="gate">
+    <div class="box">
+      <h2>Protected page</h2>
+      <input id="gate-pw" type="password" placeholder="Password" autocomplete="off" />
+      <button id="gate-go" type="button">Enter</button>
+      <div class="err" id="gate-err"></div>
+    </div>
+  </div>
+  <div id="app">
+  <header>
+    <h1>DFG Großgeräte — Robotics / HCI / Lab-automation benchmark</h1>
+    <p class="lede">
+      Publicly funded <strong>Forschungsgroßgeräte</strong> (Art. 91b GG) instruments in robotics,
+      human–machine interaction and lab automation, <strong>2021–2026</strong>, harvested from
+      <a href="https://gepris.dfg.de" target="_blank" rel="noopener">GEPRIS</a>.
+      Use as a benchmark of what kind of instrument gets a positive DFG review.
+    </p>
+    <p class="note">
+      ⓘ Full application texts (<em>Anträge</em>) are confidential and not public. This shows the
+      public project record only: title, institution, subject area, programme, year, device group
+      and abstract. The state-funded “Großgeräte der Länder” programme is <em>not</em> in GEPRIS
+      (DFG only reviews it); “Forschungsgroßgeräte” is the closest public proxy and uses
+      near-identical review criteria.
+    </p>
+  </header>
+
+  <section class="controls">
+    <input type="search" id="q" placeholder="Full-text search title + abstract…" />
+    <select id="category"><option value="">All categories</option></select>
+    <select id="programme"><option value="">All programmes</option></select>
+    <select id="year"><option value="">All years</option></select>
+    <select id="institution"><option value="">All institutions</option></select>
+    <button id="reset" type="button">Reset</button>
+  </section>
+
+  <p id="summary" class="summary"></p>
+
+  <table id="grid">
+    <thead>
+      <tr>
+        <th data-key="year" class="sortable num">Year</th>
+        <th data-key="title" class="sortable">Instrument / project</th>
+        <th data-key="institution" class="sortable">Institution</th>
+        <th data-key="subject_area" class="sortable">Subject area</th>
+        <th data-key="categories" class="sortable">Category</th>
+        <th data-key="programme" class="sortable">Programme</th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+
+  <footer>
+    <p>Dataset: <code>data/projects.json</code> · regenerate with
+      <code>02_gepris_benchmark/scrape_gepris.py</code>. Retrieved 2026-06-20.</p>
+  </footer>
+  </div>
+
+  <script>
+    (function () {
+      var gate = document.getElementById("gate");
+      if (sessionStorage.getItem("gg_auth") === "1") { gate.remove(); return; }
+      var pw = document.getElementById("gate-pw");
+      var go = document.getElementById("gate-go");
+      var err = document.getElementById("gate-err");
+      function tryUnlock() {
+        if (pw.value === "hri") {
+          sessionStorage.setItem("gg_auth", "1");
+          document.documentElement.className =
+            document.documentElement.className.replace(/\bgg-locked\b/, "");
+          gate.remove();
+        } else {
+          err.textContent = "Wrong password";
+          pw.value = ""; pw.focus();
+        }
+      }
+      go.addEventListener("click", tryUnlock);
+      pw.addEventListener("keydown", function (e) { if (e.key === "Enter") tryUnlock(); });
+      pw.focus();
+    })();
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>

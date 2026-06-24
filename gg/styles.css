@@ -1,0 +1,51 @@
+:root {
+  --fg: #1a1a1a; --muted: #666; --line: #e2e2e2; --accent: #00659f; --bg-alt: #f7f9fb;
+  --robotics: #d6e8ff; --hci: #e6dcff; --lab_automation: #d8f5e3;
+}
+* { box-sizing: border-box; }
+body {
+  font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: var(--fg); margin: 0; padding: 0 24px 60px; max-width: 1280px; margin: 0 auto;
+}
+header { padding: 24px 0 8px; }
+h1 { font-size: 22px; margin: 0 0 6px; }
+.lede { margin: 4px 0; color: var(--fg); }
+.note {
+  background: var(--bg-alt); border: 1px solid var(--line); border-left: 3px solid var(--accent);
+  padding: 10px 14px; border-radius: 6px; color: var(--muted); font-size: 13.5px;
+}
+a { color: var(--accent); }
+
+.controls { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 8px; }
+.controls input[type=search] { flex: 1 1 260px; min-width: 200px; }
+.controls input, .controls select, .controls button {
+  font-size: 14px; padding: 7px 10px; border: 1px solid var(--line); border-radius: 6px; background: #fff;
+}
+.controls button { cursor: pointer; }
+.controls button:hover { background: var(--bg-alt); }
+
+.summary { color: var(--muted); font-size: 13px; margin: 6px 2px; }
+
+table { width: 100%; border-collapse: collapse; font-size: 14px; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+thead th { position: sticky; top: 0; background: #fff; border-bottom: 2px solid var(--line); white-space: nowrap; }
+th.sortable { cursor: pointer; user-select: none; }
+th.sortable:hover { color: var(--accent); }
+th.num { text-align: right; }
+td.num { text-align: right; font-variant-numeric: tabular-nums; }
+th .arrow { color: var(--accent); font-size: 11px; }
+
+tbody tr.main { cursor: pointer; }
+tbody tr.main:hover { background: var(--bg-alt); }
+tbody tr.detail td { background: var(--bg-alt); color: #333; }
+.detail .abstract { max-width: 980px; }
+.detail .meta { color: var(--muted); font-size: 13px; margin-top: 8px; }
+.detail .meta a { font-weight: 600; }
+
+.tag { display: inline-block; padding: 1px 7px; border-radius: 10px; font-size: 12px; margin-right: 4px; white-space: nowrap; }
+.tag.robotics { background: var(--robotics); }
+.tag.hci { background: var(--hci); }
+.tag.lab_automation { background: var(--lab_automation); }
+.title-cell { font-weight: 600; }
+footer { margin-top: 30px; color: var(--muted); font-size: 12.5px; border-top: 1px solid var(--line); padding-top: 12px; }
+code { background: var(--bg-alt); padding: 1px 5px; border-radius: 4px; font-size: 12.5px; }
