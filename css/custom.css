@@ -43,3 +43,68 @@ a:hover,
 a:focus {
   color: #004080;
 }
+
+/* Imprint / privacy links below the footer (layouts/partials/footer_custom.html) */
+.legal-links {
+  font-size: 14px;
+  margin: 0;
+  padding: 0 0 20px;
+}
+
+/* Keep the ASCII-art imprint box on one line per row; scroll sideways on small screens */
+pre code.language-text {
+  white-space: pre;
+  line-height: 1.2;
+}
+
+/* Old posts put two images in one paragraph; show them side by side at a
+   matching size instead of stacked at full width */
+article p:has(> img + img),
+article p:has(> a > img):has(> img) {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+article p:has(> img + img) > img,
+article p:has(> a > img):has(> img) > img,
+article p:has(> a > img):has(> img) > a > img {
+  margin: 0;
+  width: auto;
+  height: auto;
+  max-width: calc(50% - 6px);
+  max-height: 340px;
+}
+
+article p:has(> a > img):has(> img) > a {
+  max-width: calc(50% - 6px);
+}
+
+article p:has(> a > img):has(> img) > a > img {
+  max-width: 100%;
+}
+
+/* A single image never grows taller than the window */
+article p > img:only-child {
+  width: auto;
+  height: auto;
+  max-height: 80vh;
+}
+
+/* Fixed-width video embeds in old posts must not overflow small screens */
+article iframe {
+  max-width: 100%;
+}
+
+article iframe[src*="youtube"],
+article iframe[src*="vimeo"] {
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
+/* Long URLs used as link text wrap instead of widening the page */
+article a {
+  overflow-wrap: anywhere;
+}
